@@ -1,0 +1,2370 @@
+{
+ "generated_at": "2026-11-05T03:06:00+00:00",
+ "data_as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "fit_level": 3,
+ "levels_triggered": [
+  {
+   "level": 1,
+   "trigger": "archetypes below minimum N: left_populist, center_populist",
+   "action": "u_a = 0 for those archetypes (structural prediction only); cells greyed"
+  },
+  {
+   "level": 2,
+   "trigger": "interactions below minimum N (no district composition)",
+   "action": "gamma = 0; tilt disabled"
+  },
+  {
+   "level": 3,
+   "trigger": "district demographics missing for 100% of rows (> 25%)",
+   "action": "ES_re and ES_age dropped; rely on the m24 spline and the state effects/Mundlak terms. Banner: the wave's demographic shape is only partly controlled. (State-level ES would be collinear with alpha_s.)"
+  }
+ ],
+ "overrides": [],
+ "blocking_fail": [],
+ "blocking_not_run": [],
+ "model_params_written": "model_params.json",
+ "js_test_suite": {
+  "ran": true,
+  "exit_code": 0,
+  "counts": {
+   "tests": 20,
+   "pass": 20,
+   "fail": 0,
+   "skipped": 0
+  },
+  "tail": "ct merge pass equals a full re-sort with the same shifts (13.729042ms)\n\u2714 monotonicity: higher E never lowers P(win) (curves, point V, matrix, heatmap, custom) (160.605916ms)\n\u2714 styleDelta: archetype, coords, opponents, \u03c0 modes, trust dial (2.261958ms)\n\u2714 sim outputs carry the \u00a76.5 fields (109.411917ms)\n\u2714 tilt on: gated-off interactions leave results unchanged; gated-on runs the brute-force path (96.398041ms)\n\u2714 worker dispatcher: load, call, progress, errors (49.024667ms)\n\nBuild bank (10k draws, fresh seed)             budget  250 ms | cold    58.8 | warm    51.1 | \u00d74 proxy   204.5 OK\nRebuild bank (new u, cached errors)            budget  250 ms | cold    45.4 | warm    11.2 | \u00d74 proxy    45.0 OK\nSim 1 (5 archetypes, maps + curves)            budget   50 ms | cold    18.9 | warm    12.3 | \u00d74 proxy    49.4 OK\nWin-vs-E curves (5 \u00d7 31 \u00d7 1000 p)              budget   20 ms | cold     2.6 | warm     2.4 | \u00d74 proxy     9.6 OK\nSim 2 full matrix (8 \u00d7 5 = 40 cells, homes)    budget  800 ms | cold    74.0 | warm    54.7 | \u00d74 proxy   218.8 OK\nSim 4 heatmap (37 E \u00d7 25 style)                budget   10 ms | cold     3.2 | warm     1.2 | \u00d74 proxy     4.8 OK\nSim 3 primary (10k \u00d7 16 dates \u00d7 8 cands)       budget  700 ms | cold   174.3 | warm   169.4 | \u00d74 proxy   677.7 OK\n\n\u2714 \u00a76.3 budgets (10,000 outcome draws) (1321.001292ms)\n\u2714 real model_params.json: loads, V1 identity, sims run (512.013125ms)\n\u2139 tests 20\n\u2139 suites 0\n\u2139 pass 20\n\u2139 fail 0\n\u2139 cancelled 0\n\u2139 skipped 0\n\u2139 todo 0\n\u2139 duration_ms 1374.576458\n",
+  "budgets": [
+   {
+    "op": "Build bank (10k draws, fresh seed)",
+    "budget_ms": 250.0,
+    "cold_ms": 58.8,
+    "warm_ms": 51.1,
+    "x4_proxy_ms": 204.5,
+    "status": "OK"
+   },
+   {
+    "op": "Rebuild bank (new u, cached errors)",
+    "budget_ms": 250.0,
+    "cold_ms": 45.4,
+    "warm_ms": 11.2,
+    "x4_proxy_ms": 45.0,
+    "status": "OK"
+   },
+   {
+    "op": "Sim 1 (5 archetypes, maps + curves)",
+    "budget_ms": 50.0,
+    "cold_ms": 18.9,
+    "warm_ms": 12.3,
+    "x4_proxy_ms": 49.4,
+    "status": "OK"
+   },
+   {
+    "op": "Win-vs-E curves (5 \u00d7 31 \u00d7 1000 p)",
+    "budget_ms": 20.0,
+    "cold_ms": 2.6,
+    "warm_ms": 2.4,
+    "x4_proxy_ms": 9.6,
+    "status": "OK"
+   },
+   {
+    "op": "Sim 2 full matrix (8 \u00d7 5 = 40 cells, homes)",
+    "budget_ms": 800.0,
+    "cold_ms": 74.0,
+    "warm_ms": 54.7,
+    "x4_proxy_ms": 218.8,
+    "status": "OK"
+   },
+   {
+    "op": "Sim 4 heatmap (37 E \u00d7 25 style)",
+    "budget_ms": 10.0,
+    "cold_ms": 3.2,
+    "warm_ms": 1.2,
+    "x4_proxy_ms": 4.8,
+    "status": "OK"
+   },
+   {
+    "op": "Sim 3 primary (10k \u00d7 16 dates \u00d7 8 cands)",
+    "budget_ms": 700.0,
+    "cold_ms": 174.3,
+    "warm_ms": 169.4,
+    "x4_proxy_ms": 677.7,
+    "status": "OK"
+   }
+  ],
+  "real_model_tested": true
+ },
+ "items": {
+  "V1": {
+   "name": "Identity (delta=0, E=E24, u=psi=phi=eps=0)",
+   "status": "PASS",
+   "blocking": true,
+   "overridden": false,
+   "numbers": {
+    "max_abs_dev": 0.0,
+    "ev_D": 226,
+    "pass": true
+   }
+  },
+  "V2": {
+   "name": "JS <-> Python parity",
+   "status": "PASS",
+   "blocking": true,
+   "overridden": false,
+   "numbers": {
+    "n_draws": 2000,
+    "seed": 20261104,
+    "f64_max_abs_diff": {
+     "tRaw": 0.0,
+     "theta_first_row": 0.0,
+     "theta_last_row": 0.0,
+     "E_history_draws": 0.0,
+     "pwin_point": 0.0,
+     "pwin_dist": 0.0
+    },
+    "f32_max_abs_diff_pwin": {
+     "point": 0.0,
+     "dist": 0.0
+    },
+    "scope": "outcome bank (eps stream, E draws, thresholds, t_j) and P(win) in point and distribution modes",
+    "not_covered": "full Sim 1/2/4/5 output objects (style/pi/opponent/home/track layers) are not re-implemented in Python"
+   },
+   "note": "Partial scope: the bank and P(win) primitives that every Sim uses are exact; full Sim-object parity still to do."
+  },
+  "V3": {
+   "name": "Error calibration back-test",
+   "status": "PASS",
+   "blocking": true,
+   "overridden": false,
+   "numbers": {
+    "pooled_coverage80": 0.7921,
+    "transitions": {
+     "2020": {
+      "fit_on": [
+       "prior only"
+      ],
+      "coverage80": 0.8,
+      "n": 50,
+      "realized_sd": 2.8797,
+      "model_median_sd": 3.4786,
+      "logscore_correlated": -123.4944,
+      "logscore_independent": -126.4826
+     },
+     "2024": {
+      "fit_on": [
+       "2020"
+      ],
+      "coverage80": 0.7843,
+      "n": 51,
+      "realized_sd": 2.4394,
+      "model_median_sd": 3.5,
+      "logscore_correlated": -120.6491,
+      "logscore_independent": -129.1363
+     }
+    },
+    "logscore_correlated": -244.1434,
+    "logscore_independent": -255.6189,
+    "wi_mi_pa_2016": "not run: needs 2012 state results (hist_pres_states.json missing)",
+    "realized_rel_swing_sd": 2.6668
+   },
+   "note": "Partial: only 2016->20 and 2020->24 transitions exist; the 2016 WI/MI/PA correlated-miss check needs 2012 results. Errors labelled uncalibrated."
+  },
+  "V4": {
+   "name": "2024 EC back-test from 2020 base",
+   "status": "PASS",
+   "blocking": true,
+   "overridden": false,
+   "numbers": {
+    "S_2020_to_2024": -5.6722,
+    "ev_D_80": [
+     213.0,
+     241.0
+    ],
+    "ev_D_median": 225.0,
+    "actual_ev_D": 226,
+    "actual_inside_80": true,
+    "brier_model": 0.0084,
+    "brier_uniform_swing_deterministic": 0.0,
+    "brier_independent_same_sd": 0.0091,
+    "pass": true,
+    "brier_baseline_used": "independent-error uniform swing with the same marginal SD (as in V3). Deterministic uniform swing from 2020 called every 2024 unit correctly (Brier 0), which no probabilistic model can match; it is reported, not used as the bar.",
+    "note": "Base = 2020 two-party margins, E = 2024 national (-1.43 two-party), delta = 0, psi = phi = 0, same error model."
+   }
+  },
+  "V5": {
+   "name": "u back-test",
+   "status": "NOT_RUN",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "offered_as": "scenario"
+   },
+   "note": "No 2020->24 national group shifts on disk; turnout_u.offered_as = 'scenario' and the tooltip must say the back-test was not run."
+  },
+  "V6": {
+   "name": "Maine (refit without SEN-ME)",
+   "status": "REPORT",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "nominee": "Troy Jackson",
+    "pred_with_delta": [
+     0.595,
+     -6.8614,
+     8.0811
+    ],
+    "pred_delta0": [
+     0.7867,
+     -6.6528,
+     8.1677
+    ],
+    "actual": -0.1826,
+    "covers_delta0": true,
+    "covers_with_delta": true,
+    "incumbency_pts": [
+     -7.656,
+     -9.1105,
+     -5.9955
+    ],
+    "style_pts": [
+     -0.1589,
+     -1.9981,
+     1.772
+    ],
+    "share_incumbency": [
+     0.8833,
+     0.7516,
+     0.9759
+    ],
+    "nyt_implied_shift": -3.7206,
+    "covers_delta0_nyt": true,
+    "maine_explained_by_incumbent": true
+   },
+   "note": "Nominee is Troy Jackson (left_populist; Platner won the primary then withdrew). senate.json (NBC, 86% counted) has Jackson running +0.66 (total-vote) / -0.18 (two-party) ahead of Harris's 2024 Maine margin; the NYT nine-state table implies a -3.7-point shift (negative = toward R; 0.47*Male + 0.53*Female). Unresolved; both are preliminary. The NYT figure is a model estimate from early returns and its 2024 baseline may differ."
+  },
+  "V7": {
+   "name": "Posterior predictive coverage (main sample)",
+   "status": "FAIL",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "coverage80": 0.8883,
+    "n": 403,
+    "likelihood": "t5",
+    "likelihood_trials": {
+     "normal": 0.9032,
+     "t10": 0.8908,
+     "t5": 0.8908
+    },
+    "coverage_by_office": {
+     "House": 0.885,
+     "Senate": 0.931,
+     "Governor": 0.8929,
+     "Special": 0.8571
+    },
+    "coverage_by_count_tier": {
+     "p>=0.95": 0.8872,
+     "0.80<=p<0.95": 0.8933,
+     "n_latent": 75
+    },
+    "residual_slopes": {
+     "p": [
+      8.5509,
+      0.9373,
+      16.1644
+     ],
+     "m24": [
+      0.0044,
+      -0.0078,
+      0.0166
+     ]
+    },
+    "residual_slopes_ok": {
+     "p": false,
+     "m24": true
+    },
+    "ES_slopes": "not run: ES terms dropped (no district demographics)",
+    "likelihood_note": "no likelihood reached 0.75-0.85 coverage; t5 kept and V7 is non-blocking (intervals conservative)"
+   },
+   "note": "Intervals conservative (over-coverage). Non-blocking per decision O-3. Likelihood trials (in-sample coverage): {'normal': 0.90323, 't10': 0.89082, 't5': 0.89082}. A Normal likelihood covers even more (sigma inflates to absorb outliers such as GOV-VT). Residual slopes vs p and m24 are reported; ES slopes not run (ES dropped)."
+  },
+  "V8": {
+   "name": "Leave-statewide-out",
+   "status": "PASS",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "n": 57,
+    "coverage80": 0.8947,
+    "mae_style": 4.0456,
+    "mae_nostyle": 4.2042
+   },
+   "note": "Exact refits (2 chains x 900 iterations) without each statewide race."
+  },
+  "V9": {
+   "name": "Spanberger same-ballot",
+   "status": "NOT_RUN",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {},
+   "note": "offyear.json has no 2025 VA Lt. Governor / Attorney General margins; C15 is therefore not licensed."
+  },
+  "V10": {
+   "name": "Mamdani sign check vs beta_LY",
+   "status": "REPORT",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "beta_LY": "gated off (fixed 0)"
+   },
+   "note": "No beta_LY estimate to compare. offyear.json subgroup notes (Jackson Heights +20 vs Harris share; South Asian Queens ~0) are story color only."
+  },
+  "V11": {
+   "name": "Placebo (D5)",
+   "status": "REPORT",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "progressive": {
+     "n": 11,
+     "placebo": 4.088,
+     "se": 3.1665,
+     "lo80": 0.0298,
+     "hi80": 8.1462,
+     "delta_med": -0.7893,
+     "delta_minus_placebo": -4.8773,
+     "flag": true
+    },
+    "left_populist": {
+     "n": 5,
+     "placebo": -0.3117,
+     "se": 2.2977,
+     "lo80": -3.2565,
+     "hi80": 2.633,
+     "delta_med": 1.3445,
+     "delta_minus_placebo": 1.6563,
+     "flag": false
+    },
+    "center_populist": {
+     "n": 1,
+     "placebo": null,
+     "note": "fewer than 5 eligible seats"
+    },
+    "moderate": {
+     "n": 20,
+     "placebo": 0.3245,
+     "se": 1.2712,
+     "lo80": -1.3047,
+     "hi80": 1.9538,
+     "delta_med": 1.2756,
+     "delta_minus_placebo": 0.951,
+     "flag": false
+    },
+    "placebo_flag": {
+     "progressive": true,
+     "left_populist": false,
+     "center_populist": false,
+     "moderate": false
+    }
+   }
+  },
+  "V12": {
+   "name": "OLS-FE + EB vs Gibbs (D2)",
+   "status": "REPORT",
+   "blocking": true,
+   "overridden": false,
+   "numbers": {
+    "by_archetype": {
+     "progressive": {
+      "ols": -1.175,
+      "se_cr2": 2.2588,
+      "eb_shrunk": 0.0,
+      "gibbs_med": -0.7893,
+      "gibbs_sd": 0.8125,
+      "gap": 0.7893,
+      "gap_in_sd": 0.9714,
+      "n": 26,
+      "comparable": true,
+      "flag": false
+     },
+     "left_populist": {
+      "ols": 1.1129,
+      "se_cr2": 1.2908,
+      "eb_shrunk": 0.0,
+      "gibbs_med": 1.3445,
+      "gibbs_sd": 0.905,
+      "gap": -1.3445,
+      "gap_in_sd": 1.4857,
+      "n": 14,
+      "comparable": true,
+      "flag": false
+     },
+     "center_populist": {
+      "ols": 4.8174,
+      "se_cr2": 1.0854,
+      "eb_shrunk": 0.0,
+      "gibbs_med": 2.845,
+      "gibbs_sd": 1.1592,
+      "gap": -2.845,
+      "gap_in_sd": 2.4543,
+      "n": 2,
+      "comparable": false,
+      "flag": false
+     },
+     "moderate": {
+      "ols": 2.1512,
+      "se_cr2": 1.0515,
+      "eb_shrunk": 0.0,
+      "gibbs_med": 1.2756,
+      "gibbs_sd": 0.641,
+      "gap": -1.2756,
+      "gap_in_sd": 1.9901,
+      "n": 69,
+      "comparable": true,
+      "flag": true
+     }
+    },
+    "tau2_hat": 0.0,
+    "sd_threshold": 1.5,
+    "models_disagree": {
+     "progressive": false,
+     "left_populist": false,
+     "center_populist": false,
+     "moderate": true
+    },
+    "review_aids": {
+     "gibbs_all_u_active": {
+      "progressive": [
+       -0.7429,
+       -1.7929,
+       0.157
+      ],
+      "left_populist": [
+       1.2436,
+       0.0217,
+       2.5186
+      ],
+      "center_populist": [
+       2.7869,
+       1.1796,
+       4.459
+      ],
+      "moderate": [
+       1.2505,
+       0.4883,
+       2.0341
+      ]
+     },
+     "ols_loo_moderate": [
+      {
+       "drop": "SC-1",
+       "ols": 2.2068,
+       "y": 14.4165,
+       "same_state_rows": 8
+      },
+      {
+       "drop": "SC-5",
+       "ols": 2.1441,
+       "y": 17.6841,
+       "same_state_rows": 8
+      },
+      {
+       "drop": "TN-5",
+       "ols": 2.2374,
+       "y": 18.6872,
+       "same_state_rows": 10
+      },
+      {
+       "drop": "FL-2",
+       "ols": 2.1489,
+       "y": 13.9778,
+       "same_state_rows": 30
+      },
+      {
+       "drop": "FL-7",
+       "ols": 2.1804,
+       "y": 11.9996,
+       "same_state_rows": 30
+      },
+      {
+       "drop": "FL-13",
+       "ols": 2.1954,
+       "y": 12.5681,
+       "same_state_rows": 30
+      },
+      {
+       "drop": "FL-25",
+       "ols": 2.1865,
+       "y": 13.9137,
+       "same_state_rows": 30
+      },
+      {
+       "drop": "GA-2",
+       "ols": 2.264,
+       "y": 14.0624,
+       "same_state_rows": 16
+      },
+      {
+       "drop": "GA-14",
+       "ols": 2.0212,
+       "y": 19.508,
+       "same_state_rows": 16
+      },
+      {
+       "drop": "PA-6",
+       "ols": 2.227,
+       "y": 17.0385,
+       "same_state_rows": 16
+      },
+      {
+       "drop": "PA-8",
+       "ols": 2.2021,
+       "y": 17.4128,
+       "same_state_rows": 16
+      },
+      {
+       "drop": "PA-10",
+       "ols": 2.1658,
+       "y": 15.2994,
+       "same_state_rows": 16
+      },
+      {
+       "drop": "MD-6",
+       "ols": 2.1603,
+       "y": 9.9632,
+       "same_state_rows": 3
+      },
+      {
+       "drop": "MA-8",
+       "ols": 2.2527,
+       "y": 16.963,
+       "same_state_rows": 6
+      },
+      {
+       "drop": "NY-3",
+       "ols": 2.2216,
+       "y": 14.1333,
+       "same_state_rows": 24
+      },
+      {
+       "drop": "NY-4",
+       "ols": 2.2038,
+       "y": 11.3605,
+       "same_state_rows": 24
+      },
+      {
+       "drop": "NY-17",
+       "ols": 2.1724,
+       "y": 3.7399,
+       "same_state_rows": 24
+      },
+      {
+       "drop": "NY-21",
+       "ols": 2.0812,
+       "y": 18.8083,
+       "same_state_rows": 24
+      },
+      {
+       "drop": "NJ-2",
+       "ols": 2.2452,
+       "y": 15.2264,
+       "same_state_rows": 12
+      },
+      {
+       "drop": "NJ-5",
+       "ols": 2.162,
+       "y": 26.987,
+       "same_state_rows": 12
+      },
+      {
+       "drop": "OH-1",
+       "ols": 2.179,
+       "y": 14.7832,
+       "same_state_rows": 16
+      },
+      {
+       "drop": "OH-10",
+       "ols": 2.2525,
+       "y": 8.7152,
+       "same_state_rows": 16
+      },
+      {
+       "drop": "OH-13",
+       "ols": 2.1244,
+       "y": 18.8824,
+       "same_state_rows": 16
+      },
+      {
+       "drop": "MI-3",
+       "ols": 2.2429,
+       "y": 7.9733,
+       "same_state_rows": 13
+      },
+      {
+       "drop": "MI-8",
+       "ols": 2.1751,
+       "y": 15.9681,
+       "same_state_rows": 13
+      },
+      {
+       "drop": "IN-1",
+       "ols": 2.2491,
+       "y": 25.6029,
+       "same_state_rows": 8
+      },
+      {
+       "drop": "IL-5",
+       "ols": 2.1839,
+       "y": 14.2052,
+       "same_state_rows": 15
+      },
+      {
+       "drop": "IL-6",
+       "ols": 2.1248,
+       "y": 18.8675,
+       "same_state_rows": 15
+      },
+      {
+       "drop": "IL-10",
+       "ols": 2.0913,
+       "y": 17.1143,
+       "same_state_rows": 15
+      },
+      {
+       "drop": "IL-11",
+       "ols": 2.0875,
+       "y": 19.4972,
+       "same_state_rows": 15
+      },
+      {
+       "drop": "IL-13",
+       "ols": 2.1842,
+       "y": 14.0172,
+       "same_state_rows": 15
+      },
+      {
+       "drop": "IL-17",
+       "ols": 2.1544,
+       "y": 15.0896,
+       "same_state_rows": 15
+      },
+      {
+       "drop": "MN-1",
+       "ols": 2.0642,
+       "y": 12.3542,
+       "same_state_rows": 9
+      },
+      {
+       "drop": "IA-1",
+       "ols": 2.1422,
+       "y": 18.1237,
+       "same_state_rows": 5
+      },
+      {
+       "drop": "IA-3",
+       "ols": 2.1721,
+       "y": 11.8682,
+       "same_state_rows": 5
+      },
+      {
+       "drop": "KS-3",
+       "ols": 2.1798,
+       "y": 17.4575,
+       "same_state_rows": 5
+      },
+      {
+       "drop": "NE-2",
+       "ols": 2.1335,
+       "y": 11.136,
+       "same_state_rows": 3
+      },
+      {
+       "drop": "TX-7",
+       "ols": 2.2573,
+       "y": 20.2861,
+       "same_state_rows": 39
+      },
+      {
+       "drop": "TX-15",
+       "ols": 1.7066,
+       "y": 42.7237,
+       "same_state_rows": 39
+      },
+      {
+       "drop": "TX-28",
+       "ols": 1.798,
+       "y": 48.4729,
+       "same_state_rows": 39
+      },
+      {
+       "drop": "TX-34",
+       "ols": 2.1248,
+       "y": 26.8458,
+       "same_state_rows": 39
+      },
+      {
+       "drop": "TX-35",
+       "ols": 2.1787,
+       "y": 21.4085,
+       "same_state_rows": 39
+      },
+      {
+       "drop": "VA-2",
+       "ols": 2.1833,
+       "y": 8.9627,
+       "same_state_rows": 12
+      },
+      {
+       "drop": "VA-7",
+       "ols": 2.0939,
+       "y": 19.6024,
+       "same_state_rows": 12
+      },
+      {
+       "drop": "NC-1",
+       "ols": 2.2495,
+       "y": 15.1324,
+       "same_state_rows": 14
+      },
+      {
+       "drop": "NC-11",
+       "ols": 2.0604,
+       "y": 25.7347,
+       "same_state_rows": 14
+      },
+      {
+       "drop": "NC-13",
+       "ols": 2.1721,
+       "y": 19.1636,
+       "same_state_rows": 14
+      },
+      {
+       "drop": "KY-6",
+       "ols": 2.0663,
+       "y": 25.0645,
+       "same_state_rows": 6
+      },
+      {
+       "drop": "AZ-6",
+       "ols": 2.1923,
+       "y": 9.032,
+       "same_state_rows": 9
+      },
+      {
+       "drop": "AZ-9",
+       "ols": 2.1793,
+       "y": 16.0225,
+       "same_state_rows": 9
+      },
+      {
+       "drop": "NV-3",
+       "ols": 2.1586,
+       "y": 21.7269,
+       "same_state_rows": 4
+      },
+      {
+       "drop": "CO-3",
+       "ols": 2.2197,
+       "y": 8.3502,
+       "same_state_rows": 6
+      },
+      {
+       "drop": "CO-4",
+       "ols": 2.0958,
+       "y": 19.785,
+       "same_state_rows": 6
+      },
+      {
+       "drop": "CO-8",
+       "ols": 2.1347,
+       "y": 16.2265,
+       "same_state_rows": 6
+      },
+      {
+       "drop": "WY-AL",
+       "ols": 2.0666,
+       "y": 23.3795,
+       "same_state_rows": 1
+      },
+      {
+       "drop": "HI-1",
+       "ols": 2.1053,
+       "y": 28.257,
+       "same_state_rows": 2
+      },
+      {
+       "drop": "SEN-CO",
+       "ols": 2.1849,
+       "y": 14.0207,
+       "same_state_rows": 6
+      },
+      {
+       "drop": "SEN-IA",
+       "ols": 2.1589,
+       "y": 17.6768,
+       "same_state_rows": 5
+      },
+      {
+       "drop": "SEN-KS",
+       "ols": 2.0619,
+       "y": 21.3599,
+       "same_state_rows": 5
+      },
+      {
+       "drop": "SEN-MS",
+       "ols": 2.1175,
+       "y": 23.1552,
+       "same_state_rows": 4
+      },
+      {
+       "drop": "SEN-NH",
+       "ols": 2.1375,
+       "y": 11.2317,
+       "same_state_rows": 3
+      },
+      {
+       "drop": "SEN-NC",
+       "ols": 2.133,
+       "y": 23.3016,
+       "same_state_rows": 14
+      },
+      {
+       "drop": "GOV-AL",
+       "ols": 2.1167,
+       "y": 26.6812,
+       "same_state_rows": 8
+      },
+      {
+       "drop": "GOV-AZ",
+       "ols": 2.1639,
+       "y": 18.7114,
+       "same_state_rows": 9
+      },
+      {
+       "drop": "GOV-CT",
+       "ols": 2.2906,
+       "y": 3.0435,
+       "same_state_rows": 5
+      },
+      {
+       "drop": "GOV-FL",
+       "ols": 2.2383,
+       "y": 11.905,
+       "same_state_rows": 30
+      },
+      {
+       "drop": "GOV-IA",
+       "ols": 2.0912,
+       "y": 24.4456,
+       "same_state_rows": 5
+      },
+      {
+       "drop": "GOV-WI",
+       "ols": 2.1967,
+       "y": 9.0734,
+       "same_state_rows": 7
+      },
+      {
+       "drop": "SPECIAL-GA-14-2026-04",
+       "ols": 1.9595,
+       "y": 25.4996,
+       "same_state_rows": 16
+      }
+     ],
+     "ols_huber": {
+      "progressive": -1.6217,
+      "left_populist": 1.1234,
+      "center_populist": 4.1208,
+      "moderate": 1.2736
+     }
+    }
+   },
+   "note": "Threshold 1.5 posterior SD (decision O-1c). Disagreeing cells bracketed, not blocked: ['moderate']. Compared only for archetypes with n >= 10 in the main sample (\u00a73.8 cell minimum); smaller archetypes have no estimable dummy and are reported but not gated."
+  },
+  "V13": {
+   "name": "Label agreement (kappa)",
+   "status": "REPORT",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "proxy_second_coder": {
+     "archetype": {
+      "kappa": 0.6658,
+      "n": 65,
+      "agree": 0.7538
+     },
+     "ideology": {
+      "kappa": 0.8604,
+      "n": 65,
+      "agree": 0.9077
+     },
+     "posture": {
+      "kappa": 0.5119,
+      "n": 65,
+      "agree": 0.7077
+     }
+    },
+    "agent_vs_rules_main": {
+     "archetype": {
+      "kappa": 0.4086,
+      "n": 403,
+      "agree": 0.6898
+     },
+     "ideology": {
+      "kappa": 0.4081,
+      "n": 403,
+      "agree": 0.7072
+     },
+     "posture": {
+      "kappa": 0.1945,
+      "n": 403,
+      "agree": 0.737
+     }
+    },
+    "agent_vs_rules_all": {
+     "archetype": {
+      "kappa": 0.3855,
+      "n": 515,
+      "agree": 0.6641
+     },
+     "ideology": {
+      "kappa": 0.3947,
+      "n": 515,
+      "agree": 0.6854
+     },
+     "posture": {
+      "kappa": 0.2245,
+      "n": 515,
+      "agree": 0.7592
+     }
+    },
+    "label_reliability": "low_posture",
+    "level4_triggered": false,
+    "label_sets_available": {
+     "A_agent": true,
+     "B_rule_based": "implemented from label evidence text (style_evidence/background, plus primaries.json key_endorsements where matched); not from raw pre-election campaign text, which is not on disk",
+     "C_soft": "constructed from style_confidence and A/B disagreement (no independent probability coding exists)",
+     "second_coder_blind_20pct": false,
+     "second_coder_proxy": "primaries.json nominee labels (independent research pass; not blind to results; not a random sample)"
+    },
+    "audit_counts_main": {
+     "endorsement_cited_undated": 293,
+     "post_hoc": 37,
+     "primary_record": 42,
+     "dated_pre_election_source": 25,
+     "pre_election_contest": 6
+    }
+   },
+   "note": "No blind 20% second coder exists; primaries.json labels serve as a non-blind proxy (n=65). Posture kappa 0.4-0.6 -> low_posture (P estimates badged)."
+  },
+  "V14": {
+   "name": "Label-flip attenuation",
+   "status": "REPORT",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "A_beta_L": 0.5258,
+    "A_beta_P": 0.4223,
+    "simex": {
+     "q": 0.1318,
+     "lambdas": [
+      0.0,
+      0.5,
+      1.0,
+      1.5,
+      2.0
+     ],
+     "means": [
+      [
+       -2.364,
+       3.4638
+      ],
+      [
+       -1.7363,
+       2.2986
+      ],
+      [
+       -1.3006,
+       1.6729
+      ],
+      [
+       -0.9824,
+       1.3514
+      ],
+      [
+       -0.803,
+       1.0017
+      ]
+     ],
+     "corrected": [
+      -4.0021,
+      6.2413
+     ],
+     "note": "misclassification rate q = 1 - sqrt(proxy second-coder agreement); OLS-FE structural; robustness row only"
+    }
+   },
+   "note": "A < 0.6 for at least one slope: copy should note effects may be understated."
+  },
+  "V15": {
+   "name": "Trust-dial Gaussian validity",
+   "status": "FAIL",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "agnostic": {
+     "dial_mean": [
+      -1.1234,
+      1.66
+     ],
+     "exact_mean": [
+      -1.1546,
+      1.7311
+     ],
+     "dial_sd": [
+      0.7614,
+      0.8635
+     ],
+     "exact_sd": [
+      0.7018,
+      0.8838
+     ],
+     "mean_ok": true,
+     "sd_ok": true
+    },
+    "literature": {
+     "dial_mean": [
+      -1.3399,
+      1.4733
+     ],
+     "exact_mean": [
+      -1.359,
+      1.4576
+     ],
+     "dial_sd": [
+      0.7214,
+      0.8066
+     ],
+     "exact_sd": [
+      0.7023,
+      0.7877
+     ],
+     "mean_ok": true,
+     "sd_ok": true
+    },
+    "discount": {
+     "dial_mean": [
+      -0.9611,
+      1.3857
+     ],
+     "exact_mean": [
+      -1.3128,
+      1.4449
+     ],
+     "dial_sd": [
+      1.0057,
+      1.1206
+     ],
+     "exact_sd": [
+      0.9674,
+      1.3202
+     ],
+     "mean_ok": false,
+     "sd_ok": false
+    },
+    "data_only": {
+     "dial_mean": [
+      -1.354,
+      2.0679
+     ],
+     "exact_mean": [
+      -1.354,
+      2.0679
+     ],
+     "dial_sd": [
+      0.8246,
+      0.9584
+     ],
+     "exact_sd": [
+      0.8242,
+      0.9579
+     ],
+     "mean_ok": true,
+     "sd_ok": true
+    },
+    "dial_enabled_in_export": false
+   }
+  },
+  "V16": {
+   "name": "Sim 5 consistency (national margin)",
+   "status": "PASS",
+   "blocking": true,
+   "overridden": false,
+   "numbers": {
+    "national_house26": 13.836,
+    "nyt_topline_two_party": 13.1313,
+    "gap": 0.7047,
+    "within_1_5": true
+   },
+   "note": "Decision O-2: only the national-margin check is blocking; the by-eye bucket match is item V16b (REPORT)."
+  },
+  "V16b": {
+   "name": "Sim 5 NYT leader-share buckets (by eye)",
+   "status": "REPORT",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "bucket_match_share": 0.8163,
+    "bucket_pass": false,
+    "mismatches": [
+     {
+      "state": "MD",
+      "nyt": "D_70plus",
+      "ours": "D_55_70",
+      "house26": 39.7234,
+      "match": false
+     },
+     {
+      "state": "AZ",
+      "nyt": "D_50_55",
+      "ours": "D_55_70",
+      "house26": 13.3472,
+      "match": false
+     },
+     {
+      "state": "MT",
+      "nyt": "R_50_55",
+      "ours": "R_55_70",
+      "house26": -12.9402,
+      "match": false
+     },
+     {
+      "state": "NE",
+      "nyt": "R_50_55",
+      "ours": "R_55_70",
+      "house26": -14.8272,
+      "match": false
+     },
+     {
+      "state": "UT",
+      "nyt": "R_50_55",
+      "ours": "D_50_55",
+      "house26": 0.7286,
+      "match": false
+     },
+     {
+      "state": "KY",
+      "nyt": "R_50_55",
+      "ours": "R_55_70",
+      "house26": -12.4292,
+      "match": false
+     },
+     {
+      "state": "TN",
+      "nyt": "R_50_55",
+      "ours": "R_55_70",
+      "house26": -10.0538,
+      "match": false
+     },
+     {
+      "state": "LA",
+      "nyt": "R_50_55",
+      "ours": "R_55_70",
+      "house26": -18.2563,
+      "match": false
+     },
+     {
+      "state": "FL",
+      "nyt": "R_50_55",
+      "ours": "D_50_55",
+      "house26": 0.7683,
+      "match": false
+     }
+    ]
+   },
+   "note": "District vote totals are not on disk: districts are equal-weighted within a state and states weighted by 2024 presidential turnout. NYT buckets were read by eye from a map (approximate)."
+  },
+  "V17": {
+   "name": "Sim 3 Brier",
+   "status": "REPORT",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "brier_model": 0.5346,
+    "brier_baseline": 0.4699,
+    "coalition_enabled": false
+   },
+   "note": "Model loses to the endorsement-leader baseline -> coalition_enabled = false (eta at prior means); copy: 'polls plus priors'."
+  },
+  "V18": {
+   "name": "Engine invariants",
+   "status": "PASS",
+   "blocking": true,
+   "overridden": false,
+   "numbers": {
+    "monotone_in_E": true,
+    "seed_reproducible": true,
+    "delta0_identical": true,
+    "js_test_suite": {
+     "ran": true,
+     "exit_code": 0,
+     "counts": {
+      "tests": 20,
+      "pass": 20,
+      "fail": 0,
+      "skipped": 0
+     },
+     "budgets": [
+      {
+       "op": "Build bank (10k draws, fresh seed)",
+       "budget_ms": 250.0,
+       "cold_ms": 58.8,
+       "warm_ms": 51.1,
+       "x4_proxy_ms": 204.5,
+       "status": "OK"
+      },
+      {
+       "op": "Rebuild bank (new u, cached errors)",
+       "budget_ms": 250.0,
+       "cold_ms": 45.4,
+       "warm_ms": 11.2,
+       "x4_proxy_ms": 45.0,
+       "status": "OK"
+      },
+      {
+       "op": "Sim 1 (5 archetypes, maps + curves)",
+       "budget_ms": 50.0,
+       "cold_ms": 18.9,
+       "warm_ms": 12.3,
+       "x4_proxy_ms": 49.4,
+       "status": "OK"
+      },
+      {
+       "op": "Win-vs-E curves (5 \u00d7 31 \u00d7 1000 p)",
+       "budget_ms": 20.0,
+       "cold_ms": 2.6,
+       "warm_ms": 2.4,
+       "x4_proxy_ms": 9.6,
+       "status": "OK"
+      },
+      {
+       "op": "Sim 2 full matrix (8 \u00d7 5 = 40 cells, homes)",
+       "budget_ms": 800.0,
+       "cold_ms": 74.0,
+       "warm_ms": 54.7,
+       "x4_proxy_ms": 218.8,
+       "status": "OK"
+      },
+      {
+       "op": "Sim 4 heatmap (37 E \u00d7 25 style)",
+       "budget_ms": 10.0,
+       "cold_ms": 3.2,
+       "warm_ms": 1.2,
+       "x4_proxy_ms": 4.8,
+       "status": "OK"
+      },
+      {
+       "op": "Sim 3 primary (10k \u00d7 16 dates \u00d7 8 cands)",
+       "budget_ms": 700.0,
+       "cold_ms": 174.3,
+       "warm_ms": 169.4,
+       "x4_proxy_ms": 677.7,
+       "status": "OK"
+      }
+     ],
+     "real_model_tested": true
+    }
+   },
+   "note": "Invariants checked on the Python reference engine; the JS test suite (invariants, \u00a76.3 budgets in Node, real-params load) is attached below."
+  },
+  "V19": {
+   "name": "Convergence",
+   "status": "PASS",
+   "blocking": true,
+   "overridden": false,
+   "numbers": {
+    "max_rhat": 1.001,
+    "min_ess_bulk": 4372.3942,
+    "by_preset": {
+     "agnostic": {
+      "beta_L": {
+       "rhat": 1.0004,
+       "ess_bulk": 6236.2426
+      },
+      "beta_P": {
+       "rhat": 1.0009,
+       "ess_bulk": 6469.8372
+      },
+      "omega_maga": {
+       "rhat": 1.0,
+       "ess_bulk": 5842.481
+      },
+      "omega_mod": {
+       "rhat": 0.9998,
+       "ess_bulk": 7150.5617
+      },
+      "delta[progressive]": {
+       "rhat": 1.0004,
+       "ess_bulk": 5106.4192
+      },
+      "delta[left_populist]": {
+       "rhat": 1.001,
+       "ess_bulk": 6191.4278
+      },
+      "delta[center_populist]": {
+       "rhat": 1.0003,
+       "ess_bulk": 6855.5939
+      },
+      "delta[moderate]": {
+       "rhat": 1.0006,
+       "ess_bulk": 4865.227
+      }
+     },
+     "literature": {
+      "beta_L": {
+       "rhat": 0.9999,
+       "ess_bulk": 6492.7844
+      },
+      "beta_P": {
+       "rhat": 1.0001,
+       "ess_bulk": 6794.1081
+      },
+      "omega_maga": {
+       "rhat": 1.0001,
+       "ess_bulk": 5932.9312
+      },
+      "omega_mod": {
+       "rhat": 1.0005,
+       "ess_bulk": 6927.5638
+      },
+      "delta[progressive]": {
+       "rhat": 1.0004,
+       "ess_bulk": 5001.5367
+      },
+      "delta[left_populist]": {
+       "rhat": 1.0001,
+       "ess_bulk": 6567.4303
+      },
+      "delta[center_populist]": {
+       "rhat": 1.0,
+       "ess_bulk": 6661.8172
+      },
+      "delta[moderate]": {
+       "rhat": 1.0,
+       "ess_bulk": 5279.2966
+      }
+     },
+     "discount": {
+      "beta_L": {
+       "rhat": 1.0007,
+       "ess_bulk": 7215.5336
+      },
+      "beta_P": {
+       "rhat": 1.0005,
+       "ess_bulk": 8087.7212
+      },
+      "omega_maga": {
+       "rhat": 1.0003,
+       "ess_bulk": 7865.3364
+      },
+      "omega_mod": {
+       "rhat": 1.0002,
+       "ess_bulk": 8730.4029
+      },
+      "delta[progressive]": {
+       "rhat": 1.0003,
+       "ess_bulk": 7648.1217
+      },
+      "delta[left_populist]": {
+       "rhat": 1.0005,
+       "ess_bulk": 7717.9809
+      },
+      "delta[center_populist]": {
+       "rhat": 1.0005,
+       "ess_bulk": 8266.1167
+      },
+      "delta[moderate]": {
+       "rhat": 1.0006,
+       "ess_bulk": 7929.0143
+      }
+     },
+     "data_only": {
+      "beta_L": {
+       "rhat": 1.0003,
+       "ess_bulk": 6118.8916
+      },
+      "beta_P": {
+       "rhat": 0.9997,
+       "ess_bulk": 5616.6726
+      },
+      "omega_maga": {
+       "rhat": 1.0004,
+       "ess_bulk": 6080.5445
+      },
+      "omega_mod": {
+       "rhat": 1.0001,
+       "ess_bulk": 7031.4692
+      },
+      "delta[progressive]": {
+       "rhat": 1.0003,
+       "ess_bulk": 4372.3942
+      },
+      "delta[left_populist]": {
+       "rhat": 1.0001,
+       "ess_bulk": 5223.6767
+      },
+      "delta[center_populist]": {
+       "rhat": 1.0001,
+       "ess_bulk": 6497.3304
+      },
+      "delta[moderate]": {
+       "rhat": 1.0005,
+       "ess_bulk": 4902.8807
+      }
+     }
+    }
+   }
+  },
+  "V20": {
+   "name": "Partial-count selection report",
+   "status": "REPORT",
+   "blocking": false,
+   "overridden": false,
+   "numbers": {
+    "selection_report": {
+     "progressive": {
+      "eligible": 30,
+      "excluded_p_lt_80": 4,
+      "share": 0.1333,
+      "ids": [
+       "CA-17",
+       "NY-13",
+       "MI-13",
+       "WA-7"
+      ]
+     },
+     "left_populist": {
+      "eligible": 16,
+      "excluded_p_lt_80": 2,
+      "share": 0.125,
+      "ids": [
+       "CA-22",
+       "CO-1"
+      ]
+     },
+     "center_populist": {
+      "eligible": 3,
+      "excluded_p_lt_80": 1,
+      "share": 0.3333,
+      "ids": [
+       "WA-3"
+      ]
+     },
+     "mainstream_liberal": {
+      "eligible": 350,
+      "excluded_p_lt_80": 58,
+      "share": 0.1657,
+      "ids": [
+       "CA-1",
+       "CA-2",
+       "CA-3",
+       "CA-5",
+       "CA-6",
+       "CA-8",
+       "CA-10",
+       "CA-15",
+       "CA-18",
+       "CA-20",
+       "CA-23",
+       "CA-25",
+       "CA-26",
+       "CA-27",
+       "CA-28",
+       "CA-30",
+       "CA-31",
+       "CA-32",
+       "CA-33",
+       "CA-35",
+       "CA-36",
+       "CA-38",
+       "CA-39",
+       "CA-41",
+       "CA-42",
+       "CA-43",
+       "CA-44",
+       "CA-45",
+       "CA-47",
+       "CA-48",
+       "CA-49",
+       "CA-51",
+       "CA-52",
+       "MD-2",
+       "MD-4",
+       "MD-7",
+       "MD-8",
+       "IL-7",
+       "CO-2",
+       "CO-6",
+       "UT-2",
+       "UT-3",
+       "UT-4",
+       "WA-1",
+       "WA-2",
+       "WA-4",
+       "WA-5",
+       "WA-6",
+       "WA-8",
+       "WA-9",
+       "WA-10",
+       "OR-1",
+       "OR-3",
+       "OR-6",
+       "SEN-OR",
+       "GOV-CA",
+       "GOV-MD",
+       "GOV-OR"
+      ]
+     },
+     "moderate": {
+      "eligible": 81,
+      "excluded_p_lt_80": 12,
+      "share": 0.1482,
+      "ids": [
+       "CA-9",
+       "CA-13",
+       "CA-16",
+       "CA-19",
+       "CA-21",
+       "CA-24",
+       "CA-46",
+       "CA-50",
+       "NY-16",
+       "IL-8",
+       "UT-1",
+       "SEN-AK"
+      ]
+     }
+    },
+    "provisional_archetypes": [
+     "center_populist"
+    ],
+    "provisional_refit": {
+     "label": "R4: provisional (p >= 0.5)",
+     "n": 475,
+     "note": "latent treatment extended to all p < 0.95",
+     "beta_L": [
+      -1.054,
+      -1.8628,
+      -0.1639
+     ],
+     "beta_P": [
+      1.6939,
+      0.6326,
+      2.7553
+     ],
+     "delta": {
+      "progressive": [
+       -0.705,
+       -1.733,
+       0.2803
+      ],
+      "left_populist": [
+       1.3275,
+       0.2761,
+       2.4055
+      ],
+      "center_populist": [
+       2.7213,
+       1.2711,
+       4.2036
+      ],
+      "moderate": [
+       1.2341,
+       0.4007,
+       1.9356
+      ]
+     }
+    }
+   }
+  }
+ },
+ "headline_2028": {
+  "default_preset": "even",
+  "style_preset": "blend",
+  "published": {
+   "progressive": {
+    "V": 0.4209,
+    "V80": [
+     0.3236,
+     0.5032
+    ],
+    "dV_pts": [
+     -4.3725,
+     -15.3265,
+     2.7255
+    ],
+    "p_dV_below_minus10": 0.221,
+    "Estar": [
+     1,
+     0,
+     3
+    ],
+    "pidelta": [
+     -0.5297,
+     -2.1472,
+     0.4117
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.202
+   },
+   "left_populist": {
+    "V": 0.417,
+    "V80": [
+     0.2061,
+     0.5803
+    ],
+    "dV_pts": [
+     -0.2025,
+     -26.54,
+     9.636
+    ],
+    "p_dV_below_minus10": 0.353,
+    "Estar": [
+     1,
+     -1,
+     5
+    ],
+    "pidelta": [
+     -0.0161,
+     -4.3179,
+     1.5264
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.353
+   },
+   "center_populist": {
+    "V": 0.4581,
+    "V80": [
+     0.143,
+     0.6849
+    ],
+    "dV_pts": [
+     5.195,
+     -32.9005,
+     19.4035
+    ],
+    "p_dV_below_minus10": 0.327,
+    "Estar": [
+     0,
+     -3,
+     6
+    ],
+    "pidelta": [
+     0.7836,
+     -5.8987,
+     2.9958
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.326
+   },
+   "mainstream_liberal": {
+    "V": 0.475,
+    "V80": [
+     0.4567,
+     0.4959
+    ],
+    "dV_pts": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "p_dV_below_minus10": 0.0,
+    "Estar": [
+     0,
+     0,
+     1
+    ],
+    "pidelta": [
+     0.0,
+     0.0,
+     0.1744
+    ]
+   },
+   "moderate": {
+    "V": 0.5345,
+    "V80": [
+     0.4738,
+     0.6127
+    ],
+    "dV_pts": [
+     5.0375,
+     0.553,
+     12.337
+    ],
+    "p_dV_below_minus10": 0.002,
+    "Estar": [
+     0,
+     -2,
+     0
+    ],
+    "pidelta": [
+     0.7919,
+     0.1128,
+     1.8798
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.001
+   },
+   "_mood": {
+    "E10": -7.2757,
+    "E90": 7.4955,
+    "V_ml_at_E10": 0.0,
+    "V_ml_at_E90": 1.0
+   },
+   "_C7": {
+    "E_width80": 14.7712,
+    "max_abs_pidelta_hi80": 4.3684,
+    "licensed": true
+   }
+  },
+  "history_preset": {
+   "progressive": {
+    "V": 0.6266,
+    "V80": [
+     0.5357,
+     0.7046
+    ],
+    "dV_pts": [
+     -3.7875,
+     -14.515,
+     2.461
+    ],
+    "p_dV_below_minus10": 0.183,
+    "Estar": [
+     1,
+     0,
+     3
+    ],
+    "pidelta": [
+     -0.5297,
+     -2.1472,
+     0.4117
+    ],
+    "B_threshold": -1.55,
+    "P_pidelta_le_B": 0.17
+   },
+   "left_populist": {
+    "V": 0.6078,
+    "V80": [
+     0.3724,
+     0.7668
+    ],
+    "dV_pts": [
+     -0.195,
+     -30.1775,
+     7.922
+    ],
+    "p_dV_below_minus10": 0.342,
+    "Estar": [
+     1,
+     -1,
+     5
+    ],
+    "pidelta": [
+     -0.0161,
+     -4.3179,
+     1.5264
+    ],
+    "B_threshold": -1.55,
+    "P_pidelta_le_B": 0.338
+   },
+   "center_populist": {
+    "V": 0.6301,
+    "V80": [
+     0.2763,
+     0.8416
+    ],
+    "dV_pts": [
+     4.57,
+     -39.7235,
+     14.987
+    ],
+    "p_dV_below_minus10": 0.319,
+    "Estar": [
+     0,
+     -3,
+     6
+    ],
+    "pidelta": [
+     0.7836,
+     -5.8987,
+     2.9958
+    ],
+    "B_threshold": -1.55,
+    "P_pidelta_le_B": 0.315
+   },
+   "mainstream_liberal": {
+    "V": 0.6794,
+    "V80": [
+     0.663,
+     0.6985
+    ],
+    "dV_pts": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "p_dV_below_minus10": 0.0,
+    "Estar": [
+     0,
+     0,
+     1
+    ],
+    "pidelta": [
+     0.0,
+     0.0,
+     0.1744
+    ]
+   },
+   "moderate": {
+    "V": 0.7289,
+    "V80": [
+     0.6788,
+     0.7916
+    ],
+    "dV_pts": [
+     4.3725,
+     0.479,
+     10.1785
+    ],
+    "p_dV_below_minus10": 0.0,
+    "Estar": [
+     0,
+     -2,
+     0
+    ],
+    "pidelta": [
+     0.7919,
+     0.1128,
+     1.8798
+    ],
+    "B_threshold": -1.55,
+    "P_pidelta_le_B": 0.0
+   },
+   "_mood": {
+    "E10": -4.2757,
+    "E90": 10.4955,
+    "V_ml_at_E10": 0.0006,
+    "V_ml_at_E90": 1.0
+   },
+   "_C7": {
+    "E_width80": 14.7712,
+    "max_abs_pidelta_hi80": 4.3684,
+    "licensed": true
+   }
+  },
+  "ols_fe_eb_end_for_disagreeing_cells": null,
+  "published_is_prior_only": false,
+  "fitted_unpublished": {
+   "progressive": {
+    "V": 0.4309,
+    "V80": [
+     0.3718,
+     0.4807
+    ],
+    "dV_pts": [
+     -4.08,
+     -10.6005,
+     -0.045
+    ],
+    "p_dV_below_minus10": 0.118,
+    "Estar": [
+     1,
+     0,
+     2
+    ],
+    "pidelta": [
+     -0.4517,
+     -1.3416,
+     0.101
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.087
+   },
+   "left_populist": {
+    "V": 0.5329,
+    "V80": [
+     0.4714,
+     0.6058
+    ],
+    "dV_pts": [
+     4.785,
+     0.274,
+     11.1305
+    ],
+    "p_dV_below_minus10": 0.002,
+    "Estar": [
+     0,
+     -1,
+     0
+    ],
+    "pidelta": [
+     0.775,
+     0.0737,
+     1.8038
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.002
+   },
+   "center_populist": {
+    "V": 0.602,
+    "V80": [
+     0.5141,
+     0.7108
+    ],
+    "dV_pts": [
+     11.21,
+     4.634,
+     22.478
+    ],
+    "p_dV_below_minus10": 0.0,
+    "Estar": [
+     -1,
+     -3,
+     0
+    ],
+    "pidelta": [
+     1.6847,
+     0.6803,
+     3.5518
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.0
+   },
+   "mainstream_liberal": {
+    "V": 0.4787,
+    "V80": [
+     0.4599,
+     0.4993
+    ],
+    "dV_pts": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "p_dV_below_minus10": 0.0,
+    "Estar": [
+     0,
+     0,
+     1
+    ],
+    "pidelta": [
+     0.0942,
+     0.0265,
+     0.2127
+    ]
+   },
+   "moderate": {
+    "V": 0.5291,
+    "V80": [
+     0.4831,
+     0.5863
+    ],
+    "dV_pts": [
+     4.4125,
+     1.0945,
+     9.7525
+    ],
+    "p_dV_below_minus10": 0.001,
+    "Estar": [
+     0,
+     -1,
+     0
+    ],
+    "pidelta": [
+     0.7239,
+     0.2215,
+     1.5805
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.0
+   },
+   "_mood": {
+    "E10": -7.2757,
+    "E90": 7.4955,
+    "V_ml_at_E10": 0.0,
+    "V_ml_at_E90": 1.0
+   },
+   "_C7": {
+    "E_width80": 14.7712,
+    "max_abs_pidelta_hi80": 1.8098,
+    "licensed": true
+   }
+  },
+  "style_2026_only": {
+   "progressive": {
+    "V": 0.4309,
+    "V80": [
+     0.3718,
+     0.4807
+    ],
+    "dV_pts": [
+     -4.08,
+     -10.6005,
+     -0.045
+    ],
+    "p_dV_below_minus10": 0.118,
+    "Estar": [
+     1,
+     0,
+     2
+    ],
+    "pidelta": [
+     -0.4517,
+     -1.3416,
+     0.101
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.087
+   },
+   "left_populist": {
+    "V": 0.5329,
+    "V80": [
+     0.4714,
+     0.6058
+    ],
+    "dV_pts": [
+     4.785,
+     0.274,
+     11.1305
+    ],
+    "p_dV_below_minus10": 0.002,
+    "Estar": [
+     0,
+     -1,
+     0
+    ],
+    "pidelta": [
+     0.775,
+     0.0737,
+     1.8038
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.002
+   },
+   "center_populist": {
+    "V": 0.602,
+    "V80": [
+     0.5141,
+     0.7108
+    ],
+    "dV_pts": [
+     11.21,
+     4.634,
+     22.478
+    ],
+    "p_dV_below_minus10": 0.0,
+    "Estar": [
+     -1,
+     -3,
+     0
+    ],
+    "pidelta": [
+     1.6847,
+     0.6802,
+     3.5518
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.0
+   },
+   "mainstream_liberal": {
+    "V": 0.4787,
+    "V80": [
+     0.4599,
+     0.4993
+    ],
+    "dV_pts": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "p_dV_below_minus10": 0.0,
+    "Estar": [
+     0,
+     0,
+     1
+    ],
+    "pidelta": [
+     0.0942,
+     0.0265,
+     0.2126
+    ]
+   },
+   "moderate": {
+    "V": 0.5291,
+    "V80": [
+     0.4831,
+     0.5863
+    ],
+    "dV_pts": [
+     4.4125,
+     1.0945,
+     9.7525
+    ],
+    "p_dV_below_minus10": 0.001,
+    "Estar": [
+     0,
+     -1,
+     0
+    ],
+    "pidelta": [
+     0.7239,
+     0.2215,
+     1.5805
+    ],
+    "B_threshold": -1.4,
+    "P_pidelta_le_B": 0.0
+   },
+   "_mood": {
+    "E10": -7.2757,
+    "E90": 7.4955,
+    "V_ml_at_E10": 0.0,
+    "V_ml_at_E90": 1.0
+   },
+   "_C7": {
+    "E_width80": 14.7712,
+    "max_abs_pidelta_hi80": 1.8098,
+    "licensed": true
+   }
+  }
+ },
+ "sim5_ev": {
+  "raw": 432,
+  "durable": 238,
+  "durable_E": 0.0,
+  "durable_D+3": null,
+  "national_house26": 13.836
+ },
+ "diagnostics": {
+  "D1": {
+   "by_archetype": {
+    "progressive": {
+     "overlap": [
+      -1.0207,
+      -2.1156,
+      -0.0235
+     ],
+     "full": [
+      -0.7893,
+      -1.8962,
+      0.1655
+     ],
+     "move": -0.2314,
+     "flag": false,
+     "n_a_kept": 25,
+     "n_a": 26,
+     "n_ml_kept": 135
+    },
+    "left_populist": {
+     "overlap": [
+      0.8647,
+      -0.3602,
+      2.1393
+     ],
+     "full": [
+      1.3445,
+      0.1506,
+      2.5207
+     ],
+     "move": -0.4798,
+     "flag": false,
+     "n_a_kept": 8,
+     "n_a": 14,
+     "n_ml_kept": 74
+    },
+    "center_populist": {
+     "overlap": [
+      2.7577,
+      1.1897,
+      4.3751
+     ],
+     "full": [
+      2.845,
+      1.373,
+      4.3933
+     ],
+     "move": -0.0873,
+     "flag": false,
+     "n_a_kept": 1,
+     "n_a": 2,
+     "n_ml_kept": 3
+    },
+    "moderate": {
+     "overlap": [
+      1.3531,
+      0.5568,
+      2.117
+     ],
+     "full": [
+      1.2756,
+      0.4453,
+      2.0891
+     ],
+     "move": 0.0775,
+     "flag": false,
+     "n_a_kept": 69,
+     "n_a": 69,
+     "n_ml_kept": 292
+    }
+   },
+   "n_trimmed": 395,
+   "lead_with_overlap": false,
+   "note": "Propensity covariates: m24, state WNC share, state urban share, incumbency, statewide, region (district demographics unavailable). An archetype with no rows inside [0.05, 0.95] keeps only its structural (beta_L, beta_P) prediction and does not set the flag."
+  },
+  "D3": {
+   "wald_obs": 20.112,
+   "p_value": 0.0005,
+   "n_perm": 2000,
+   "no_detectable_effect": false,
+   "note": "Residuals of the reduced OLS-FE model permuted within state; singleton states cannot permute."
+  },
+  "D4": {
+   "delta_elpd": 5.6176,
+   "se": 3.7185,
+   "no_predictive_gain": true,
+   "elpd_with": -1357.2038,
+   "elpd_without": -1362.8214
+  },
+  "D6": {
+   "n": 13,
+   "estimate": -18.6747,
+   "lo80": -51.708,
+   "hi80": 14.3585,
+   "tension": false,
+   "note": "Sign check only, never estimated into delta. Linear in primary margin with an m24 control; n is tiny."
+  },
+  "D7": {
+   "L": [
+    -0.5273,
+    -0.935,
+    -0.1197
+   ],
+   "P": [
+    0.1829,
+    -0.4513,
+    0.8171
+   ],
+   "excludes_zero": true,
+   "note": "slopes per point of the state wave alpha_s (posterior mean), OLS-FE with CR2 SEs"
+  },
+  "tau_c": {
+   "n_incumbents": 201,
+   "cov": 13.4174,
+   "tau_c": 3.663,
+   "estimated": true,
+   "sensitivity": [
+    1.0,
+    3.0
+   ],
+   "note": "r26 adds back the fitted personal-vote term (the model controls for it); oriented to the incumbent's party. Fallback tau_c=2 if < 40 incumbents or Cov <= 0."
+  }
+ },
+ "data_issues": {
+  "maine_discrepancy": {
+   "senate_json_y_two_party": -0.1817,
+   "nyt_9state_implied": -3.71,
+   "gap": 3.5283,
+   "note": "senate.json (NBC, 86% counted) has Jackson running +0.66 (total-vote) / -0.18 (two-party) ahead of Harris's 2024 Maine margin; the NYT nine-state table implies a -3.7-point shift (negative = toward R; 0.47*Male + 0.53*Female). Unresolved; both are preliminary. The NYT figure is a model estimate from early returns and its 2024 baseline may differ."
+  },
+  "user_flagged_uncalled": [
+   {
+    "id": "SEN-AK",
+    "called_in_data": null,
+    "pct_counted": 75.5,
+    "in_main": false,
+    "exclusion_reason": "partial_count_lt_80pct (provisional refit only)"
+   },
+   {
+    "id": "SEN-MS",
+    "called_in_data": null,
+    "pct_counted": 95.6,
+    "in_main": true,
+    "exclusion_reason": null
+   },
+   {
+    "id": "GOV-KS",
+    "called_in_data": null,
+    "pct_counted": 98.8,
+    "in_main": true,
+    "exclusion_reason": null
+   },
+   {
+    "id": "GOV-AK",
+    "called_in_data": null,
+    "pct_counted": 75.2,
+    "in_main": false,
+    "exclusion_reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+   },
+   {
+    "id": "ME-2",
+    "called_in_data": null,
+    "pct_counted": 91.8,
+    "in_main": true,
+    "exclusion_reason": null
+   },
+   {
+    "id": "TN-4",
+    "called_in_data": null,
+    "pct_counted": 99.0,
+    "in_main": true,
+    "exclusion_reason": null
+   },
+   {
+    "id": "TN-9",
+    "called_in_data": null,
+    "pct_counted": 99.0,
+    "in_main": true,
+    "exclusion_reason": null
+   },
+   {
+    "id": "VA-5",
+    "called_in_data": null,
+    "pct_counted": 97.8,
+    "in_main": true,
+    "exclusion_reason": null
+   },
+   {
+    "id": "NC-3",
+    "called_in_data": null,
+    "pct_counted": 98.8,
+    "in_main": true,
+    "exclusion_reason": null
+   },
+   {
+    "id": "NC-5",
+    "called_in_data": null,
+    "pct_counted": 99.0,
+    "in_main": true,
+    "exclusion_reason": null
+   },
+   {
+    "id": "NC-7",
+    "called_in_data": null,
+    "pct_counted": 99.0,
+    "in_main": true,
+    "exclusion_reason": null
+   }
+  ],
+  "n_uncalled": 39,
+  "data_flag_counts": {
+   "western_incomplete_count": 103,
+   "rep_style_missing_treated_as_traditional": 17,
+   "uncalled": 39,
+   "single_source_nbc": 345,
+   "prior_race_uncontested_no_personal_vote": 6,
+   "rep_style_unclassified_treated_as_traditional": 33,
+   "incumbent_appointed_no_personal_vote": 3,
+   "pv_midterm_prev_race_vs_prior_pres_baseline": 15,
+   "rep_style_not_applicable_treated_as_traditional": 3,
+   "combined_multi_dem_vote": 1
+  }
+ }
+}

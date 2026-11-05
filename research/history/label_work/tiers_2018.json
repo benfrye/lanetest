@@ -1,0 +1,3756 @@
+{
+ "AK-AL": {
+  "tier": "research_competitive",
+  "name": "Alyse Galvin",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "AL-1": {
+  "tier": "default_safe_challenger",
+  "name": "Robert Kennedy Jr.",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AL-2": {
+  "tier": "default_safe_challenger",
+  "name": "Tabitha Isner",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AL-3": {
+  "tier": "default_safe_challenger",
+  "name": "Mallory Hagan",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AL-4": {
+  "tier": "default_safe_challenger",
+  "name": "Lee Auman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AL-5": {
+  "tier": "default_safe_challenger",
+  "name": "Peter Joffrion",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AL-6": {
+  "tier": "default_safe_challenger",
+  "name": "Danner Kline",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AR-1": {
+  "tier": "default_safe_challenger",
+  "name": "Chintan Desai",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AR-2": {
+  "tier": "research_competitive",
+  "name": "Clarke Tucker",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "AR-3": {
+  "tier": "default_safe_challenger",
+  "name": "Josh Mahony",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AR-4": {
+  "tier": "default_safe_challenger",
+  "name": "Hayden Shamel",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AZ-1": {
+  "tier": "research_competitive",
+  "name": "Tom O'Halleran",
+  "incumbent": true,
+  "markers": [
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "AZ-2": {
+  "tier": "research_competitive",
+  "name": "Ann Kirkpatrick",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "AZ-3": {
+  "tier": "research_marker",
+  "name": "Raúl Grijalva",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "AZ-4": {
+  "tier": "default_safe_challenger",
+  "name": "David Brill",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AZ-5": {
+  "tier": "default_safe_challenger",
+  "name": "Joan Greene",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AZ-6": {
+  "tier": "research_competitive",
+  "name": "Anita Malik",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AZ-8": {
+  "tier": "default_safe_challenger",
+  "name": "Hiral Tipirneni",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "AZ-9": {
+  "tier": "research_competitive",
+  "name": "Greg Stanton",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-1": {
+  "tier": "research_marker",
+  "name": "Audrey Denney",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "CA-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jared Huffman",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-3": {
+  "tier": "research_competitive",
+  "name": "John Garamendi",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-4": {
+  "tier": "research_competitive",
+  "name": "Jessica Morse",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "CA-7": {
+  "tier": "research_competitive",
+  "name": "Ami Bera",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-9": {
+  "tier": "research_competitive",
+  "name": "Jerry McNerney",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-10": {
+  "tier": "research_competitive",
+  "name": "Josh Harder",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "CA-11": {
+  "tier": "rule_incumbent_safe",
+  "name": "Mark DeSaulnier",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-12": {
+  "tier": "rule_incumbent_safe",
+  "name": "Nancy Pelosi",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-14": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jackie Speier",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-15": {
+  "tier": "rule_incumbent_safe",
+  "name": "Eric Swalwell",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-16": {
+  "tier": "research_marker",
+  "name": "Jim Costa",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-17": {
+  "tier": "research_marker",
+  "name": "Ro Khanna",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "CA-18": {
+  "tier": "rule_incumbent_safe",
+  "name": "Anna Eshoo",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-19": {
+  "tier": "rule_incumbent_safe",
+  "name": "Zoe Lofgren",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-21": {
+  "tier": "research_competitive",
+  "name": "TJ Cox",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "CA-22": {
+  "tier": "research_competitive",
+  "name": "Andrew Janz",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-23": {
+  "tier": "default_safe_challenger",
+  "name": "Tatiana Matta",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-24": {
+  "tier": "rule_incumbent_safe",
+  "name": "Salud Carbajal",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-25": {
+  "tier": "research_competitive",
+  "name": "Katie Hill",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "CA-26": {
+  "tier": "rule_incumbent_safe",
+  "name": "Julia Brownley",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-28": {
+  "tier": "rule_incumbent_safe",
+  "name": "Adam Schiff",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-29": {
+  "tier": "rule_incumbent_safe",
+  "name": "Tony Cárdenas",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-30": {
+  "tier": "rule_incumbent_safe",
+  "name": "Brad Sherman",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-31": {
+  "tier": "rule_incumbent_safe",
+  "name": "Pete Aguilar",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-32": {
+  "tier": "rule_incumbent_safe",
+  "name": "Grace Napolitano",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-33": {
+  "tier": "rule_incumbent_safe",
+  "name": "Ted Lieu",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-35": {
+  "tier": "rule_incumbent_safe",
+  "name": "Norma Torres",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-36": {
+  "tier": "research_competitive",
+  "name": "Raul Ruiz",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-37": {
+  "tier": "rule_incumbent_safe",
+  "name": "Karen Bass",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-38": {
+  "tier": "rule_incumbent_safe",
+  "name": "Linda Sánchez",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-39": {
+  "tier": "research_competitive",
+  "name": "Gil Cisneros",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "CA-41": {
+  "tier": "rule_incumbent_safe",
+  "name": "Mark Takano",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-42": {
+  "tier": "research_competitive",
+  "name": "Julia Peacock",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-43": {
+  "tier": "rule_incumbent_safe",
+  "name": "Maxine Waters",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-45": {
+  "tier": "research_competitive",
+  "name": "Katie Porter",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+  ]
+ },
+ "CA-46": {
+  "tier": "research_marker",
+  "name": "Lou Correa",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-47": {
+  "tier": "rule_incumbent_safe",
+  "name": "Alan Lowenthal",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CA-48": {
+  "tier": "research_competitive",
+  "name": "Harley Rouda",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "CA-49": {
+  "tier": "research_competitive",
+  "name": "Mike Levin",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+  ]
+ },
+ "CA-50": {
+  "tier": "research_competitive",
+  "name": "Ammar Campa-Najjar",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "CA-51": {
+  "tier": "rule_incumbent_safe",
+  "name": "Juan Vargas",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-52": {
+  "tier": "rule_incumbent_safe",
+  "name": "Scott Peters",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CA-53": {
+  "tier": "rule_incumbent_safe",
+  "name": "Susan Davis",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CO-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Diana DeGette",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CO-2": {
+  "tier": "research_open",
+  "name": "Joe Neguse",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CO-3": {
+  "tier": "research_competitive",
+  "name": "Diane Mitsch Bush",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CO-4": {
+  "tier": "default_safe_challenger",
+  "name": "Karen McCormick",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CO-5": {
+  "tier": "research_marker",
+  "name": "Stephany Rose Spaulding",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "CO-6": {
+  "tier": "research_competitive",
+  "name": "Jason Crow",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "CO-7": {
+  "tier": "research_competitive",
+  "name": "Ed Perlmutter",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CT-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "John B. Larson",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CT-2": {
+  "tier": "research_competitive",
+  "name": "Joe Courtney",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CT-3": {
+  "tier": "research_competitive",
+  "name": "Rosa DeLauro",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "CT-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jim Himes",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "CT-5": {
+  "tier": "research_competitive",
+  "name": "Jahana Hayes",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "DE-AL": {
+  "tier": "research_competitive",
+  "name": "Lisa Blunt Rochester",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "FL-1": {
+  "tier": "default_safe_challenger",
+  "name": "Jennifer Zimmerman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-2": {
+  "tier": "default_safe_challenger",
+  "name": "Bob Rackleff",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-3": {
+  "tier": "research_competitive",
+  "name": "Yvonne Hayes Hinson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-4": {
+  "tier": "default_safe_challenger",
+  "name": "Ges Selmont",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Al Lawson",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-6": {
+  "tier": "research_competitive",
+  "name": "Nancy Soderberg",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "FL-7": {
+  "tier": "research_competitive",
+  "name": "Stephanie Murphy",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "FL-8": {
+  "tier": "research_marker",
+  "name": "Sanjay Patel",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "FL-9": {
+  "tier": "research_competitive",
+  "name": "Darren Soto",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "FL-11": {
+  "tier": "default_safe_challenger",
+  "name": "Dana Cottrell",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-12": {
+  "tier": "research_competitive",
+  "name": "Chris Hunter",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+  ]
+ },
+ "FL-13": {
+  "tier": "research_competitive",
+  "name": "Charlie Crist",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "FL-15": {
+  "tier": "research_competitive",
+  "name": "Kristen Carlson",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "FL-16": {
+  "tier": "research_competitive",
+  "name": "David Shapiro",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "FL-17": {
+  "tier": "research_open",
+  "name": "Allen Ellison",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-18": {
+  "tier": "research_competitive",
+  "name": "Lauren Baer",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "FL-19": {
+  "tier": "default_safe_challenger",
+  "name": "David Holden",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-22": {
+  "tier": "research_competitive",
+  "name": "Ted Deutch",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-23": {
+  "tier": "rule_incumbent_safe",
+  "name": "Debbie Wasserman Schultz",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "FL-25": {
+  "tier": "research_competitive",
+  "name": "Mary Barzee Flores",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-26": {
+  "tier": "research_competitive",
+  "name": "Debbie Mucarsel-Powell",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "FL-27": {
+  "tier": "research_open",
+  "name": "Donna Shalala",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-1": {
+  "tier": "research_competitive",
+  "name": "Lisa Ring",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "GA-2": {
+  "tier": "research_competitive",
+  "name": "Sanford Bishop",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+  ]
+ },
+ "GA-3": {
+  "tier": "default_safe_challenger",
+  "name": "Chuck Enderlin",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Hank Johnson",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "GA-6": {
+  "tier": "research_competitive",
+  "name": "Lucy McBath",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "GA-7": {
+  "tier": "research_competitive",
+  "name": "Carolyn Bourdeaux",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "GA-9": {
+  "tier": "default_safe_challenger",
+  "name": "Josh McCall",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-10": {
+  "tier": "default_safe_challenger",
+  "name": "Tabitha Johnson-Green",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-11": {
+  "tier": "default_safe_challenger",
+  "name": "Flynn Broady",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-12": {
+  "tier": "research_competitive",
+  "name": "Francys Johnson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-13": {
+  "tier": "research_marker",
+  "name": "David Scott",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "GA-14": {
+  "tier": "default_safe_challenger",
+  "name": "Steve Foster",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "HI-1": {
+  "tier": "research_open",
+  "name": "Ed Case",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "HI-2": {
+  "tier": "research_marker",
+  "name": "Tulsi Gabbard",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "IA-1": {
+  "tier": "research_competitive",
+  "name": "Abby Finkenauer",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "IA-2": {
+  "tier": "research_competitive",
+  "name": "Dave Loebsack",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "IA-3": {
+  "tier": "research_competitive",
+  "name": "Cindy Axne",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "IA-4": {
+  "tier": "default_safe_challenger",
+  "name": "J. D. Scholten",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "ID-1": {
+  "tier": "research_open",
+  "name": "Cristina McNeil",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "ID-2": {
+  "tier": "default_safe_challenger",
+  "name": "Aaron Swisher",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Bobby Rush",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Robin Kelly",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-3": {
+  "tier": "research_competitive",
+  "name": "Dan Lipinski",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+  ]
+ },
+ "IL-4": {
+  "tier": "research_open",
+  "name": "Chuy García",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "IL-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Mike Quigley",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "IL-6": {
+  "tier": "research_competitive",
+  "name": "Sean Casten",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "IL-7": {
+  "tier": "rule_incumbent_safe",
+  "name": "Danny Davis",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "IL-8": {
+  "tier": "rule_incumbent_safe",
+  "name": "Raja Krishnamoorthi",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "IL-9": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jan Schakowsky",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "IL-10": {
+  "tier": "research_marker",
+  "name": "Brad Schneider",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "IL-11": {
+  "tier": "rule_incumbent_safe",
+  "name": "Bill Foster",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "IL-12": {
+  "tier": "research_competitive",
+  "name": "Brendan Kelly",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "IL-13": {
+  "tier": "research_competitive",
+  "name": "Betsy Dirksen Londrigan",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-14": {
+  "tier": "research_competitive",
+  "name": "Lauren Underwood",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "IL-15": {
+  "tier": "default_safe_challenger",
+  "name": "Kevin Gaither",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-16": {
+  "tier": "research_competitive",
+  "name": "Sara Dady",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-17": {
+  "tier": "research_competitive",
+  "name": "Cheri Bustos",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "IL-18": {
+  "tier": "default_safe_challenger",
+  "name": "Junius Rodriguez",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-1": {
+  "tier": "research_competitive",
+  "name": "Pete Visclosky",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-2": {
+  "tier": "research_marker",
+  "name": "Mel Hall",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "IN-3": {
+  "tier": "default_safe_challenger",
+  "name": "Courtney Tritch",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-4": {
+  "tier": "research_open",
+  "name": "Tobi Beck",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-5": {
+  "tier": "research_competitive",
+  "name": "Dee Thornton",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-6": {
+  "tier": "research_open",
+  "name": "Jeannine Lake",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-7": {
+  "tier": "rule_incumbent_safe",
+  "name": "André Carson",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "IN-8": {
+  "tier": "default_safe_challenger",
+  "name": "William Tanoos",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-9": {
+  "tier": "research_marker",
+  "name": "Liz Watson",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+  ]
+ },
+ "KS-1": {
+  "tier": "default_safe_challenger",
+  "name": "Alan LaPolice",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KS-2": {
+  "tier": "research_competitive",
+  "name": "Paul Davis",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "KS-3": {
+  "tier": "research_competitive",
+  "name": "Sharice Davids",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "KS-4": {
+  "tier": "research_marker",
+  "name": "James Thompson",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "KY-1": {
+  "tier": "research_marker",
+  "name": "Paul Walker",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "KY-2": {
+  "tier": "default_safe_challenger",
+  "name": "Hank Linderman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KY-3": {
+  "tier": "research_competitive",
+  "name": "John Yarmuth",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "KY-4": {
+  "tier": "default_safe_challenger",
+  "name": "Seth Hall",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KY-5": {
+  "tier": "default_safe_challenger",
+  "name": "Kenneth Stepp",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KY-6": {
+  "tier": "research_competitive",
+  "name": "Amy McGrath",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "LA-1": {
+  "tier": "default_safe_challenger",
+  "name": "Tammy Savoie",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "LA-4": {
+  "tier": "research_marker",
+  "name": "Ryan Trundle",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "LA-5": {
+  "tier": "default_safe_challenger",
+  "name": "Jessee Fleenor",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "LA-6": {
+  "tier": "default_safe_challenger",
+  "name": "Justin DeWitt",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MA-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jim McGovern",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "MA-3": {
+  "tier": "research_open",
+  "name": "Lori Trahan",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MA-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Katherine Clark",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "MA-6": {
+  "tier": "research_competitive",
+  "name": "Seth Moulton",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "MA-9": {
+  "tier": "research_competitive",
+  "name": "Bill Keating",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "MD-1": {
+  "tier": "default_safe_challenger",
+  "name": "Jesse Colvin",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MD-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Dutch Ruppersberger",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MD-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "John Sarbanes",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MD-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Anthony Brown",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "MD-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Steny Hoyer",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MD-6": {
+  "tier": "research_competitive",
+  "name": "David Trone",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MD-7": {
+  "tier": "rule_incumbent_safe",
+  "name": "Elijah Cummings",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "MD-8": {
+  "tier": "research_marker",
+  "name": "Jamie Raskin",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "ME-1": {
+  "tier": "research_competitive",
+  "name": "Chellie Pingree",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "ME-2": {
+  "tier": "research_competitive",
+  "name": "Jared Golden",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MI-1": {
+  "tier": "research_marker",
+  "name": "Matt Morgan",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "MI-2": {
+  "tier": "research_competitive",
+  "name": "Rob Davidson",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "MI-3": {
+  "tier": "research_competitive",
+  "name": "Cathy Albro",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MI-4": {
+  "tier": "default_safe_challenger",
+  "name": "Jerry Hilliard",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MI-5": {
+  "tier": "research_competitive",
+  "name": "Dan Kildee",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MI-6": {
+  "tier": "research_competitive",
+  "name": "Matt Longjohn",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MI-7": {
+  "tier": "research_competitive",
+  "name": "Gretchen Driskell",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MI-8": {
+  "tier": "research_competitive",
+  "name": "Elissa Slotkin",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MI-9": {
+  "tier": "research_competitive",
+  "name": "Andy Levin",
+  "incumbent": false,
+  "markers": [
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+  ]
+ },
+ "MI-10": {
+  "tier": "default_safe_challenger",
+  "name": "Kimberly Bizon",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MI-11": {
+  "tier": "research_competitive",
+  "name": "Haley Stevens",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MI-12": {
+  "tier": "rule_incumbent_safe",
+  "name": "Debbie Dingell",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "MI-14": {
+  "tier": "rule_incumbent_safe",
+  "name": "Brenda Lawrence",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "MN-1": {
+  "tier": "research_competitive",
+  "name": "Dan Feehan",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MN-2": {
+  "tier": "research_competitive",
+  "name": "Angie Craig",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MN-3": {
+  "tier": "research_competitive",
+  "name": "Dean Phillips",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MN-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Betty McCollum",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MN-5": {
+  "tier": "research_open",
+  "name": "Ilhan Omar",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "MN-6": {
+  "tier": "default_safe_challenger",
+  "name": "Ian Todd",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MN-7": {
+  "tier": "research_marker",
+  "name": "Collin Peterson",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+  ]
+ },
+ "MN-8": {
+  "tier": "research_competitive",
+  "name": "Joe Radinovich",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MO-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Lacy Clay",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "MO-2": {
+  "tier": "research_competitive",
+  "name": "Cort VanOstran",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "MO-3": {
+  "tier": "default_safe_challenger",
+  "name": "Katy Geppert",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-4": {
+  "tier": "default_safe_challenger",
+  "name": "Renee Hoagenson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-5": {
+  "tier": "research_competitive",
+  "name": "Emanuel Cleaver",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-6": {
+  "tier": "default_safe_challenger",
+  "name": "Henry Martin",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-7": {
+  "tier": "research_marker",
+  "name": "Jamie Schoolcraft",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "MO-8": {
+  "tier": "default_safe_challenger",
+  "name": "Kathy Ellis",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MS-1": {
+  "tier": "default_safe_challenger",
+  "name": "Randy Wadkins",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MS-3": {
+  "tier": "research_open",
+  "name": "Michael Evans",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MS-4": {
+  "tier": "default_safe_challenger",
+  "name": "Jeramey Anderson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MT-AL": {
+  "tier": "default_safe_challenger",
+  "name": "Kathleen Williams",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NC-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "G. K. Butterfield",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-2": {
+  "tier": "research_competitive",
+  "name": "Linda Coleman",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NC-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "David Price",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-5": {
+  "tier": "research_competitive",
+  "name": "D. D. Adams",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-6": {
+  "tier": "research_competitive",
+  "name": "Ryan Watts",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-7": {
+  "tier": "research_competitive",
+  "name": "Kyle Horton",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "NC-8": {
+  "tier": "research_competitive",
+  "name": "Frank McNeill",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+  ]
+ },
+ "NC-9": {
+  "tier": "research_competitive",
+  "name": "Dan McCready",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NC-10": {
+  "tier": "default_safe_challenger",
+  "name": "David Brown",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-11": {
+  "tier": "default_safe_challenger",
+  "name": "Phillip Price",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-12": {
+  "tier": "rule_incumbent_safe",
+  "name": "Alma Adams",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "NC-13": {
+  "tier": "research_competitive",
+  "name": "Kathy Manning",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "ND-AL": {
+  "tier": "research_open",
+  "name": "Mac Schneider",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+  ]
+ },
+ "NE-1": {
+  "tier": "default_safe_challenger",
+  "name": "Jessica McClure",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NE-2": {
+  "tier": "research_competitive",
+  "name": "Kara Eastman",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "Justice_Democrats_endorsed",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "NE-3": {
+  "tier": "default_safe_challenger",
+  "name": "Paul Theobald",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NH-1": {
+  "tier": "research_competitive",
+  "name": "Chris Pappas",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NH-2": {
+  "tier": "research_competitive",
+  "name": "Annie Kuster",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "NJ-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Donald Norcross",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "NJ-2": {
+  "tier": "research_competitive",
+  "name": "Jeff Van Drew",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NJ-3": {
+  "tier": "research_competitive",
+  "name": "Andy Kim",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+  ]
+ },
+ "NJ-4": {
+  "tier": "research_competitive",
+  "name": "Josh Welle",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NJ-5": {
+  "tier": "research_competitive",
+  "name": "Josh Gottheimer",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "NJ-6": {
+  "tier": "research_competitive",
+  "name": "Frank Pallone",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "NJ-7": {
+  "tier": "research_competitive",
+  "name": "Tom Malinowski",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NJ-8": {
+  "tier": "rule_incumbent_safe",
+  "name": "Albio Sires",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NJ-9": {
+  "tier": "rule_incumbent_safe",
+  "name": "Bill Pascrell",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NJ-10": {
+  "tier": "rule_incumbent_safe",
+  "name": "Donald Payne Jr.",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NJ-11": {
+  "tier": "research_competitive",
+  "name": "Mikie Sherrill",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NJ-12": {
+  "tier": "rule_incumbent_safe",
+  "name": "Bonnie Watson Coleman",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "NM-1": {
+  "tier": "research_competitive",
+  "name": "Deb Haaland",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+  ]
+ },
+ "NM-2": {
+  "tier": "research_competitive",
+  "name": "Xochitl Torres Small",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NM-3": {
+  "tier": "research_competitive",
+  "name": "Ben Ray Luján",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NV-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Dina Titus",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NV-2": {
+  "tier": "research_competitive",
+  "name": "Clint Koble",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NV-3": {
+  "tier": "research_competitive",
+  "name": "Susie Lee",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NV-4": {
+  "tier": "research_competitive",
+  "name": "Steven Horsford",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NY-1": {
+  "tier": "research_competitive",
+  "name": "Perry Gershon",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NY-2": {
+  "tier": "research_competitive",
+  "name": "Liuba Grechen Shirley",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-3": {
+  "tier": "research_competitive",
+  "name": "Thomas Suozzi",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-4": {
+  "tier": "research_competitive",
+  "name": "Kathleen Rice",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "NY-9": {
+  "tier": "rule_incumbent_safe",
+  "name": "Yvette Clarke",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "NY-10": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jerry Nadler",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "NY-11": {
+  "tier": "research_competitive",
+  "name": "Max Rose",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NY-12": {
+  "tier": "rule_incumbent_safe",
+  "name": "Carolyn Maloney",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "NY-13": {
+  "tier": "rule_incumbent_safe",
+  "name": "Adriano Espaillat",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "NY-14": {
+  "tier": "research_open",
+  "name": "Alexandria Ocasio-Cortez",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "NY-15": {
+  "tier": "rule_incumbent_safe",
+  "name": "José E. Serrano",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "NY-18": {
+  "tier": "research_competitive",
+  "name": "Sean Patrick Maloney",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "NY-19": {
+  "tier": "research_competitive",
+  "name": "Antonio Delgado",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NY-20": {
+  "tier": "research_competitive",
+  "name": "Paul Tonko",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-21": {
+  "tier": "research_competitive",
+  "name": "Tedra Cobb",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "NY-22": {
+  "tier": "research_competitive",
+  "name": "Anthony Brindisi",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "NY-23": {
+  "tier": "research_competitive",
+  "name": "Tracy Mitrano",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-24": {
+  "tier": "research_competitive",
+  "name": "Dana Balter",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+  ]
+ },
+ "NY-25": {
+  "tier": "research_competitive",
+  "name": "Joseph Morelle",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-26": {
+  "tier": "rule_incumbent_safe",
+  "name": "Brian Higgins",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-27": {
+  "tier": "default_safe_challenger",
+  "name": "Nate McMurray",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "OH-1": {
+  "tier": "research_competitive",
+  "name": "Aftab Pureval",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "OH-2": {
+  "tier": "research_competitive",
+  "name": "Jill Schiller",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "Joyce Beatty",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-4": {
+  "tier": "default_safe_challenger",
+  "name": "Janet Garrett",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-5": {
+  "tier": "default_safe_challenger",
+  "name": "Michael Galbraith",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-6": {
+  "tier": "default_safe_challenger",
+  "name": "Shawna Roberts",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-7": {
+  "tier": "default_safe_challenger",
+  "name": "Ken Harbaugh",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "OH-8": {
+  "tier": "default_safe_challenger",
+  "name": "Vanessa Enoch",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-9": {
+  "tier": "rule_incumbent_safe",
+  "name": "Marcy Kaptur",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-10": {
+  "tier": "research_competitive",
+  "name": "Theresa Gasper",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-11": {
+  "tier": "rule_incumbent_safe",
+  "name": "Marcia Fudge",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "OH-12": {
+  "tier": "research_competitive",
+  "name": "Danny O'Connor",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-13": {
+  "tier": "research_competitive",
+  "name": "Tim Ryan",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-14": {
+  "tier": "research_competitive",
+  "name": "Betsy Rader",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "OH-15": {
+  "tier": "research_competitive",
+  "name": "Rick Neal",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-16": {
+  "tier": "research_competitive",
+  "name": "Susan Moran Palmer",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-1": {
+  "tier": "research_open",
+  "name": "Tim Gilpin",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-2": {
+  "tier": "default_safe_challenger",
+  "name": "Jason Nichols",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-3": {
+  "tier": "default_safe_challenger",
+  "name": "Frankie Robbins",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-4": {
+  "tier": "default_safe_challenger",
+  "name": "Mary Brannon",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-5": {
+  "tier": "research_competitive",
+  "name": "Kendra Horn",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OR-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Suzanne Bonamici",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "OR-2": {
+  "tier": "default_safe_challenger",
+  "name": "Jamie McLeod-Skinner",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OR-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "Earl Blumenauer",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OR-4": {
+  "tier": "research_competitive",
+  "name": "Peter DeFazio",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "OR-5": {
+  "tier": "research_competitive",
+  "name": "Kurt Schrader",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "PA-1": {
+  "tier": "research_competitive",
+  "name": "Scott Wallace",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "PA-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Brendan Boyle",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "Dwight Evans",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "PA-4": {
+  "tier": "research_open",
+  "name": "Madeleine Dean",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-5": {
+  "tier": "research_open",
+  "name": "Mary Gay Scanlon",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-6": {
+  "tier": "research_competitive",
+  "name": "Chrissy Houlahan",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "PA-7": {
+  "tier": "research_competitive",
+  "name": "Susan Wild",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "PA-8": {
+  "tier": "research_competitive",
+  "name": "Matt Cartwright",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "PA-9": {
+  "tier": "research_open",
+  "name": "Denny Wolff",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+  ]
+ },
+ "PA-10": {
+  "tier": "research_competitive",
+  "name": "George Scott",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "PA-11": {
+  "tier": "research_marker",
+  "name": "Jess King",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "PA-12": {
+  "tier": "default_safe_challenger",
+  "name": "Marc Friedenberg",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-13": {
+  "tier": "research_open",
+  "name": "Brent Ottaway",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-14": {
+  "tier": "research_open",
+  "name": "Bibiana Boerio",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-15": {
+  "tier": "default_safe_challenger",
+  "name": "Susan Boser",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-16": {
+  "tier": "research_marker",
+  "name": "Ron DiNicola",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "PA-17": {
+  "tier": "research_competitive",
+  "name": "Conor Lamb",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "RI-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "David Cicilline",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "RI-2": {
+  "tier": "research_competitive",
+  "name": "James Langevin",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-1": {
+  "tier": "research_competitive",
+  "name": "Joe Cunningham",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "SC-2": {
+  "tier": "research_competitive",
+  "name": "Sean Carrigan",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-3": {
+  "tier": "default_safe_challenger",
+  "name": "Mary Geren",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-4": {
+  "tier": "research_open",
+  "name": "Brandon Brown",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-5": {
+  "tier": "research_competitive",
+  "name": "Archie Parnell",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-6": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jim Clyburn",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-7": {
+  "tier": "research_competitive",
+  "name": "Robert Williams",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SD-AL": {
+  "tier": "research_open",
+  "name": "Tim Bjorkman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-1": {
+  "tier": "default_safe_challenger",
+  "name": "Marty Olsen",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-2": {
+  "tier": "research_open",
+  "name": "Renee Hoyos",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-3": {
+  "tier": "default_safe_challenger",
+  "name": "Danielle Mitchell",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-4": {
+  "tier": "default_safe_challenger",
+  "name": "Mariah Phillips",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-5": {
+  "tier": "research_competitive",
+  "name": "Jim Cooper",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "TN-6": {
+  "tier": "research_open",
+  "name": "Dawn Barlow",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-7": {
+  "tier": "research_open",
+  "name": "Justin Kanew",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-8": {
+  "tier": "default_safe_challenger",
+  "name": "Erika Stotts Pearson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-9": {
+  "tier": "rule_incumbent_safe",
+  "name": "Steve Cohen",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "TX-1": {
+  "tier": "default_safe_challenger",
+  "name": "Shirley McKellar",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-2": {
+  "tier": "research_competitive",
+  "name": "Todd Litton",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "TX-3": {
+  "tier": "research_competitive",
+  "name": "Lorie Burch",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "TX-4": {
+  "tier": "default_safe_challenger",
+  "name": "Catherine Krantz",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-5": {
+  "tier": "research_open",
+  "name": "Dan Wood",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-6": {
+  "tier": "research_competitive",
+  "name": "Jana Lynne Sanchez",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-7": {
+  "tier": "research_competitive",
+  "name": "Lizzie Fletcher",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "TX-8": {
+  "tier": "default_safe_challenger",
+  "name": "Steven David",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-10": {
+  "tier": "research_competitive",
+  "name": "Mike Siegel",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "TX-11": {
+  "tier": "default_safe_challenger",
+  "name": "Jennie Lou Leeder",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-12": {
+  "tier": "research_marker",
+  "name": "Vanessa Adia",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "TX-13": {
+  "tier": "default_safe_challenger",
+  "name": "Greg Sagan",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-14": {
+  "tier": "research_marker",
+  "name": "Adrienne Bell",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "TX-15": {
+  "tier": "research_competitive",
+  "name": "Vicente Gonzalez",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+  ]
+ },
+ "TX-16": {
+  "tier": "research_open",
+  "name": "Veronica Escobar",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+  ]
+ },
+ "TX-17": {
+  "tier": "research_competitive",
+  "name": "Rick Kennedy",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-18": {
+  "tier": "rule_incumbent_safe",
+  "name": "Sheila Jackson Lee",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "TX-19": {
+  "tier": "default_safe_challenger",
+  "name": "Miguel Levario",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-21": {
+  "tier": "research_competitive",
+  "name": "Joseph Kopser",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "TX-22": {
+  "tier": "research_competitive",
+  "name": "Sri Preston Kulkarni",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-23": {
+  "tier": "research_competitive",
+  "name": "Gina Ortiz Jones",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-24": {
+  "tier": "research_competitive",
+  "name": "Jan McDowell",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-25": {
+  "tier": "research_competitive",
+  "name": "Julie Oliver",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-26": {
+  "tier": "research_marker",
+  "name": "Linsey Fagan",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "TX-27": {
+  "tier": "research_marker",
+  "name": "Eric Holguin",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "TX-29": {
+  "tier": "research_open",
+  "name": "Sylvia Garcia",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-31": {
+  "tier": "research_competitive",
+  "name": "MJ Hegar",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "TX-32": {
+  "tier": "research_competitive",
+  "name": "Colin Allred",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "TX-33": {
+  "tier": "rule_incumbent_safe",
+  "name": "Marc Veasey",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-34": {
+  "tier": "research_marker",
+  "name": "Filemon Vela Jr.",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+  ]
+ },
+ "TX-35": {
+  "tier": "rule_incumbent_safe",
+  "name": "Lloyd Doggett",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "TX-36": {
+  "tier": "default_safe_challenger",
+  "name": "Dayna Steele",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "UT-2": {
+  "tier": "research_competitive",
+  "name": "Shireen Ghorbani",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "UT-3": {
+  "tier": "research_marker",
+  "name": "James Singer",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "UT-4": {
+  "tier": "research_competitive",
+  "name": "Ben McAdams",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "VA-1": {
+  "tier": "research_competitive",
+  "name": "Vangie Williams",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "VA-2": {
+  "tier": "research_competitive",
+  "name": "Elaine Luria",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "VA-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Donald McEachin",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "VA-5": {
+  "tier": "research_competitive",
+  "name": "Leslie Cockburn",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "VA-6": {
+  "tier": "research_open",
+  "name": "Jennifer Lewis",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "VA-7": {
+  "tier": "research_competitive",
+  "name": "Abigail Spanberger",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "VA-8": {
+  "tier": "rule_incumbent_safe",
+  "name": "Don Beyer",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "VA-9": {
+  "tier": "research_marker",
+  "name": "Anthony Flaccavento",
+  "incumbent": false,
+  "markers": [
+   "Our Revolution"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+  ]
+ },
+ "VA-10": {
+  "tier": "research_competitive",
+  "name": "Jennifer Wexton",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "VA-11": {
+  "tier": "rule_incumbent_safe",
+  "name": "Gerry Connolly",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "VT-AL": {
+  "tier": "rule_incumbent_safe",
+  "name": "Peter Welch",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "WA-1": {
+  "tier": "research_competitive",
+  "name": "Suzan DelBene",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "WA-3": {
+  "tier": "research_competitive",
+  "name": "Carolyn Long",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "WA-4": {
+  "tier": "default_safe_challenger",
+  "name": "Christine Brown",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WA-5": {
+  "tier": "research_competitive",
+  "name": "Lisa Brown",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "WA-6": {
+  "tier": "research_competitive",
+  "name": "Derek Kilmer",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "WA-7": {
+  "tier": "research_marker",
+  "name": "Pramila Jayapal",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "WA-8": {
+  "tier": "research_competitive",
+  "name": "Kim Schrier",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "WA-10": {
+  "tier": "research_competitive",
+  "name": "Denny Heck",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "WI-1": {
+  "tier": "research_competitive",
+  "name": "Randy Bryce",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "Justice_Democrats_endorsed",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+  ]
+ },
+ "WI-3": {
+  "tier": "research_competitive",
+  "name": "Ron Kind",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+  ]
+ },
+ "WI-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Gwen Moore",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+  ]
+ },
+ "WI-5": {
+  "tier": "default_safe_challenger",
+  "name": "Tom Palzewicz",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WI-6": {
+  "tier": "research_competitive",
+  "name": "Dan Kohl",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "WI-7": {
+  "tier": "default_safe_challenger",
+  "name": "Margaret Engebretson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WI-8": {
+  "tier": "research_competitive",
+  "name": "Beau Liegeois",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WV-1": {
+  "tier": "default_safe_challenger",
+  "name": "Kendra Fershee",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WV-2": {
+  "tier": "default_safe_challenger",
+  "name": "Talley Sergent",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WV-3": {
+  "tier": "research_open",
+  "name": "Richard Ojeda",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+  ]
+ },
+ "WY-AL": {
+  "tier": "default_safe_challenger",
+  "name": "Greg Hunter",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ }
+}

@@ -1,0 +1,1948 @@
+{
+ "as_of": "2026-11-04T11:27:00-05:00",
+ "scope": "Alabama (7), Mississippi (4), Louisiana (6) - check for map changes after Louisiana v. Callais and the switch to closed primaries; South Carolina (7), Tennessee (9)",
+ "expected_rows": 33,
+ "method_notes": "Results: NBC News district pages (AP data, NBC Decision Desk), read ~10:59-11:06 AM ET Nov 4; percentages only (NBC per-candidate vote cells displayed 0). other_pct = 100 - dem_pct - rep_pct (residual). Calls: NBC shows no per-race call marker in fetched text; NBC house-results page lists uncalled counts AL 0, MS 0, LA 2, SC 2, TN 2, and the six races with NBC 'would need X% of remaining vote' text (TN-4, TN-9, SC-1, SC-2, LA-5, LA-6) match those counts exactly, so all other races are recorded as called by NBC (inferred). Baselines: unless noted, pres2024_margin = NBC margin minus NBC's stated 'shifted X points toward Democrats compared with the 2024 presidential election' figure, i.e. derived, not independently reported; NBC's shift may be two-party based; cross-checked against Wikipedia/Dave's Redistricting rounded figures where available. overperformance_vs_pres2024 therefore equals NBC's stated shift in those rows. Maps: AL redrew districts 1, 2, 6, 7 in May 2026 after Louisiana v. Callais (SCOTUS allowed use June 2); LA enacted SB 121 (May 29, 2026) eliminating one of two Black-plurality Democratic seats and moved House races to a Nov 3 jungle primary (runoff Dec 12) - not a closed primary; TN enacted HB 7003 (May 7, 2026) cracking Memphis (TN-9); SC House passed a VRA-redraw but SC Senate did not advance it, old map stands; MS map unchanged.",
+ "races": [
+  {
+   "id": "AL-1",
+   "office": "House",
+   "state": "AL",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Clyde Jones",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Campaign site: 'serving people over corporate pacs', attacks 'sold out politician', 'healthcare for all', ACA defense, criticizes ICE; 21-yr Army combat vet, Bronze Star; Alabama AFL-CIO endorsement.",
+    "background": "Retired Army first sergeant, chemical-plant safety coordinator, Baptist associate minister",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Nominee in both the nullified May primary and the Aug 11 special primary under new map."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jerry Carl",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 40.9,
+    "rep_pct": 59.1,
+    "other_pct": 0.0,
+    "margin": -18.2,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -36.41,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.21,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alabama-us-house-district-1-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+    "https://clydeforcongress.com/",
+    "https://www.nbcnews.com/politics/2026-elections/house-results"
+   ],
+   "notes": "Open: Barry Moore (R) left seat. New map puts all of Mobile and Baldwin in AL-1. pres2024 derived from NBC shift (18.21 pts toward D); Cook PVI R+17 on new lines. Carl is a former US rep (2021-25), Trump-endorsed in primary. VERIFY: NBC re-read 11:24 AM ET unchanged (59.1/40.9, 99% in). Campaign site confirms no-corporate-PAC pledge and anti-establishment framing.",
+   "verified": true
+  },
+  {
+   "id": "AL-2",
+   "office": "House",
+   "state": "AL",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Shomari Figures",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition member (Transportation Task Force chair), CBC, Future Forum; also Medicare for All cosponsor; ex-Obama campaign/DOJ aide; endorsed by AFL-CIO, NEA, UMWA, LCV, Planned Parenthood, Alabama Realtors PAC.",
+    "background": "First-term incumbent; former Obama administration and DOJ aide",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Renominated in Aug 11 special primary after May map redraw."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rhett Marques",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 53.8,
+    "rep_pct": 46.2,
+    "other_pct": 0.0,
+    "margin": 7.6,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -14.37,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 21.97,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alabama-us-house-district-2-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+    "https://en.wikipedia.org/wiki/Shomari_Figures",
+    "https://en.wikipedia.org/wiki/Alabama%27s_2nd_congressional_district",
+    "https://www.nbcnews.com/politics/2026-elections/house-results",
+    "https://yellowhammernews.com/shomari-figures-defeats-rhett-marques-in-alabamas-2nd-congressional-district-keeping-the-seat-in-democratic-hands-after-another-redrawing-of-the-map/"
+   ],
+   "notes": "Post-Callais map turned Figures's Harris+8 seat (old lines: Harris 53.4-45.3) into a Trump-won seat (Cook PVI R+7); pre-election ratings Lean/Tilt R flip (Cook, DDHQ, Inside) but Figures held. pres2024 derived from NBC shift. Marques is a state rep, Trump-endorsed. VERIFY: Yellowhammer News (AP data, 91% counted) confirms 53.8-46.2; Marques (Trump- and Britt-endorsed) conceded election night. Wikipedia confirms New Dem/CBC/Future Forum and M4A cosponsorship.",
+   "verified": true
+  },
+  {
+   "id": "AL-3",
+   "office": "House",
+   "state": "AL",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lee McInnis",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; endorsements limited to Alabama AFL-CIO and UMWA COMPAC; no caucus or ideological-group signal found.",
+    "background": "Retired Defense Intelligence Agency employee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Rogers",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 36.0,
+    "rep_pct": 64.0,
+    "other_pct": 0.0,
+    "margin": -28.0,
+    "pct_expected_vote_counted": 96.7,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -46.5,
+    "lines": "2024_same",
+    "house2024_margin": -97.93,
+    "prev_seat_margin": -97.93,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.5,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alabama-us-house-district-3-results",
+    "https://en.wikipedia.org/wiki/Alabama%27s_3rd_congressional_district",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "notes": "Lines unchanged (not in Aug special primaries). pres2024 from Wikipedia/DRA table (Trump 72.7, Harris 26.2). NBC states shift of 19.13 pts toward D (its baseline appears two-party). Rogers unopposed in 2024, so house2024 margin recorded as -100. VERIFY: house2024/prev_seat margin corrected from -100 to -97.93 (D 0 minus R share; Rogers 97.93%, write-ins 2.07%, no D, per Wikipedia 2024 results table). VERIFY: Trump 72.7 / Harris 26.2 confirmed.",
+   "verified": true
+  },
+  {
+   "id": "AL-4",
+   "office": "House",
+   "state": "AL",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Amanda Pusczek",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Registered nurse; endorsed by Alabama AFL-CIO, UMWA COMPAC and CAIR Action; won primary 62.8-37.2; no ideological branding found.",
+    "background": "Registered nurse",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Shane Weaver 62.8-37.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Robert Aderholt",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 25.1,
+    "rep_pct": 74.9,
+    "other_pct": 0.0,
+    "margin": -49.8,
+    "pct_expected_vote_counted": 98.9,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -66.3,
+    "lines": "2024_same",
+    "house2024_margin": -98.79,
+    "prev_seat_margin": -98.79,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.5,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alabama-us-house-district-4-results",
+    "https://en.wikipedia.org/wiki/Alabama%27s_4th_congressional_district",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "notes": "Lines unchanged. pres2024 from Wikipedia/DRA (Trump 82.6, Harris 16.3); NBC states shift 17.2 pts toward D. Aderholt unopposed in 2024 (house2024 = -100). VERIFY: house2024/prev_seat margin corrected from -100 to -98.79 (D 0 minus R share; Aderholt 98.79%, write-ins 1.21%, no D, per Wikipedia 2024 results table). VERIFY: Trump 82.6 / Harris 16.3 confirmed.",
+   "verified": true
+  },
+  {
+   "id": "AL-5",
+   "office": "House",
+   "state": "AL",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Andrew Sneed",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Mechanical contractor (tradesperson biography); endorsed by Alabama AFL-CIO, UMWA, AFGE, Alabama Democratic Conference; no populist/ideological branding verified.",
+    "background": "Mechanical contractor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won runoff 78.4-21.6 over Candace Dollar Duvieilh."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Dale Strong",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.8,
+    "rep_pct": 53.2,
+    "other_pct": 0.0,
+    "margin": -6.4,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.0,
+    "lines": "2024_same",
+    "house2024_margin": -95.39,
+    "prev_seat_margin": -95.39,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 22.6,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alabama-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/Alabama%27s_5th_congressional_district",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "notes": "Huntsville seat; lines unchanged. pres2024 from Wikipedia/DRA (Trump 63.6, Harris 34.6); NBC states shift 23.02 pts toward D. Strong unopposed 2024. Surprisingly close for a Trump+29 seat. VERIFY: house2024/prev_seat margin corrected from -100 to -95.39 (D 0 minus R share; Strong 95.39%, write-ins 4.61%, no D, per Wikipedia 2024 results table). VERIFY: Trump 63.6 / Harris 34.6 confirmed.",
+   "verified": true
+  },
+  {
+   "id": "AL-6",
+   "office": "House",
+   "state": "AL",
+   "district": 6,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Maurice Mercer",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former Pelham City Council president; Alabama AFL-CIO endorsement; won special primary 64.2%; no ideological branding found.",
+    "background": "Former Pelham City Council president",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Aug 11 special primary under new map."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Gary Palmer",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 42.5,
+    "rep_pct": 57.5,
+    "other_pct": 0.0,
+    "margin": -15.0,
+    "pct_expected_vote_counted": 98.3,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -34.85,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 19.85,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alabama-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+   ],
+   "notes": "Minor change (half of Elmore County moved to AL-2). pres2024 derived from NBC shift; old-lines Wikipedia figure Trump 68.6-29.7."
+  },
+  {
+   "id": "AL-7",
+   "office": "House",
+   "state": "AL",
+   "district": 7,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Terri Sewell",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Long-serving incumbent; endorsed by AFL-CIO, NEA, UMWA, AFGE and also the U.S. Chamber of Commerce and Alabama Realtors PAC; conventional institutional profile.",
+    "background": "Veteran incumbent, Black Belt/Birmingham VRA seat",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ammie Akin",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 69.4,
+    "rep_pct": 30.6,
+    "other_pct": 0.0,
+    "margin": 38.8,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 17.99,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 20.81,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alabama-us-house-district-7-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama",
+    "https://en.wikipedia.org/wiki/Alabama%27s_7th_congressional_district"
+   ],
+   "notes": "Tier 1 because new-lines pres margin is within 20. Gained Monroe/Conecuh, lost Lowndes. pres2024 derived from NBC shift; Cook PVI D+10; old-lines Harris 61.3-37.4. VERIFY: NBC re-read 11:24 AM ET unchanged (69.4/30.6, 99% in). Wikipedia confirms Monroe/Conecuh gained, Lowndes ceded.",
+   "verified": true
+  },
+  {
+   "id": "MS-1",
+   "office": "House",
+   "state": "MS",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Cliff Johnson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Director of Ole Miss law school's MacArthur Justice Center (civil-rights litigator); raised $551K; no caucus or ideological-group endorsements found.",
+    "background": "Civil-rights lawyer, MacArthur Justice Center director at Ole Miss",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Trent Kelly",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 39.9,
+    "rep_pct": 58.7,
+    "other_pct": 1.4,
+    "margin": -18.8,
+    "pct_expected_vote_counted": 95.9,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -37.51,
+    "lines": "2024_same",
+    "house2024_margin": -39.62,
+    "prev_seat_margin": -39.62,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.71,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/mississippi-us-house-district-1-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi",
+    "https://en.wikipedia.org/wiki/Mississippi%27s_1st_congressional_district",
+    "https://mississippitoday.org/2026/11/03/mississippi-us-house-incumbents-all-reelected/"
+   ],
+   "notes": "Map unchanged. pres2024 derived from NBC shift; consistent with Wikipedia rounded Trump 68-31. 2024 House: Kelly 69.81, Black 30.19. VERIFY: Mississippi Today headline confirms all four MS incumbents re-elected. 2024 House 69.81-30.19 and Trump 68-31 confirmed on Wikipedia.",
+   "verified": true
+  },
+  {
+   "id": "MS-2",
+   "office": "House",
+   "state": "MS",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bennie Thompson",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Long-time incumbent (Homeland Security ranking Democrat); endorsed by UAW and SPLC Action Fund; conventional party-line profile.",
+    "background": "Long-serving incumbent, Mississippi Delta VRA seat",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ron Eller",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "weak_fundraising"
+    ]
+   },
+   "result": {
+    "dem_pct": 67.6,
+    "rep_pct": 30.0,
+    "other_pct": 2.4,
+    "margin": 37.6,
+    "pct_expected_vote_counted": 95.1,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 20.65,
+    "lines": "2024_same",
+    "house2024_margin": 24.04,
+    "prev_seat_margin": 24.04,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.95,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/mississippi-us-house-district-2-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi",
+    "https://en.wikipedia.org/wiki/Mississippi%27s_2nd_congressional_district",
+    "https://mississippitoday.org/2026/11/03/mississippi-us-house-incumbents-all-reelected/"
+   ],
+   "notes": "Map unchanged (no post-Callais redraw before Mar 10 primary). pres2024 derived from NBC shift; Wikipedia rounded Harris 60-39. Just outside the 20-pt tier-1 band. 2024 House: Thompson 62.02, Eller 37.98. VERIFY: 2024 House 62.02-37.98 confirmed (Wikipedia). Incumbent re-elected per Mississippi Today.",
+   "verified": true
+  },
+  {
+   "id": "MS-3",
+   "office": "House",
+   "state": "MS",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Michael Chiaradio",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Regenerative farmer, first-time candidate; raised $155K; no endorsements or ideological branding found.",
+    "background": "Regenerative farmer",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michael Guest",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 41.0,
+    "rep_pct": 57.8,
+    "other_pct": 1.2,
+    "margin": -16.8,
+    "pct_expected_vote_counted": 95,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.0,
+    "lines": "2024_same",
+    "house2024_margin": -100.0,
+    "prev_seat_margin": -100.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.2,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/mississippi-us-house-district-3-results",
+    "https://en.wikipedia.org/wiki/Mississippi%27s_3rd_congressional_district",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi",
+    "https://mississippitoday.org/2026/11/03/mississippi-us-house-incumbents-all-reelected/"
+   ],
+   "notes": "NBC page gave no shift sentence for this race. pres2024 from Wikipedia rounded whole numbers (Trump 64, Harris 35), so overperformance is approximate (+/-1). Guest unopposed in 2024 (house2024 = -100). VERIFY: Guest 100% unopposed in 2024 with no write-ins listed, so -100 is correct. Re-elected per Mississippi Today.",
+   "verified": true
+  },
+  {
+   "id": "MS-4",
+   "office": "House",
+   "state": "MS",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jeffrey Hulum III",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "State representative (HD-119, Gulfport) since 2022; raised only $29K; no ideological branding found.",
+    "background": "Mississippi state representative from Gulfport",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Ezell",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 35.8,
+    "rep_pct": 61.1,
+    "other_pct": 3.1,
+    "margin": -25.3,
+    "pct_expected_vote_counted": 96.4,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count = 0)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -43.02,
+    "lines": "2024_same",
+    "house2024_margin": -47.9,
+    "prev_seat_margin": -47.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.72,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/mississippi-us-house-district-4-results",
+    "https://en.wikipedia.org/wiki/Mississippi%27s_4th_congressional_district",
+    "https://en.wikipedia.org/wiki/Jeffrey_Hulum_III",
+    "https://mississippitoday.org/2026/11/03/mississippi-us-house-incumbents-all-reelected/"
+   ],
+   "notes": "pres2024 derived from NBC shift; Wikipedia rounded Trump 71-28. Independent Carl Boyanton 3.1%. 2024 House: Ezell 73.95, Raybon 26.05. VERIFY: 2024 House 73.95-26.05 confirmed (Wikipedia). Re-elected per Mississippi Today.",
+   "verified": true
+  },
+  {
+   "id": "LA-1",
+   "office": "House",
+   "state": "LA",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lauren Jewett",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Endorsed by New Orleans DSA, Louisiana AFL-CIO, NOW; site rejects 'Washington political class', runs against 'big money and a broken system', cost-of-living focus; Medicare for All not stated.",
+    "background": "Education advocate, 17 years working with Louisiana students and families",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Jungle primary on Nov 3; other Democrats (Long, Major, Pagel) withdrew."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Steve Scalise",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 33.9,
+    "rep_pct": 60.7,
+    "other_pct": 5.4,
+    "margin": -26.8,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred; Scalise over 50%, no runoff)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -39.09,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 12.29,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/louisiana-us-house-district-1-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+    "https://www.laurenjewett.com/",
+    "https://www.theadvocate.com/baton_rouge/news/politics/elections/midterm-results-louisiana-key-races/article_75684b97-6ba1-5c01-bd66-75cfe5924283.html"
+   ],
+   "notes": "Tier 1 as a DSA-endorsed style case. Jungle primary (all parties on Nov 3 ballot); Scalise (House Majority Leader) won outright. other_pct includes R Randall Arrington 3.7. pres2024 derived from NBC shift (NBC compares top D vs top R); Wikipedia rounded Trump 68-30. VERIFY: The Advocate confirms Scalise won outright. Wikipedia confirms New Orleans DSA, Louisiana AFL-CIO, NOW endorsements (describes Jewett as a special education teacher). Caveat: margin/overperformance are Scalise vs Jewett only; a second Republican (Arrington, 3.7) is excluded, so the all-R vs all-D margin would be about 3.7 pts worse for Democrats. NBC 11:24 AM ET unchanged.",
+   "verified": true
+  },
+  {
+   "id": "LA-2",
+   "office": "House",
+   "state": "LA",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Troy Carter",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; endorsed by J Street, Planned Parenthood Action Fund, SPLC Action Fund; conventional party profile.",
+    "background": "Incumbent, New Orleans-Baton Rouge seat",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Jungle primary; also on ballot D Renada Collins."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Peter Williams",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "weak_fundraising"
+    ]
+   },
+   "result": {
+    "dem_pct": 79.9,
+    "rep_pct": 15.1,
+    "other_pct": 5.0,
+    "margin": 64.8,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (inferred; Carter over 50%, no runoff)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 48.71,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 16.09,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/louisiana-us-house-district-2-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+    "https://en.wikipedia.org/wiki/Louisiana%27s_2nd_congressional_district"
+   ],
+   "notes": "Now Louisiana's only Black-plurality Democratic seat under SB 121 map. pres2024 derived from NBC shift (top-candidate basis). Libertarian Lisa Ballay 2.7."
+  },
+  {
+   "id": "LA-3",
+   "office": "House",
+   "state": "LA",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "John Day",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former insurance-industry employee; top Democrat in a field with Caleb Walker (8.5) and Priscilla Gonzalez; no ideological branding found.",
+    "background": "Former insurance industry employee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Jungle primary; Democratic vote split among Day, Walker, Gonzalez."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Clay Higgins",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 20.9,
+    "rep_pct": 55.0,
+    "other_pct": 24.1,
+    "margin": -34.1,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred; Higgins over 50%, no runoff)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -36.69,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/louisiana-us-house-district-3-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "notes": "Jungle primary: margin is top D vs top R only, so overperformance left null (NBC states 2.59-pt shift toward D on that top-candidate basis; not comparable). other_pct includes Walker (D) 8.5 and others. pres2024 derived from NBC shift."
+  },
+  {
+   "id": "LA-4",
+   "office": "House",
+   "state": "LA",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Conrad Cable",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Louisiana Democratic Party endorsement; raised $1.84M vs Speaker Johnson; no ideological branding found.",
+    "background": "Democratic Party-endorsed challenger to Speaker Johnson",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Jungle primary; D vote split with Matt Gromlich (14.3)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Johnson",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 23.0,
+    "rep_pct": 58.5,
+    "other_pct": 18.5,
+    "margin": -35.5,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred; Johnson over 50%, no runoff)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -34.56,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/louisiana-us-house-district-4-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+    "https://www.theadvocate.com/baton_rouge/news/politics/elections/midterm-results-louisiana-key-races/article_75684b97-6ba1-5c01-bd66-75cfe5924283.html"
+   ],
+   "notes": "Speaker Mike Johnson. NBC states race 'shifted 0.94 points toward Republicans' on a top-D-vs-top-R basis, an artifact of the split Democratic field (Cable 23.0 + Gromlich 14.3); overperformance left null. pres2024 derived from NBC shift; new lines likely added Shreveport Black precincts from dismantled LA-6 (unverified). VERIFY: The Advocate confirms Johnson won outright; shares not independently confirmed.",
+   "verified": true
+  },
+  {
+   "id": "LA-5",
+   "office": "House",
+   "state": "LA",
+   "district": 5,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Patricia Moore",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "State representative (HD-17, Monroe) since 2019; consolidated Democratic vote to top a fragmented jungle field; no ideological-group endorsements found.",
+    "background": "Louisiana state representative from Monroe",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Jungle primary with Dems Dan McKay and Antonio Wilson and six Republicans."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Gabe Firment",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 17.9,
+    "rep_pct": 17.2,
+    "other_pct": 64.9,
+    "margin": 0.7,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -34.42,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/louisiana-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+    "https://www.nbcnews.com/politics/2026-elections/house-results",
+    "https://www.theadvocate.com/baton_rouge/news/politics/elections/midterm-results-louisiana-key-races/article_75684b97-6ba1-5c01-bd66-75cfe5924283.html"
+   ],
+   "notes": "Open (Julia Letlow ran for Senate). Heading to Dec 12 runoff: Moore 17.9, Firment (R, state rep) 17.2, Cordell (R) 14.6; remaining R candidates (Cathey, Echols, etc.) not captured. Republicans' combined share far exceeds Democrats', so runoff favors R. Margin and NBC's 35.12 'shift' are top-candidate artifacts; overperformance null. pres2024 derived from NBC shift. VERIFY: The Advocate lists the race as going to a runoff, with Pat Moore (D) and Gabe Firment (R) highlighted as advancing. NBC 11:24 AM ET unchanged (17.9/17.2/Cordell 14.6, 99% in).",
+   "verified": true
+  },
+  {
+   "id": "LA-6",
+   "office": "House",
+   "state": "LA",
+   "district": 6,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chauna Banks",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former East Baton Rouge Metro Councilor; led a fragmented field ahead of Dems Pat Forbes (Landrieu/John Bel Edwards-endorsed) and Lindsay Garcia (state party-endorsed); no ideological branding found.",
+    "background": "Former East Baton Rouge Parish Metro Councilor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Jungle primary; incumbent Cleo Fields withdrew to run for state senate."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Blake Miguez",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 19.4,
+    "rep_pct": 19.2,
+    "other_pct": 61.4,
+    "margin": 0.2,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -32.45,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/louisiana-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana",
+    "https://en.wikipedia.org/wiki/Louisiana%27s_6th_congressional_district",
+    "https://www.nbcnews.com/politics/2026-elections/house-results",
+    "https://www.theadvocate.com/baton_rouge/news/politics/elections/midterm-results-louisiana-key-races/article_75684b97-6ba1-5c01-bd66-75cfe5924283.html"
+   ],
+   "notes": "Post-Callais SB 121 dismantled Fields's Black-plurality seat (old lines Harris 57-42; new lines Trump 65-33 per Wikipedia/DRA, consistent with derived R+32.45). Banks 19.4, Miguez (R, Trump-endorsed in earlier Senate bid, Club for Growth) 19.2, Edmonds (R) 18.8; Dec 12 runoff likely an R gain. Ratings: Safe/Solid R flip. VERIFY: The Advocate lists the race as going to a runoff with Banks (D) and Miguez (R) highlighted. NBC 11:24 AM ET unchanged (19.4/19.2/Edmonds 18.8); NBC shift now stated as 32.65, consistent with derived pres2024 -32.45.",
+   "verified": true
+  },
+  {
+   "id": "SC-1",
+   "office": "House",
+   "state": "SC",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Nancy Lacore",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Endorsed by Blue Dog PAC, NewDem Action Fund, DCCC Red to Blue, Mark Kelly, Mikie Sherrill, Adam Gray; retired vice admiral/Chief of Navy Reserve; campaign centered on service record.",
+    "background": "Retired Navy vice admiral, former Chief of Navy Reserve",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won runoff 52.1-47.9 over 2024 nominee Mac Deford; ideological contrast not documented."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jenny Costa Honeycutt",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 49.7,
+    "rep_pct": 48.6,
+    "other_pct": 1.7,
+    "margin": 1.1,
+    "pct_expected_vote_counted": 98.9,
+    "called": "D",
+    "called_by": "Not called by NBC as of 11:24 AM ET Nov 4; Honeycutt conceded Nov 4 (Post and Courier), so treated as decided",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -13.11,
+    "lines": "2024_same",
+    "house2024_margin": -16.6,
+    "prev_seat_margin": -16.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.21,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-carolina-us-house-district-1-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+    "https://en.wikipedia.org/wiki/Nancy_Lacore",
+    "https://www.nancylacore.com/",
+    "https://en.wikipedia.org/wiki/South_Carolina%27s_1st_congressional_district",
+    "https://www.nbcnews.com/politics/2026-elections/house-results",
+    "https://www.postandcourier.com/politics/nancy-lacore-1st-district-sc-election-result/article_f13cf1d0-a0d6-4891-98a7-3eb69d8d94bc.html"
+   ],
+   "notes": "Open (Nancy Mace ran for governor). Uncalled: Honeycutt (Trump-endorsed Charleston County councilor) needs 95.1% of ~3,700 remaining votes per NBC, so Lacore is very likely to flip it; Wikipedia already lists her as member-elect. Cook final rating Tossup. pres2024 derived from NBC shift; Wikipedia rounded Trump 56-43. 2024 House: Mace 58.2, Moore 41.6. VERIFY: Post and Courier (SC Election Commission unofficial count): Lacore 49.65%, margin 3,308 votes of 326,012, Libertarian Reeside 5,346 votes; its Honeycutt figure (49.64%) is inconsistent with the 3,308-vote margin and looks like a typo, so NBC shares kept. NBC 11:24 AM ET unchanged (49.7/48.6, 98.9% in). Wikipedia confirms Blue Dog PAC, NewDem Action Fund, DCCC Red to Blue, NEA endorsements.",
+   "verified": true
+  },
+  {
+   "id": "SC-2",
+   "office": "House",
+   "state": "SC",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Zyon Khalifa",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Site stresses nonpartisanship ('I'm not here to represent a party'); 25-year-old Air Force Reservist; no group endorsements listed on Wikipedia; minimal fundraising.",
+    "background": "Air Force Reservist (38th Aerial Port Squadron, Joint Base Charleston), age 25; youngest congressional nominee in SC history",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won runoff 53.8-46.2 over 2024 nominee David Robinson."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joe Wilson",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.8,
+    "rep_pct": 49.8,
+    "other_pct": 1.4,
+    "margin": -1.0,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -14.11,
+    "lines": "2024_same",
+    "house2024_margin": -19.2,
+    "prev_seat_margin": -19.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.11,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-carolina-us-house-district-2-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+    "https://www.khalifaforcongress.com/",
+    "https://en.wikipedia.org/wiki/South_Carolina%27s_2nd_congressional_district",
+    "https://www.nbcnews.com/politics/2026-elections/house-results",
+    "https://www.postandcourier.com/columbia/news/joe-wilson-sc-house-district-2/article_7a886c0a-b8c7-43f6-ab2c-0ace21234871.html"
+   ],
+   "notes": "Uncalled; NBC says Khalifa would need 100% of ~3,000 remaining votes, so Wilson is effectively re-elected. Low-budget nominee nearly beat a 13-term incumbent. Style read is thin (campaign site lacked platform text). pres2024 derived from NBC shift; Wikipedia rounded Trump 56-42. VERIFY: Background corrected: prior 'attorney and Air Force veteran' not supported; Post and Courier describes him as 25 and an Air Force Reserves member. Post and Courier: Wilson 49.84, Khalifa 48.81 with 100% of counties reporting (consistent with NBC 49.8/48.8); still no call. NBC 11:24 AM ET unchanged.",
+   "verified": true
+  },
+  {
+   "id": "SC-3",
+   "office": "House",
+   "state": "SC",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Eunice Lehmacher",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Social worker and former state-house nominee; National Women's Political Caucus endorsement; no ideological branding found.",
+    "background": "Social worker, former state house nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Sheri Biggs",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 34.4,
+    "rep_pct": 63.7,
+    "other_pct": 1.9,
+    "margin": -29.3,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -43.61,
+    "lines": "2024_same",
+    "house2024_margin": -46.4,
+    "prev_seat_margin": -46.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.31,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-carolina-us-house-district-3-results",
+    "https://en.wikipedia.org/wiki/South_Carolina%27s_3rd_congressional_district",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "notes": "pres2024 derived from NBC shift; Wikipedia rounded Trump 71-28. 2024 House: Biggs 71.7, Best 25.3. VERIFY: 2024 House Biggs 71.7, Best 25.3 confirmed (Wikipedia).",
+   "verified": true
+  },
+  {
+   "id": "SC-4",
+   "office": "House",
+   "state": "SC",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Courtney McClain",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Endorsed by SC Working Families Party, NEA, NWPC; site: 'Affordable Healthcare is a Right', housing, cost of living; no Medicare for All, DSA or corporate-PAC pledge found.",
+    "background": "Political organizer from Spartanburg",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed for nomination."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "William Timmons",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 45.6,
+    "rep_pct": 51.7,
+    "other_pct": 2.7,
+    "margin": -6.1,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.99,
+    "lines": "2024_same",
+    "house2024_margin": -22.5,
+    "prev_seat_margin": -22.5,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.89,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-carolina-us-house-district-4-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+    "https://www.mcclainforsc.com/",
+    "https://en.wikipedia.org/wiki/South_Carolina%27s_4th_congressional_district"
+   ],
+   "notes": "Tier 1 as a WFP-endorsed style case, though she is not a clear left insurgent. Raised under $20K by May. pres2024 derived from NBC shift; Wikipedia rounded Trump 61-37. 2024 House: Timmons 59.7, Harvey 37.2. VERIFY: NBC re-read 11:24 AM ET unchanged; independent Jessica Ethridge 2.5% (residual other_pct 2.7 includes rounding). Wikipedia confirms SC WFP, NEA, NWPC endorsements.",
+   "verified": true
+  },
+  {
+   "id": "SC-5",
+   "office": "House",
+   "state": "SC",
+   "district": 5,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mallory Dittmer",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "Site says party labels don't matter, 'stop bickering, do the work', 'Order at the Border', campaign-finance reform, grassroots vs 'political machine'; NEA endorsement; no Blue Dog or centrist-group endorsement.",
+    "background": "Branding consultant and parent, first-time candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Andrew Clough 55.8-44.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Wes Climer",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 47.1,
+    "rep_pct": 52.8,
+    "other_pct": 0.1,
+    "margin": -5.7,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.06,
+    "lines": "2024_same",
+    "house2024_margin": -27.2,
+    "prev_seat_margin": -27.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.36,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-carolina-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina",
+    "https://www.dittmerforcongress.com/",
+    "https://en.wikipedia.org/wiki/South_Carolina%27s_5th_congressional_district"
+   ],
+   "notes": "Open (Ralph Norman ran for governor, then Senate; endorsed Climer, a state senator backed by the U.S. Chamber). NBC rows garbled; the 0.1 write-in share may be mislabeled. pres2024 derived from NBC shift; Wikipedia rounded Trump 61-38. 2024 House: Norman 63.5, Hundley 36.3. VERIFY: NBC re-read 11:24 AM ET unchanged (52.8/47.1). Wikipedia confirms NEA as her only listed endorsement; 2024 House 63.5-36.3 confirmed.",
+   "verified": true
+  },
+  {
+   "id": "SC-6",
+   "office": "House",
+   "state": "SC",
+   "district": 6,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jim Clyburn",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Senior House Democratic leader; endorsed by NEA, Giffords, AFGE, Planned Parenthood; archetypal party-establishment figure.",
+    "background": "Senior House Democratic leader, long-time incumbent",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John Peterson",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "weak_fundraising"
+    ]
+   },
+   "result": {
+    "dem_pct": 69.3,
+    "rep_pct": 30.5,
+    "other_pct": 0.2,
+    "margin": 38.8,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 23.03,
+    "lines": "2024_same",
+    "house2024_margin": 22.8,
+    "prev_seat_margin": 22.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.77,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-carolina-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/South_Carolina%27s_6th_congressional_district",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "notes": "VRA seat survived because the SC Senate declined a post-Callais redraw. Peterson reported $0 raised. pres2024 derived from NBC shift; Wikipedia rounded Harris 61-38. VERIFY: 2024 House Clyburn 59.5, Buckner 36.7 confirmed (Wikipedia).",
+   "verified": true
+  },
+  {
+   "id": "SC-7",
+   "office": "House",
+   "state": "SC",
+   "district": 7,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "John Vincent",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Retiree; raised $235K; no endorsements or ideological branding found.",
+    "background": "Retiree",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Russell Fry",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 43.2,
+    "rep_pct": 56.7,
+    "other_pct": 0.1,
+    "margin": -13.5,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -26.63,
+    "lines": "2024_same",
+    "house2024_margin": -29.9,
+    "prev_seat_margin": -29.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.13,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-carolina-us-house-district-7-results",
+    "https://en.wikipedia.org/wiki/South_Carolina%27s_7th_congressional_district",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina"
+   ],
+   "notes": "pres2024 derived from NBC shift; Wikipedia rounded Trump 63-36. Fry style 'maga' is a reputational read (2022 Trump-backed primary win over Tom Rice), not verified for 2026. 2024 House: Fry 64.9, Hyman 35.0. VERIFY: 2024 House Fry 64.9, Hyman 35.0 confirmed (Wikipedia).",
+   "verified": true
+  },
+  {
+   "id": "TN-1",
+   "office": "House",
+   "state": "TN",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kristi Burke",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Artist/YouTuber; endorsed by Tennessee AFL-CIO and Track AIPAC (left-leaning signal); no further platform evidence gathered.",
+    "background": "Artist and YouTuber",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Diana Harshbarger",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 29.5,
+    "rep_pct": 67.4,
+    "other_pct": 3.1,
+    "margin": -37.9,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -58.4,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 20.5,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-1-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://en.wikipedia.org/wiki/Tennessee%27s_1st_congressional_district"
+   ],
+   "notes": "Statewide HB 7003 map enacted; TN-1 may be essentially unchanged (Wikipedia district page shows no 2027 map), so treated as new lines conservatively. pres2024 derived from NBC shift; old-lines Wikipedia rounded Trump 78-21."
+  },
+  {
+   "id": "TN-2",
+   "office": "House",
+   "state": "TN",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Michaela Barnett",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Political organizer and small-business owner; endorsed by Tennessee AFL-CIO and NWPC; no ideological branding found.",
+    "background": "Political organizer and small business owner",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tim Burchett",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 41.2,
+    "rep_pct": 57.7,
+    "other_pct": 1.1,
+    "margin": -16.5,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -34.26,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 17.76,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-2-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee"
+   ],
+   "notes": "Knoxville seat on new map. pres2024 derived from NBC shift; Cook PVI R+17. Burchett 'maga' style is a reputational read."
+  },
+  {
+   "id": "TN-3",
+   "office": "House",
+   "state": "TN",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Anna Golladay",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Small-business owner; no endorsements listed; no ideological branding found.",
+    "background": "Small business owner",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chuck Fleischmann",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.2,
+    "rep_pct": 57.6,
+    "other_pct": 2.2,
+    "margin": -17.4,
+    "pct_expected_vote_counted": 98.3,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -36.24,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.84,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-3-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee"
+   ],
+   "notes": "Chattanooga seat. pres2024 derived from NBC shift; Cook PVI R+18."
+  },
+  {
+   "id": "TN-4",
+   "office": "House",
+   "state": "TN",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Victoria Broderick",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Supports Medicare for All, higher minimum wage, universal pre-K (Nashville Banner); 'working-class mom from rural Tennessee'; ex-Lincoln Co. party chair; TN AFL-CIO, NWPC; raised <$100K vs DesJarlais >$600K.",
+    "background": "Telemarketer, former Lincoln County Democratic chair, 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 37.9% despite being heavily outspent by Nashville councilmember Mike Cortese (28.1)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Scott DesJarlais",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent",
+     "scandal"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.9,
+    "rep_pct": 48.7,
+    "other_pct": 2.4,
+    "margin": 0.2,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -24.22,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 24.42,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-4-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://en.wikipedia.org/wiki/Victoria_Broderick",
+    "https://www.victoria4tennessee.org/",
+    "https://www.nbcnews.com/politics/2026-elections/house-results",
+    "https://nashvillebanner.com/2026/11/03/tennessee-district-4-victoria-broderick-wins/"
+   ],
+   "notes": "Biggest upset candidate in scope: Broderick leads DesJarlais (Trump- and Freedom Caucus Fund-endorsed) by 0.2 pts, about 300 votes, with ~2,000 left; NBC says DesJarlais needs 55.9% of remainder. Uncalled by NBC; Wikipedia already calls her member-elect. Pre-election ratings: Safe/Solid R. 'scandal' flag reflects his past (2012-era) personal scandal, not a 2026 event. pres2024 derived from NBC shift; Cook PVI R+11 on new lines. VERIFY: Nashville Banner (updated Nov 4) reports Broderick 95,585 vs DesJarlais 95,305 (280 votes) with 100% counted and declares her the winner; NBC still uncalled at 11:20 AM ET (48.9/48.7, 99% in), so called left null. Archetype kept mainstream_liberal (M4A supporter but no left-insurgent endorsements); a left_populist read is arguable.",
+   "verified": true
+  },
+  {
+   "id": "TN-5",
+   "office": "House",
+   "state": "TN",
+   "district": 5,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chaz Molder",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Endorsed by Blue Dog PAC, Democratic Majority for Israel, DCCC Red to Blue, Phil Bredesen, Jim Cooper, Adam Gray; Columbia mayor touting 'bipartisan progress' and a D-R-I coalition; anti-corruption/cost-of-living pitch.",
+    "background": "Mayor of Columbia since 2018",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 40.5% over Memphis councilmember Yolanda Cooper-Sutton (32.8)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Charlie Hatcher",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 46.7,
+    "rep_pct": 51.7,
+    "other_pct": 1.6,
+    "margin": -5.0,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.45,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.45,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://chazmolder.com/",
+    "https://en.wikipedia.org/wiki/Tennessee%27s_5th_congressional_district",
+    "https://nashvillebanner.com/2026/11/03/tennessee-district-5-charlie-hatcher-wins/"
+   ],
+   "notes": "Open: Andy Ogles (R) lost the Aug primary to Hatcher (53%), a former agriculture commissioner backed by Gov. Lee and Bill Haslam and Trump-endorsed for the general. Sabato moved to Likely R on Nov 2. The Blue Dog moderate overperformed by 18.45, near the TN median, not above it. pres2024 derived from NBC shift; Cook PVI R+10. VERIFY: Nashville Banner confirms Hatcher win; Molder raised >$3.5M and ran on ending tariffs and 'this war'. Wikipedia confirms Blue Dog PAC, DMFI, DCCC Red to Blue. NBC 11:20 AM ET unchanged (51.7/46.7).",
+   "verified": true
+  },
+  {
+   "id": "TN-6",
+   "office": "House",
+   "state": "TN",
+   "district": 6,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mike Croley",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Navy vet/ex-park ranger; TN AFL-CIO, UAW; ran on anti-Trump ('sexist and racist'), administration corruption, against data centers and masked immigration agents; outsider framing (Nashville Banner).",
+    "background": "Navy veteran and former state park ranger",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won fragmented primary with 28.9% over Chaney Mosley (24.0) and 2024 nominee Lore Bergman (23.0)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Johnny Garrett",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 47.5,
+    "rep_pct": 50.8,
+    "other_pct": 1.7,
+    "margin": -3.3,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -26.92,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 23.62,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://nashvillebanner.com/2026/11/03/tennessee-6th-district-johnny-garrett-wins/"
+   ],
+   "notes": "Open (John Rose ran for governor). Garrett is a state rep endorsed by Emmer, Scalise and Jason Smith. pres2024 derived from NBC shift; Cook PVI R+13. Pre-election ratings Safe/Solid R. VERIFY: Nashville Banner confirms Croley 47.5% and Garrett win by roughly 7,000 votes. NBC 11:24 AM ET unchanged.",
+   "verified": true
+  },
+  {
+   "id": "TN-7",
+   "office": "House",
+   "state": "TN",
+   "district": 7,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Darden Copeland",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Political consultant and 2025 special-election candidate; beat state Rep. Vincent Dixie 39.9-27.3; no ideological-group endorsements found.",
+    "background": "Consultant; 2025 special election primary candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Aftyn Behn, the 2025 special nominee, declined to run."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Matt Van Epps",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.1,
+    "rep_pct": 50.3,
+    "other_pct": 1.6,
+    "margin": -2.2,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -22.76,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 20.56,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-7-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://en.wikipedia.org/wiki/Tennessee%27s_7th_congressional_district",
+    "https://nashvillebanner.com/2026/11/03/tennessee-district-7van-epps-re-elected/"
+   ],
+   "notes": "Van Epps won the Dec 2025 special 53.9% on old lines; Trump-endorsed. Close but tier 2 (new-lines pres margin -22.8). pres2024 derived from NBC shift; Cook PVI R+11. NBC page mislabels Copeland as incumbent. VERIFY: Nashville Banner: Van Epps 50%, Copeland 48% (consistent); Copeland conceded ~10 p.m.",
+   "verified": true
+  },
+  {
+   "id": "TN-8",
+   "office": "House",
+   "state": "TN",
+   "district": 8,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Heidi Kuhn",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Shelby County Criminal Court clerk (local officeholder); endorsed by Steve Cohen, Tennessee AFL-CIO, NWPC.",
+    "background": "Former Shelby County Criminal Court clerk (Daily Memphian; Wikipedia lists her as clerk)",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "David Kustoff",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.4,
+    "rep_pct": 51.6,
+    "other_pct": 2.0,
+    "margin": -5.2,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (inferred from state uncalled count)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -20.36,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 15.16,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-8-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://dailymemphian.com/section/metroelections/article/68090/kustoff-reelected-to-sixth-term-in-us-house"
+   ],
+   "notes": "New map adds part of Memphis/Shelby (Cook PVI R+10, versus a much redder old TN-8), so it sits just outside the 20-pt tier-1 band. pres2024 derived from NBC shift. NBC page mislabels incumbency. VERIFY: Daily Memphian confirms Kustoff re-elected over Kuhn (no shares given). Wikipedia: Kustoff Trump/AIPAC-endorsed; Kuhn won primary 52.0%.",
+   "verified": true
+  },
+  {
+   "id": "TN-9",
+   "office": "House",
+   "state": "TN",
+   "district": 9,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Justin J. Pearson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Justice Democrats, Sanders, AOC, Our Revolution, Sunrise, WFP, Leaders We Deserve; Medicare for All, calls to dismantle ICE; 'Tennessee Three' activist. Later Harris, CPC PAC and DCCC Red to Blue.",
+    "background": "State representative, 'Tennessee Three' expulsion activist, Memphis",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Launched as a Justice Democrats challenge to Steve Cohen; Cohen withdrew after the redraw and endorsed state Sen. London Lamar; Pearson won 65.7-24.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brent Taylor",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 48.5,
+    "rep_pct": 49.6,
+    "other_pct": 1.9,
+    "margin": -1.1,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -21.4,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 20.3,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-9-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://en.wikipedia.org/wiki/Justin_J._Pearson",
+    "https://en.wikipedia.org/wiki/Tennessee%27s_9th_congressional_district",
+    "https://www.nbcnews.com/politics/2026-elections/house-results",
+    "https://dailymemphian.com/section/metroelections/article/68091/republican-brent-taylor-flips-tennessee-us-house-district-9"
+   ],
+   "notes": "HB 7003 cracked Memphis: TN-9 went from Harris 70-28 (old) to Cook PVI R+9. Uncalled, but NBC says Pearson needs 100% of ~2,300 remaining votes, so a Republican gain of a D-held seat is near-certain. Taylor is a Trump-, Blackburn- and Hagerty-endorsed state senator. Pearson's +20.3 overperformance is above the moderate Molder's (+18.45) next door but below Broderick's (+24.42). pres2024 derived from NBC shift. All ratings were Likely R flip. VERIFY: Daily Memphian reports Taylor flipped the seat Nov 3; NBC still uncalled at 11:17 AM ET (49.6/48.5, 99% in), so called left null. Wikipedia confirms Pearson primary 65.7-24.3 and Sanders, AOC, Justice Democrats, DCCC Red to Blue endorsements.",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T11:45:00-05:00",
+  "checked_items": 27,
+  "corrections": [
+   "AL-3 house2024/prev_seat margin -100 -> -97.93 (write-ins 2.07%)",
+   "AL-4 house2024/prev_seat margin -100 -> -98.79 (write-ins 1.21%)",
+   "AL-5 house2024/prev_seat margin -100 -> -95.39 (write-ins 4.61%)",
+   "SC-1 called null -> D, flipped true: Honeycutt conceded Nov 4 (Post and Courier); NBC had not called",
+   "SC-2 Khalifa background: 'attorney and Air Force veteran' unsupported -> 25-year-old Air Force Reservist (Post and Courier)",
+   "TN-6 Croley background adds Navy veteran; style_evidence updated from Nashville Banner",
+   "TN-4 Broderick style_evidence adds Medicare for All, minimum wage, universal pre-K (Nashville Banner)",
+   "TN-8 Kuhn background: 'former' clerk per Daily Memphian",
+   "LA-1 note: overperformance is top-D vs top-R only (excludes R Arrington 3.7)",
+   "Top-level as_of moved to 11:27 AM ET after NBC re-read (no share changes)"
+  ],
+  "unresolved": [
+   "TN-4 uncalled by NBC; Nashville Banner reports Broderick +280 (95,585-95,305) at 100% and declares her winner",
+   "TN-9 uncalled by NBC; Daily Memphian reports Taylor flipped seat",
+   "SC-2 uncalled by NBC; Wilson leads 49.84-48.81 at 100% of counties (Post and Courier)",
+   "New-lines pres2024 baselines (AL-1/2/6/7, all LA, all TN) are derived from NBC shift text; no independent precise source reachable (web search budget exhausted)",
+   "Most vote shares single-sourced to NBC (AP data); AP, CNN, Politico, WaPo result pages not fetchable",
+   "LA-1/LA-2 overperformance uses top-two candidates only in jungle primary",
+   "Low-information Dem style classifications (tier 2) not independently checked"
+  ]
+ }
+}

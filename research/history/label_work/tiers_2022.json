@@ -1,0 +1,3880 @@
+{
+ "AL-2": {
+  "tier": "default_safe_challenger",
+  "name": "Phyllis Harvey-Hall",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AL-3": {
+  "tier": "default_safe_challenger",
+  "name": "Lin Veasey",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AL-4": {
+  "tier": "default_safe_challenger",
+  "name": "Rick Neighbors",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AL-5": {
+  "tier": "research_open",
+  "name": "Kathy Warner-Stanton",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AL-7": {
+  "tier": "rule_incumbent_safe",
+  "name": "Terri Sewell",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "AR-1": {
+  "tier": "default_safe_challenger",
+  "name": "Monte Hodges",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AR-2": {
+  "tier": "research_competitive",
+  "name": "Quintessa Hathaway",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AR-3": {
+  "tier": "default_safe_challenger",
+  "name": "Lauren Mallett-Hays",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AR-4": {
+  "tier": "default_safe_challenger",
+  "name": "John White",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AZ-1": {
+  "tier": "research_competitive",
+  "name": "Jevin Hodge",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "AZ-2": {
+  "tier": "research_competitive",
+  "name": "Tom O'Halleran",
+  "incumbent": true,
+  "markers": [
+   "Blue_Dog_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "AZ-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "Ruben Gallego",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "AZ-4": {
+  "tier": "research_competitive",
+  "name": "Greg Stanton",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "AZ-5": {
+  "tier": "research_competitive",
+  "name": "Javier Ramos",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "AZ-6": {
+  "tier": "research_competitive",
+  "name": "Kirsten Engel",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "AZ-7": {
+  "tier": "research_marker",
+  "name": "Raúl Grijalva",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "CA-1": {
+  "tier": "research_competitive",
+  "name": "Max Steiner",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jared Huffman",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-3": {
+  "tier": "research_competitive",
+  "name": "Kermit Jones",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "CA-4": {
+  "tier": "research_marker",
+  "name": "Mike Thompson",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652"
+  ]
+ },
+ "CA-5": {
+  "tier": "research_competitive",
+  "name": "Mike Barkley",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-6": {
+  "tier": "research_competitive",
+  "name": "Ami Bera",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "CA-7": {
+  "tier": "rule_incumbent_safe",
+  "name": "Doris Matsui",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-8": {
+  "tier": "rule_incumbent_safe",
+  "name": "John Garamendi",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-9": {
+  "tier": "research_competitive",
+  "name": "Josh Harder",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "CA-11": {
+  "tier": "rule_incumbent_safe",
+  "name": "Nancy Pelosi",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-12": {
+  "tier": "rule_incumbent_safe",
+  "name": "Barbara Lee",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-13": {
+  "tier": "research_competitive",
+  "name": "Adam Gray",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "CA-14": {
+  "tier": "rule_incumbent_safe",
+  "name": "Eric Swalwell",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-17": {
+  "tier": "research_marker",
+  "name": "Ro Khanna",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "CA-18": {
+  "tier": "rule_incumbent_safe",
+  "name": "Zoe Lofgren",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-19": {
+  "tier": "research_marker",
+  "name": "Jimmy Panetta",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "CA-20": {
+  "tier": "default_safe_challenger",
+  "name": "Marisa Wood",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-21": {
+  "tier": "research_marker",
+  "name": "Jim Costa",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "CA-22": {
+  "tier": "research_competitive",
+  "name": "Rudy Salas",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "CA-23": {
+  "tier": "research_competitive",
+  "name": "Derek Marshall",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-24": {
+  "tier": "research_marker",
+  "name": "Salud Carbajal",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "CA-25": {
+  "tier": "research_competitive",
+  "name": "Raul Ruiz",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "CA-26": {
+  "tier": "rule_incumbent_safe",
+  "name": "Julia Brownley",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "CA-27": {
+  "tier": "research_competitive",
+  "name": "Christy Smith",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "CA-28": {
+  "tier": "rule_incumbent_safe",
+  "name": "Judy Chu",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-31": {
+  "tier": "rule_incumbent_safe",
+  "name": "Grace Napolitano",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-32": {
+  "tier": "rule_incumbent_safe",
+  "name": "Brad Sherman",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-33": {
+  "tier": "rule_incumbent_safe",
+  "name": "Pete Aguilar",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "CA-35": {
+  "tier": "rule_incumbent_safe",
+  "name": "Norma Torres",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "CA-36": {
+  "tier": "rule_incumbent_safe",
+  "name": "Ted Lieu",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-38": {
+  "tier": "rule_incumbent_safe",
+  "name": "Linda Sánchez",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-39": {
+  "tier": "rule_incumbent_safe",
+  "name": "Mark Takano",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-40": {
+  "tier": "research_competitive",
+  "name": "Asif Mahmood",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+  ]
+ },
+ "CA-41": {
+  "tier": "research_competitive",
+  "name": "Will Rollins",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "CA-42": {
+  "tier": "research_open",
+  "name": "Robert Garcia",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-43": {
+  "tier": "rule_incumbent_safe",
+  "name": "Maxine Waters",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-44": {
+  "tier": "rule_incumbent_safe",
+  "name": "Nanette Barragán",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-45": {
+  "tier": "research_competitive",
+  "name": "Jay Chen",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "CA-46": {
+  "tier": "research_marker",
+  "name": "Lou Correa",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "CA-47": {
+  "tier": "research_competitive",
+  "name": "Katie Porter",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-48": {
+  "tier": "research_competitive",
+  "name": "Stephen Houlahan",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CA-49": {
+  "tier": "research_competitive",
+  "name": "Mike Levin",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CA-50": {
+  "tier": "research_marker",
+  "name": "Scott Peters",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "CA-51": {
+  "tier": "rule_incumbent_safe",
+  "name": "Sara Jacobs",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "CA-52": {
+  "tier": "rule_incumbent_safe",
+  "name": "Juan Vargas",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "CO-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Diana DeGette",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CO-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Joe Neguse",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CO-3": {
+  "tier": "research_competitive",
+  "name": "Adam Frisch",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CO-4": {
+  "tier": "research_competitive",
+  "name": "Ike McCorkle",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CO-5": {
+  "tier": "research_competitive",
+  "name": "David Torres",
+  "incumbent": false,
+  "markers": [
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+  ]
+ },
+ "CO-6": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jason Crow",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "CO-7": {
+  "tier": "research_competitive",
+  "name": "Brittany Pettersen",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "CO-8": {
+  "tier": "research_competitive",
+  "name": "Yadira Caraveo",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "CT-1": {
+  "tier": "research_marker",
+  "name": "John B. Larson",
+  "incumbent": true,
+  "markers": [
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+  ]
+ },
+ "CT-2": {
+  "tier": "research_competitive",
+  "name": "Joe Courtney",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "CT-3": {
+  "tier": "research_competitive",
+  "name": "Rosa DeLauro",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "CT-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jim Himes",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "CT-5": {
+  "tier": "research_competitive",
+  "name": "Jahana Hayes",
+  "incumbent": true,
+  "markers": [
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+  ]
+ },
+ "DE-AL": {
+  "tier": "research_competitive",
+  "name": "Lisa Blunt Rochester",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "FL-1": {
+  "tier": "default_safe_challenger",
+  "name": "Rebekah Jones",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-2": {
+  "tier": "research_competitive",
+  "name": "Al Lawson",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "FL-3": {
+  "tier": "research_competitive",
+  "name": "Danielle Hawk",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-4": {
+  "tier": "research_competitive",
+  "name": "LaShonda Holloway",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-7": {
+  "tier": "research_competitive",
+  "name": "Karen Green",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-8": {
+  "tier": "research_competitive",
+  "name": "Joanne Terry",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-9": {
+  "tier": "research_competitive",
+  "name": "Darren Soto",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "FL-10": {
+  "tier": "research_open",
+  "name": "Maxwell Frost",
+  "incumbent": false,
+  "markers": [
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+  ]
+ },
+ "FL-11": {
+  "tier": "research_competitive",
+  "name": "Shante Munns",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-12": {
+  "tier": "default_safe_challenger",
+  "name": "Kimberly Walker",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-13": {
+  "tier": "research_competitive",
+  "name": "Eric Lynn",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "FL-14": {
+  "tier": "research_competitive",
+  "name": "Kathy Castor",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-15": {
+  "tier": "research_competitive",
+  "name": "Alan Cohn",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "FL-16": {
+  "tier": "research_competitive",
+  "name": "Jan Schneider",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-17": {
+  "tier": "research_competitive",
+  "name": "Andrea Kale",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-19": {
+  "tier": "default_safe_challenger",
+  "name": "Cindy Banyai",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-20": {
+  "tier": "rule_incumbent_safe",
+  "name": "Sheila Cherfilus-McCormick",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "FL-21": {
+  "tier": "research_competitive",
+  "name": "Corinna Balderramos Robinson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-22": {
+  "tier": "research_competitive",
+  "name": "Lois Frankel",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "FL-23": {
+  "tier": "research_competitive",
+  "name": "Jared Moskowitz",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "FL-24": {
+  "tier": "rule_incumbent_safe",
+  "name": "Frederica Wilson",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "FL-25": {
+  "tier": "rule_incumbent_safe",
+  "name": "Debbie Wasserman Schultz",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "FL-26": {
+  "tier": "research_competitive",
+  "name": "Christine Olivo",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "FL-27": {
+  "tier": "research_competitive",
+  "name": "Annette Taddeo",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "FL-28": {
+  "tier": "research_competitive",
+  "name": "Robert Asencio",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-1": {
+  "tier": "research_competitive",
+  "name": "Wade Herring",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-2": {
+  "tier": "research_competitive",
+  "name": "Sanford Bishop",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652"
+  ]
+ },
+ "GA-3": {
+  "tier": "default_safe_challenger",
+  "name": "Val Almonord",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Hank Johnson",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "GA-5": {
+  "tier": "research_marker",
+  "name": "Nikema Williams",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "GA-6": {
+  "tier": "research_competitive",
+  "name": "Bob Christian",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-7": {
+  "tier": "rule_incumbent_safe",
+  "name": "Lucy McBath",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "GA-8": {
+  "tier": "default_safe_challenger",
+  "name": "Darrius Butler",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-9": {
+  "tier": "default_safe_challenger",
+  "name": "Mike Ford",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-10": {
+  "tier": "research_open",
+  "name": "Tabitha Johnson-Green",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-11": {
+  "tier": "research_competitive",
+  "name": "Antonio Daza",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-12": {
+  "tier": "research_competitive",
+  "name": "Liz Johnson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "GA-13": {
+  "tier": "research_marker",
+  "name": "David Scott",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "GA-14": {
+  "tier": "default_safe_challenger",
+  "name": "Marcus Flowers",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "HI-1": {
+  "tier": "research_marker",
+  "name": "Ed Case",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "HI-2": {
+  "tier": "research_open",
+  "name": "Jill Tokuda",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IA-1": {
+  "tier": "research_competitive",
+  "name": "Christina Bohannan",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "IA-2": {
+  "tier": "research_competitive",
+  "name": "Liz Mathis",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "IA-3": {
+  "tier": "research_competitive",
+  "name": "Cindy Axne",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "IA-4": {
+  "tier": "default_safe_challenger",
+  "name": "Ryan Melton",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "ID-1": {
+  "tier": "default_safe_challenger",
+  "name": "Kaylee Peterson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "ID-2": {
+  "tier": "default_safe_challenger",
+  "name": "Wendy Norman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-1": {
+  "tier": "research_open",
+  "name": "Jonathan Jackson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Robin Kelly",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-3": {
+  "tier": "research_open",
+  "name": "Delia Ramirez",
+  "incumbent": false,
+  "markers": [
+   "PCCC",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+  ]
+ },
+ "IL-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Chuy García",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Mike Quigley",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "IL-6": {
+  "tier": "research_competitive",
+  "name": "Sean Casten",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "IL-8": {
+  "tier": "research_competitive",
+  "name": "Raja Krishnamoorthi",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "IL-9": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jan Schakowsky",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "IL-10": {
+  "tier": "research_marker",
+  "name": "Brad Schneider",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "IL-11": {
+  "tier": "research_competitive",
+  "name": "Bill Foster",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "IL-12": {
+  "tier": "default_safe_challenger",
+  "name": "Chip Markel",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-13": {
+  "tier": "research_competitive",
+  "name": "Nikki Budzinski",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "IL-14": {
+  "tier": "research_competitive",
+  "name": "Lauren Underwood",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-15": {
+  "tier": "default_safe_challenger",
+  "name": "Paul Lange",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-16": {
+  "tier": "default_safe_challenger",
+  "name": "Elizabeth Haderlein",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IL-17": {
+  "tier": "research_competitive",
+  "name": "Eric Sorensen",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "IN-1": {
+  "tier": "research_competitive",
+  "name": "Frank J. Mrvan",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "IN-2": {
+  "tier": "research_open",
+  "name": "Paul Steury",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-3": {
+  "tier": "default_safe_challenger",
+  "name": "Gary Snyder",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-4": {
+  "tier": "default_safe_challenger",
+  "name": "Roger Day",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-5": {
+  "tier": "research_competitive",
+  "name": "Jeannine Lee Lake",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-6": {
+  "tier": "default_safe_challenger",
+  "name": "Cinde Wirth",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-7": {
+  "tier": "rule_incumbent_safe",
+  "name": "André Carson",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "IN-8": {
+  "tier": "default_safe_challenger",
+  "name": "Ray McCormick",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "IN-9": {
+  "tier": "research_open",
+  "name": "Matthew Fyfe",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KS-1": {
+  "tier": "default_safe_challenger",
+  "name": "Jimmy Beard",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KS-2": {
+  "tier": "research_competitive",
+  "name": "Patrick Schmidt",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KS-3": {
+  "tier": "research_competitive",
+  "name": "Sharice Davids",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "KS-4": {
+  "tier": "default_safe_challenger",
+  "name": "Bob Hernandez",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KY-1": {
+  "tier": "default_safe_challenger",
+  "name": "Jimmy Ausbrooks",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KY-2": {
+  "tier": "default_safe_challenger",
+  "name": "Hank Linderman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KY-3": {
+  "tier": "research_open",
+  "name": "Morgan McGarvey",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "KY-4": {
+  "tier": "default_safe_challenger",
+  "name": "Matt Lehman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KY-5": {
+  "tier": "default_safe_challenger",
+  "name": "Conor Halbleib",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "KY-6": {
+  "tier": "research_competitive",
+  "name": "Geoff Young",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "LA-1": {
+  "tier": "default_safe_challenger",
+  "name": "Katie Darling",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "LA-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Troy Carter",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "LA-5": {
+  "tier": "default_safe_challenger",
+  "name": "Oscar Dantzler",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MA-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Richard Neal",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MA-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jim McGovern",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "MA-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "Lori Trahan",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "MA-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Katherine Clark",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "MA-6": {
+  "tier": "rule_incumbent_safe",
+  "name": "Seth Moulton",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "MA-7": {
+  "tier": "research_marker",
+  "name": "Ayanna Pressley",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "MA-8": {
+  "tier": "rule_incumbent_safe",
+  "name": "Stephen Lynch",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MA-9": {
+  "tier": "research_competitive",
+  "name": "Bill Keating",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "MD-1": {
+  "tier": "research_competitive",
+  "name": "Heather Mizeur",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "MD-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Dutch Ruppersberger",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MD-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "John Sarbanes",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MD-4": {
+  "tier": "research_open",
+  "name": "Glenn Ivey",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "MD-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Steny Hoyer",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MD-6": {
+  "tier": "research_competitive",
+  "name": "David Trone",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "MD-7": {
+  "tier": "rule_incumbent_safe",
+  "name": "Kweisi Mfume",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "MD-8": {
+  "tier": "research_marker",
+  "name": "Jamie Raskin",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "ME-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Chellie Pingree",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "ME-2": {
+  "tier": "research_competitive",
+  "name": "Jared Golden",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "MI-1": {
+  "tier": "default_safe_challenger",
+  "name": "Bob Lorinser",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MI-2": {
+  "tier": "default_safe_challenger",
+  "name": "Jerry Hilliard",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MI-3": {
+  "tier": "research_competitive",
+  "name": "Hillary Scholten",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "MI-4": {
+  "tier": "research_competitive",
+  "name": "Joseph Alfonso",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MI-5": {
+  "tier": "default_safe_challenger",
+  "name": "Bart Goldberg",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MI-6": {
+  "tier": "research_marker",
+  "name": "Debbie Dingell",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "MI-7": {
+  "tier": "research_competitive",
+  "name": "Elissa Slotkin",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "MI-8": {
+  "tier": "research_competitive",
+  "name": "Dan Kildee",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "MI-9": {
+  "tier": "default_safe_challenger",
+  "name": "Brian Jaye",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MI-10": {
+  "tier": "research_competitive",
+  "name": "Carl Marlinga",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "MI-11": {
+  "tier": "research_marker",
+  "name": "Haley Stevens",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "MI-12": {
+  "tier": "research_marker",
+  "name": "Rashida Tlaib",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "PCCC",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "MI-13": {
+  "tier": "research_open",
+  "name": "Shri Thanedar",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "MN-1": {
+  "tier": "research_competitive",
+  "name": "Jeff Ettinger",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MN-2": {
+  "tier": "research_competitive",
+  "name": "Angie Craig",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "MN-3": {
+  "tier": "research_marker",
+  "name": "Dean Phillips",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "MN-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Betty McCollum",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MN-5": {
+  "tier": "research_marker",
+  "name": "Ilhan Omar",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "PCCC",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "MN-6": {
+  "tier": "research_competitive",
+  "name": "Jeanne Hendricks",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MN-7": {
+  "tier": "default_safe_challenger",
+  "name": "Jill Abahsain",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MN-8": {
+  "tier": "research_competitive",
+  "name": "Jennifer Schultz",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-1": {
+  "tier": "research_marker",
+  "name": "Cori Bush",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "MO-2": {
+  "tier": "research_competitive",
+  "name": "Trish Gunby",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-3": {
+  "tier": "default_safe_challenger",
+  "name": "Bethany Mann",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-4": {
+  "tier": "research_open",
+  "name": "Jack Truman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Emanuel Cleaver",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-6": {
+  "tier": "default_safe_challenger",
+  "name": "Henry Martin",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-7": {
+  "tier": "research_open",
+  "name": "Kristen Radaker-Sheafer",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MO-8": {
+  "tier": "default_safe_challenger",
+  "name": "Randi McCallian",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MS-1": {
+  "tier": "default_safe_challenger",
+  "name": "Dianne Black",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MS-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Bennie Thompson",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MS-3": {
+  "tier": "default_safe_challenger",
+  "name": "Shuwaski Young",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MS-4": {
+  "tier": "research_open",
+  "name": "Johnny DuPree",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "MT-1": {
+  "tier": "research_competitive",
+  "name": "Monica Tranel",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NC-1": {
+  "tier": "research_competitive",
+  "name": "Don Davis",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NC-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Deborah Ross",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "NC-3": {
+  "tier": "default_safe_challenger",
+  "name": "Barbara Gaskins",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-4": {
+  "tier": "research_open",
+  "name": "Valerie Foushee",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NC-5": {
+  "tier": "default_safe_challenger",
+  "name": "Kyle Parrish",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-6": {
+  "tier": "research_competitive",
+  "name": "Kathy Manning",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "NC-7": {
+  "tier": "research_competitive",
+  "name": "Charles Graham",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-8": {
+  "tier": "default_safe_challenger",
+  "name": "Scott Huffman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-9": {
+  "tier": "research_competitive",
+  "name": "Ben Clark",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-10": {
+  "tier": "default_safe_challenger",
+  "name": "Pam Genant",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-11": {
+  "tier": "research_competitive",
+  "name": "Jasmine Beach-Ferrara",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NC-12": {
+  "tier": "rule_incumbent_safe",
+  "name": "Alma Adams",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NC-13": {
+  "tier": "research_competitive",
+  "name": "Wiley Nickel",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NC-14": {
+  "tier": "research_competitive",
+  "name": "Jeff Jackson",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NE-1": {
+  "tier": "research_competitive",
+  "name": "Patty Pansing Brooks",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NE-2": {
+  "tier": "research_competitive",
+  "name": "Tony Vargas",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NE-3": {
+  "tier": "default_safe_challenger",
+  "name": "David Else",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NH-1": {
+  "tier": "research_competitive",
+  "name": "Chris Pappas",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "NH-2": {
+  "tier": "research_competitive",
+  "name": "Annie Kuster",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "NJ-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Donald Norcross",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "NJ-2": {
+  "tier": "research_competitive",
+  "name": "Tim Alexander",
+  "incumbent": false,
+  "markers": [
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+  ]
+ },
+ "NJ-3": {
+  "tier": "research_competitive",
+  "name": "Andy Kim",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NJ-4": {
+  "tier": "default_safe_challenger",
+  "name": "Matthew Jenkins",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NJ-5": {
+  "tier": "research_competitive",
+  "name": "Josh Gottheimer",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "NJ-6": {
+  "tier": "research_competitive",
+  "name": "Frank Pallone",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NJ-7": {
+  "tier": "research_competitive",
+  "name": "Tom Malinowski",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "NJ-8": {
+  "tier": "research_open",
+  "name": "Rob Menendez",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NJ-9": {
+  "tier": "research_competitive",
+  "name": "Bill Pascrell",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NJ-10": {
+  "tier": "rule_incumbent_safe",
+  "name": "Donald Payne Jr.",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NJ-11": {
+  "tier": "research_competitive",
+  "name": "Mikie Sherrill",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "NJ-12": {
+  "tier": "rule_incumbent_safe",
+  "name": "Bonnie Watson Coleman",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NM-1": {
+  "tier": "research_competitive",
+  "name": "Melanie Stansbury",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NM-2": {
+  "tier": "research_competitive",
+  "name": "Gabe Vasquez",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NM-3": {
+  "tier": "research_competitive",
+  "name": "Teresa Leger Fernandez",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NV-1": {
+  "tier": "research_competitive",
+  "name": "Dina Titus",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NV-2": {
+  "tier": "research_competitive",
+  "name": "Elizabeth Krause",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NV-3": {
+  "tier": "research_competitive",
+  "name": "Susie Lee",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "NV-4": {
+  "tier": "research_competitive",
+  "name": "Steven Horsford",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "NY-1": {
+  "tier": "research_competitive",
+  "name": "Bridget Fleming",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NY-2": {
+  "tier": "research_competitive",
+  "name": "Jackie Gordon",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NY-3": {
+  "tier": "research_competitive",
+  "name": "Robert P. Zimmerman",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NY-4": {
+  "tier": "research_competitive",
+  "name": "Laura Gillen",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NY-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Gregory Meeks",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "NY-6": {
+  "tier": "rule_incumbent_safe",
+  "name": "Grace Meng",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NY-7": {
+  "tier": "research_marker",
+  "name": "Nydia Velázquez",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NY-8": {
+  "tier": "rule_incumbent_safe",
+  "name": "Hakeem Jeffries",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NY-10": {
+  "tier": "research_open",
+  "name": "Dan Goldman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-11": {
+  "tier": "research_competitive",
+  "name": "Max Rose",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NY-12": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jerry Nadler",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NY-14": {
+  "tier": "research_marker",
+  "name": "Alexandria Ocasio-Cortez",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "NY-15": {
+  "tier": "rule_incumbent_safe",
+  "name": "Ritchie Torres",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NY-16": {
+  "tier": "research_marker",
+  "name": "Jamaal Bowman",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "NY-17": {
+  "tier": "research_competitive",
+  "name": "Sean Patrick Maloney",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "NY-18": {
+  "tier": "research_competitive",
+  "name": "Pat Ryan",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-19": {
+  "tier": "research_competitive",
+  "name": "Josh Riley",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NY-20": {
+  "tier": "research_competitive",
+  "name": "Paul Tonko",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-21": {
+  "tier": "research_competitive",
+  "name": "Matt Castelli",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-22": {
+  "tier": "research_competitive",
+  "name": "Francis Conole",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "NY-23": {
+  "tier": "research_competitive",
+  "name": "Max Della Pia",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-24": {
+  "tier": "research_competitive",
+  "name": "Steven Holden",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "NY-25": {
+  "tier": "rule_incumbent_safe",
+  "name": "Joseph Morelle",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "NY-26": {
+  "tier": "rule_incumbent_safe",
+  "name": "Brian Higgins",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-1": {
+  "tier": "research_competitive",
+  "name": "Greg Landsman",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "OH-2": {
+  "tier": "default_safe_challenger",
+  "name": "Samantha Meadows",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "Joyce Beatty",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-4": {
+  "tier": "default_safe_challenger",
+  "name": "Tamie Wilson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-5": {
+  "tier": "default_safe_challenger",
+  "name": "Craig Swartz",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-6": {
+  "tier": "default_safe_challenger",
+  "name": "Louis Lyras",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-7": {
+  "tier": "research_competitive",
+  "name": "Matthew Diemer",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-8": {
+  "tier": "default_safe_challenger",
+  "name": "Vanessa Enoch",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-9": {
+  "tier": "research_competitive",
+  "name": "Marcy Kaptur",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-10": {
+  "tier": "research_competitive",
+  "name": "David Esrati",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-11": {
+  "tier": "rule_incumbent_safe",
+  "name": "Shontel Brown",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "OH-12": {
+  "tier": "default_safe_challenger",
+  "name": "Amy Rippel-Elton",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-13": {
+  "tier": "research_competitive",
+  "name": "Emilia Sykes",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "OH-14": {
+  "tier": "research_competitive",
+  "name": "Matt Kilboy",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OH-15": {
+  "tier": "research_competitive",
+  "name": "Gary Josephson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-1": {
+  "tier": "default_safe_challenger",
+  "name": "Adam Martin",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-2": {
+  "tier": "research_open",
+  "name": "Naomi Andrews",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-3": {
+  "tier": "default_safe_challenger",
+  "name": "Jeremiah Ross",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-4": {
+  "tier": "default_safe_challenger",
+  "name": "Mary Brannon",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OK-5": {
+  "tier": "research_competitive",
+  "name": "Joshua Harris-Till",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OR-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Suzanne Bonamici",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "OR-2": {
+  "tier": "default_safe_challenger",
+  "name": "Joe Yetter",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "OR-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "Earl Blumenauer",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "OR-4": {
+  "tier": "research_competitive",
+  "name": "Val Hoyle",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "OR-5": {
+  "tier": "research_competitive",
+  "name": "Jamie McLeod-Skinner",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "PCCC",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+  ]
+ },
+ "OR-6": {
+  "tier": "research_competitive",
+  "name": "Andrea Salinas",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+  ]
+ },
+ "PA-1": {
+  "tier": "research_competitive",
+  "name": "Ashley Ehasz",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Brendan Boyle",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "PA-4": {
+  "tier": "research_competitive",
+  "name": "Madeleine Dean",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "PA-5": {
+  "tier": "rule_incumbent_safe",
+  "name": "Mary Gay Scanlon",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "PA-6": {
+  "tier": "research_competitive",
+  "name": "Chrissy Houlahan",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "PA-7": {
+  "tier": "research_competitive",
+  "name": "Susan Wild",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "PA-8": {
+  "tier": "research_competitive",
+  "name": "Matt Cartwright",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "PA-9": {
+  "tier": "default_safe_challenger",
+  "name": "Amanda Waldman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-10": {
+  "tier": "research_competitive",
+  "name": "Shamaine Daniels",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-11": {
+  "tier": "default_safe_challenger",
+  "name": "Bob Hollister",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-12": {
+  "tier": "research_marker",
+  "name": "Summer Lee",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "PCCC",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "PA-15": {
+  "tier": "default_safe_challenger",
+  "name": "Mike Molesevich",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-16": {
+  "tier": "default_safe_challenger",
+  "name": "Dan Pastore",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "PA-17": {
+  "tier": "research_competitive",
+  "name": "Chris Deluzio",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+  ]
+ },
+ "RI-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "David Cicilline",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "RI-2": {
+  "tier": "research_competitive",
+  "name": "Seth Magaziner",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+  ]
+ },
+ "SC-1": {
+  "tier": "research_competitive",
+  "name": "Annie Andrews",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-2": {
+  "tier": "research_competitive",
+  "name": "Judd Larkins",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-5": {
+  "tier": "research_competitive",
+  "name": "Evangeline Hundley",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-6": {
+  "tier": "rule_incumbent_safe",
+  "name": "Jim Clyburn",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "SC-7": {
+  "tier": "research_competitive",
+  "name": "Daryl Scott",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-1": {
+  "tier": "default_safe_challenger",
+  "name": "Cameron Parsons",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-2": {
+  "tier": "default_safe_challenger",
+  "name": "Mark Harmon",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-3": {
+  "tier": "default_safe_challenger",
+  "name": "Meg Gorman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-4": {
+  "tier": "default_safe_challenger",
+  "name": "Wayne Steele",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-5": {
+  "tier": "research_competitive",
+  "name": "Heidi Campbell",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-6": {
+  "tier": "default_safe_challenger",
+  "name": "Randal Cooper",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-7": {
+  "tier": "research_competitive",
+  "name": "Odessa Kelly",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "TN-8": {
+  "tier": "default_safe_challenger",
+  "name": "Lynnette Williams",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TN-9": {
+  "tier": "rule_incumbent_safe",
+  "name": "Steve Cohen",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "TX-1": {
+  "tier": "research_open",
+  "name": "Jrmar Jefferson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-2": {
+  "tier": "default_safe_challenger",
+  "name": "Robin Fulford",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-3": {
+  "tier": "research_competitive",
+  "name": "Sandeep Srivastava",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-4": {
+  "tier": "default_safe_challenger",
+  "name": "Iro Omere",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-5": {
+  "tier": "default_safe_challenger",
+  "name": "Tartisha Hill",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-7": {
+  "tier": "rule_incumbent_safe",
+  "name": "Lizzie Fletcher",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "TX-8": {
+  "tier": "research_open",
+  "name": "Laura Jones",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-9": {
+  "tier": "rule_incumbent_safe",
+  "name": "Al Green",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-10": {
+  "tier": "research_competitive",
+  "name": "Linda Nuno",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-12": {
+  "tier": "research_competitive",
+  "name": "Trey Hunt",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-13": {
+  "tier": "default_safe_challenger",
+  "name": "Kathleen Brown",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-14": {
+  "tier": "default_safe_challenger",
+  "name": "Mikal Williams",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-15": {
+  "tier": "research_competitive",
+  "name": "Michelle Vallejo",
+  "incumbent": false,
+  "markers": [
+   "DCCC Red to Blue",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+  ]
+ },
+ "TX-16": {
+  "tier": "research_marker",
+  "name": "Veronica Escobar",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "TX-17": {
+  "tier": "default_safe_challenger",
+  "name": "Mary Jo Woods",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-18": {
+  "tier": "rule_incumbent_safe",
+  "name": "Sheila Jackson Lee",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "TX-20": {
+  "tier": "rule_incumbent_safe",
+  "name": "Joaquin Castro",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "TX-21": {
+  "tier": "research_competitive",
+  "name": "Claudia Zapata",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-22": {
+  "tier": "research_competitive",
+  "name": "Jamie Jordan",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-23": {
+  "tier": "research_competitive",
+  "name": "John Lira",
+  "incumbent": false,
+  "markers": [
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "TX-24": {
+  "tier": "research_competitive",
+  "name": "Jan McDowell",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-27": {
+  "tier": "default_safe_challenger",
+  "name": "Maclovio Pérez",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-28": {
+  "tier": "research_competitive",
+  "name": "Henry Cuellar",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "TX-29": {
+  "tier": "rule_incumbent_safe",
+  "name": "Sylvia Garcia",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "TX-30": {
+  "tier": "research_open",
+  "name": "Jasmine Crockett",
+  "incumbent": false,
+  "markers": [
+   "PCCC",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+  ]
+ },
+ "TX-32": {
+  "tier": "rule_incumbent_safe",
+  "name": "Colin Allred",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "TX-33": {
+  "tier": "rule_incumbent_safe",
+  "name": "Marc Veasey",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "TX-34": {
+  "tier": "research_competitive",
+  "name": "Vicente Gonzalez",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "TX-35": {
+  "tier": "research_open",
+  "name": "Greg Casar",
+  "incumbent": false,
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "PCCC",
+   "Working Families"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "TX-36": {
+  "tier": "default_safe_challenger",
+  "name": "Jon Haire",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "TX-37": {
+  "tier": "rule_incumbent_safe",
+  "name": "Lloyd Doggett",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "TX-38": {
+  "tier": "research_competitive",
+  "name": "Duncan Klussmann",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "UT-1": {
+  "tier": "default_safe_challenger",
+  "name": "Rick Jones",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "UT-2": {
+  "tier": "research_competitive",
+  "name": "Nick Mitchell",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "UT-3": {
+  "tier": "default_safe_challenger",
+  "name": "Glenn Wright",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "UT-4": {
+  "tier": "default_safe_challenger",
+  "name": "Darlene McDonald",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "VA-1": {
+  "tier": "research_competitive",
+  "name": "Herb Jones",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "VA-2": {
+  "tier": "research_competitive",
+  "name": "Elaine Luria",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "VA-3": {
+  "tier": "rule_incumbent_safe",
+  "name": "Bobby Scott",
+  "incumbent": true,
+  "markers": [],
+  "marker_sources": []
+ },
+ "VA-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Donald McEachin",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "VA-5": {
+  "tier": "research_competitive",
+  "name": "Josh Throneburg",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "VA-6": {
+  "tier": "default_safe_challenger",
+  "name": "Jennifer Lewis",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "VA-7": {
+  "tier": "research_competitive",
+  "name": "Abigail Spanberger",
+  "incumbent": true,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member",
+   "Problem_Solvers_member"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+  ]
+ },
+ "VA-8": {
+  "tier": "rule_incumbent_safe",
+  "name": "Don Beyer",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "VA-9": {
+  "tier": "default_safe_challenger",
+  "name": "Taysha DeVaughan",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "VA-10": {
+  "tier": "research_competitive",
+  "name": "Jennifer Wexton",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "VA-11": {
+  "tier": "rule_incumbent_safe",
+  "name": "Gerry Connolly",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "WA-1": {
+  "tier": "rule_incumbent_safe",
+  "name": "Suzan DelBene",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "WA-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Rick Larsen",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "WA-3": {
+  "tier": "research_competitive",
+  "name": "Marie Gluesenkamp Perez",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WA-4": {
+  "tier": "research_competitive",
+  "name": "Doug White",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WA-5": {
+  "tier": "research_competitive",
+  "name": "Natasha Hill",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WA-6": {
+  "tier": "research_competitive",
+  "name": "Derek Kilmer",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "WA-7": {
+  "tier": "research_marker",
+  "name": "Pramila Jayapal",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "PCCC"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+  ]
+ },
+ "WA-8": {
+  "tier": "research_competitive",
+  "name": "Kim Schrier",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "WA-9": {
+  "tier": "rule_incumbent_safe",
+  "name": "Adam Smith",
+  "incumbent": true,
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "WA-10": {
+  "tier": "research_competitive",
+  "name": "Marilyn Strickland",
+  "incumbent": true,
+  "markers": [
+   "New_Dem_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+  ]
+ },
+ "WI-1": {
+  "tier": "research_competitive",
+  "name": "Ann Roe",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WI-2": {
+  "tier": "rule_incumbent_safe",
+  "name": "Mark Pocan",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "WI-3": {
+  "tier": "research_competitive",
+  "name": "Brad Pfaff",
+  "incumbent": false,
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "NewDem Action Fund"
+  ],
+  "marker_sources": [
+   "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+  ]
+ },
+ "WI-4": {
+  "tier": "rule_incumbent_safe",
+  "name": "Gwen Moore",
+  "incumbent": true,
+  "markers": [
+   "CPC_member"
+  ],
+  "marker_sources": [
+   "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+  ]
+ },
+ "WI-5": {
+  "tier": "default_safe_challenger",
+  "name": "Mike Van Someren",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WI-7": {
+  "tier": "default_safe_challenger",
+  "name": "Richard Ausman",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WV-1": {
+  "tier": "default_safe_challenger",
+  "name": "Lacy Watson",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WV-2": {
+  "tier": "default_safe_challenger",
+  "name": "Barry Lee Wendell",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ },
+ "WY-AL": {
+  "tier": "research_open",
+  "name": "Lynnette Grey Bull",
+  "incumbent": false,
+  "markers": [],
+  "marker_sources": []
+ }
+}

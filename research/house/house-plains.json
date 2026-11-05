@@ -1,0 +1,2274 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "scope": "Wisconsin (8), Minnesota (8), Iowa (4), Missouri (8) - note the 2025 redraw; Kansas (4), Nebraska (3), South Dakota (1), North Dakota (1)",
+ "expected_rows": 37,
+ "races": [
+  {
+   "id": "WI-1",
+   "office": "House",
+   "state": "WI",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mitchell Berman",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Nurse and first-time candidate; endorsed by UAW, AFT Local 212, End Citizens United, Rep. Pat Ryan; Our Revolution-backed Randy Bryce withdrew and endorsed him. No explicit ideological branding found.",
+    "background": "Nurse; first-time candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 4-way primary with 44.1% over Burgelis 21.6%, Santos 20.4%, Aranda 13.6%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Bryan Steil",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 52,
+    "rep_pct": 48,
+    "other_pct": 0.0,
+    "margin": 4,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -4.5,
+    "lines": "2024_same",
+    "house2024_margin": -10.2,
+    "prev_seat_margin": -10.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.5,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-us-house-district-1-results"
+   ],
+   "notes": "Flip per NBC (marked flip; Berman projected winner). Steil won 2024 by 10.2.",
+   "verified": true
+  },
+  {
+   "id": "WI-2",
+   "office": "House",
+   "state": "WI",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": true,
+   "dem": {
+    "name": "Mark Pocan",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Long-time incumbent; chair emeritus of the Congressional Progressive Caucus (Wikipedia); party-line liberal, not an insurgent.",
+    "background": "Incumbent since 2013; former state assemblyman",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": null,
+   "result": {
+    "dem_pct": 100,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 88.2,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 40.04,
+    "lines": "2024_same",
+    "house2024_margin": 40.3,
+    "prev_seat_margin": 40.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/Mark_Pocan"
+   ],
+   "notes": "No Republican on the general ballot; NBC shows Pocan 100% with 88.2% of expected vote counted. Margin left null (uncontested).",
+   "verified": true
+  },
+  {
+   "id": "WI-3",
+   "office": "House",
+   "state": "WI",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rebecca Cooke",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "populist",
+    "archetype": "center_populist",
+    "style_confidence": "high",
+    "style_evidence": "Waitress/small-business owner; self-described centrist, pledged to join Blue Dogs, says she is 'not a progressive', calls party brand 'far left'; Mother Jones: 'moderate version of Democratic populism'; endorsed by Blue Dogs, NewDems and Sanders.",
+    "background": "Small-business owner and waitress; 2024 nominee",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Emily Berge (Coulee DSA, Our Wisconsin Revolution, Indivisible-backed) 60.48-39.45 in Aug 11 primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Derrick Van Orden",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.4,
+    "rep_pct": 45.8,
+    "other_pct": 1.8,
+    "margin": 6.6,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -7.38,
+    "lines": "2024_same",
+    "house2024_margin": -2.7,
+    "prev_seat_margin": -2.7,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.98,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)",
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-us-house-district-3-results"
+   ],
+   "notes": "Rematch of 2024 (Van Orden +2.7). One of the most expensive House races of 2026 (>$31.6M per Wikipedia). [Verification] other_pct corrected 1.7->1.8 (residual 100-52.4-45.8 per NBC; NBC lists independent Alexander Kent 1.2%, remainder unnamed). NBC district page shows shift of 14.15 pts vs 2024 pres (NBC uses its own baseline).",
+   "verified": true
+  },
+  {
+   "id": "WI-4",
+   "office": "House",
+   "state": "WI",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Gwen Moore",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Long-time Milwaukee incumbent; mainstream party-line Democrat.",
+    "background": "Incumbent since 2005",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tim Rogers",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "perennial_candidate"
+    ]
+   },
+   "result": {
+    "dem_pct": 80,
+    "rep_pct": 17.5,
+    "other_pct": 2.5,
+    "margin": 62.5,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 51.4,
+    "lines": "2024_same",
+    "house2024_margin": 52.4,
+    "prev_seat_margin": 52.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.1,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Wisconsin"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "WI-5",
+   "office": "House",
+   "state": "WI",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Andrew Beck",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No ideological branding or notable endorsements found in Wikipedia race page; default mainstream classification.",
+    "background": "Democratic challenger",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Scott Fitzgerald",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 41,
+    "rep_pct": 59,
+    "other_pct": 0.0,
+    "margin": -18,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -22.09,
+    "lines": "2024_same",
+    "house2024_margin": -28.9,
+    "prev_seat_margin": -28.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 4.09,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-us-house-district-5-results"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "WI-6",
+   "office": "House",
+   "state": "WI",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Brad Smith",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Businessman endorsed by NEA, WEAC and two Democratic state senators; no explicit ideological branding found.",
+    "background": "Businessman",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 50.18-49.67 over Amanda Bell (ex-USGS officer); no ideological framing found."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Glenn Grothman",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 43.3,
+    "rep_pct": 52.8,
+    "other_pct": 3.9,
+    "margin": -9.5,
+    "pct_expected_vote_counted": 97.8,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -16.44,
+    "lines": "2024_same",
+    "house2024_margin": -22.5,
+    "prev_seat_margin": -22.5,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 6.94,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-us-house-district-6-results"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "WI-7",
+   "office": "House",
+   "state": "WI",
+   "district": 7,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Fred Clark",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former state representative; endorsed by Rep. Mark Pocan and former Rep. Dave Obey; conventional party profile.",
+    "background": "Former state representative (2009-2015)",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 3-way primary 37.7% over Ginger Murray 31.8%, Chris Armstrong 30.4%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michael Alfonso",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed",
+     "family_ties_to_administration"
+    ]
+   },
+   "result": {
+    "dem_pct": 43.9,
+    "rep_pct": 56.1,
+    "other_pct": 0.0,
+    "margin": -12.2,
+    "pct_expected_vote_counted": 96.3,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -22.46,
+    "lines": "2024_same",
+    "house2024_margin": -27.2,
+    "prev_seat_margin": -27.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.26,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-us-house-district-7-results"
+   ],
+   "notes": "Open: Tom Tiffany ran for governor. Alfonso is a media producer and son-in-law of Transportation Secretary Sean Duffy (Wikipedia).",
+   "verified": true
+  },
+  {
+   "id": "WI-8",
+   "office": "House",
+   "state": "WI",
+   "district": 8,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rick Crosson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former Green Bay school board member; no notable group endorsements listed; beat a DSA-backed rival narrowly.",
+    "background": "Former Green Bay school board member",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 3-way primary 35.2% over Mark Scheffler 33.0% and NE Wisconsin DSA-backed Katrina DeVille 31.6%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tony Wied",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.1,
+    "rep_pct": 53.9,
+    "other_pct": 0.0,
+    "margin": -7.8,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -16.23,
+    "lines": "2024_same",
+    "house2024_margin": -14.72,
+    "prev_seat_margin": -14.72,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.43,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-us-house-district-8-results"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "MN-1",
+   "office": "House",
+   "state": "MN",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jake Johnson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "High school teacher; DCCC Red to Blue, NewDem Action Fund, 314 Action, Walz, Tina Smith, Buttigieg, Reps. Pat Ryan and Chris Deluzio, AFL-CIO/SEIU/Education Minnesota. Moderate tag rests on NewDem Action Fund backing.",
+    "background": "High school teacher",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 81.7-18.3 over Alex Eaton."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brad Finstad",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 50,
+    "rep_pct": 49.9,
+    "other_pct": 0.1,
+    "margin": 0.1,
+    "pct_expected_vote_counted": 98.8,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -11.96,
+    "lines": "2024_same",
+    "house2024_margin": -17.1,
+    "prev_seat_margin": -17.1,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.06,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-us-house-district-1-results"
+   ],
+   "notes": "Uncalled at fetch: Johnson leads by 321 votes (163,059 to 162,738) with 98.7% of expected vote counted. Would be a flip if lead holds. [Verification] NBC at 11:17 AM ET: still not projected, 98.7% expected in, 326,188 total votes, Finstad needs 53.6% of remaining. Per-candidate raw votes (163,059 vs 162,738) could not be re-confirmed: NBC page shows 0 per candidate and MN SOS results site blocked automated access.",
+   "verified": true
+  },
+  {
+   "id": "MN-2",
+   "office": "House",
+   "state": "MN",
+   "district": 2,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Matt Little",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Medicare for All, wealth tax, replace ICE; refuses corporate/AIPAC/super PAC money; CPC PAC, Casar, Frost, Jayapal, Our Revolution (post-primary), Leaders We Deserve. But DFL-endorsed ex-state senator, not an insurgent; no Sanders/AOC/DSA/JD endorsement found.",
+    "background": "Former state senator (2017-2021)",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Won 47.2% over Matt Klein 30.4% (moderate, 314 Action spent $2.5M for him) and Kaela Berg 16.7%; framed as progressive-vs-moderate contest."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Eric Pratt",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "state_senator"
+    ]
+   },
+   "result": {
+    "dem_pct": 57.2,
+    "rep_pct": 42.8,
+    "other_pct": 0.1,
+    "margin": 14.4,
+    "pct_expected_vote_counted": 98.9,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 5.8,
+    "lines": "2024_same",
+    "house2024_margin": 13.4,
+    "prev_seat_margin": 13.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.6,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/Matt_Little",
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-us-house-district-2-results"
+   ],
+   "notes": "Open: Angie Craig ran for Senate (lost DFL primary to Peggy Flanagan). Project primaries.json classed Little mainstream_liberal (low); reclassified progressive here on fuller evidence from his Wikipedia page. [Verification] Confidence lowered high->medium: left-ideology call rests on platform and CPC/Our Revolution backing; he was the DFL-endorsed, non-insurgent candidate, so 'liberal'+'mixed' (mainstream_liberal) is a defensible alternative.",
+   "verified": true
+  },
+  {
+   "id": "MN-3",
+   "office": "House",
+   "state": "MN",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kelly Morrison",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; New Democrat Coalition member (Wikipedia); DFL, AFL-CIO, Planned Parenthood endorsements; uncontested primary.",
+    "background": "Physician; first-term incumbent",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tyler Bass",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 64,
+    "rep_pct": 35.8,
+    "other_pct": 0.1,
+    "margin": 28.2,
+    "pct_expected_vote_counted": 98.7,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 21.15,
+    "lines": "2024_same",
+    "house2024_margin": 16.9,
+    "prev_seat_margin": 16.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 7.05,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/Kelly_Morrison",
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-us-house-district-3-results"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "MN-4",
+   "office": "House",
+   "state": "MN",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Betty McCollum",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Long-time incumbent; DFL, AFL-CIO, Sierra Club, J Street endorsements; mainstream party-line.",
+    "background": "Incumbent since 2001",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Aswar Rahman 85.8-14.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Paul Wikstrom",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 73.1,
+    "rep_pct": 26.8,
+    "other_pct": 0.1,
+    "margin": 46.3,
+    "pct_expected_vote_counted": 98.6,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 35.5,
+    "lines": "2024_same",
+    "house2024_margin": 34.6,
+    "prev_seat_margin": 34.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.8,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "MN-5",
+   "office": "House",
+   "state": "MN",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ilhan Omar",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Squad member; endorsed by Our Revolution, Track AIPAC, PAL PAC, Peace Action alongside Walz, Klobuchar, Tina Smith and the DFL.",
+    "background": "Squad member; incumbent since 2019",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 80.7% over Julie Le (ex-ICE attorney) 6.7% and others; Don Samuels did not run."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John Nagel",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 76.5,
+    "rep_pct": 16.2,
+    "other_pct": 7.3,
+    "margin": 60.3,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 61.59,
+    "lines": "2024_same",
+    "house2024_margin": 49.8,
+    "prev_seat_margin": 49.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": -1.29,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-us-house-district-5-results"
+   ],
+   "notes": "Independent DeVelle Jackson took 7.0%. Notable style case: Squad incumbent. [Verification] pres2024 baseline 61.59 confirmed against Wikipedia (Harris 79.26, Trump 17.67). NBC's district page reports a 3.28-pt shift toward Republicans vs 2024 pres, implying a different NBC baseline (~63.6); file keeps the Wikipedia baseline (overperformance -1.29).",
+   "verified": true
+  },
+  {
+   "id": "MN-6",
+   "office": "House",
+   "state": "MN",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Doug Chapin",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "College professor; DFL-endorsed, AFL-CIO, Young DFL; unopposed primary; no ideological branding found.",
+    "background": "College professor",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tom Emmer",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed",
+     "house_gop_leadership"
+    ]
+   },
+   "result": {
+    "dem_pct": 44.2,
+    "rep_pct": 55.7,
+    "other_pct": 0.1,
+    "margin": -11.5,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -19.59,
+    "lines": "2024_same",
+    "house2024_margin": -25.1,
+    "prev_seat_margin": -25.1,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.09,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-us-house-district-6-results"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "MN-7",
+   "office": "House",
+   "state": "MN",
+   "district": 7,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Erik Osberg",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Media marketing firm owner; DFL and AFL-CIO endorsed.",
+    "background": "Media marketing firm owner",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Steve Carlson 65.7-34.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michelle Fischbach",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 35,
+    "rep_pct": 64.9,
+    "other_pct": 0.1,
+    "margin": -29.9,
+    "pct_expected_vote_counted": 98.8,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -36.37,
+    "lines": "2024_same",
+    "house2024_margin": -41.0,
+    "prev_seat_margin": -41.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 6.47,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-us-house-district-7-results"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "MN-8",
+   "office": "House",
+   "state": "MN",
+   "district": 8,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Trina Swanson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former USCIS director of international operations; DFL-endorsed; no ideological branding found.",
+    "background": "Former USCIS international operations director",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 77.2% over reality-TV figure Luke Gulbranson 16.9%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Pete Stauber",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.8,
+    "rep_pct": 53.1,
+    "other_pct": 0.1,
+    "margin": -6.3,
+    "pct_expected_vote_counted": 98.8,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -14.24,
+    "lines": "2024_same",
+    "house2024_margin": -16.1,
+    "prev_seat_margin": -16.1,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 7.94,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-us-house-district-8-results"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "IA-1",
+   "office": "House",
+   "state": "IA",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Christina Bohannan",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Third run; DCCC Red to Blue, WelcomePAC, NewDem Action Fund, EMILYs List, 314 Action, Giffords, J Street.",
+    "background": "Law professor; ex-state rep; 2022 and 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 81.5-18.5 over Travis Terrell."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mariannette Miller-Meeks",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.8,
+    "rep_pct": 43.6,
+    "other_pct": 3.6,
+    "margin": 9.2,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -8.43,
+    "lines": "2024_same",
+    "house2024_margin": -0.19,
+    "prev_seat_margin": -0.19,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.63,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/iowa-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Iowa",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Iowa",
+    "https://en.wikipedia.org/wiki/Christina_Bohannan",
+    "https://www.nbcnews.com/politics/2026-elections/iowa-us-house-district-1-results"
+   ],
+   "notes": "Third straight Bohannan/Miller-Meeks matchup (MMM won 2024 by 0.19). Independent Michael Bridgford 3.6%. Over $51.5M spent (Wikipedia).",
+   "verified": true
+  },
+  {
+   "id": "IA-2",
+   "office": "House",
+   "state": "IA",
+   "district": 2,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lindsay James",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "State representative; EMILY's List, End Citizens United, Teamsters Iowa, AFGE, Vote Common Good, ex-Reps. Finkenauer and Loebsack.",
+    "background": "State representative since 2019",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 57.8% over Clint Twedt-Ball 24.1% and Kathy Dolter 18.1%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joe Mitchell",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 49.5,
+    "rep_pct": 45.6,
+    "other_pct": 4.9,
+    "margin": 3.9,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -9.96,
+    "lines": "2024_same",
+    "house2024_margin": -15.6,
+    "prev_seat_margin": -15.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.86,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/iowa-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Iowa",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Iowa",
+    "https://www.nbcnews.com/politics/2026-elections/iowa-us-house-district-2-results"
+   ],
+   "notes": "Open: Ashley Hinson ran for Senate. Libertarian Rick Stewart 2.7%, Dave Bushaw 2.2%. Rep style \"maga\" is low-confidence (Trump-endorsed former state rep).",
+   "verified": true
+  },
+  {
+   "id": "IA-3",
+   "office": "House",
+   "state": "IA",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sarah Trone Garriott",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "State senator; DCCC Red to Blue, WelcomePAC, NewDem Action Fund, Sen. Elissa Slotkin, EMILYs List; establishment favorite after Konfrst withdrew.",
+    "background": "State senator since 2021; Lutheran pastor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed after Jennifer Konfrst withdrew and Xavier Carrigan was disqualified."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Zach Nunn",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 53.7,
+    "rep_pct": 46.3,
+    "other_pct": 0.0,
+    "margin": 7.4,
+    "pct_expected_vote_counted": 98.8,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -4.39,
+    "lines": "2024_same",
+    "house2024_margin": -3.9,
+    "prev_seat_margin": -3.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.79,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/iowa-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Iowa",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Iowa",
+    "https://www.nbcnews.com/politics/2026-elections/iowa-us-house-district-3-results"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "IA-4",
+   "office": "House",
+   "state": "IA",
+   "district": 4,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dave Dawson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former state representative; no notable endorsements listed.",
+    "background": "Former state representative (2013-2017)",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 39.1% over Stephanie Steiner 30.6%, Ashley WolfTornabane 30.4%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chris McGowan",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.9,
+    "rep_pct": 59.1,
+    "other_pct": 0.0,
+    "margin": -18.2,
+    "pct_expected_vote_counted": 98.7,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -31.36,
+    "lines": "2024_same",
+    "house2024_margin": -34.3,
+    "prev_seat_margin": -34.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.16,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/iowa-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Iowa",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Iowa",
+    "https://www.nbcnews.com/politics/2026-elections/iowa-us-house-district-4-results"
+   ],
+   "notes": "Open: Randy Feenstra ran for governor (lost GOP primary). McGowan is president of the Siouxland Chamber of Commerce.",
+   "verified": true
+  },
+  {
+   "id": "MO-1",
+   "office": "House",
+   "state": "MO",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Wesley Bell",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent backed by Jeffries, Pelosi, AIPAC, DMFI, CBC, AFL-CIO, UAW, NEA; New Democrat Coalition member (Wikipedia).",
+    "background": "Incumbent; former St. Louis County prosecutor",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Squad comeback bid by Cori Bush (Justice Democrats, DSA, Sanders, Tlaib, Pressley) 59.2-36.9."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Paul Berry III",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "perennial_candidate"
+    ]
+   },
+   "result": {
+    "dem_pct": 81.5,
+    "rep_pct": 13.9,
+    "other_pct": 4.6,
+    "margin": 67.6,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 57.13,
+    "lines": "2024_same",
+    "house2024_margin": 57.5,
+    "prev_seat_margin": 57.5,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.47,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/missouri-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2026_Missouri_Proposition_A",
+    "https://en.wikipedia.org/wiki/Wesley_Bell",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-results",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-us-house-district-1-results"
+   ],
+   "notes": "Missouri primaries were held on the 2025 GOP-drawn map, but after state and U.S. Supreme Court rulings the general election used the 2022 map; voters also rejected the new map via Proposition A (Yes 38.2%). Baseline uses 2022-2024 lines. [Verification] Possible coding inconsistency: Bell is a New Democrat Coalition member backed by AIPAC/DMFI and ran as the establishment pick against Cori Bush; the rubric's 'moderate' (New Democrat) could apply, as it did for Davids (KS-3). Left as mainstream_liberal (medium).",
+   "verified": true
+  },
+  {
+   "id": "MO-2",
+   "office": "House",
+   "state": "MO",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Fred Wellman",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Podcast host; endorsed by VoteVets, Reps. Eugene Vindman and Jared Huffman, Missouri AFL-CIO; no explicit ideological branding found.",
+    "background": "Podcast host",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 45.9% over Joan VonDras 43.0% and Tim Bilash 11.1%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ann Wagner",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 51.1,
+    "rep_pct": 46.2,
+    "other_pct": 2.7,
+    "margin": 4.9,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -7.95,
+    "lines": "2024_same",
+    "house2024_margin": -11.99,
+    "prev_seat_margin": -11.99,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.85,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/missouri-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2026_Missouri_Proposition_A",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-results",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-us-house-district-2-results"
+   ],
+   "notes": "Missouri primaries were held on the 2025 GOP-drawn map, but after state and U.S. Supreme Court rulings the general election used the 2022 map; voters also rejected the new map via Proposition A (Yes 38.2%). Baseline uses 2022-2024 lines. Libertarian Brandon Daugherty 2.7%.",
+   "verified": true
+  },
+  {
+   "id": "MO-3",
+   "office": "House",
+   "state": "MO",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bethany Mann",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Third-time nominee; no notable endorsements listed.",
+    "background": "Technology specialist; 2022 and 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 69.1%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Bob Onder",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 44.4,
+    "rep_pct": 52.9,
+    "other_pct": 2.7,
+    "margin": -8.5,
+    "pct_expected_vote_counted": 98.9,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -26.72,
+    "lines": "2024_same",
+    "house2024_margin": -26.01,
+    "prev_seat_margin": -26.01,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.22,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/missouri-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2026_Missouri_Proposition_A",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-results"
+   ],
+   "notes": "Missouri primaries were held on the 2025 GOP-drawn map, but after state and U.S. Supreme Court rulings the general election used the 2022 map; voters also rejected the new map via Proposition A (Yes 38.2%). Baseline uses 2022-2024 lines.",
+   "verified": true
+  },
+  {
+   "id": "MO-4",
+   "office": "House",
+   "state": "MO",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jordan Herrera",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Attorney endorsed by Missouri AFL-CIO; beat DSA-, Khanna- and Nina Turner-backed tenant organizer in primary.",
+    "background": "Attorney",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Primary on the new (KC-based) lines: Herrera 30.5%, Hartzell Gray (KC DSA, Ro Khanna, Nina Turner, PDA) 27.7%, Jeanette Cass 14.7%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mark Alford",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 35.9,
+    "rep_pct": 61.2,
+    "other_pct": 2.9,
+    "margin": -25.3,
+    "pct_expected_vote_counted": 96.9,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -42.12,
+    "lines": "2024_same",
+    "house2024_margin": -44.7,
+    "prev_seat_margin": -44.7,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.82,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/missouri-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2026_Missouri_Proposition_A",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-results",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-us-house-district-4-results"
+   ],
+   "notes": "Missouri primaries were held on the 2025 GOP-drawn map, but after state and U.S. Supreme Court rulings the general election used the 2022 map; voters also rejected the new map via Proposition A (Yes 38.2%). Baseline uses 2022-2024 lines. Tier 1 only because the primary was an ideological contest; general was on the old, deep-red rural MO-4.",
+   "verified": true
+  },
+  {
+   "id": "MO-5",
+   "office": "House",
+   "state": "MO",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Emanuel Cleaver",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Long-time incumbent; AFL-CIO, NEA, J Street, Planned Parenthood endorsements; unopposed primary.",
+    "background": "Incumbent since 2005; former Kansas City mayor",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rick Brattin",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed",
+     "state_senator"
+    ]
+   },
+   "result": {
+    "dem_pct": 69.5,
+    "rep_pct": 28.1,
+    "other_pct": 2.4,
+    "margin": 41.4,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 23.4,
+    "lines": "2024_same",
+    "house2024_margin": 23.8,
+    "prev_seat_margin": 23.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.0,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/missouri-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2026_Missouri_Proposition_A",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-results",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-us-house-district-5-results"
+   ],
+   "notes": "Missouri primaries were held on the 2025 GOP-drawn map, but after state and U.S. Supreme Court rulings the general election used the 2022 map; voters also rejected the new map via Proposition A (Yes 38.2%). Baseline uses 2022-2024 lines. The 2025 map would have dismantled this seat.",
+   "verified": true
+  },
+  {
+   "id": "MO-6",
+   "office": "House",
+   "state": "MO",
+   "district": 6,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Josh Smead",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Architect; no notable endorsements listed.",
+    "background": "Architect",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 47.7% over Matt Levine 30.2%, Scot Pondelick 22.1%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chris Stigall",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "media_personality"
+    ]
+   },
+   "result": {
+    "dem_pct": 39,
+    "rep_pct": 58.7,
+    "other_pct": 2.3,
+    "margin": -19.7,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -38.85,
+    "lines": "2024_same",
+    "house2024_margin": -43.8,
+    "prev_seat_margin": -43.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 19.15,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/missouri-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2026_Missouri_Proposition_A",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-results",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-us-house-district-6-results"
+   ],
+   "notes": "Missouri primaries were held on the 2025 GOP-drawn map, but after state and U.S. Supreme Court rulings the general election used the 2022 map; voters also rejected the new map via Proposition A (Yes 38.2%). Baseline uses 2022-2024 lines. Open: Sam Graves did not run. Stigall is a conservative radio host; \"maga\" style is low-confidence (no Trump endorsement listed on Wikipedia).",
+   "verified": true
+  },
+  {
+   "id": "MO-7",
+   "office": "House",
+   "state": "MO",
+   "district": 7,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Missi Hesketh",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former Forsyth mayor and 2024 nominee; no notable endorsements.",
+    "background": "Former mayor of Forsyth; 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Eric Burlison",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 35.4,
+    "rep_pct": 62.2,
+    "other_pct": 2.4,
+    "margin": -26.8,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -42.65,
+    "lines": "2024_same",
+    "house2024_margin": -45.3,
+    "prev_seat_margin": -45.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.85,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/missouri-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2026_Missouri_Proposition_A",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-results",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-us-house-district-7-results"
+   ],
+   "notes": "Missouri primaries were held on the 2025 GOP-drawn map, but after state and U.S. Supreme Court rulings the general election used the 2022 map; voters also rejected the new map via Proposition A (Yes 38.2%). Baseline uses 2022-2024 lines.",
+   "verified": true
+  },
+  {
+   "id": "MO-8",
+   "office": "House",
+   "state": "MO",
+   "district": 8,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Christopher Reichard",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Construction worker; no ideological branding found; beat a former state senator.",
+    "background": "Construction worker",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat former state senator Frank Barnitz 54.1-45.9."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jason Smith",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 29.2,
+    "rep_pct": 67.7,
+    "other_pct": 3.1,
+    "margin": -38.5,
+    "pct_expected_vote_counted": 98.3,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -53.89,
+    "lines": "2024_same",
+    "house2024_margin": -54.4,
+    "prev_seat_margin": -54.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.39,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/missouri-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Missouri",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2026_Missouri_Proposition_A",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-results",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-us-house-district-8-results"
+   ],
+   "notes": "Missouri primaries were held on the 2025 GOP-drawn map, but after state and U.S. Supreme Court rulings the general election used the 2022 map; voters also rejected the new map via Proposition A (Yes 38.2%). Baseline uses 2022-2024 lines.",
+   "verified": true
+  },
+  {
+   "id": "KS-1",
+   "office": "House",
+   "state": "KS",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lauren Reinhold",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former federal employee; no notable endorsements listed.",
+    "background": "Former federal employee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat KU professor Colin McRoberts 64.1-35.9."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tracey Mann",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 37.7,
+    "rep_pct": 59.6,
+    "other_pct": 2.7,
+    "margin": -21.9,
+    "pct_expected_vote_counted": 98.5,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -31.27,
+    "lines": "2024_same",
+    "house2024_margin": -38.2,
+    "prev_seat_margin": -38.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.37,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kansas-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Kansas",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kansas"
+   ],
+   "notes": "GOP effort to redraw KS-3 failed (Wikipedia); 2022 lines used.",
+   "verified": true
+  },
+  {
+   "id": "KS-2",
+   "office": "House",
+   "state": "KS",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Don Coover",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Veterinarian; unopposed primary; no endorsements or ideological branding found.",
+    "background": "Veterinarian",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Derek Schmidt",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 44.9,
+    "rep_pct": 51.4,
+    "other_pct": 3.7,
+    "margin": -6.5,
+    "pct_expected_vote_counted": 95.9,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -19.68,
+    "lines": "2024_same",
+    "house2024_margin": -18.9,
+    "prev_seat_margin": -18.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.18,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kansas-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Kansas",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kansas",
+    "https://www.nbcnews.com/politics/2026-elections/kansas-us-house-district-2-results"
+   ],
+   "notes": "GOP effort to redraw KS-3 failed (Wikipedia); 2022 lines used. Libertarian John Hauer 3.7%.",
+   "verified": true
+  },
+  {
+   "id": "KS-3",
+   "office": "House",
+   "state": "KS",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sharice Davids",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition vice chair; Wikipedia: \"described as a moderate Democrat\"; DMFI, J Street, Giffords, AFL-CIO.",
+    "background": "Incumbent since 2019",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Sarah Preu (PDA, CAIR Action, Track AIPAC) 83.4-16.6."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Eric Jenkins",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 59.6,
+    "rep_pct": 38.4,
+    "other_pct": 2.1,
+    "margin": 21.2,
+    "pct_expected_vote_counted": 98.5,
+    "called": "D",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 4.1,
+    "lines": "2024_same",
+    "house2024_margin": 10.8,
+    "prev_seat_margin": 10.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.1,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kansas-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Kansas",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kansas",
+    "https://en.wikipedia.org/wiki/Sharice_Davids",
+    "https://www.nbcnews.com/politics/2026-elections/kansas-us-house-district-3-results"
+   ],
+   "notes": "GOP effort to redraw KS-3 failed (Wikipedia); 2022 lines used.",
+   "verified": true
+  },
+  {
+   "id": "KS-4",
+   "office": "House",
+   "state": "KS",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Katy Tyndell",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Attorney; no notable endorsements listed.",
+    "background": "Attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 66.1% over retired USAF colonel Chris Carmichael 21.9%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ron Estes",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 44,
+    "rep_pct": 53.6,
+    "other_pct": 2.4,
+    "margin": -9.6,
+    "pct_expected_vote_counted": 98.5,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.29,
+    "lines": "2024_same",
+    "house2024_margin": -30.0,
+    "prev_seat_margin": -30.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.69,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kansas-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Kansas",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kansas"
+   ],
+   "notes": "GOP effort to redraw KS-3 failed (Wikipedia); 2022 lines used.",
+   "verified": true
+  },
+  {
+   "id": "NE-1",
+   "office": "House",
+   "state": "NE",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chris Backemeyer",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former deputy assistant secretary of state; no notable endorsements listed.",
+    "background": "Former deputy assistant secretary of state",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Eric Moyer 57.6-42.4."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Flood",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.2,
+    "rep_pct": 50.3,
+    "other_pct": 3.5,
+    "margin": -4.1,
+    "pct_expected_vote_counted": 92.2,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -12.97,
+    "lines": "2024_same",
+    "house2024_margin": -20.2,
+    "prev_seat_margin": -20.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.27,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/nebraska-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Nebraska",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Nebraska",
+    "https://electionresults.nebraska.gov/resultsSW.aspx?type=CG&map=DIST",
+    "https://www.nbcnews.com/politics/2026-elections/nebraska-us-house-district-1-results"
+   ],
+   "notes": "Uncalled at fetch: Flood 50.1, Backemeyer 46.4 with 90.7% of expected vote counted. [Verification] Nebraska SOS unofficial results (11/4 5:58 AM CT): Flood 122,874 (50.08%), Backemeyer 113,806 (46.38%); 429/438 precincts fully reporting. NBC: not projected, 90.7% expected vote in at 11:24 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NE-2",
+   "office": "House",
+   "state": "NE",
+   "district": 2,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Denise Powell",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Candidate-training group co-founder; NewDem Action Fund, EMILY's List, BOLD PAC, Latino Victory, Vote Mama, Rep. Annie Kuster; endorsed by 2022/2024 nominee Tony Vargas.",
+    "background": "Co-founder of a candidate-training group",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Won 38.8% over CPC-PAC/Jayapal/Khanna-backed state Sen. John Cavanaugh 36.4% and Crystal Rhoades 14.1%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brinker Harding",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 56.4,
+    "rep_pct": 41,
+    "other_pct": 2.6,
+    "margin": 15.4,
+    "pct_expected_vote_counted": 92.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 4.59,
+    "lines": "2024_same",
+    "house2024_margin": -1.86,
+    "prev_seat_margin": -1.86,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.81,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/nebraska-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Nebraska",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Nebraska",
+    "https://electionresults.nebraska.gov/resultsSW.aspx?type=CG&map=DIST"
+   ],
+   "notes": "Open: Don Bacon retired. Harris won district in 2024. Libertarian Eric Foreman 2.6%. Only 87.3% of expected vote counted. [Verification] Nebraska SOS unofficial results (11/4 5:58 AM CT): Powell 138,733 (56.41%), Harding 100,895 (41.02%), Foreman 6,310; 334/334 precincts fully reporting. NBC's 87.3% expected-vote figure implies outstanding early/provisional ballots beyond precinct reporting.",
+   "verified": true
+  },
+  {
+   "id": "NE-3",
+   "office": "House",
+   "state": "NE",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Becky Stille",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Agriculture processing quality manager; unopposed primary.",
+    "background": "Agriculture processing quality manager",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Adrian Smith",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 20,
+    "rep_pct": 71,
+    "other_pct": 9.0,
+    "margin": -51,
+    "pct_expected_vote_counted": 95.4,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -53.59,
+    "lines": "2024_same",
+    "house2024_margin": -60.84,
+    "prev_seat_margin": -60.84,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 2.59,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/nebraska-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Nebraska",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Nebraska",
+    "https://electionresults.nebraska.gov/resultsSW.aspx?type=CG&map=DIST"
+   ],
+   "notes": "Three minor candidates combined ~9%. [Verification] Nebraska SOS lists Dem nominee as 'Becky Kelly Stille': Smith 172,321 (71.03%), Stille 48,495 (19.99%); 635/639 precincts fully reporting.",
+   "verified": true
+  },
+  {
+   "id": "SD-AL",
+   "office": "House",
+   "state": "SD",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Nikki Gronli",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former USDA Rural Development state director and state party vice chair; endorsed by Joe Biden, AFSCME Council 65.",
+    "background": "Former USDA Rural Development state director",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Marty Jackley",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed",
+     "statewide_officeholder"
+    ]
+   },
+   "result": {
+    "dem_pct": 36,
+    "rep_pct": 64,
+    "other_pct": 0.0,
+    "margin": -28,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.19,
+    "lines": "2024_same",
+    "house2024_margin": -44.08,
+    "prev_seat_margin": -44.08,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 1.19,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-dakota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_South_Dakota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_South_Dakota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_election_in_South_Dakota"
+   ],
+   "notes": "Open: Dusty Johnson ran for governor. Jackley is state attorney general.",
+   "verified": true
+  },
+  {
+   "id": "ND-AL",
+   "office": "House",
+   "state": "ND",
+   "district": null,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Trygve Hammer",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Teacher and 2024 nominee; endorsed by the Democratic-NPL party; unopposed primary.",
+    "background": "Teacher; 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Julie Fedorchak",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 36.7,
+    "rep_pct": 57.4,
+    "other_pct": 6,
+    "margin": -20.7,
+    "pct_expected_vote_counted": 97.3,
+    "called": "R",
+    "called_by": "NBC News (projection)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -36.45,
+    "lines": "2024_same",
+    "house2024_margin": -38.88,
+    "prev_seat_margin": -38.88,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.75,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-dakota-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_North_Dakota",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_North_Dakota",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_election_in_North_Dakota"
+   ],
+   "notes": "Two independents combined 6.0%.",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T11:30:00-05:00",
+  "checked_items": 37,
+  "corrections": [
+   "WI-3: other_pct 1.7 -> 1.8 (residual of NBC D/R shares)",
+   "MN-2 (Matt Little): style_confidence high -> medium; evidence rewritten (CPC PAC + Our Revolution, but DFL-endorsed non-insurgent; no Sanders/AOC/DSA/JD)",
+   "NE-1/NE-2/NE-3: added Nebraska SOS official unofficial-results source and raw votes; NE-2 all 334/334 precincts in vs NBC 87.3% expected vote noted",
+   "Added NBC per-district result pages (11:17-11:24 AM ET) as sources; counts unchanged since file's as_of"
+  ],
+  "unresolved": [
+   "Calls: NBC page extracts do not render per-race projection labels; 'called' values rest on NBC state seat summaries (WI 4D/4R; MN 4D/3R/1 uncalled; IA 3D/1R; MO 3D/5R; KS 1D/3R; NE 1D/1R/1 uncalled; SD/ND 1R), which match the file but are not per-race confirmations. No AP or second-network call could be checked (AP, CNN, Politico, WaPo unfetchable; web-search budget exhausted).",
+   "No independent (non-NBC) vote-share source reachable for WI, MN, IA, MO, KS, SD, ND; only Nebraska verified against the official SOS site. MN SOS blocked by bot protection.",
+   "MN-1 raw vote counts (163,059 vs 162,738) not re-confirmed.",
+   "MN-5: NBC's implied 2024 baseline (~63.6) differs from Wikipedia's 61.59 by ~2 pts; other districts differ by 0.1-1.1 pts (e.g., MO-1, MN-7). File uses Wikipedia baselines consistently.",
+   "MO-1 (Bell) and MN-3 (Morrison) are New Democrat members coded mainstream_liberal while KS-3 Davids (NewDem vice chair) is coded moderate; NewDem membership is applied inconsistently.",
+   "MN-1 Jake Johnson 'moderate' rests only on NewDem Action Fund backing (low confidence).",
+   "Republican quality_flags (e.g., trump_endorsed) and house2024_margin values were not independently re-verified."
+  ]
+ }
+}

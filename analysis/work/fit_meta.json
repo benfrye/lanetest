@@ -1,0 +1,817 @@
+{
+ "n_main": 403,
+ "centroids": {
+  "progressive": {
+   "L": 2.0,
+   "P": 0.38462,
+   "n": 26
+  },
+  "left_populist": {
+   "L": 1.35714,
+   "P": 1.0,
+   "n": 14
+  },
+  "center_populist": {
+   "L": 0.0,
+   "P": 1.0,
+   "n": 2
+  },
+  "mainstream_liberal": {
+   "L": 1.0,
+   "P": 0.09418,
+   "n": 292
+  },
+  "moderate": {
+   "L": -0.01449,
+   "P": 0.12319,
+   "n": 69
+  }
+ },
+ "min_n": {
+  "progressive": {
+   "n": 26,
+   "n_states": 15,
+   "n_close": 6,
+   "ok": true
+  },
+  "left_populist": {
+   "n": 14,
+   "n_states": 12,
+   "n_close": 2,
+   "ok": false
+  },
+  "center_populist": {
+   "n": 2,
+   "n_states": 2,
+   "n_close": 1,
+   "ok": false
+  },
+  "mainstream_liberal": {
+   "n": 292,
+   "n_states": 46,
+   "n_close": 43,
+   "ok": true
+  },
+  "moderate": {
+   "n": 69,
+   "n_states": 31,
+   "n_close": 31,
+   "ok": true
+  }
+ },
+ "u_active": [
+  "progressive",
+  "moderate"
+ ],
+ "statewide_dev_active": true,
+ "n_statewide": 57,
+ "interaction_gate": {
+  "beta_PW": {
+   "gate_passed": false,
+   "badge": "prior",
+   "reason": "district CVAP composition (research/districts_acs.json) is not on disk; the gate requires district-level W~ spanning >= 20 pts within >= 8 states. State-level proxies would make it a between-state term. Fixed at 0 (not prior draws) in all translations."
+  },
+  "beta_LY": {
+   "gate_passed": false,
+   "badge": "prior",
+   "reason": "same as beta_PW (no district 18-29 shares on current lines)."
+  }
+ },
+ "levels_triggered": [
+  {
+   "level": 1,
+   "trigger": "archetypes below minimum N: left_populist, center_populist",
+   "action": "u_a = 0 for those archetypes (structural prediction only); cells greyed"
+  },
+  {
+   "level": 2,
+   "trigger": "interactions below minimum N (no district composition)",
+   "action": "gamma = 0; tilt disabled"
+  },
+  {
+   "level": 3,
+   "trigger": "district demographics missing for 100% of rows (> 25%)",
+   "action": "ES_re and ES_age dropped; rely on the m24 spline and the state effects/Mundlak terms. Banner: the wave's demographic shape is only partly controlled. (State-level ES would be collinear with alpha_s.)"
+  }
+ ],
+ "fit_level_pre_diagnostics": 3,
+ "label_kappa_archetype_proxy": 0.66581,
+ "label_kappa_rules_main": 0.40856,
+ "names": [
+  "mu[House]",
+  "mu[Governor]",
+  "mu[Senate]",
+  "mu[special_2025H1]",
+  "mu[special_2025H2]",
+  "mu[special_2026H1]",
+  "alpha[AL]",
+  "alpha[AR]",
+  "alpha[AZ]",
+  "alpha[CO]",
+  "alpha[CT]",
+  "alpha[DE]",
+  "alpha[FL]",
+  "alpha[GA]",
+  "alpha[HI]",
+  "alpha[IA]",
+  "alpha[ID]",
+  "alpha[IL]",
+  "alpha[IN]",
+  "alpha[KS]",
+  "alpha[KY]",
+  "alpha[LA]",
+  "alpha[MA]",
+  "alpha[MD]",
+  "alpha[ME]",
+  "alpha[MI]",
+  "alpha[MN]",
+  "alpha[MO]",
+  "alpha[MS]",
+  "alpha[MT]",
+  "alpha[NC]",
+  "alpha[ND]",
+  "alpha[NE]",
+  "alpha[NH]",
+  "alpha[NJ]",
+  "alpha[NM]",
+  "alpha[NV]",
+  "alpha[NY]",
+  "alpha[OH]",
+  "alpha[OK]",
+  "alpha[OR]",
+  "alpha[PA]",
+  "alpha[RI]",
+  "alpha[SC]",
+  "alpha[SD]",
+  "alpha[TN]",
+  "alpha[TX]",
+  "alpha[VA]",
+  "alpha[VT]",
+  "alpha[WI]",
+  "alpha[WV]",
+  "alpha[WY]",
+  "spline[0]",
+  "spline[1]",
+  "spline[2]",
+  "spline[3]",
+  "inc_D",
+  "inc_R",
+  "R_inc_pv",
+  "D_inc_pv",
+  "rep_quality",
+  "rep_scandal",
+  "swing2024",
+  "omega_maga",
+  "omega_mod",
+  "lambda_L",
+  "lambda_P",
+  "lambda_A[progressive]",
+  "lambda_A[left_populist]",
+  "lambda_A[center_populist]",
+  "lambda_A[moderate]",
+  "beta_L",
+  "beta_P",
+  "d_L",
+  "d_P",
+  "u[progressive]",
+  "u[moderate]"
+ ],
+ "summary": {
+  "agnostic": {
+   "beta_L": [
+    -1.15052,
+    -2.01939,
+    -0.27602
+   ],
+   "beta_P": [
+    1.65087,
+    0.54083,
+    2.78567
+   ],
+   "omega_maga": [
+    0.539,
+    -0.23675,
+    1.29878
+   ],
+   "omega_mod": [
+    -1.38196,
+    -3.19141,
+    0.40094
+   ],
+   "delta[progressive]": [
+    -0.78873,
+    -1.888,
+    0.1773
+   ],
+   "delta[left_populist]": [
+    1.24902,
+    0.10366,
+    2.39188
+   ],
+   "delta[center_populist]": [
+    2.77368,
+    1.3261,
+    4.30784
+   ],
+   "delta[moderate]": [
+    1.23107,
+    0.41779,
+    2.02274
+   ],
+   "sd": {
+    "beta_L": 0.71127,
+    "beta_P": 0.87576,
+    "omega_maga": 0.60506,
+    "omega_mod": 1.40648,
+    "delta[progressive]": 0.81015,
+    "delta[left_populist]": 0.89451,
+    "delta[center_populist]": 1.16644,
+    "delta[moderate]": 0.62329
+   },
+   "sd_ratio": {
+    "beta_L": 0.35563,
+    "beta_P": 0.43788
+   },
+   "d_L": [
+    -0.94594,
+    -1.9086,
+    0.06385
+   ],
+   "d_P": [
+    0.21978,
+    -0.94201,
+    1.39148
+   ],
+   "lambda_L": [
+    -3.85918,
+    -8.18431,
+    0.4293
+   ],
+   "lambda_P": [
+    3.36586,
+    -1.49494,
+    8.16251
+   ],
+   "R_inc_pv": [
+    0.42003,
+    0.31785,
+    0.50465
+   ],
+   "inc_R": [
+    -1.41877,
+    -2.30058,
+    -0.53405
+   ],
+   "inc_D": [
+    1.34607,
+    0.21892,
+    2.49571
+   ],
+   "sigma": {
+    "House+Special": [
+     3.54431,
+     3.30723,
+     3.80817
+    ],
+    "Senate": [
+     3.44195,
+     2.84499,
+     4.20881
+    ],
+    "Governor": [
+     4.92008,
+     4.03589,
+     6.1441
+    ]
+   },
+   "sigma_alpha": [
+    4.37348,
+    3.67484,
+    5.22727
+   ],
+   "tau_u": [
+    0.6,
+    0.14,
+    1.42
+   ]
+  },
+  "literature": {
+   "beta_L": [
+    -1.33234,
+    -2.21105,
+    -0.49748
+   ],
+   "beta_P": [
+    1.43398,
+    0.40073,
+    2.49164
+   ],
+   "omega_maga": [
+    0.63722,
+    -0.14843,
+    1.40958
+   ],
+   "omega_mod": [
+    -1.8939,
+    -3.71316,
+    -0.08924
+   ],
+   "delta[progressive]": [
+    -0.98245,
+    -2.02207,
+    -0.02967
+   ],
+   "delta[left_populist]": [
+    0.95824,
+    -0.11096,
+    2.04308
+   ],
+   "delta[center_populist]": [
+    2.79523,
+    1.36389,
+    4.18588
+   ],
+   "delta[moderate]": [
+    1.29704,
+    0.5157,
+    2.05567
+   ],
+   "sd": {
+    "beta_L": 0.6764,
+    "beta_P": 0.81863,
+    "omega_maga": 0.60968,
+    "omega_mod": 1.41407,
+    "delta[progressive]": 0.78994,
+    "delta[left_populist]": 0.83473,
+    "delta[center_populist]": 1.10297,
+    "delta[moderate]": 0.60817
+   },
+   "sd_ratio": {
+    "beta_L": 0.45094,
+    "beta_P": 0.54575
+   },
+   "d_L": [
+    -0.8798,
+    -1.83512,
+    0.11264
+   ],
+   "d_P": [
+    0.26532,
+    -0.92214,
+    1.40692
+   ],
+   "lambda_L": [
+    -3.72102,
+    -8.11784,
+    0.48277
+   ],
+   "lambda_P": [
+    3.41089,
+    -1.42305,
+    8.20925
+   ],
+   "R_inc_pv": [
+    0.41069,
+    0.30978,
+    0.49733
+   ],
+   "inc_R": [
+    -1.38308,
+    -2.27801,
+    -0.49143
+   ],
+   "inc_D": [
+    1.25663,
+    0.13564,
+    2.40537
+   ],
+   "sigma": {
+    "House+Special": [
+     3.5456,
+     3.30757,
+     3.80985
+    ],
+    "Senate": [
+     3.42672,
+     2.82971,
+     4.21987
+    ],
+    "Governor": [
+     4.92721,
+     4.01114,
+     6.12978
+    ]
+   },
+   "sigma_alpha": [
+    4.33854,
+    3.6148,
+    5.20745
+   ],
+   "tau_u": [
+    0.6,
+    0.14,
+    1.42
+   ]
+  },
+  "discount": {
+   "beta_L": [
+    -1.31424,
+    -2.49232,
+    -0.09846
+   ],
+   "beta_P": [
+    1.51021,
+    -0.12483,
+    3.13073
+   ],
+   "omega_maga": [
+    0.90801,
+    -0.34458,
+    2.14476
+   ],
+   "omega_mod": [
+    -0.8998,
+    -3.07783,
+    1.34391
+   ],
+   "delta[progressive]": [
+    -0.86258,
+    -2.28521,
+    0.54539
+   ],
+   "delta[left_populist]": [
+    1.04502,
+    -0.60677,
+    2.70349
+   ],
+   "delta[center_populist]": [
+    2.82564,
+    0.67149,
+    4.9479
+   ],
+   "delta[moderate]": [
+    1.53732,
+    0.32748,
+    2.7072
+   ],
+   "sd": {
+    "beta_L": 0.95253,
+    "beta_P": 1.28027,
+    "omega_maga": 0.97509,
+    "omega_mod": 1.71424,
+    "delta[progressive]": 1.1219,
+    "delta[left_populist]": 1.29631,
+    "delta[center_populist]": 1.65974,
+    "delta[moderate]": 0.93376
+   },
+   "sd_ratio": {
+    "beta_L": 0.47627,
+    "beta_P": 0.64013
+   },
+   "d_L": [
+    -0.4389,
+    -1.58916,
+    0.73904
+   ],
+   "d_P": [
+    0.06606,
+    -1.17108,
+    1.34347
+   ],
+   "lambda_L": [
+    -3.04772,
+    -7.3582,
+    1.47659
+   ],
+   "lambda_P": [
+    3.22587,
+    -1.76343,
+    7.94919
+   ],
+   "R_inc_pv": [
+    0.43131,
+    0.24658,
+    0.58106
+   ],
+   "inc_R": [
+    -1.7248,
+    -3.23215,
+    -0.224
+   ],
+   "inc_D": [
+    1.43419,
+    -0.39482,
+    3.21843
+   ],
+   "sigma": {
+    "House+Special": [
+     4.84849,
+     4.40848,
+     5.33537
+    ],
+    "Senate": [
+     4.61318,
+     3.63421,
+     5.99577
+    ],
+    "Governor": [
+     6.28333,
+     4.87672,
+     8.30826
+    ]
+   },
+   "sigma_alpha": [
+    3.07826,
+    2.3521,
+    3.95608
+   ],
+   "tau_u": [
+    0.6,
+    0.12,
+    1.48
+   ]
+  },
+  "data_only": {
+   "beta_L": [
+    -1.32917,
+    -2.33041,
+    -0.38661
+   ],
+   "beta_P": [
+    2.0633,
+    0.82816,
+    3.31345
+   ],
+   "omega_maga": [
+    0.52231,
+    -0.24993,
+    1.29223
+   ],
+   "omega_mod": [
+    -1.39414,
+    -3.19182,
+    0.37353
+   ],
+   "delta[progressive]": [
+    -0.78233,
+    -1.89444,
+    0.21496
+   ],
+   "delta[left_populist]": [
+    1.59318,
+    0.33638,
+    2.86266
+   ],
+   "delta[center_populist]": [
+    3.39844,
+    1.73939,
+    5.09884
+   ],
+   "delta[moderate]": [
+    1.38074,
+    0.55208,
+    2.19286
+   ],
+   "sd": {
+    "beta_L": 0.79301,
+    "beta_P": 0.97149,
+    "omega_maga": 0.60082,
+    "omega_mod": 1.3997,
+    "delta[progressive]": 0.84068,
+    "delta[left_populist]": 0.98271,
+    "delta[center_populist]": 1.31753,
+    "delta[moderate]": 0.63823
+   },
+   "sd_ratio": {
+    "beta_L": null,
+    "beta_P": null
+   },
+   "d_L": [
+    -0.89699,
+    -1.89517,
+    0.09757
+   ],
+   "d_P": [
+    0.12755,
+    -1.03129,
+    1.3036
+   ],
+   "lambda_L": [
+    -3.94453,
+    -8.2166,
+    0.49772
+   ],
+   "lambda_P": [
+    3.13404,
+    -1.6688,
+    7.98518
+   ],
+   "R_inc_pv": [
+    0.41397,
+    0.31599,
+    0.50202
+   ],
+   "inc_R": [
+    -1.43325,
+    -2.31644,
+    -0.5679
+   ],
+   "inc_D": [
+    1.41729,
+    0.29076,
+    2.55565
+   ],
+   "sigma": {
+    "House+Special": [
+     3.5459,
+     3.30566,
+     3.8046
+    ],
+    "Senate": [
+     3.45078,
+     2.85459,
+     4.23227
+    ],
+    "Governor": [
+     4.92329,
+     4.01688,
+     6.1055
+    ]
+   },
+   "sigma_alpha": [
+    4.35996,
+    3.64374,
+    5.2086
+   ],
+   "tau_u": [
+    0.64,
+    0.14,
+    1.48
+   ]
+  }
+ },
+ "convergence": {
+  "agnostic": {
+   "beta_L": {
+    "rhat": 1.00035,
+    "ess_bulk": 6236.24261
+   },
+   "beta_P": {
+    "rhat": 1.00089,
+    "ess_bulk": 6469.83725
+   },
+   "omega_maga": {
+    "rhat": 1.00001,
+    "ess_bulk": 5842.48097
+   },
+   "omega_mod": {
+    "rhat": 0.99982,
+    "ess_bulk": 7150.56172
+   },
+   "delta[progressive]": {
+    "rhat": 1.00037,
+    "ess_bulk": 5106.41921
+   },
+   "delta[left_populist]": {
+    "rhat": 1.00105,
+    "ess_bulk": 6191.42784
+   },
+   "delta[center_populist]": {
+    "rhat": 1.00032,
+    "ess_bulk": 6855.59387
+   },
+   "delta[moderate]": {
+    "rhat": 1.00057,
+    "ess_bulk": 4865.22695
+   }
+  },
+  "literature": {
+   "beta_L": {
+    "rhat": 0.99994,
+    "ess_bulk": 6492.78441
+   },
+   "beta_P": {
+    "rhat": 1.00005,
+    "ess_bulk": 6794.10806
+   },
+   "omega_maga": {
+    "rhat": 1.00012,
+    "ess_bulk": 5932.9312
+   },
+   "omega_mod": {
+    "rhat": 1.00046,
+    "ess_bulk": 6927.56383
+   },
+   "delta[progressive]": {
+    "rhat": 1.00035,
+    "ess_bulk": 5001.53667
+   },
+   "delta[left_populist]": {
+    "rhat": 1.00005,
+    "ess_bulk": 6567.43027
+   },
+   "delta[center_populist]": {
+    "rhat": 0.99998,
+    "ess_bulk": 6661.8172
+   },
+   "delta[moderate]": {
+    "rhat": 0.99995,
+    "ess_bulk": 5279.29658
+   }
+  },
+  "discount": {
+   "beta_L": {
+    "rhat": 1.00072,
+    "ess_bulk": 7215.53358
+   },
+   "beta_P": {
+    "rhat": 1.00049,
+    "ess_bulk": 8087.72115
+   },
+   "omega_maga": {
+    "rhat": 1.00026,
+    "ess_bulk": 7865.3364
+   },
+   "omega_mod": {
+    "rhat": 1.00016,
+    "ess_bulk": 8730.40292
+   },
+   "delta[progressive]": {
+    "rhat": 1.00029,
+    "ess_bulk": 7648.12165
+   },
+   "delta[left_populist]": {
+    "rhat": 1.00054,
+    "ess_bulk": 7717.98088
+   },
+   "delta[center_populist]": {
+    "rhat": 1.0005,
+    "ess_bulk": 8266.11666
+   },
+   "delta[moderate]": {
+    "rhat": 1.00058,
+    "ess_bulk": 7929.0143
+   }
+  },
+  "data_only": {
+   "beta_L": {
+    "rhat": 1.00033,
+    "ess_bulk": 6118.89155
+   },
+   "beta_P": {
+    "rhat": 0.99972,
+    "ess_bulk": 5616.67258
+   },
+   "omega_maga": {
+    "rhat": 1.00042,
+    "ess_bulk": 6080.54453
+   },
+   "omega_mod": {
+    "rhat": 1.00005,
+    "ess_bulk": 7031.46918
+   },
+   "delta[progressive]": {
+    "rhat": 1.00031,
+    "ess_bulk": 4372.39422
+   },
+   "delta[left_populist]": {
+    "rhat": 1.00011,
+    "ess_bulk": 5223.67675
+   },
+   "delta[center_populist]": {
+    "rhat": 1.00012,
+    "ess_bulk": 6497.3304
+   },
+   "delta[moderate]": {
+    "rhat": 1.0005,
+    "ess_bulk": 4902.88067
+   }
+  }
+ },
+ "likelihood_nu": 5.0,
+ "likelihood": "t5",
+ "likelihood_trials": {
+  "normal": 0.90323,
+  "t10": 0.89082,
+  "t5": 0.89082
+ },
+ "likelihood_note": "no likelihood reached 0.75-0.85 coverage; t5 kept and V7 is non-blocking (intervals conservative)",
+ "mundlak_archetype_terms": [
+  "progressive",
+  "left_populist",
+  "center_populist",
+  "moderate"
+ ],
+ "min_n_rule": {
+  "races": 12,
+  "states": 8,
+  "close": 5,
+  "source": "override O-1a"
+ },
+ "settings": {
+  "chains": 4,
+  "warmup": 1000,
+  "draws": 2500,
+  "thinned": 1000
+ }
+}

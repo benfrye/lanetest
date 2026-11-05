@@ -1,0 +1,2112 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "scope": "Virginia (11) - check whether a new 2026 map was used; North Carolina (14) - note the 2025 redraw; West Virginia (2), Kentucky (6)",
+ "expected_rows": 33,
+ "races": [
+  {
+   "id": "VA-1",
+   "office": "House",
+   "state": "VA",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Shannon Taylor",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Henrico prosecutor; endorsed by Kaine, Warner, Spanberger, DCCC, EMILYs List, End Citizens United, Giffords, NewDem Action Fund; conventional anti-Trump/cost-of-living challenger.",
+    "background": "Henrico County commonwealth's attorney since 2012; 2025 AG candidate",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Won 7-way primary 52.8%; runner-up Salaam Bhatti (Progressive Victory, Track AIPAC) 19.9%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rob Wittman",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 51.04,
+    "rep_pct": 48.72,
+    "other_pct": 0.24,
+    "margin": 2.32,
+    "pct_expected_vote_counted": 98.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -4.94,
+    "lines": "2024_same",
+    "house2024_margin": -12.8,
+    "prev_seat_margin": -12.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 7.26,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-1-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://virginiamercury.com/2026/06/10/wittman-seeks-to-keep-1st-district-seat-as-democratic-challengers-face-crowded-primary/",
+    "https://www.endcitizensunited.org/news/end-citizens-united-endorses-shannon-taylor-in-va-01",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified 2026-11-04 ~11:34 AM ET: NBC count updated to Taylor 207,877 / Wittman 198,417 / write-ins 984 of 407,278 (98.4% in); NBC (winner check) projects Taylor. AP had NOT called VA-1 as of 11:27 AM ET (Taylor +2.3, 98% counted).",
+   "verified": true
+  },
+  {
+   "id": "VA-2",
+   "office": "House",
+   "state": "VA",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Elaine Luria",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Ex-member New Dem Coalition and Problem Solvers, described as national-security centrist; DCCC Red to Blue, NewDem Action Fund, DMFI; ran on cost of living, Medicaid cuts, Iran war votes.",
+    "background": "Former U.S. rep (2019-2023), Navy commander; rematch vs Kiggans",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Won 80.3% over Nila Devanath (Tidewater DSA-endorsed) 16.4%; lopsided."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jen Kiggans",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "controversial_remark"
+    ]
+   },
+   "result": {
+    "dem_pct": 53.06,
+    "rep_pct": 44.56,
+    "other_pct": 2.38,
+    "margin": 8.5,
+    "pct_expected_vote_counted": 97.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -0.25,
+    "lines": "2024_same",
+    "house2024_margin": -3.8,
+    "prev_seat_margin": -3.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.75,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-2-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://newrepublic.com/post/215092/elaine-luria-virginia-swing",
+    "https://en.wikipedia.org/wiki/Elaine_Luria",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "Kiggans agreed on air with a host's \"cotton-picking hands\" remark in May 2026 and apologized (Wikipedia). A pro-Trump independent running on a DSA-style platform (Staten) was on the ballot. Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified: shares unchanged; NBC expected-vote estimate rose to 97.7% (11:34 AM ET). AP also called for Luria at 11:47 PM ET Nov 3.",
+   "verified": true
+  },
+  {
+   "id": "VA-3",
+   "office": "House",
+   "state": "VA",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bobby Scott",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Long-serving incumbent; endorsed by AFGE, J Street, Planned Parenthood; party-line institutional Democrat.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Edwin Rivera Jr.",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 72.41,
+    "rep_pct": 24.2,
+    "other_pct": 3.39,
+    "margin": 48.21,
+    "pct_expected_vote_counted": 98,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 34.67,
+    "lines": "2024_same",
+    "house2024_margin": 40.2,
+    "prev_seat_margin": 40.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.54,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-3-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "Tier 2 safe D seat; Republican style not researched in depth. Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "VA-4",
+   "office": "House",
+   "state": "VA",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jennifer McClellan",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Member of both Congressional Progressive Caucus and New Democrat Coalition (leadership member); party-line.",
+    "background": "Incumbent U.S. representative since 2023",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Robert Murray Jr.",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 72.16,
+    "rep_pct": 26.26,
+    "other_pct": 1.58,
+    "margin": 45.9,
+    "pct_expected_vote_counted": 97.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 32.7,
+    "lines": "2024_same",
+    "house2024_margin": 34.9,
+    "prev_seat_margin": 34.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.2,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-4-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "Tier 2 safe D seat. Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified: NBC expected-vote estimate now 97.7% (11:34 AM ET); AP called 8:33 PM ET.",
+   "verified": true
+  },
+  {
+   "id": "VA-5",
+   "office": "House",
+   "state": "VA",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Tom Perriello",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Self-identified populist in first House stint; 2026 backed by both CPC PAC/Warren/Jayapal/Casar and Spanberger/Kaine/Warner, plus ex-GOP Rep. Riggleman; heavy fundraising; 2026 message not independently sourced.",
+    "background": "Former U.S. rep (2009-2011), Sudan envoy, Open Society executive",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 79.8% over two minor candidates."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John McGuire",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48,
+    "rep_pct": 50.2,
+    "other_pct": 1.8,
+    "margin": -2.2,
+    "pct_expected_vote_counted": 97.8,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -12.28,
+    "lines": "2024_same",
+    "house2024_margin": -15.0,
+    "prev_seat_margin": -15.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.05,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-5-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://en.wikipedia.org/wiki/Tom_Perriello",
+    "https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-tom-perriello-for-va-05/",
+    "https://cardinalnews.org/2026/07/17/perriello-has-nearly-three-times-as-much-cash-as-mcguire-macy-outraises-cline/",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "McGuire style = maga based on his 2024 Trump-backed primary ouster of Bob Good (Wikipedia 2024 page). Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. CORRECTED by verifier: earlier figures (McGuire +1.38, lead 5,053, 97% in) were stale/wrong. As of NBC 11:31-11:34 AM ET Nov 4: McGuire 181,221 (50.2%), Perriello 173,167 (48.0%), Harvey (I) 5,761, write-ins 708; total 360,857; NBC expected vote 96.2%; McGuire leads by 8,054. Identical vote counts on AP (96% counted, updated 11:20 AM ET). Uncalled by both NBC and AP.",
+   "verified": true
+  },
+  {
+   "id": "VA-6",
+   "office": "House",
+   "state": "VA",
+   "district": 6,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Beth Macy",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "\"Dopesick\" author; first-time candidate framing \"voice to the voiceless\" and holding abusers of power to account; endorsed by Kaine, Spanberger, Ro Khanna, Obama; not a DCCC target.",
+    "background": "Journalist and bestselling author of Dopesick and Factory Man",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ben Cline",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 44.28,
+    "rep_pct": 55.53,
+    "other_pct": 0.19,
+    "margin": -11.25,
+    "pct_expected_vote_counted": 98.1,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.88,
+    "lines": "2024_same",
+    "house2024_margin": -28.3,
+    "prev_seat_margin": -28.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.63,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-6-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://www.wsls.com/news/local/2025/11/18/dopesick-writer-beth-macy-announces-run-for-virginias-6th-district-setting-up-contested-2026-democratic-primary/",
+    "https://en.wikipedia.org/wiki/Beth_Macy",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "Tier 2 by margin (Trump +23.9) but large overperformance; Macy outraised Cline per Cardinal News. Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "VA-7",
+   "office": "House",
+   "state": "VA",
+   "district": 7,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Eugene Vindman",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition member; broke with party on Laken Riley Act and other GOP bills, drawing progressive criticism (Wikipedia); endorsed by Giffords, Brady, LCV, End Citizens United.",
+    "background": "Incumbent; retired Army officer, ex-NSC lawyer",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Doug Ollivant",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 59.7,
+    "rep_pct": 37.75,
+    "other_pct": 2.55,
+    "margin": 21.95,
+    "pct_expected_vote_counted": 97.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 2.86,
+    "lines": "2024_same",
+    "house2024_margin": 2.7,
+    "prev_seat_margin": 2.7,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 19.09,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-7-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://www.potomaclocal.com/2026/09/21/umw-cancels-tuesdays-7th-district-debate-after-ollivant-drops-off-a-slate-vindman-never-joined/",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "NRCC target that ended as a 21.9-pt Democratic win. Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "VA-8",
+   "office": "House",
+   "state": "VA",
+   "district": 8,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Don Beyer",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Member of both CPC and New Democrat Coalition; endorsed by Kaine, Warner, Spanberger, LCV, J Street.",
+    "background": "Incumbent U.S. representative since 2015",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beyer 67.1%; Mo Seifeldein (Track AIPAC, New American Leaders) 18.0%; Cardinal News called the challenger \"younger, more populist\"."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tony Sabio",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 79.31,
+    "rep_pct": 18.0,
+    "other_pct": 2.69,
+    "margin": 61.31,
+    "pct_expected_vote_counted": 95.3,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 49.75,
+    "lines": "2024_same",
+    "house2024_margin": 46.8,
+    "prev_seat_margin": 46.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.56,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-8-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "Tier 2 safe D seat. Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "VA-9",
+   "office": "House",
+   "state": "VA",
+   "district": 9,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Joy Powers",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Farmer and 2025 House of Delegates nominee; no notable caucus/group endorsements found; beat Progressive Victory-backed Adam Murphy.",
+    "background": "Farmer; 2025 nominee for House of Delegates district 51",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Powers 51.7%, Adam Murphy (Progressive Victory) 36.4%, Doug Crockett 11.9%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Morgan Griffith",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 33.84,
+    "rep_pct": 65.95,
+    "other_pct": 0.21,
+    "margin": -32.11,
+    "pct_expected_vote_counted": 98,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -44.06,
+    "lines": "2024_same",
+    "house2024_margin": -45.2,
+    "prev_seat_margin": -45.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.95,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-9-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "Tier 2 safe R seat. Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "VA-10",
+   "office": "House",
+   "state": "VA",
+   "district": 10,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Suhas Subramanyam",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition member; endorsed by Kaine, Warner, Spanberger, NEA, LCV, Leading the Future.",
+    "background": "Incumbent; former Obama White House tech adviser",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Dave Beckwith",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 60.68,
+    "rep_pct": 37.3,
+    "other_pct": 2.02,
+    "margin": 23.38,
+    "pct_expected_vote_counted": 96.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 8.36,
+    "lines": "2024_same",
+    "house2024_margin": 4.6,
+    "prev_seat_margin": 4.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.02,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-10-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "VA-11",
+   "office": "House",
+   "state": "VA",
+   "district": 11,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "James Walkinshaw",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "New Democrat Coalition member; former Connolly chief of staff; endorsed by Kaine, Warner, Spanberger, Fairshake, J Street.",
+    "background": "Incumbent since 2025 special; ex-Fairfax supervisor",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Arthur Purves",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 74.1,
+    "rep_pct": 24.4,
+    "other_pct": 1.5,
+    "margin": 49.7,
+    "pct_expected_vote_counted": 95.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 34.29,
+    "lines": "2024_same",
+    "house2024_margin": 33.8,
+    "prev_seat_margin": 33.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.67,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/virginia-us-house-district-11-results",
+    "https://www.nbcnews.com/politics/2026-elections/virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Virginia",
+    "https://apnews.com/projects/elections-2026/virginia-us-house-results/"
+   ],
+   "notes": "prev_seat_margin uses the 2024 regular election (Connolly); Walkinshaw won the 2025 special with 75.1% (Wikipedia). Virginia used its 2021 court-drawn map: the April 2026 redistricting amendment was voided by the VA Supreme Court on May 8 and SCOTUS declined to intervene. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "NC-1",
+   "office": "House",
+   "state": "NC",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Don Davis",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "New Democrat Coalition and Problem Solvers Caucus member, described as moderate Democrat; endorsed by AIPAC, DMFI, VoteVets, CWA.",
+    "background": "Incumbent; Air Force veteran, former state senator",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Laurie Buckhout",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed",
+     "rematch"
+    ]
+   },
+   "result": {
+    "dem_pct": 50.07,
+    "rep_pct": 46.77,
+    "other_pct": 3.16,
+    "margin": 3.3,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -11.55,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 14.85,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-1-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://docs.google.com/spreadsheets/d/1ng1i_Dm_RMDnEvauH44pgE6JCUsapcuu8F2pCfeLWFo/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)",
+    "https://www.wtkr.com/news/in-the-community/northeastern-north-carolina/president-trump-endorses-laurie-buckhout-in-north-carolina-congressional-race",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "District redrawn Oct 2025 (SB 249) to Trump +11.55; Davis held it. Old-lines 2024 result: Davis 49.5, Buckhout 47.8 (D+1.7). Wikipedia says >$38.8M spent. Lines materially changed in Oct 2025 redraw; baseline is 2024 presidential recomputed on new lines (The Downballot); house2024/prev_seat set null. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. AP had NOT called this race as of ~11:30 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NC-2",
+   "office": "House",
+   "state": "NC",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Deborah Ross",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Party-line incumbent; endorsed by LCV, Sierra Club, Planned Parenthood, NOW.",
+    "background": "Incumbent U.S. representative since 2021",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Eugene Douglass",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 75.06,
+    "rep_pct": 23.48,
+    "other_pct": 1.46,
+    "margin": 51.58,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 33.85,
+    "lines": "2024_same",
+    "house2024_margin": 34.7,
+    "prev_seat_margin": 34.7,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.73,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-2-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Tier 2 safe D seat. Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NC-3",
+   "office": "House",
+   "state": "NC",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Raymond Smith Jr.",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Gulf War Army veteran, ex-state representative; endorsed by CBC PAC, VoteVets, CWA, Red Wine & Blue.",
+    "background": "Army veteran; NC state representative 2019-2023",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Allison Jaslow (EMILYs-aligned, Elect Democratic Women) 56.7-43.3; not framed on ideology in sources found."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Greg Murphy",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 49.3,
+    "rep_pct": 49.4,
+    "other_pct": 1.2,
+    "margin": -0.1,
+    "pct_expected_vote_counted": 98.8,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -13.63,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 13.54,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-3-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://docs.google.com/spreadsheets/d/1ng1i_Dm_RMDnEvauH44pgE6JCUsapcuu8F2pCfeLWFo/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/Raymond_Smith_Jr.",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Uncalled by NBC News as of 10:59 AM ET Nov 4 (99% of expected vote in). Redrawn Oct 2025; new lines Trump +13.63 (old lines Trump +21.86). Not called: Murphy leads by 233 votes at 99% in. Murphy faced only a Libertarian in 2024 (77.4%). Lines materially changed in Oct 2025 redraw; baseline is 2024 presidential recomputed on new lines (The Downballot); house2024/prev_seat set null. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. margin is dem_pct minus rep_pct (rounded shares); the exact vote-based margin differs by 0.01.",
+   "verified": true
+  },
+  {
+   "id": "NC-4",
+   "office": "House",
+   "state": "NC",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Valerie Foushee",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Member of CPC and New Democrat Coalition; endorsed by Cooper, Jayapal, Frost, Meeks, Price; past AIPAC support was the primary flashpoint.",
+    "background": "Incumbent since 2023; former state senator",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Foushee 49.2% vs Nida Allam 48.2% (Justice Democrats, Bernie Sanders, Our Revolution, PDA); Politico framed it around Foushee's past Israel/AIPAC support."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Max Ganorkar",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 79.12,
+    "rep_pct": 18.94,
+    "other_pct": 1.94,
+    "margin": 60.18,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 45.3,
+    "lines": "2024_same",
+    "house2024_margin": 45.8,
+    "prev_seat_margin": 45.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.88,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-4-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://ncnewsline.com/2025/12/11/democrat-nida-allam-brings-major-progressive-backers-to-challenge-incumbent-us-rep-foushee/",
+    "https://www.politico.com/news/2026/03/02/foushee-allam-race-israel-00806630",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Tier 1 because of the near-miss Justice Democrats primary; general is safe D. Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NC-5",
+   "office": "House",
+   "state": "NC",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chuck Hubbard",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Retired newspaper reporter and 2024 nominee; endorsed by ex-Rep. Kathy Manning, Young Democrats; beat DSA-backed challenger.",
+    "background": "Retired newspaper reporter; 2024 nominee for this seat",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Hubbard 56.7% vs Kyah Creekmore 43.3% (DSA Winston-Salem, Track AIPAC)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Virginia Foxx",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.7,
+    "rep_pct": 48.66,
+    "other_pct": 2.64,
+    "margin": 0.04,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -17.78,
+    "lines": "2024_same",
+    "house2024_margin": -19.0,
+    "prev_seat_margin": -19.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.82,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-5-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://www.journalpatriot.com/news/hubbard-candidate-for-congress-again/article_ae4aa6bb-2576-5876-afa2-707e56a0e538.html",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Uncalled by NBC News as of 10:59 AM ET Nov 4 (99% of expected vote in). Not called: Hubbard leads Foxx by 99 votes at 99% in (NBC). Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. margin is dem_pct minus rep_pct (rounded shares); the exact vote-based margin differs by 0.01.",
+   "verified": true
+  },
+  {
+   "id": "NC-6",
+   "office": "House",
+   "state": "NC",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Cyril Jefferson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Young sitting mayor of High Point; endorsed by Vote Common Good; no caucus-style signals found.",
+    "background": "Mayor of High Point since 2023; former city councilman",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 4-way primary with 39.2%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Addison McDowell",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 51.14,
+    "rep_pct": 48.86,
+    "other_pct": 0.0,
+    "margin": 2.28,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -17.16,
+    "lines": "2024_same",
+    "house2024_margin": -69.2,
+    "prev_seat_margin": -69.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 19.44,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-6-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://en.wikipedia.org/wiki/Cyril_Jefferson",
+    "https://www.wfmynews2.com/article/news/politics/high-point-mayor-to-run-for-6th-nc-congressional-district/83-c5588ebe-7b6e-4d8c-b7dc-703366f9388c",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Flip of a Trump +17.2 seat. No Democrat ran here in 2024 (McDowell 69.2 vs Constitution 30.8), so house2024_margin = -69.2. McDowell coded maga as a Trump-endorsed 2024 newcomer (low confidence). Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. AP had NOT called this race as of ~11:30 AM ET. margin is dem_pct minus rep_pct (rounded shares); the exact vote-based margin differs by 0.01.",
+   "verified": true
+  },
+  {
+   "id": "NC-7",
+   "office": "House",
+   "state": "NC",
+   "district": 7,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kim Hardy",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Fayetteville State social-work professor and NCDP second vice chair; motto \"listening, leading, uniting\", outreach to Republican-leaning voters.",
+    "background": "Social work professor; NC Democratic Party second vice chair",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "David Rouzer",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 49.13,
+    "rep_pct": 49.89,
+    "other_pct": 0.98,
+    "margin": -0.76,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -13.82,
+    "lines": "2024_same",
+    "house2024_margin": -17.2,
+    "prev_seat_margin": -17.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.06,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-7-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://www.cityviewnc.com/stories/kim-hardy-of-cumberland-county-announces-campaign-for-7th-congressional-district/",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Uncalled by NBC News as of 10:59 AM ET Nov 4 (99% of expected vote in). Not called: Rouzer leads by 2,425 votes at 99% in. Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NC-8",
+   "office": "House",
+   "state": "NC",
+   "district": 8,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Colby Watson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Federal contractor; Charlotte Observer primary endorsement; no ideological or caucus signals found.",
+    "background": "Federal contractor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 47.9% over Kevin Clark 37.2%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mark Harris",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "scandal"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.62,
+    "rep_pct": 50.39,
+    "other_pct": 0.99,
+    "margin": -1.77,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -19.38,
+    "lines": "2024_same",
+    "house2024_margin": -19.2,
+    "prev_seat_margin": -19.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.61,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-8-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Called R by NBC with Harris up 1.8 pts at 99% in. Harris flagged scandal for the annulled 2018 NC-9 election (absentee-ballot fraud), a pre-2026 fact. Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. AP had NOT called this race as of ~11:30 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NC-9",
+   "office": "House",
+   "state": "NC",
+   "district": 9,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Richard Ojeda",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Retired Army major; called a left-wing populist; working-class pitch, anti-corruption, pledged no corporate donations; $1.2M from 20,000 small donors; AFL-CIO, CWA, AFGE, Patriotic Millionaires backing; voted Trump 2016.",
+    "background": "Retired Army major; ex-WV state senator; 2020 presidential candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 4-way primary 41.8%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Richard Hudson",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "nrcc_chair"
+    ]
+   },
+   "result": {
+    "dem_pct": 51.11,
+    "rep_pct": 48.89,
+    "other_pct": 0.0,
+    "margin": 2.22,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -15.84,
+    "lines": "2024_same",
+    "house2024_margin": -18.5,
+    "prev_seat_margin": -18.5,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.06,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-9-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://en.wikipedia.org/wiki/Richard_Ojeda",
+    "https://www.afge.org/publication/afge-endorses-north-carolinas-richard-ojeda-for-election-to-congress/",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Ojeda unseated the sitting NRCC chair (Hudson) in a Trump +15.8 seat. Ojeda also self-describes as conservative on cultural issues, but made immigration reform/opposing ICE raids his 2026 top priority (Wikipedia). Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. AP had NOT called this race as of ~11:30 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NC-10",
+   "office": "House",
+   "state": "NC",
+   "district": 10,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ashley Bell",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Physician associate; endorsed by Red Wine & Blue, Daily Kos, Track AIPAC; no caucus signals.",
+    "background": "Physician associate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 6-way primary 47.3%; DSA-backed Mir Yarfitz 9.6%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Pat Harrigan",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.69,
+    "rep_pct": 49.72,
+    "other_pct": 1.59,
+    "margin": -1.03,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -17.73,
+    "lines": "2024_same",
+    "house2024_margin": -19.3,
+    "prev_seat_margin": -19.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.7,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-10-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://www.dailykos.com/stories/2026/2/14/2368726/-It-s-Time-Vote-Ashley-Bell-in-the-Democratic-Primary-for-Congress-NC-10",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Called R by NBC with Harrigan up 1.0 pt at 99% in. Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. AP had NOT called this race as of ~11:30 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NC-11",
+   "office": "House",
+   "state": "NC",
+   "district": 11,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jamie Ager",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Self-described \"Blue Dog and Mountain Democrat\"; Blue Dog PAC, WelcomePAC, DCCC Red to Blue; signed centrist \"Promise to America\"; farmer, no corporate PAC money, anti-corruption, Helene recovery.",
+    "background": "Fourth-generation farmer; Hickory Nut Gap Farm co-founder/CEO",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 64.7% over four opponents."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jennifer Balkcom",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "replacement_nominee",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 57.14,
+    "rep_pct": 41.3,
+    "other_pct": 1.56,
+    "margin": 15.84,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -9.5,
+    "lines": "2024_same",
+    "house2024_margin": -13.6,
+    "prev_seat_margin": -13.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 25.34,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-11-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://en.wikipedia.org/wiki/Jamie_Ager",
+    "https://bluedogdems.com/news/blue-dog-pac-endorses-fourth-generation-farmer-jamie-ager-in-western-north-carolina-nc-11/",
+    "https://wlos.com/news/local/north-carolina-11th-district-republican-jennifer-balkcom-chuck-edwards-replacement-jamie-ager-election",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Open: incumbent Chuck Edwards ended re-election bid Aug 5, 2026 after a House Ethics censure recommendation; party committee picked Balkcom. Ager's farmer/no-corporate-PAC pitch has center-populist elements, but institutional backing makes posture mixed. Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. margin is dem_pct minus rep_pct (rounded shares); the exact vote-based margin differs by 0.01. Balkcom trump_endorsed flag confirmed by Wikipedia NC House page post-primary endorsements (Trump, Aug 18, 2026); WLOS piece names only a Ted Budd endorsement. Ager \"Blue Dog and Mountain Democrat\" quote confirmed in Blue Dog PAC release (Dec 19, 2025).",
+   "verified": true
+  },
+  {
+   "id": "NC-12",
+   "office": "House",
+   "state": "NC",
+   "district": 12,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Alma Adams",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "CPC member; endorsed by Working Families Party, PDA, Sierra Club, Planned Parenthood; long-time incumbent.",
+    "background": "Incumbent U.S. representative since 2014",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Adams 78.9% vs Monaca Johnson-Williamson 21.1%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jack Codiga",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 81.2,
+    "rep_pct": 18.8,
+    "other_pct": 0.0,
+    "margin": 62.4,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 46.2,
+    "lines": "2024_same",
+    "house2024_margin": 48.0,
+    "prev_seat_margin": 48.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.2,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-12-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Tier 2 safe D seat. Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NC-13",
+   "office": "House",
+   "state": "NC",
+   "district": 13,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Paul Barringer",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Blue Dog PAC endorsee; attorney/health-policy consultant endorsed by ex-Rep. David Price, CWA, News & Observer.",
+    "background": "Attorney and healthcare consultant; Princeton MPA",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 59.1% over 2024 nominee Frank Pierce 29.4%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brad Knott",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 50.5,
+    "rep_pct": 48.09,
+    "other_pct": 1.41,
+    "margin": 2.41,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -16.47,
+    "lines": "2024_same",
+    "house2024_margin": -17.2,
+    "prev_seat_margin": -17.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.88,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-13-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://en.wikipedia.org/wiki/Paul_Barringer_(attorney)",
+    "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Flip of a Trump +16.5 seat. Knott coded maga as a Trump-endorsed 2024 nominee (low confidence). Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. AP had NOT called this race as of ~11:30 AM ET. margin is dem_pct minus rep_pct (rounded shares); the exact vote-based margin differs by 0.01.",
+   "verified": true
+  },
+  {
+   "id": "NC-14",
+   "office": "House",
+   "state": "NC",
+   "district": 14,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lakesha Womack",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Business consultant and minister; no notable group endorsements or caucus signals found; low-profile nominee.",
+    "background": "Business consultant and minister; moved to NC in 2016",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 52.2% over Brent Caldwell (Charlotte Observer-endorsed) 41.8%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tim Moore",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 51.11,
+    "rep_pct": 48.89,
+    "other_pct": 0.0,
+    "margin": 2.22,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -15.08,
+    "lines": "2024_same",
+    "house2024_margin": -16.2,
+    "prev_seat_margin": -16.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.3,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-14-results",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://en.wikipedia.org/wiki/Lakesha_Womack",
+    "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+    "https://apnews.com/projects/elections-2026/north-carolina-us-house-results/"
+   ],
+   "notes": "Upset flip of a Trump +15.1 seat by a low-profile nominee; Wikipedia notes a 2026 warrant over a late rental-car return. Moore is the former NC House Speaker. Lines unchanged by the Oct 2025 NC redraw (only NC-1 and NC-3 changed; verified by comparing Downballot old/new sheets). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs NC State Board of Elections unofficial results (all precincts reported) and AP: vote counts match NBC exactly. NBC projections confirmed from NBC winner marks at 11:31 AM ET. AP had NOT called this race as of ~11:30 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "WV-1",
+   "office": "House",
+   "state": "WV",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Vince George",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Retired public policy analyst; no notable endorsements found.",
+    "background": "Retired public policy analyst",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Carol Miller",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 39.59,
+    "rep_pct": 57.09,
+    "other_pct": 3.32,
+    "margin": -17.5,
+    "pct_expected_vote_counted": 97.3,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -44.36,
+    "lines": "2024_same",
+    "house2024_margin": -40.3,
+    "prev_seat_margin": -40.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 26.86,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/west-virginia-us-house-district-1-results",
+    "https://www.nbcnews.com/politics/2026-elections/west-virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_West_Virginia",
+    "https://morgancountyusa.org/?p=6264",
+    "https://apnews.com/projects/elections-2026/west-virginia-us-house-results/"
+   ],
+   "notes": "Tier 2. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "WV-2",
+   "office": "House",
+   "state": "WV",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ace Parsi",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Political organizer; no notable endorsements found.",
+    "background": "Political organizer",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat 2024 nominee Steven Wendelin and teacher Stephanie Spears Tomana."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Riley Moore",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.59,
+    "rep_pct": 59.41,
+    "other_pct": 0.0,
+    "margin": -18.82,
+    "pct_expected_vote_counted": 95.1,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -39.6,
+    "lines": "2024_same",
+    "house2024_margin": -41.6,
+    "prev_seat_margin": -41.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 20.78,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/west-virginia-us-house-district-2-results",
+    "https://www.nbcnews.com/politics/2026-elections/west-virginia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_West_Virginia",
+    "https://apnews.com/projects/elections-2026/west-virginia-us-house-results/"
+   ],
+   "notes": "Tier 2. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "KY-1",
+   "office": "House",
+   "state": "KY",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Drew Williams",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Event organizer; no notable endorsements found.",
+    "background": "Event organizer",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "James Comer",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 32.4,
+    "rep_pct": 67.6,
+    "other_pct": 0.0,
+    "margin": -35.2,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -47.3,
+    "lines": "2024_same",
+    "house2024_margin": -49.4,
+    "prev_seat_margin": -49.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.1,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-us-house-district-1-results",
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://www.wpsdlocal6.com/news/john-drew-williams-announces-bid-for-u-s-house-in-kentucky-s-1st-district/article_9bb53a05-1133-4fe5-8c81-97c189614a71.html",
+    "https://apnews.com/projects/elections-2026/kentucky-us-house-results/"
+   ],
+   "notes": "Tier 2. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. CORRECTED by verifier: NBC/AP now show Comer 154,910 vs Williams 74,260 of 229,170 (99% in; AP updated 11:03 AM ET), replacing the earlier 67.57/32.43 split (which Wikipedia still shows).",
+   "verified": true
+  },
+  {
+   "id": "KY-2",
+   "office": "House",
+   "state": "KY",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Megan Wingfield",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Mechanic (working-class background) but no evidence of a populist campaign brand or group endorsements.",
+    "background": "Mechanic",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Wingfield 40.7%; Progressive Victory-backed William Compton 17.8%; four-time nominee Hank Linderman 20.9%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brett Guthrie",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 35.1,
+    "rep_pct": 62.82,
+    "other_pct": 2.08,
+    "margin": -27.72,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -41.33,
+    "lines": "2024_same",
+    "house2024_margin": -46.2,
+    "prev_seat_margin": -46.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.61,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-us-house-district-2-results",
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://apnews.com/projects/elections-2026/kentucky-us-house-results/"
+   ],
+   "notes": "Tier 2. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "KY-3",
+   "office": "House",
+   "state": "KY",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Morgan McGarvey",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Member of CPC and New Democrat Coalition; ex-state Senate minority leader; endorsed by LCV, Planned Parenthood.",
+    "background": "Incumbent since 2023; former KY Senate minority leader",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Maria Rodriguez",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 70.33,
+    "rep_pct": 29.67,
+    "other_pct": 0.0,
+    "margin": 40.66,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 18.94,
+    "lines": "2024_same",
+    "house2024_margin": 23.9,
+    "prev_seat_margin": 23.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 21.72,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-us-house-district-3-results",
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://apnews.com/projects/elections-2026/kentucky-us-house-results/"
+   ],
+   "notes": "Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "KY-4",
+   "office": "House",
+   "state": "KY",
+   "district": 4,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Melissa Strange",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Businesswoman; no notable endorsements or caucus signals found.",
+    "background": "Businesswoman",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Jesse Brewer."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ed Gallrein",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed",
+     "primary_ousted_incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.86,
+    "rep_pct": 54.22,
+    "other_pct": 4.92,
+    "margin": -13.36,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -35.56,
+    "lines": "2024_same",
+    "house2024_margin": -99.6,
+    "prev_seat_margin": -99.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 22.2,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-us-house-district-4-results",
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://www.forwardky.com/democrat-melissa-strange-announces-run-for-massies-seat/",
+    "https://www.axios.com/2026/05/11/thomas-massie-ed-gallrein-kentucky-aipac-trump",
+    "https://apnews.com/projects/elections-2026/kentucky-us-house-results/"
+   ],
+   "notes": "Open in the general: Gallrein (Trump-endorsed ex-Navy SEAL) beat incumbent Thomas Massie 54.9-45.1 in the May 19 primary. Massie was unopposed in 2024, so house2024_margin = -99.6. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "KY-5",
+   "office": "House",
+   "state": "KY",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ned Pillersdorf",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Eastern Kentucky attorney; endorsed by Martin O'Malley; no caucus signals found.",
+    "background": "Attorney; 1992 candidate for this seat",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Hal Rogers",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 25.35,
+    "rep_pct": 71.16,
+    "other_pct": 3.49,
+    "margin": -45.81,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -63.88,
+    "lines": "2024_same",
+    "house2024_margin": -100.0,
+    "prev_seat_margin": -100.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.07,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-us-house-district-5-results",
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://apnews.com/projects/elections-2026/kentucky-us-house-results/"
+   ],
+   "notes": "Tier 2. Rogers unopposed in 2024 (house2024_margin = -100). Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  },
+  {
+   "id": "KY-6",
+   "office": "House",
+   "state": "KY",
+   "district": 6,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Zach Dembo",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Ex-federal prosecutor running on a 10-point anti-corruption plan; Blue Dog PAC, J Street, VoteVets, With Honor, NEA; electability pitch; Gov. Beshear campaigned closely with him.",
+    "background": "Former Assistant U.S. Attorney in Lexington; first-time candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Dembo 39.6%, Cherlynn Stevenson (EMILYs List) 31.5%, Erin Petrey (Progressive Victory) 15.8%; WUKY found it fought on electability, not ideology."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ralph Alvarado",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed",
+     "former_state_senator"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.7,
+    "rep_pct": 43.3,
+    "other_pct": 4.0,
+    "margin": 9.4,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -15.03,
+    "lines": "2024_same",
+    "house2024_margin": -26.0,
+    "prev_seat_margin": -26.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 24.43,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-us-house-district-6-results",
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://en.wikipedia.org/wiki/Zach_Dembo",
+    "https://www.wuky.org/wuky-news/2026-05-13/the-last-democrat-to-win-the-sixth-district-favors-zach-dembo-heres-a-snapshot-of-the-endorsement-leaderboard",
+    "https://www.wkyt.com/2026/05/26/beshear-endorses-dembo-congress/",
+    "https://apnews.com/projects/elections-2026/kentucky-us-house-results/"
+   ],
+   "notes": "Open: Andy Barr ran for U.S. Senate. Flip of a Trump +15.0 seat. Results: NBC News vote counts; pct computed from NBC votes; calls are NBC News projections. Verified vs AP and NBC vote counts (~11:20-11:36 AM ET Nov 4): unchanged; AP has also called this race for the same candidate.",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T16:38:36Z",
+  "checked_items": 33,
+  "corrections": [
+   "VA-5: stale count replaced; now McGuire 50.22 / Perriello 47.99 / other 1.79, margin -2.23 (was -1.38), 96.2% expected in, overperformance 10.05 (was 10.90); still uncalled",
+   "KY-1: shares updated to Williams 32.40 / Comer 67.60, margin -35.20 (was -35.14), overperformance 12.10 (was 12.16)",
+   "VA-1: updated NBC count, 51.04 / 48.72 / 0.24, margin 2.32, overperformance 7.26; noted AP has not called it",
+   "VA-2 and VA-4: pct_expected_vote_counted updated 96.8/96.9 to 97.7 (NBC)",
+   "NC-12: other_pct -0.0 normalized to 0.0",
+   "Added AP and NC State Board of Elections sources; noted which NBC-called races AP had not called (VA-1, NC-1, NC-6, NC-8, NC-9, NC-10, NC-13, NC-14)"
+  ],
+  "unresolved": [
+   "Uncalled as of ~11:35 AM ET: VA-5 (McGuire +2.23), NC-3 (Murphy +233 votes), NC-5 (Hubbard +99 votes), NC-7 (Rouzer +2,425); NC-3 and NC-5 are recount-range",
+   "NC-1, NC-6, NC-8, NC-9, NC-10, NC-13, NC-14 and VA-1 are called by NBC only; AP had not called them",
+   "Style codings for low-confidence Dems (Perriello, Smith, Hardy, Watson, Bell, Womack, Jefferson) rest on thin evidence; Ojeda (left_populist) and Ager (moderate, mixed) are judgment calls: Ojeda is also described as culturally conservative, and Ager has center-populist elements",
+   "Margins use dem_pct minus rep_pct from rounded shares, so in NC-3, NC-5, NC-6, NC-11 and NC-13 they differ by 0.01 from the exact vote-based margin",
+   "Web search budget was exhausted, so independent checks used AP, NCSBE, Wikipedia and Downballot pages fetched directly"
+  ]
+ }
+}

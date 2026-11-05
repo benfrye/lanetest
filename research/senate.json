@@ -1,0 +1,2190 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "expected_rows": 35,
+ "chamber_summary": {
+  "dem_seats_won_or_held": 54,
+  "rep_seats": 44,
+  "uncalled": [
+   "SEN-AK",
+   "SEN-MS"
+  ],
+  "control_called": "D (NBC News projected Democratic Senate control; CBS News projected it at 11:44 PM ET Nov 3)",
+  "net_change": "D +7 projected (flips: KS, IA, TX, OH, ME, NC, SC); both uncalled seats (AK, MS) are R-held, so final could be D +8 or +9",
+  "sources": [
+   "https://www.nbcnews.com/politics/2026-elections/senate-results",
+   "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "https://www.nbcchicago.com/news/local/election-2026-which-races-still-havent-been-called-and-what-states-flipped-seats-mississippi-alaska-election-results/4012174/",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections"
+  ],
+  "notes": "54 counts the Democratic caucus incl. independents King and Sanders (not up in 2026); Wikipedia infobox shows D 52-54 + I 2, R 44-46. Corroborated by NBC (54 D / 44 R / 2 uncalled) and CBS (at least 54 D; AK and MS uncalled)."
+ },
+ "races": [
+  {
+   "id": "SEN-AL",
+   "office": "Senate",
+   "state": "AL",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Everett Wess",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little national coverage of his positioning; AFL-CIO endorsed; won Democratic runoff 54.6% over businessman Dakarai Larriett. Classified by default as party-line liberal.",
+    "background": "Attorney; first statewide run.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Barry Moore",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 45.3,
+    "rep_pct": 54.7,
+    "other_pct": 0.0,
+    "margin": -9.4,
+    "pct_expected_vote_counted": 98.7,
+    "called": "R",
+    "called_by": "CBS News (12:08 AM ET); NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -30.47,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -20.4,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 21.07,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alabama",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Open seat: Tuberville ran for governor. Moore endorsed by Trump and Club for Growth (Wikipedia endorsements). other_pct derived as 100 minus D and R shares.",
+   "verified": true
+  },
+  {
+   "id": "SEN-AK",
+   "office": "Senate",
+   "state": "AK",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mary Peltola",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Former Blue Dog Coalition co-chair; Wikipedia: 'moderate Blue Dog Democrat' whose 2026 platform 'has been said to be populist'; Schumer-recruited; pro-gun subsistence-culture framing.",
+    "background": "Former U.S. Representative (2022-2025); Yup'ik; fisheries background.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Top-4 nonpartisan primary (Aug 18): Peltola 49.5%, Sullivan 41.4%. A democratic-socialist Democrat (Leslie) exited under pressure from state party leadership."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Dan S. Sullivan",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.2,
+    "rep_pct": 47.9,
+    "other_pct": 4.0,
+    "margin": 0.3,
+    "pct_expected_vote_counted": 75.5,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -13.13,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -12.7,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 13.43,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Alaska",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcchicago.com/news/local/election-2026-which-races-still-havent-been-called-and-what-states-flipped-seats-mississippi-alaska-election-results/4012174/",
+    "https://en.wikipedia.org/wiki/Mary_Peltola",
+    "https://alaskabeacon.com/2026/11/03/democratic-candidate-mary-peltola-leads-in-early-vote-counts-for-alaskas-us-senate-election/",
+    "https://www.adn.com/politics/2026/11/03/peltola-leads-sullivan-in-limited-early-results-in-hard-fought-us-senate-race/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "UNCALLED (too early). NBC 10:50 AM ET Nov 4: Peltola 48.2 / Sullivan 47.9 with 74.3% in (Wikipedia: 102,701 vs 102,075). Earlier Wednesday reports had Sullivan ahead by 1,677; lead has changed hands. Ranked-choice tabulation; state count updates Nov 10/13/18. Same-name candidate Daniel J. Sullivan on ballot; federal suit over it was dismissed. NYT reported staff-abuse allegations against Peltola (Sept). prev_seat_margin is 2020 Al Gross (I, Dem nominee) 41.2 vs Sullivan 53.9. Verified: CBS lists race uncalled Wednesday morning; Wikipedia vote counts (77% as of 6:21 AM AKT) match.",
+   "verified": true
+  },
+  {
+   "id": "SEN-AR",
+   "office": "Senate",
+   "state": "AR",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Hallie Shoffner",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "populist",
+    "archetype": "center_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Wikipedia: 'center-left Democrat and a prairie populist'; farmer who blames economy putting 'corporations and politicians' ahead of working people; Blanche Lincoln endorsed; cost-of-living, farm policy focus.",
+    "background": "Rice farmer and entrepreneur; first-time candidate.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 78.3% over Lewisville mayor Ethan Dunbar (Mar 3)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tom Cotton",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 42.4,
+    "rep_pct": 54.3,
+    "other_pct": 3.3,
+    "margin": -11.9,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (implied: NBC chamber tally 54D-44R lists only AK and MS uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -30.64,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 18.74,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Arkansas",
+    "https://en.wikipedia.org/wiki/Hallie_Shoffner",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "prev_seat_margin null: no Democrat on 2020 ballot (Cotton 66.5 vs Libertarian 33.5). Cotton skipped the Oct 12 debate.",
+   "verified": true
+  },
+  {
+   "id": "SEN-CO",
+   "office": "Senate",
+   "state": "CO",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "John Hickenlooper",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "NPR: 'pro-business centrist profile'; beat progressive Julie Gonzales (backed by Our Revolution, WFP, Sunrise) in primary; skipped party assembly; outspent her ~9:1.",
+    "background": "Incumbent senator; former governor and Denver mayor; ex-brewpub owner.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat progressive state Sen. Julie Gonzales 52.8%-47.2% per Wikipedia race page (other counts 55-57%); Gonzales won 74% at state assembly. Coloradans also ousted other incumbents in a 'wave of progressive upsets'."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mark Baisley",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 59.9,
+    "rep_pct": 35.7,
+    "other_pct": 4.3,
+    "margin": 24.2,
+    "pct_expected_vote_counted": 83.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 10.99,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 9.3,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 13.61,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://en.wikipedia.org/wiki/John_Hickenlooper",
+    "https://www.cpr.org/2026/06/30/colorado-us-senate-primary-election-2026-results/",
+    "https://www.postindependent.com/news/how-western-slope-voters-helped-reelect-hickenlooper-amid-colorados-wave-of-progressive-upsets/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "Only 77.3% of expected vote counted (mail ballots). Baisley nominated unopposed via state assembly.",
+   "verified": true
+  },
+  {
+   "id": "SEN-DE",
+   "office": "Senate",
+   "state": "DE",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chris Coons",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Party-line institutional incumbent; won primary 78% against minimal opposition; no insurgent or populist framing found in coverage.",
+    "background": "Incumbent senator since 2010; former New Castle County executive.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michael Katz",
+    "incumbent": false,
+    "style": "moderate",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 63.6,
+    "rep_pct": 36.4,
+    "other_pct": 0.0,
+    "margin": 27.2,
+    "pct_expected_vote_counted": 98.6,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (implied: NBC chamber tally 54D-44R lists only AK and MS uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 14.7,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 21.5,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 12.5,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Delaware",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "Katz is a former Democratic state senator who won the GOP nomination with 77.3%; style 'moderate' is inferred from party-switch background only.",
+   "verified": true
+  },
+  {
+   "id": "SEN-FL-special",
+   "office": "Senate",
+   "state": "FL",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Angie Nixon",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Joined DSA and Working Families Party in 2026; Medicare for All, $25 minimum wage, rent freeze, free childcare; Sanders/AOC/Warren/Our Revolution endorsed; beat $16.3M-funded Alex Vindman on $975K.",
+    "background": "State representative from Jacksonville; community organizer.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Major upset: Nixon 56.1% over establishment favorite Alex Vindman (VoteVets-backed, $16.3M raised vs her $975K)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ashley Moody",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.0,
+    "rep_pct": 50.9,
+    "other_pct": 1.1,
+    "margin": -2.9,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "CBS News (8:44 PM ET); NBC News ; Wikipedia: called Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -13.1,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -16.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 10.2,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
+    "https://en.wikipedia.org/wiki/Angie_Nixon",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Florida",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Special election for Rubio's term (ends 2028). Moody appointed 2025. prev_seat = 2022 Rubio 57.68 vs Demings 41.27. Nixon's margin (-2.9) is the closest FL Senate result since Democrats last won in 2012. Verified: Wikipedia results table Moody 50.9 / Nixon 48.0 / Gillespie (I) 1.1 of 8,269,348; Nixon endorsements (Sanders, Warren, AOC, Our Revolution) and FEC totals ($974,845 vs $16,273,862) confirmed on Wikipedia race page.",
+   "verified": true
+  },
+  {
+   "id": "SEN-GA",
+   "office": "Senate",
+   "state": "GA",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jon Ossoff",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Ran unopposed; Wikipedia notes moderate stances on jobs/security, 2026 support for a 'strong Public Option' (not M4A), Iran-war cost-of-living criticism; anti-corruption investigative-journalism brand.",
+    "background": "Incumbent senator; former investigative documentary producer.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Collins",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 59.0,
+    "rep_pct": 41.0,
+    "other_pct": 0.0,
+    "margin": 18.0,
+    "pct_expected_vote_counted": 98.7,
+    "called": "D",
+    "called_by": "NBC News; CBS News (7:43 PM ET)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -2.19,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 1.2,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 20.19,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/Jon_Ossoff",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Collins won GOP runoff 55.5% over Derek Dooley after Trump endorsement. National GOP pulled resources in late September. prev_seat = 2021 runoff Ossoff 50.6 vs Perdue 49.4.",
+   "verified": true
+  },
+  {
+   "id": "SEN-ID",
+   "office": "Senate",
+   "state": "ID",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Todd Achilles",
+    "incumbent": false,
+    "party_label": "I (Dem-backed)",
+    "ideology": "moderate",
+    "posture": "populist",
+    "archetype": "center_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Independent backed by Democratic leaders after D nominee David Roth withdrew; attacks two-party system ('center-right state'), wants independents as Senate 'fulcrum'; cites Osborn, Bengs, Bodnar as models.",
+    "background": "Former Democratic state representative; Army veteran; former tech executive.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Democratic nominee David Roth withdrew late July 2026 after Achilles entered with Democratic leaders' support."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jim Risch",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 33.6,
+    "rep_pct": 56.5,
+    "other_pct": 9.9,
+    "margin": -22.9,
+    "pct_expected_vote_counted": 97.3,
+    "called": "R",
+    "called_by": "CBS News (1:37 AM ET); NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -36.49,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -29.3,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 13.59,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Idaho",
+    "https://en.wikipedia.org/wiki/Todd_Achilles",
+    "https://www.nbcnews.com/politics/2026-elections/idaho-senate-results",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://idahocapitalsun.com/2026/07/28/idaho-democrat-david-roth-ends-campaign-for-us-senate-seat-held-by-risch/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Second independent Natalie Fleming 7.0%. NBC Idaho page did not render a projected-winner field at fetch time. prev_seat_margin = 2020 Paulette Jordan (D) 33.3 vs Risch 62.6. Verified: expected-vote share updated 97.2 -> 97.3 per NBC 11:08 AM ET snapshot; shares unchanged. Wikipedia infobox Risch 56.6 / Achilles 33.6 / Fleming 7.0 vs NBC 56.5 / 33.6; NBC kept.",
+   "verified": true
+  },
+  {
+   "id": "SEN-IL",
+   "office": "Senate",
+   "state": "IL",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Juliana Stratton",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Pritzker-backed Lt. Gov.; supports Medicare for All; refused corporate PAC money but took billionaire individual donations; Warren and EMILY's List endorsed; not an insurgent.",
+    "background": "Lieutenant Governor of Illinois; former state representative and lawyer.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Stratton 40.4%, Krishnamoorthi 32.7%, Robin Kelly third (Mar 17). Contrasts: corporate PAC money, ICE-contractor donor ties, Pritzker machine vs Krishnamoorthi's $24M war chest."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Don Tracy",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 60.8,
+    "rep_pct": 37.6,
+    "other_pct": 1.6,
+    "margin": 23.2,
+    "pct_expected_vote_counted": 93.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 10.9,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 16.0,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 12.6,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
+    "https://en.wikipedia.org/wiki/Juliana_Stratton",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "Open seat (Durbin retired). Tracy is former state GOP chair.",
+   "verified": true
+  },
+  {
+   "id": "SEN-IA",
+   "office": "Senate",
+   "state": "IA",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Josh Turek",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Self-described 'common-sense' moderate and 'prairie populist'; Schumer's preferred pick; Obama/VoteVets endorsed; Des Moines Register: 'more moderate image'; urged populist, not 'corporate Democrat,' message.",
+    "background": "State representative; Paralympic wheelchair basketball gold medalist.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Turek 62.6%-37.4% over state Sen. Zach Wahls (Jun 2), who ran as anti-establishment outsider rejecting Schumer; framed as establishment vs anti-establishment more than left vs center."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ashley Hinson",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 50.5,
+    "rep_pct": 46.4,
+    "other_pct": 3.1,
+    "margin": 4.1,
+    "pct_expected_vote_counted": 98.7,
+    "called": "D",
+    "called_by": "NBC News; CBS News (11:47 PM ET)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -13.21,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -6.6,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 17.31,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
+    "https://en.wikipedia.org/wiki/Josh_Turek",
+    "https://www.cbsnews.com/news/iowa-senate-primary-results-ashley-hinson-josh-turek-zach-wahls/",
+    "https://iowacapitaldispatch.com/2026/06/02/rep-josh-turek-wins-u-s-senate-primary-race-against-sen-zach-wahls-ap-projects/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "FLIP. Open seat (Ernst retired). First Democratic Senate win in Iowa since 2008. Libertarian Thomas Laehn also on ballot.",
+   "verified": true
+  },
+  {
+   "id": "SEN-KS",
+   "office": "Senate",
+   "state": "KS",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Adam Hamilton",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Self-described centrist ('a liberal conservative and a conservative liberal'); previously registered Republican and Democrat; considered independent run; message on cost of living, healthcare, healing division.",
+    "background": "Founding pastor, United Methodist Church of the Resurrection; first-time candidate.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 34.6% in eight-candidate field (Aug 4); no ideological framing of primary found."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Roger Marshall",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 50.9,
+    "rep_pct": 46.1,
+    "other_pct": 3.0,
+    "margin": 4.8,
+    "pct_expected_vote_counted": 98.5,
+    "called": "D",
+    "called_by": "NBC News; CBS News (11:29 PM ET)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -16.12,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -11.4,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 20.92,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+    "https://en.wikipedia.org/wiki/Adam_Hamilton_(American_politician)",
+    "https://kansasreflector.com/2026/08/04/u-s-sen-roger-marshall-united-methodist-pastor-adam-hamilton-to-compete-in-november/",
+    "https://www.newsweek.com/adam-hamilton-roger-marshall-kansas-senate-race-odds-polls-12460819",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "FLIP. First Democratic Senate win in Kansas since 1932. Marshall attacked Hamilton as 'too woke for Kansas'.",
+   "verified": true
+  },
+  {
+   "id": "SEN-KY",
+   "office": "Senate",
+   "state": "KY",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Charles Booker",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Wikipedia: 'considered to be a progressive'; 2026 endorsements from Our Revolution, Working Families, AFL-CIO, Obama; prior platform of universal health care, Green New Deal, UBI.",
+    "background": "Former state representative; 2022 Senate nominee.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Booker ~47% over Amy McGrath (~36%) and Pamela Stevenson (May 19); rematch of 2020 progressive-vs-establishment primary McGrath won."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Andy Barr",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 42.9,
+    "rep_pct": 55.0,
+    "other_pct": 2.1,
+    "margin": -12.1,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "CBS News (10:19 PM ET); NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -30.53,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -19.6,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 18.43,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
+    "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)",
+    "https://www.wbko.com/2026/05/20/charles-booker-wins-kentucky-democratic-senate-primary-setting-up-general-election-clash-with-andy-barr/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Open seat (McConnell retired). Barr beat Daniel Cameron 60.5% with Trump endorsement.",
+   "verified": true
+  },
+  {
+   "id": "SEN-LA",
+   "office": "Senate",
+   "state": "LA",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jamie Davis",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "low",
+    "style_evidence": "Grassroots, individual-donor campaign; third-generation farmer; affordability, end Iran war (fuel prices), AI data-center moratorium, ban politicians' NDAs, ACA subsidies; warned Gov. Landry he's 'on notice'.",
+    "background": "Farmer; former Tensas Parish police juror.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won Democratic runoff 79.9% over Gary Crockett (Jun 27), carrying every parish."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Julia Letlow",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 49.1,
+    "rep_pct": 50.9,
+    "other_pct": 0.0,
+    "margin": -1.8,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "CBS News (12:57 AM ET); NBC News; local outlets (WWNO, Louisiana Illuminator) report Letlow win",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -22.01,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 20.21,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
+    "https://en.wikipedia.org/wiki/Jamie_Davis_(Louisiana)",
+    "https://www.wwno.org/politics/2026-11-03/julia-letlow-narrowly-wins-louisiana-u-s-senate-seat-in-tighter-race-than-expected",
+    "https://louisianaradionetwork.com/2026/11/04/letlow-wins-louisiana-senate-race-but-davis-makes-it-close/",
+    "https://lailluminator.com/2026/11/03/letlow-senate-5/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "No incumbent in general: Cassidy lost the closed GOP primary (24.8%); Letlow (Trump-endorsed) won runoff over John Fleming 56.9%. Final tally 745,963 vs 720,106. prev_seat_margin null: 2020 was a jungle primary (Cassidy 59.3, top Democrat Perkins 19.0). Davis classification low-confidence: populist themes evident but ideology not well documented. Verified: Wikipedia infobox 745,963 vs 720,106; Louisiana Radio Network: Letlow won by roughly 25,000 votes.",
+   "verified": true
+  },
+  {
+   "id": "SEN-ME",
+   "office": "Senate",
+   "state": "ME",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Troy Jackson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "high",
+    "style_evidence": "Logger/labor leader running for working-class Mainers 'under attack from billionaires'; endorsed by Sanders, AOC, Warren, Khanna, Maine DSA, Our Revolution, 40 unions; historically socially conservative on abortion.",
+    "background": "Logger; former Maine Senate President; labor-backed.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Graham Platner (Sanders-backed, anti-'oligarchy' populist) beat Gov. Janet Mills (DSCC/Schumer recruit) 72.1%-19.3% on Jun 9, then withdrew Jul 8-10 after sexual-assault allegation; Jackson nominated at Jul 25 convention (456 of 500 elected delegates)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Susan Collins",
+    "incumbent": true,
+    "style": "moderate",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 53.4,
+    "rep_pct": 46.5,
+    "other_pct": 0.0,
+    "margin": 6.9,
+    "pct_expected_vote_counted": 91,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 6.94,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -8.6,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 0.66,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
+    "https://en.wikipedia.org/wiki/Troy_Jackson",
+    "https://en.wikipedia.org/wiki/Graham_Platner",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Maine",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "FLIP. Ranked-choice election; shares are as reported by NBC at 86% in. First Democrat to win a Maine Senate race since 1988. Jackson lost the June gubernatorial primary before replacing Platner. Verified: NBC 11:08 AM snapshot shows Collins 46.2 (file had 46.1/other 0.1, from an earlier Wikipedia read); Wikipedia votes 340,972 vs 292,570 imply 53.82/46.18 two-way, no other candidates qualified.",
+   "verified": true
+  },
+  {
+   "id": "SEN-MA",
+   "office": "Senate",
+   "state": "MA",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ed Markey",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "establishment",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Green New Deal Senate author; Congressional Progressive Caucus; endorsed by Sanders, AOC, Warren, Our Revolution, PCCC, Sunrise; beat younger centrist Moulton who ran on generational change.",
+    "background": "Incumbent senator since 2013; House member 1976-2013; age 80.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Markey 64.9% over Rep. Seth Moulton (Sep 1), described by AP as a centrist arguing for generational change."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John Deaton",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 63.3,
+    "rep_pct": 32.3,
+    "other_pct": 4.5,
+    "margin": 31.0,
+    "pct_expected_vote_counted": 95.3,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 25.2,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 33.2,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 5.9,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Ed_Markey",
+    "https://www.adn.com/nation-world/2026/09/01/sen-ed-markey-80-wins-massachusetts-democratic-primary-over-centrist-who-called-for-generational-change/",
+    "https://www.wbur.org/news/2026/09/01/massachusetts-senate-democratic-primary-markey-wins-moulton",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "Deaton was also the 2024 GOP nominee. PSL candidate Joe Tache (DSA-endorsed) on ballot. Verified: expected-vote share updated 88.5 -> 89.4 per NBC 11:08 AM ET snapshot; shares unchanged.",
+   "verified": true
+  },
+  {
+   "id": "SEN-MI",
+   "office": "Senate",
+   "state": "MI",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Abdul El-Sayed",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "high",
+    "style_evidence": "Wikipedia: 'progressive and economic populist'; Medicare for All, abolish ICE, end unconditional Israel aid; no corporate/PAC money; Sanders, AOC, Warren, Our Revolution, WFP, Sunrise endorsed; 2018 Justice Democrats alum.",
+    "background": "Physician/epidemiologist; former Detroit and Wayne County health director.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "El-Sayed 48.5%, ~1 pt over Rep. Haley Stevens (DSCC-favored moderate, AIPAC-backed); McMorrow withdrew July. Stevens endorsed Republican Rogers two days before the general."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Rogers",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.5,
+    "rep_pct": 45.5,
+    "other_pct": 2.0,
+    "margin": 7.0,
+    "pct_expected_vote_counted": 96.8,
+    "called": "D",
+    "called_by": "NBC News; CBS News (2:31 AM ET)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -1.42,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 1.7,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 8.42,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
+    "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+    "https://www.washingtontimes.com/news/2026/aug/5/abdul-el-sayed-opens-general-election-fight-branding-mike-rogers/",
+    "https://www.fox2detroit.com/election/abdul-el-sayed-mike-rogers-senate-campaign-michigan",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Open seat (Peters retired). Most expensive race in Michigan history (>$243M). First Muslim elected to the Senate. Rogers was 2024 GOP nominee.",
+   "verified": true
+  },
+  {
+   "id": "SEN-MN",
+   "office": "Senate",
+   "state": "MN",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Peggy Flanagan",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Medicare for All; 'dismantle' and rebuild ICE; called Gaza war genocide; refused corporate PAC/AIPAC money; Sanders, Warren, Omar endorsed; Newsweek: 'Bernie Sanders-style progressivism' vs Craig's 'Third Way'.",
+    "background": "Lieutenant Governor; Ojibwe; former state representative and organizer.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Flanagan 59% over Rep. Angie Craig (Aug 11), widely framed as progressive-vs-moderate proxy fight; Craig privately favored by Schumer/DSCC and skipped DFL endorsement."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michele Tafoya",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 53.7,
+    "rep_pct": 43.6,
+    "other_pct": 2.7,
+    "margin": 10.1,
+    "pct_expected_vote_counted": 98.8,
+    "called": "D",
+    "called_by": "NBC News; CBS News (12:13 AM ET)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 4.24,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 5.3,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 5.86,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+    "https://en.wikipedia.org/wiki/Peggy_Flanagan",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Open seat (Tina Smith retired). Tafoya (former sportscaster) won GOP primary 52.1% over Adam Schwarze and Royce White. First Native American woman elected to the Senate.",
+   "verified": true
+  },
+  {
+   "id": "SEN-MS",
+   "office": "Senate",
+   "state": "MS",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Scott Colom",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "DA running on crime-victim record, income-tax elimination for teachers/police, criticism of Hyde-Smith's Trump-bill votes and spending; used 'America first' phrasing; Schumer/Obama endorsed.",
+    "background": "Lowndes County district attorney; Hyde-Smith blocked his judgeship nomination.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 73% over Albert Littell and Priscilla Williams-Till (Mar 10)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Cindy Hyde-Smith",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.95,
+    "rep_pct": 48.94,
+    "other_pct": 2.11,
+    "margin": 0.01,
+    "pct_expected_vote_counted": 95.6,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -22.89,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -10.0,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 22.9,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
+    "https://en.wikipedia.org/wiki/Scott_Colom",
+    "https://www.mississippifreepress.org/democrat-scott-colom-leads-mississippi-us-senate-race-by-28-votes-against-republican-cindy-hyde-smith/",
+    "https://www.kbtx.com/2026/11/04/colom-hyde-smith-separated-by-narrow-margin-mississippi-senate-race/",
+    "https://www.mississippifreepress.org/will-mississippi-send-a-black-democrat-to-the-us-senate-scott-colom-says-dont-count-him-out/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcchicago.com/news/local/election-2026-which-races-still-havent-been-called-and-what-states-flipped-seats-mississippi-alaska-election-results/4012174/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "UNCALLED (too close). Colom 462,821 vs Hyde-Smith 462,778 (43-vote lead) per Wikipedia/AP-based reports; NBC shows both 48.9% at 95.6% in. Affidavit ballots and some precincts outstanding. Mississippi has no recount law; recount only by court order. Independent Ty Pinkins (2024 D nominee) 2.1%. Verified: KBTX (3 AM CST) Colom 462,821 / Hyde-Smith 462,778 / Pinkins 19,935 at 95.6%; CBS lists race uncalled Wednesday morning.",
+   "verified": true
+  },
+  {
+   "id": "SEN-MT",
+   "office": "Senate",
+   "state": "MT",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Seth Bodnar",
+    "incumbent": false,
+    "party_label": "I (Dem-backed)",
+    "ideology": "moderate",
+    "posture": "populist",
+    "archetype": "center_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Independent; attacked Daines' last-minute handoff as coronation; backed by Jon Tester, 4 of 5 recent state Dem chairs, ex-GOP Gov. Racicot, VoteVets, LCV, MFPE union, Planned Parenthood.",
+    "background": "Former University of Montana president; Army veteran (West Point).",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Official Democratic nominee Alani Bankhead (43.7% in Jun 2 primary over Reilly Neill) stayed in the race."
+   },
+   "alt_dem": {
+    "name": "Alani Bankhead",
+    "archetype": null,
+    "pct": 11.9
+   },
+   "rep": {
+    "name": "Kurt Alme",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 37.5,
+    "rep_pct": 48.6,
+    "other_pct": 13.9,
+    "margin": -11.1,
+    "pct_expected_vote_counted": 95,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -19.93,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -10.0,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 8.23,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana",
+    "https://en.wikipedia.org/wiki/Seth_Bodnar",
+    "https://www.nbcnews.com/politics/2026-elections/montana-senate-results",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Montana",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Open seat: Daines withdrew minutes before filing deadline and endorsed Alme. Bodnar not formally Democratic Party-endorsed; labeled Dem-backed because Tester, ex-party chairs and Dem-aligned groups backed him while D nominee ran. Bodnar 37.3 + Bankhead 11.9 = 49.2 vs Alme 49.0 (NBC, 90.4% in): a split anti-GOP vote. prev_seat = 2020 Bullock 44.99 vs Daines 55.01. Wikipedia infobox shows vandalized/inconsistent nominee name ('Sawyer Adams'); NBC used. Verified: NBC Montana page (10:56 AM ET) Alme 49.0 / Bodnar (I) 37.3 / Bankhead (D) 11.9, total 453,461 votes; the three sum to 98.2, so other_pct 13.7 = Bankhead 11.9 + ~1.8 unlisted/rounding.",
+   "verified": true
+  },
+  {
+   "id": "SEN-NE",
+   "office": "Senate",
+   "state": "NE",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dan Osborn",
+    "incumbent": false,
+    "party_label": "I (Dem-backed)",
+    "ideology": "moderate",
+    "posture": "populist",
+    "archetype": "center_populist",
+    "style_confidence": "high",
+    "style_evidence": "Independent ex-union leader; anti-'billionaires', big money out of politics, overturn Citizens United; pro-gun, tighter immigration, opposes Iran 'forever war'; Nebraska Democrats cleared field; national party not involved.",
+    "background": "Former Kellogg's union local president; Navy veteran; industrial mechanic.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Nebraska Democrats ran placeholder Cindy Burbank to block alleged spoiler William Forbes, then she withdrew for Osborn."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Pete Ricketts",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 43.6,
+    "rep_pct": 50.4,
+    "other_pct": 6.0,
+    "margin": -6.8,
+    "pct_expected_vote_counted": 94.1,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -20.46,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -25.16,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.76,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska",
+    "https://en.wikipedia.org/wiki/Dan_Osborn",
+    "https://www.nbcnews.com/politics/2026-elections/nebraska-senate-results",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_Senate_special_election_in_Nebraska",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "prev_seat = 2024 special: Ricketts 62.58 vs Preston Love Jr. (D) 37.42. Osborn's 2024 Class 1 race vs Fischer was a different seat. Independent Robin Richards 2.6%. Verified: Wikipedia (95% reporting, 8:13 AM CST) has Ricketts 50.3 / Osborn 43.7 (368,798 vs 320,562); NBC newer snapshot 50.4 kept.",
+   "verified": true
+  },
+  {
+   "id": "SEN-NH",
+   "office": "Senate",
+   "state": "NH",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chris Pappas",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Ranked most bipartisan House Democrat (Lugar Center 2023); voted against MORE Act, criticized Biden student-debt plan; Shaheen-anointed frontrunner; Warren and AFL-CIO endorsed.",
+    "background": "U.S. Representative (NH-1); former Executive Councilor; family restaurant owner.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Pappas 65% over medical scientist Karishma Manzur (Sep 8)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John E. Sununu",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 56,
+    "rep_pct": 42.2,
+    "other_pct": 1.9,
+    "margin": 13.8,
+    "pct_expected_vote_counted": 94,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 2.78,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 15.7,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 11.52,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
+    "https://en.wikipedia.org/wiki/Chris_Pappas_(American_politician)",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Open seat (Shaheen retired). Sununu (former senator) beat Scott Brown 68.5% in GOP primary. First openly gay man elected to the Senate.",
+   "verified": true
+  },
+  {
+   "id": "SEN-NJ",
+   "office": "Senate",
+   "state": "NJ",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Cory Booker",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Unopposed institutional incumbent; AFL-CIO endorsed; no insurgent or centrist branding found in 2026 coverage.",
+    "background": "Incumbent senator since 2013; former Newark mayor.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Justin Murphy",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.1,
+    "rep_pct": 35.3,
+    "other_pct": 2.5,
+    "margin": 26.8,
+    "pct_expected_vote_counted": 94.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 5.91,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 16.3,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 20.89,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "Murphy won GOP primary with 33.3%.",
+   "verified": true
+  },
+  {
+   "id": "SEN-NM",
+   "office": "Senate",
+   "state": "NM",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ben Ray Luján",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Party-line incumbent from Luján political family; outspoken Trump critic; won primary 83.7%.",
+    "background": "Incumbent senator; former House member and DCCC chair.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Larry Marker",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "write_in_nominee"
+    ]
+   },
+   "result": {
+    "dem_pct": 63.2,
+    "rep_pct": 36.8,
+    "other_pct": 0.0,
+    "margin": 26.4,
+    "pct_expected_vote_counted": 98.0,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (implied: NBC chamber tally 54D-44R lists only AK and MS uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 6.0,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 6.1,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 20.4,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Mexico",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "No Republican qualified for primary ballot; Marker nominated as write-in.",
+   "verified": true
+  },
+  {
+   "id": "SEN-NC",
+   "office": "Senate",
+   "state": "NC",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Roy Cooper",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Two-term governor; 'make stuff cost less' message stressing record of putting party aside for working people; Schumer recruit; Obama, AFL-CIO endorsed; cleared field (Nickel withdrew).",
+    "background": "Former two-term NC governor and four-term attorney general.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 92% against minimal opposition."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michael Whatley",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 58.7,
+    "rep_pct": 39.1,
+    "other_pct": 2.2,
+    "margin": 19.6,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "NBC News; CBS News (8:30 PM ET)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -3.21,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -1.8,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 22.81,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
+    "https://en.wikipedia.org/wiki/Roy_Cooper",
+    "https://www.wfae.org/politics/2026-07-15/poll-shows-north-carolina-senate-race-tightening",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "FLIP. Open seat (Tillis retired after OBBBA vote). Whatley = Trump-picked former RNC chair. First NC Democratic Senate win since 2008.",
+   "verified": true
+  },
+  {
+   "id": "SEN-OH-special",
+   "office": "Senate",
+   "state": "OH",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sherrod Brown",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Classic labor populist (workers vs 'corporations and billionaires', tariffs/prices, Medicaid/SNAP cuts) but a Schumer-recruited three-term ex-senator; Obama/AFL-CIO endorsed. Rubric gives mixed; arguably left_populist.",
+    "background": "Former three-term U.S. senator (lost 2024); ex-Ohio secretary of state.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won against minimal opposition."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jon Husted",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 50.0,
+    "rep_pct": 45.2,
+    "other_pct": 4.8,
+    "margin": 4.8,
+    "pct_expected_vote_counted": 98.0,
+    "called": "D",
+    "called_by": "NBC News; CBS News (11:15 PM ET)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -11.21,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -6.11,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 16.01,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Ohio",
+    "https://en.wikipedia.org/wiki/Sherrod_Brown",
+    "https://www.wcpo.com/news/state/state-ohio/sherrod-brown-announces-run-for-return-to-us-senate-in-2026",
+    "https://www.notus.org/ohio/husted-brown-senate-race",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Ohio",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "FLIP. Special for Vance's term (ends 2028); Husted appointed 2025. prev_seat = 2022 Vance 53.03 vs Ryan 46.92. Wikipedia: Brown 50.01 / Husted 45.15. Verified: expected-vote share updated 97.9 -> 98.0 per NBC 11:08 AM ET snapshot; shares unchanged.",
+   "verified": true
+  },
+  {
+   "id": "SEN-OK",
+   "office": "Senate",
+   "state": "OK",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "N'Kiyla \"Jasmine\" Thomas",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little coverage of positioning found; won Democratic runoff 61.2% over attorney Jim Priest. Default classification.",
+    "background": "Nurse.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Runoff Aug 25 vs Jim Priest; no ideological framing found."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kevin Hern",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 39.2,
+    "rep_pct": 57.3,
+    "other_pct": 3.5,
+    "margin": -18.1,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "CBS News (10:24 PM ET); NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -34.26,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -26.53,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 16.16,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oklahoma",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_Senate_special_election_in_Oklahoma",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Open: Mullin resigned (DHS secretary); appointee Alan Armstrong barred from running. prev_seat = 2022 special Mullin 61.77 vs Kendra Horn 35.24. Verified: Wikipedia infobox 57.3 / 39.2 at 99% (9:58 AM CST).",
+   "verified": true
+  },
+  {
+   "id": "SEN-OR",
+   "office": "Senate",
+   "state": "OR",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jeff Merkley",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Safe incumbent; Our Revolution and AFL-CIO endorsed; won primary 93.2%; no distinctive 2026 style coverage found.",
+    "background": "Incumbent senator since 2009; former Oregon House speaker.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "David Brock Smith",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 56.8,
+    "rep_pct": 40.3,
+    "other_pct": 3.0,
+    "margin": 16.5,
+    "pct_expected_vote_counted": 79.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 14.3,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 17.59,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 1.8,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Oregon",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Oregon"
+   ],
+   "notes": "Only 75.3% of expected vote counted (vote-by-mail). prev_seat = 2020 Merkley 56.91 vs Perkins 39.32.",
+   "verified": true
+  },
+  {
+   "id": "SEN-RI",
+   "office": "Senate",
+   "state": "RI",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jack Reed",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Five-term institutional incumbent; VoteVets endorsed; primary 76.8% against minimal opposition.",
+    "background": "Incumbent senator since 1997; Army veteran.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Raymond McKay",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 66.6,
+    "rep_pct": 29.5,
+    "other_pct": 3.9,
+    "margin": 37.1,
+    "pct_expected_vote_counted": 97.1,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (implied: NBC chamber tally 54D-44R lists only AK and MS uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 13.78,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 33.2,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 23.32,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Rhode_Island",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "SEN-SC",
+   "office": "Senate",
+   "state": "SC",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Annie Andrews",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Pediatrician; gun-safety activist; endorsed by Jaime Harrison, EMILY's List, 314 Action; after Trump's slur, ran ad opposing trans athletes in women's sports and gender surgery for minors.",
+    "background": "Pediatrician; 2022 SC-1 House nominee.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 61.5% over Brandon Brown (Jun 9)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Darline Graham",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "appointee"
+    ]
+   },
+   "result": {
+    "dem_pct": 51.1,
+    "rep_pct": 46.7,
+    "other_pct": 2.2,
+    "margin": 4.4,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "AP (10:39 PM ET Nov 3, via WBTV); CBS News (10:03 PM ET); NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -17.87,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -10.3,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 22.27,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+    "https://en.wikipedia.org/wiki/Annie_Andrews",
+    "https://www.wbtv.com/2026/11/04/democrat-annie-andrews-wins-us-senate-seat-south-carolina-ap-projects/",
+    "https://www.npr.org/2026/11/03/g-s1-151666/south-carolina-senate-race-andrews-graham",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "FLIP. Lindsey Graham won June primary but died Jul 11; sister Darline appointed and, with Trump's encouragement, beat Freedom Caucus Rep. Ralph Norman in Aug 25 runoff (52.5%). First Democratic Senate win in SC since 1998. WBTV: at AP call Andrews 50.6 / Graham 47.2; NBC later count 51.1 / 46.7 kept.",
+   "verified": true
+  },
+  {
+   "id": "SEN-SD",
+   "office": "Senate",
+   "state": "SD",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Brian Bengs",
+    "incumbent": false,
+    "party_label": "I (Dem-backed)",
+    "ideology": "moderate",
+    "posture": "populist",
+    "archetype": "center_populist",
+    "style_confidence": "low",
+    "style_evidence": "Independent 'charting an independent course'; Dem nominee Julian Beaudion withdrew Aug 4 (endorsing no one) after Democrats like Steve Jarding urged consolidation; state party did not endorse Bengs.",
+    "background": "Retired Air Force lieutenant colonel; 2022 Democratic Senate nominee.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beaudion won Democratic nomination unopposed then withdrew."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Rounds",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 39.5,
+    "rep_pct": 60.5,
+    "other_pct": 0.0,
+    "margin": -21.0,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (implied: NBC chamber tally 54D-44R lists only AK and MS uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.19,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -31.4,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 8.19,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Dakota",
+    "https://www.dakotanewsnow.com/2026/08/06/bengs-sd-democratic-party-talk-beaudions-exit-us-senate-race/",
+    "https://www.kotatv.com/2026/08/06/south-dakotas-us-senate-race-shifts-two-way-matchup-after-democrat-candidate-suspends-campaign/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "party_label 'I (Dem-backed)' reflects Democrats standing aside; the SD Democratic Party formally declined to endorse Bengs. Ideology/posture low-confidence.",
+   "verified": true
+  },
+  {
+   "id": "SEN-TN",
+   "office": "Senate",
+   "state": "TN",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Marquita Bradshaw",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Working-class single mother; environmental-justice organizer; prior platform Medicare for All and Green New Deal; frames Senate as millionaires' club. 2026-specific positioning thinly covered.",
+    "background": "Environmental justice activist; 2020 Senate nominee.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 54.8% over former state party director Maria Brewer (Aug 6); no ideological framing found."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Bill Hagerty",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 42.9,
+    "rep_pct": 55.1,
+    "other_pct": 2.0,
+    "margin": -12.2,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (implied: NBC chamber tally 54D-44R lists only AK and MS uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.72,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -27.0,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 17.52,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Tennessee",
+    "https://en.wikipedia.org/wiki/Marquita_Bradshaw",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "Rematch of 2020.",
+   "verified": true
+  },
+  {
+   "id": "SEN-TX",
+   "office": "Senate",
+   "state": "TX",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "James Talarico",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Wikipedia: 'economic populist influenced by Christian social teaching'; 'The People vs. Ken Paxton' anti-corruption tour; courted moderates/Cornyn Republicans; Schumer, Obama, Our Revolution, AFL-CIO endorsed in general.",
+    "background": "State representative; former teacher; seminarian.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Talarico 52.4% over Rep. Jasmine Crockett (Mar 3); fought on style/electability (Crockett 'firebrand' vs Talarico 'measured') more than policy; Crockett declined to campaign for him."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ken Paxton",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "scandal",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 55.1,
+    "rep_pct": 43.0,
+    "other_pct": 1.9,
+    "margin": 12.1,
+    "pct_expected_vote_counted": 97.4,
+    "called": "D",
+    "called_by": "NBC News; CBS News (10:59 PM ET)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -13.68,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -9.6,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 25.78,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+    "https://en.wikipedia.org/wiki/James_Talarico",
+    "https://www.pbs.org/newshour/politics/talarico-targets-paxtons-scandals-in-texas-senate-race-pivoting-from-his-sunny-primary-message",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "FLIP. No incumbent in general: Paxton beat Cornyn in May 26 runoff (63.8%) after late Trump endorsement. First Democratic Senate win in Texas since 1988; >$500M spent. Paxton impeached by Texas House in 2023 (scandal flag).",
+   "verified": true
+  },
+  {
+   "id": "SEN-VA",
+   "office": "Senate",
+   "state": "VA",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mark Warner",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "Unopposed institutional incumbent; no 2026-specific centrist branding documented in sources read; classification relies on his long-standing business-centrist profile.",
+    "background": "Incumbent senator since 2009; former governor; telecom investor.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Bert Mizusawa",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 61.1,
+    "rep_pct": 38.7,
+    "other_pct": 0.2,
+    "margin": 22.4,
+    "pct_expected_vote_counted": 96.8,
+    "called": "D",
+    "called_by": "CBS News (7:09 PM ET); NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 5.78,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 12.08,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 16.62,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Virginia",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_Virginia",
+    "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+   ],
+   "notes": "Highest Warner margin since 2008 per Wikipedia.",
+   "verified": true
+  },
+  {
+   "id": "SEN-WV",
+   "office": "Senate",
+   "state": "WV",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rachel Fetty Anderson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No positioning coverage found; won fragmented primary with 33.2% over a field including ex-Senate President Jeff Kessler.",
+    "background": "Not documented in sources read.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Shelley Moore Capito",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 37.9,
+    "rep_pct": 58.3,
+    "other_pct": 3.8,
+    "margin": -20.4,
+    "pct_expected_vote_counted": 96.3,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (implied: NBC chamber tally 54D-44R lists only AK and MS uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -41.87,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -43.28,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 21.47,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_West_Virginia"
+   ],
+   "notes": "prev_seat = 2020 Capito 70.28 vs Swearengin 27.00. Verified: expected-vote share updated 94.3 -> 96.3 per NBC 11:08 AM ET snapshot; shares unchanged.",
+   "verified": true
+  },
+  {
+   "id": "SEN-WY",
+   "office": "Senate",
+   "state": "WY",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "James W. Byrd",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little positioning coverage found; won primary 79.3% against minimal opposition.",
+    "background": "Former Wyoming state representative.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Harriet Hageman",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 34.8,
+    "rep_pct": 65.2,
+    "other_pct": 0.0,
+    "margin": -30.4,
+    "pct_expected_vote_counted": 97.0,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (implied: NBC chamber tally 54D-44R lists only AK and MS uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -45.76,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -46.2,
+    "prev_seat_year": 2020
+   },
+   "overperformance_vs_pres2024": 15.36,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Wyoming",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_elections"
+   ],
+   "notes": "Open seat (Lummis retired). Hageman endorsed by Trump and Club for Growth.",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T11:20:00-05:00",
+  "checked_items": 318,
+  "corrections": [
+   "SEN-ME: Collins 46.1->46.2, other 0.1->0.0, margin 7.7->7.6, overperformance 0.76->0.66, expected vote 86.0->86.4 (NBC 11:08 AM; Wikipedia vote totals)",
+   "SEN-MA/WV/OH/ID: expected-vote shares updated to NBC 11:08 AM snapshot (88.5->89.4, 94.3->96.3, 97.9->98.0, 97.2->97.3)",
+   "called_by: 20 races given explicit CBS projection times instead of NBC chamber-tally inference; SC call time (AP 10:39 PM ET) added",
+   "chamber_summary: CBS control projection time corrected to 11:44 PM ET; noted 54 includes independents King and Sanders",
+   "as_of advanced to NBC 11:08 AM ET snapshot"
+  ],
+  "unresolved": [
+   "SEN-AK and SEN-MS uncalled; MS margin 43 votes, AK RCV tabulation pending",
+   "Called_by for AR, CO, DE, IL, MA, NJ, NM, OR, RI, SD, TN, WV, WY still inferred from NBC chamber tally / Wikipedia winners; no explicit call time found (web search budget exhausted)",
+   "pres2024 statewide margins not re-fetched (Wikipedia state table truncated); values match known 2024 certified results to within 0.02 pts",
+   "Style judgment calls: Talarico (liberal/populist vs mixed), Sherrod Brown (mixed vs populist), Nixon (mixed vs populist), Colom/Davis/Bradshaw low-information",
+   "Other-candidate shares mostly implied as 100 minus D and R, not itemized by NBC"
+  ]
+ }
+}

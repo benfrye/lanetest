@@ -1,0 +1,629 @@
+{
+ "note": "Blind coder input: name/state/district/office/opponent only.",
+ "races": [
+  {
+   "id": "IN-4",
+   "name": "Drew Cox",
+   "state": "IN",
+   "district": 4,
+   "office": "House",
+   "opponent": "Jim Baird"
+  },
+  {
+   "id": "MI-2",
+   "name": "Ben Ambrose",
+   "state": "MI",
+   "district": 2,
+   "office": "House",
+   "opponent": "John Moolenaar"
+  },
+  {
+   "id": "NJ-4",
+   "name": "Rachel Peace",
+   "state": "NJ",
+   "district": 4,
+   "office": "House",
+   "opponent": "Chris Smith"
+  },
+  {
+   "id": "PA-17",
+   "name": "Chris Deluzio",
+   "state": "PA",
+   "district": 17,
+   "office": "House",
+   "opponent": "Tony Guy"
+  },
+  {
+   "id": "TX-30",
+   "name": "Frederick Haynes III",
+   "state": "TX",
+   "district": 30,
+   "office": "House",
+   "opponent": "Everett Jackson"
+  },
+  {
+   "id": "TX-28",
+   "name": "Henry Cuellar",
+   "state": "TX",
+   "district": 28,
+   "office": "House",
+   "opponent": "Tano Tijerina"
+  },
+  {
+   "id": "TN-9",
+   "name": "Justin J. Pearson",
+   "state": "TN",
+   "district": 9,
+   "office": "House",
+   "opponent": "Brent Taylor"
+  },
+  {
+   "id": "NY-10",
+   "name": "Brad Lander",
+   "state": "NY",
+   "district": 10,
+   "office": "House",
+   "opponent": "Jennifer Moore"
+  },
+  {
+   "id": "IL-13",
+   "name": "Nikki Budzinski",
+   "state": "IL",
+   "district": 13,
+   "office": "House",
+   "opponent": "Jeff Wilson"
+  },
+  {
+   "id": "WI-7",
+   "name": "Fred Clark",
+   "state": "WI",
+   "district": 7,
+   "office": "House",
+   "opponent": "Michael Alfonso"
+  },
+  {
+   "id": "WI-6",
+   "name": "Brad Smith",
+   "state": "WI",
+   "district": 6,
+   "office": "House",
+   "opponent": "Glenn Grothman"
+  },
+  {
+   "id": "FL-7",
+   "name": "Bale Dalton",
+   "state": "FL",
+   "district": 7,
+   "office": "House",
+   "opponent": "Ryan Elijah"
+  },
+  {
+   "id": "LA-1",
+   "name": "Lauren Jewett",
+   "state": "LA",
+   "district": 1,
+   "office": "House",
+   "opponent": "Steve Scalise"
+  },
+  {
+   "id": "GOV-MI",
+   "name": "Jocelyn Benson",
+   "state": "MI",
+   "district": null,
+   "office": "Governor",
+   "opponent": "John James"
+  },
+  {
+   "id": "GOV-VT",
+   "name": "Amanda Janoo",
+   "state": "VT",
+   "district": null,
+   "office": "Governor",
+   "opponent": "Phil Scott"
+  },
+  {
+   "id": "SEN-MN",
+   "name": "Peggy Flanagan",
+   "state": "MN",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Michele Tafoya"
+  },
+  {
+   "id": "PA-11",
+   "name": "Nancy Mannion",
+   "state": "PA",
+   "district": 11,
+   "office": "House",
+   "opponent": "Lloyd Smucker"
+  },
+  {
+   "id": "CO-4",
+   "name": "Eileen Laubacher",
+   "state": "CO",
+   "district": 4,
+   "office": "House",
+   "opponent": "Lauren Boebert"
+  },
+  {
+   "id": "TX-25",
+   "name": "Dione Sims",
+   "state": "TX",
+   "district": 25,
+   "office": "House",
+   "opponent": "Roger Williams"
+  },
+  {
+   "id": "NJ-1",
+   "name": "Donald Norcross",
+   "state": "NJ",
+   "district": 1,
+   "office": "House",
+   "opponent": "Damon Galdo"
+  },
+  {
+   "id": "SEN-LA",
+   "name": "Jamie Davis",
+   "state": "LA",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Julia Letlow"
+  },
+  {
+   "id": "OH-7",
+   "name": "Brian Poindexter",
+   "state": "OH",
+   "district": 7,
+   "office": "House",
+   "opponent": "Max Miller"
+  },
+  {
+   "id": "SEN-KS",
+   "name": "Adam Hamilton",
+   "state": "KS",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Roger Marshall"
+  },
+  {
+   "id": "MI-3",
+   "name": "Hillary Scholten",
+   "state": "MI",
+   "district": 3,
+   "office": "House",
+   "opponent": "Terri DeBoer"
+  },
+  {
+   "id": "GOV-WI",
+   "name": "David Crowley",
+   "state": "WI",
+   "district": null,
+   "office": "Governor",
+   "opponent": "Tom Tiffany"
+  },
+  {
+   "id": "FL-15",
+   "name": "Robert People",
+   "state": "FL",
+   "district": 15,
+   "office": "House",
+   "opponent": "Laurel Lee"
+  },
+  {
+   "id": "SEN-TX",
+   "name": "James Talarico",
+   "state": "TX",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Ken Paxton"
+  },
+  {
+   "id": "TN-8",
+   "name": "Heidi Kuhn",
+   "state": "TN",
+   "district": 8,
+   "office": "House",
+   "opponent": "David Kustoff"
+  },
+  {
+   "id": "MT-1",
+   "name": "Sam Forstag",
+   "state": "MT",
+   "district": 1,
+   "office": "House",
+   "opponent": "Aaron Flint"
+  },
+  {
+   "id": "GA-2",
+   "name": "Sanford Bishop",
+   "state": "GA",
+   "district": 2,
+   "office": "House",
+   "opponent": "Matt Day"
+  },
+  {
+   "id": "OH-3",
+   "name": "Joyce Beatty",
+   "state": "OH",
+   "district": 3,
+   "office": "House",
+   "opponent": "Cleophus Dulaney"
+  },
+  {
+   "id": "WI-3",
+   "name": "Rebecca Cooke",
+   "state": "WI",
+   "district": 3,
+   "office": "House",
+   "opponent": "Derrick Van Orden"
+  },
+  {
+   "id": "TX-38",
+   "name": "Melissa McDonough",
+   "state": "TX",
+   "district": 38,
+   "office": "House",
+   "opponent": "Jon Bonck"
+  },
+  {
+   "id": "SEN-AR",
+   "name": "Hallie Shoffner",
+   "state": "AR",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Tom Cotton"
+  },
+  {
+   "id": "GA-11",
+   "name": "Chris Harden",
+   "state": "GA",
+   "district": 11,
+   "office": "House",
+   "opponent": "John Cowan"
+  },
+  {
+   "id": "AL-1",
+   "name": "Clyde Jones",
+   "state": "AL",
+   "district": 1,
+   "office": "House",
+   "opponent": "Jerry Carl"
+  },
+  {
+   "id": "GOV-KS",
+   "name": "Cindy Holscher",
+   "state": "KS",
+   "district": null,
+   "office": "Governor",
+   "opponent": "Ty Masterson"
+  },
+  {
+   "id": "VA-5",
+   "name": "Tom Perriello",
+   "state": "VA",
+   "district": 5,
+   "office": "House",
+   "opponent": "John McGuire"
+  },
+  {
+   "id": "OH-1",
+   "name": "Greg Landsman",
+   "state": "OH",
+   "district": 1,
+   "office": "House",
+   "opponent": "Eric Conroy"
+  },
+  {
+   "id": "TX-27",
+   "name": "Tanya Lloyd",
+   "state": "TX",
+   "district": 27,
+   "office": "House",
+   "opponent": "Michael Cloud"
+  },
+  {
+   "id": "MO-5",
+   "name": "Emanuel Cleaver",
+   "state": "MO",
+   "district": 5,
+   "office": "House",
+   "opponent": "Rick Brattin"
+  },
+  {
+   "id": "SEN-KY",
+   "name": "Charles Booker",
+   "state": "KY",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Andy Barr"
+  },
+  {
+   "id": "TN-3",
+   "name": "Anna Golladay",
+   "state": "TN",
+   "district": 3,
+   "office": "House",
+   "opponent": "Chuck Fleischmann"
+  },
+  {
+   "id": "TX-6",
+   "name": "Danny Minton",
+   "state": "TX",
+   "district": 6,
+   "office": "House",
+   "opponent": "Jake Ellzey"
+  },
+  {
+   "id": "NJ-5",
+   "name": "Josh Gottheimer",
+   "state": "NJ",
+   "district": 5,
+   "office": "House",
+   "opponent": "Sean Kirrane"
+  },
+  {
+   "id": "IL-5",
+   "name": "Mike Quigley",
+   "state": "IL",
+   "district": 5,
+   "office": "House",
+   "opponent": "Tommy Hanson"
+  },
+  {
+   "id": "NY-12",
+   "name": "Micah Lasher",
+   "state": "NY",
+   "district": 12,
+   "office": "House",
+   "opponent": "Caroline Shinkle"
+  },
+  {
+   "id": "AR-1",
+   "name": "Terri Yarbrough Green",
+   "state": "AR",
+   "district": 1,
+   "office": "House",
+   "opponent": "Rick Crawford"
+  },
+  {
+   "id": "TX-9",
+   "name": "Leticia Gutierrez",
+   "state": "TX",
+   "district": 9,
+   "office": "House",
+   "opponent": "Alex Mealer"
+  },
+  {
+   "id": "TX-14",
+   "name": "Thurman Bartie",
+   "state": "TX",
+   "district": 14,
+   "office": "House",
+   "opponent": "Randy Weber"
+  },
+  {
+   "id": "IL-2",
+   "name": "Donna Miller",
+   "state": "IL",
+   "district": 2,
+   "office": "House",
+   "opponent": "Michael Noack"
+  },
+  {
+   "id": "NC-13",
+   "name": "Paul Barringer",
+   "state": "NC",
+   "district": 13,
+   "office": "House",
+   "opponent": "Brad Knott"
+  },
+  {
+   "id": "PA-15",
+   "name": "Ray Bilger",
+   "state": "PA",
+   "district": 15,
+   "office": "House",
+   "opponent": "Glenn Thompson"
+  },
+  {
+   "id": "NY-18",
+   "name": "Pat Ryan",
+   "state": "NY",
+   "district": 18,
+   "office": "House",
+   "opponent": "Jacqueline Auringer"
+  },
+  {
+   "id": "SEN-IA",
+   "name": "Josh Turek",
+   "state": "IA",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Ashley Hinson"
+  },
+  {
+   "id": "FL-26",
+   "name": "Nicole Locklin",
+   "state": "FL",
+   "district": 26,
+   "office": "House",
+   "opponent": "Mario Diaz-Balart"
+  },
+  {
+   "id": "SPECIAL-GA-14-2026-04",
+   "name": "Shawn Harris",
+   "state": "GA",
+   "district": "14",
+   "office": "Special",
+   "opponent": "Clay Fuller"
+  },
+  {
+   "id": "TN-1",
+   "name": "Kristi Burke",
+   "state": "TN",
+   "district": 1,
+   "office": "House",
+   "opponent": "Diana Harshbarger"
+  },
+  {
+   "id": "TX-37",
+   "name": "Greg Casar",
+   "state": "TX",
+   "district": 37,
+   "office": "House",
+   "opponent": "Lauren Pe\u00f1a"
+  },
+  {
+   "id": "MI-12",
+   "name": "Rashida Tlaib",
+   "state": "MI",
+   "district": 12,
+   "office": "House",
+   "opponent": "James Hooper"
+  },
+  {
+   "id": "NY-11",
+   "name": "Michael DeCillis",
+   "state": "NY",
+   "district": 11,
+   "office": "House",
+   "opponent": "Nicole Malliotakis"
+  },
+  {
+   "id": "CT-4",
+   "name": "Jim Himes",
+   "state": "CT",
+   "district": 4,
+   "office": "House",
+   "opponent": "Michael Goldstein"
+  },
+  {
+   "id": "KY-2",
+   "name": "Megan Wingfield",
+   "state": "KY",
+   "district": 2,
+   "office": "House",
+   "opponent": "Brett Guthrie"
+  },
+  {
+   "id": "FL-5",
+   "name": "Rachel Grage",
+   "state": "FL",
+   "district": 5,
+   "office": "House",
+   "opponent": "John Rutherford"
+  },
+  {
+   "id": "MS-1",
+   "name": "Cliff Johnson",
+   "state": "MS",
+   "district": 1,
+   "office": "House",
+   "opponent": "Trent Kelly"
+  },
+  {
+   "id": "CO-7",
+   "name": "Brittany Pettersen",
+   "state": "CO",
+   "district": 7,
+   "office": "House",
+   "opponent": "Tim Bennett"
+  },
+  {
+   "id": "NC-9",
+   "name": "Richard Ojeda",
+   "state": "NC",
+   "district": 9,
+   "office": "House",
+   "opponent": "Richard Hudson"
+  },
+  {
+   "id": "MA-9",
+   "name": "Bill Keating",
+   "state": "MA",
+   "district": 9,
+   "office": "House",
+   "opponent": "Tyler MacAllister"
+  },
+  {
+   "id": "MN-5",
+   "name": "Ilhan Omar",
+   "state": "MN",
+   "district": 5,
+   "office": "House",
+   "opponent": "John Nagel"
+  },
+  {
+   "id": "SEN-GA",
+   "name": "Jon Ossoff",
+   "state": "GA",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Mike Collins"
+  },
+  {
+   "id": "TN-7",
+   "name": "Darden Copeland",
+   "state": "TN",
+   "district": 7,
+   "office": "House",
+   "opponent": "Matt Van Epps"
+  },
+  {
+   "id": "GOV-NH",
+   "name": "Cinde Warmington",
+   "state": "NH",
+   "district": null,
+   "office": "Governor",
+   "opponent": "Kelly Ayotte"
+  },
+  {
+   "id": "TX-31",
+   "name": "Justin Early",
+   "state": "TX",
+   "district": 31,
+   "office": "House",
+   "opponent": "John Carter"
+  },
+  {
+   "id": "OH-13",
+   "name": "Emilia Sykes",
+   "state": "OH",
+   "district": 13,
+   "office": "House",
+   "opponent": "Carey Coleman"
+  },
+  {
+   "id": "VA-11",
+   "name": "James Walkinshaw",
+   "state": "VA",
+   "district": 11,
+   "office": "House",
+   "opponent": "Arthur Purves"
+  },
+  {
+   "id": "VA-6",
+   "name": "Beth Macy",
+   "state": "VA",
+   "district": 6,
+   "office": "House",
+   "opponent": "Ben Cline"
+  },
+  {
+   "id": "MI-9",
+   "name": "Ray Pooley",
+   "state": "MI",
+   "district": 9,
+   "office": "House",
+   "opponent": "Lisa McClain"
+  },
+  {
+   "id": "SEN-WV",
+   "name": "Rachel Fetty Anderson",
+   "state": "WV",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Shelley Moore Capito"
+  }
+ ]
+}

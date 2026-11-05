@@ -1,0 +1,770 @@
+{
+ "as_of": "2026-11-04T12:00:00-05:00",
+ "elections": [
+  {
+   "id": "va_gov_2025",
+   "date": "2025-11-04",
+   "office": "Governor",
+   "jurisdiction": "Virginia",
+   "dem_candidate": "Abigail Spanberger",
+   "archetype": "moderate",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "style_confidence": "medium",
+   "style_evidence": "Former congresswoman/CIA officer; campaign centered on affordability, opposing Trump tariffs ('tax hike') and federal layoffs; courted rural SW Virginia Trump voters. Centrist label from prior House record, not from fetched 2025 source.",
+   "rep_candidate": "Winsome Earle-Sears",
+   "rep_style": "traditional",
+   "rep_quality_flags": [
+    "no_formal_trump_endorsement"
+   ],
+   "dem_pct": 57.58,
+   "rep_pct": 42.22,
+   "margin": 15.36,
+   "pres2024_margin": 5.78,
+   "overperformance_vs_pres2024": 9.58,
+   "subgroup_shifts": [],
+   "call_status": "Final/certified (Wikipedia infobox); called election night",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Virginia_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Virginia",
+    "https://bluevirginia.us/2025/11/with-final-results-now-in-here-are-some-key-takeaways-from-the-2025-virginia-elections"
+   ],
+   "notes": "Votes 1,976,857 to 1,449,586. Turnout 54.22%. Trump did not formally endorse or campaign with Earle-Sears. No exit-poll subgroup shifts vs 2024 retrieved. [Verification 2026-11-04] Statewide 2024 baseline re-confirmed Harris 51.83 / Trump 46.05 (5.78). bluevirginia source returned 403 on re-check; gubernatorial shares confirmed only against Wikipedia.",
+   "verified": true
+  },
+  {
+   "id": "nj_gov_2025",
+   "date": "2025-11-04",
+   "office": "Governor",
+   "jurisdiction": "New Jersey",
+   "dem_candidate": "Mikie Sherrill",
+   "archetype": "moderate",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "style_confidence": "medium",
+   "style_evidence": "Navy veteran congresswoman; won primary with county-party (Hudson, Passaic) endorsements; ran conventional affordability campaign. Moderate label from House record (unverified in fetched 2025 sources).",
+   "rep_candidate": "Jack Ciattarelli",
+   "rep_style": "traditional",
+   "rep_quality_flags": [
+    "trump_endorsed"
+   ],
+   "dem_pct": 56.88,
+   "rep_pct": 42.52,
+   "margin": 14.36,
+   "pres2024_margin": 5.91,
+   "overperformance_vs_pres2024": 8.45,
+   "subgroup_shifts": [
+    {
+     "group": "Latino 2024 Trump voters: 18% flipped to Sherrill (vs 5% of white Trump voters); share-of-voters flip, not a margin shift",
+     "shift_vs_2024_pres": null,
+     "source": "https://www.cbsnews.com/news/cbs-news-analysis-the-voters-mamdani-added-to-the-democratic-coalition-in-new-york/"
+    }
+   ],
+   "call_status": "Certified",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_New_Jersey_gubernatorial_election",
+    "https://www.multistate.us/elections/results/new-jersey-2025",
+    "https://www.cbsnews.com/news/cbs-news-analysis-the-voters-mamdani-added-to-the-democratic-coalition-in-new-york/"
+   ],
+   "notes": "Margin 14.36 per Wikipedia; Harris won NJ by 5.9 (Wikipedia, rounded). First Dem gubernatorial win in Morris County since 1973. Certified vote totals differ slightly by source (1,896,610 vs 1,895,286 for Sherrill). [Verification 2026-11-04] Harris 51.97 / Trump 46.06 statewide -> 5.91 (Wikipedia NJ 2024 infobox); overperformance recomputed 14.36-5.91=8.45. MultiState independently shows Sherrill 56.9 / Ciattarelli 42.5.",
+   "verified": true
+  },
+  {
+   "id": "nyc_mayor_2025",
+   "date": "2025-11-04",
+   "office": "Mayor",
+   "jurisdiction": "New York City, NY",
+   "dem_candidate": "Zohran Mamdani",
+   "archetype": "left_populist",
+   "ideology": "left",
+   "posture": "populist",
+   "style_confidence": "high",
+   "style_evidence": "Democratic socialist (DSA) and Working Families line; cost-of-living platform; insurgent who beat Cuomo in primary; won 78% of 18-29s; Jewish voters 63-33 Cuomo.",
+   "rep_candidate": "Curtis Sliwa (R); main rival Andrew Cuomo (independent)",
+   "rep_style": "traditional",
+   "rep_quality_flags": [],
+   "dem_pct": 50.78,
+   "rep_pct": 7.01,
+   "margin": 9.46,
+   "pres2024_margin": 38.09,
+   "overperformance_vs_pres2024": null,
+   "subgroup_shifts": [
+    {
+     "group": "Jackson Heights heavily South Asian Queens district: Mamdani vote share vs Harris share",
+     "shift_vs_2024_pres": 20,
+     "source": "https://www.motherjones.com/politics/2025/11/democrat-collapse-realignment-new-york-city-mayor-race-mamdani-trump-harris-2024-corona-queens-jackson-heights/"
+    },
+    {
+     "group": "South Asian Queens areas (Caley): Mamdani 61%, about equal to Harris share",
+     "shift_vs_2024_pres": 0,
+     "source": "https://www.expectinggoals.com/p/the-political-geography-of-new-york"
+    },
+    {
+     "group": "Majority-Hispanic precincts: Mamdani won by 20 vs Cuomo (no Harris baseline given)",
+     "shift_vs_2024_pres": null,
+     "source": "https://www.city-journal.org/article/zohran-mamdani-black-hispanic-voters"
+    },
+    {
+     "group": "Majority-Black precincts: Mamdani won by 26 vs Cuomo (no Harris baseline given)",
+     "shift_vs_2024_pres": null,
+     "source": "https://www.city-journal.org/article/zohran-mamdani-black-hispanic-voters"
+    },
+    {
+     "group": "Majority-Asian precincts: Mamdani won by 4; heavily Chinese/Korean Queens areas went to Cuomo",
+     "shift_vs_2024_pres": null,
+     "source": "https://www.city-journal.org/article/zohran-mamdani-black-hispanic-voters"
+    },
+    {
+     "group": "Mostly white precincts: Cuomo 52%",
+     "shift_vs_2024_pres": null,
+     "source": "https://en.wikipedia.org/wiki/2025_New_York_City_mayoral_election"
+    },
+    {
+     "group": "Orthodox Jewish: Borough Park Mamdani 6.6% vs Cuomo 88%; Satmar Williamsburg Mamdani ~25%",
+     "shift_vs_2024_pres": null,
+     "source": "https://forward.com/news/783379/jewish-vote-nyc-cuomo-mamdani/"
+    },
+    {
+     "group": "2024 Trump voters in Queens who voted: 15% flipped to Mamdani; ~5% of all Mamdani voters were Trump 2024 voters",
+     "shift_vs_2024_pres": null,
+     "source": "https://www.cbsnews.com/news/cbs-news-analysis-the-voters-mamdani-added-to-the-democratic-coalition-in-new-york/"
+    }
+   ],
+   "call_status": "Final (Wikipedia infobox)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_New_York_City_mayoral_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_New_York",
+    "https://www.city-journal.org/article/zohran-mamdani-black-hispanic-voters",
+    "https://www.motherjones.com/politics/2025/11/democrat-collapse-realignment-new-york-city-mayor-race-mamdani-trump-harris-2024-corona-queens-jackson-heights/",
+    "https://www.expectinggoals.com/p/the-political-geography-of-new-york",
+    "https://www.cbsnews.com/news/cbs-news-analysis-the-voters-mamdani-added-to-the-democratic-coalition-in-new-york/",
+    "https://forward.com/news/783379/jewish-vote-nyc-cuomo-mamdani/",
+    "https://time.com/7331271/zohran-mamdani-andrew-cuomo-mayor-election-results-nyc-neighborhoods-map/"
+   ],
+   "notes": "Three-way race: Mamdani 1,114,184 (50.78), Cuomo 906,614 (41.32, independent), Sliwa 153,749 (7.01, R). margin field = Mamdani minus Cuomo (runner-up), not minus Republican. pres2024_margin = Harris 68.10 vs Trump 30.01 in NYC; overperformance left null because a D-vs-ex-Dem-independent margin is not comparable to D-vs-R. Turnout 43.47%, highest since 1993. The two South Asian Queens figures (Mother Jones +20 vs Caley ~0) conflict and are share-not-margin comparisons. Little Bangladesh (Brooklyn) precinct: Mamdani raw votes 24% above Harris. NYT precinct comparisons vs Harris not fetchable. [Verification 2026-11-04] Mamdani/Cuomo/Sliwa shares re-confirmed; NYC 2024 baseline (68.10/30.01) not re-verified.",
+   "verified": true
+  },
+  {
+   "id": "pa_supreme_retention_2025",
+   "date": "2025-11-04",
+   "office": "State Supreme Court retention (Donohue, Dougherty, Wecht)",
+   "jurisdiction": "Pennsylvania",
+   "dem_candidate": "Christine Donohue (yes on retention; Dougherty 61.79, Wecht 61.46)",
+   "archetype": "not_applicable",
+   "ideology": "not_applicable",
+   "posture": "not_applicable",
+   "style_confidence": "high",
+   "style_evidence": "Nonpartisan retention vote framed by both parties as referendum on court's 5-2 Democratic majority.",
+   "rep_candidate": "No on retention (GOP-backed)",
+   "rep_style": "not_applicable",
+   "rep_quality_flags": [],
+   "dem_pct": 61.8,
+   "rep_pct": 38.2,
+   "margin": 23.6,
+   "pres2024_margin": -1.71,
+   "overperformance_vs_pres2024": 25.31,
+   "subgroup_shifts": [],
+   "call_status": "AP called all three before 10pm election night",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Pennsylvania_Supreme_Court_election",
+    "https://ballotpedia.org/Pennsylvania_Supreme_Court_elections,_2025",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Pennsylvania",
+    "https://www.spotlightpa.org/news/2025/11/pa-election-results-supreme-court-retention-donohue-dougherty-wecht/"
+   ],
+   "notes": "Yes% used as dem_pct. Ballotpedia reports higher yes shares (~64.3-64.8%), possibly from a different count snapshot; Wikipedia figures used. Trump won PA 50.37-48.66. [Verification 2026-11-04] Wikipedia results table (citing Commonwealth of PA Election Results): Donohue yes 2,231,527 (61.80) / no 1,379,599 (38.20). Conflicts with Spotlight PA's unofficial election-night 'around 27 points' margin and Ballotpedia's ~64% yes; not resolved.",
+   "verified": true
+  },
+  {
+   "id": "ca_prop50_2025",
+   "date": "2025-11-04",
+   "office": "Ballot measure (Prop 50, mid-decade congressional redistricting)",
+   "jurisdiction": "California",
+   "dem_candidate": "Yes on 50 (Newsom/Democratic-backed)",
+   "archetype": "not_applicable",
+   "ideology": "not_applicable",
+   "posture": "not_applicable",
+   "style_confidence": "high",
+   "style_evidence": "Ballot measure; partisan redistricting response to Texas.",
+   "rep_candidate": "No on 50",
+   "rep_style": "not_applicable",
+   "rep_quality_flags": [],
+   "dem_pct": 64.42,
+   "rep_pct": 35.58,
+   "margin": 28.84,
+   "pres2024_margin": 20.14,
+   "overperformance_vs_pres2024": 8.7,
+   "subgroup_shifts": [],
+   "call_status": "Final (Wikipedia; certified Dec 2025 per secondary source)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_California_Proposition_50",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_California"
+   ],
+   "notes": "7,453,339 yes vs 4,116,998 no; turnout 50.16% of registered. Harris won CA 58.47-38.33. [Verification 2026-11-04] Results re-confirmed against source.",
+   "verified": true
+  },
+  {
+   "id": "ga_psc_d2_2025",
+   "date": "2025-11-04",
+   "office": "Public Service Commission District 2 (statewide)",
+   "jurisdiction": "Georgia",
+   "dem_candidate": "Alicia Johnson",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "style_confidence": "low",
+   "style_evidence": "Utility-regulator race run on power bills/cost of living against GOP incumbents; no detailed style sourcing retrieved.",
+   "rep_candidate": "Tim Echols",
+   "rep_style": "traditional",
+   "rep_quality_flags": [
+    "incumbent"
+   ],
+   "dem_pct": 62.74,
+   "rep_pct": 37.26,
+   "margin": 25.48,
+   "pres2024_margin": -2.2,
+   "overperformance_vs_pres2024": 27.68,
+   "subgroup_shifts": [],
+   "call_status": "Complete but unofficial per GPB; called election night",
+   "sources": [
+    "https://www.multistate.us/elections/results/georgia-2025",
+    "https://www.gpb.org/news/2025/11/05/democrats-win-big-over-gop-in-2-georgia-utility-regulator-races-atlanta-mayor",
+    "https://en.wikipedia.org/wiki/2025_Georgia_Public_Service_Commission_special_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia"
+   ],
+   "notes": "Defeated GOP incumbent. Turnout about 30% of 2024 presidential turnout per GPB, so overperformance is inflated by differential turnout. [Verification 2026-11-04] Shares refined to MultiState two-decimal figures (62.74/37.26); margin 25.48; GA 2024 Trump 50.73 / Harris 48.53 (-2.2) re-confirmed.",
+   "verified": true
+  },
+  {
+   "id": "ga_psc_d3_2025",
+   "date": "2025-11-04",
+   "office": "Public Service Commission District 3 (statewide)",
+   "jurisdiction": "Georgia",
+   "dem_candidate": "Peter Hubbard",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "style_confidence": "low",
+   "style_evidence": "Utility-regulator race run on power bills/cost of living against GOP incumbents; no detailed style sourcing retrieved.",
+   "rep_candidate": "Fitz Johnson",
+   "rep_style": "traditional",
+   "rep_quality_flags": [
+    "incumbent"
+   ],
+   "dem_pct": 62.93,
+   "rep_pct": 37.07,
+   "margin": 25.86,
+   "pres2024_margin": -2.2,
+   "overperformance_vs_pres2024": 28.06,
+   "subgroup_shifts": [],
+   "call_status": "Complete but unofficial per GPB; called election night",
+   "sources": [
+    "https://www.multistate.us/elections/results/georgia-2025",
+    "https://www.gpb.org/news/2025/11/05/democrats-win-big-over-gop-in-2-georgia-utility-regulator-races-atlanta-mayor",
+    "https://en.wikipedia.org/wiki/2025_Georgia_Public_Service_Commission_special_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia"
+   ],
+   "notes": "Defeated GOP incumbent. Turnout about 30% of 2024 presidential turnout per GPB, so overperformance is inflated by differential turnout. [Verification 2026-11-04] Shares refined to MultiState two-decimal figures (62.93/37.07); margin 25.86; GA 2024 Trump 50.73 / Harris 48.53 (-2.2) re-confirmed.",
+   "verified": true
+  },
+  {
+   "id": "minneapolis_mayor_2025",
+   "date": "2025-11-04",
+   "office": "Mayor (RCV, nonpartisan DFL-vs-DFL)",
+   "jurisdiction": "Minneapolis, MN",
+   "dem_candidate": "Omar Fateh (lost) vs incumbent Jacob Frey (won)",
+   "archetype": "progressive",
+   "ideology": "left",
+   "posture": "mixed",
+   "style_confidence": "medium",
+   "style_evidence": "Fateh: DFL state senator described as democratic socialist, endorsed by Twin Cities DSA; won Minneapolis DFL endorsement later revoked by state party.",
+   "rep_candidate": "None (intra-Democratic contest)",
+   "rep_style": "not_applicable",
+   "rep_quality_flags": [],
+   "dem_pct": 47.0,
+   "rep_pct": null,
+   "margin": -6.0,
+   "pres2024_margin": null,
+   "overperformance_vs_pres2024": null,
+   "subgroup_shifts": [],
+   "call_status": "Final RCV tabulation",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Minneapolis_mayoral_election"
+   ],
+   "notes": "dem_pct = Fateh final-round share excluding exhausted ballots (Frey 53.0). Including exhausted: Frey 50.03, Fateh 44.37. Round 1: Frey 41.70, Fateh 31.63. margin = Fateh minus Frey. Not a D-vs-R race. [Verification 2026-11-04] Results re-confirmed against source.",
+   "verified": true
+  },
+  {
+   "id": "seattle_mayor_2025",
+   "date": "2025-11-04",
+   "office": "Mayor (nonpartisan)",
+   "jurisdiction": "Seattle, WA",
+   "dem_candidate": "Katie Wilson (beat incumbent Bruce Harrell)",
+   "archetype": "left_populist",
+   "ideology": "left",
+   "posture": "populist",
+   "style_confidence": "medium",
+   "style_evidence": "Community organizer, Transit Riders Union co-founder, outsider vs incumbent; endorsed by Working Families Party, Sunrise, UW YDSA; tenant/minimum-wage/transit agenda.",
+   "rep_candidate": "None (vs Democrat Bruce Harrell)",
+   "rep_style": "not_applicable",
+   "rep_quality_flags": [],
+   "dem_pct": 50.2,
+   "rep_pct": null,
+   "margin": 0.73,
+   "pres2024_margin": null,
+   "overperformance_vs_pres2024": null,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Seattle_mayoral_election"
+   ],
+   "notes": "138,931 vs 136,920. margin = Wilson minus Harrell. Intra-left/establishment contest. [Verification 2026-11-04] Results confirmed 50.20 / 49.47; Harrell conceded Nov 13. Wikipedia does not call Wilson a democratic socialist or DSA member; YDSA (UW chapter) endorsement only.",
+   "verified": true
+  },
+  {
+   "id": "jersey_city_mayor_2025",
+   "date": "2025-12-02",
+   "office": "Mayor (nonpartisan runoff)",
+   "jurisdiction": "Jersey City, NJ",
+   "dem_candidate": "James Solomon (beat Jim McGreevey)",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "style_confidence": "low",
+   "style_evidence": "Ward E councilman beat machine-aligned ex-governor McGreevey; fetched source gave no ideology label. Left-endorsed Mussab Ali (Omar, Tlaib, Khanna) finished 4th with 18.40%.",
+   "rep_candidate": "None (vs Democrat Jim McGreevey)",
+   "rep_style": "not_applicable",
+   "rep_quality_flags": [],
+   "dem_pct": 68.16,
+   "rep_pct": null,
+   "margin": 36.32,
+   "pres2024_margin": null,
+   "overperformance_vs_pres2024": null,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Jersey_City_mayoral_election"
+   ],
+   "notes": "Round 1 (Nov 4): Solomon 29.19, McGreevey 25.13, O'Dea 21.45, Ali 18.40. margin = Solomon minus McGreevey. [Verification 2026-11-04] Results re-confirmed against source.",
+   "verified": true
+  },
+  {
+   "id": "miami_mayor_2025",
+   "date": "2025-12-09",
+   "office": "Mayor (nonpartisan runoff)",
+   "jurisdiction": "Miami, FL",
+   "dem_candidate": "Eileen Higgins",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "style_confidence": "low",
+   "style_evidence": "Democratic county commissioner; source gives no ideology label. First Democrat elected Miami mayor since 1997.",
+   "rep_candidate": "Emilio Gonzalez",
+   "rep_style": "traditional",
+   "rep_quality_flags": [
+    "endorsed_by_DeSantis_Scott_Cruz"
+   ],
+   "dem_pct": 59.46,
+   "rep_pct": 40.54,
+   "margin": 18.92,
+   "pres2024_margin": null,
+   "overperformance_vs_pres2024": null,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Miami_mayoral_election"
+   ],
+   "notes": "Round 1: Higgins 35.95, Gonzalez 19.47, Ken Russell (D) 17.57. Trump endorsement of Gonzalez not found. City-level 2024 presidential margin not retrieved. [Verification 2026-11-04] Results re-confirmed against source. Gonzalez endorsed by Cruz, Rick Scott, DeSantis.",
+   "verified": true
+  },
+  {
+   "id": "fl1_special_2025",
+   "date": "2025-04-01",
+   "office": "US House special",
+   "jurisdiction": "FL-1",
+   "dem_candidate": "Gay Valimont",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "style_confidence": "low",
+   "style_evidence": "No detailed style sourcing retrieved; conventional Democratic nominee in deep-red seat.",
+   "rep_candidate": "Jimmy Patronis",
+   "rep_style": "traditional",
+   "rep_quality_flags": [
+    "trump_endorsed"
+   ],
+   "dem_pct": 42.26,
+   "rep_pct": 56.86,
+   "margin": -14.6,
+   "pres2024_margin": -37.2,
+   "overperformance_vs_pres2024": 22.6,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_United_States_House_of_Representatives_elections",
+    "https://www.newsweek.com/list-of-2025-elections-where-democrats-overperformed-trumps-margins-11150315",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Florida",
+    "https://en.wikipedia.org/wiki/2025_Florida%27s_1st_congressional_district_special_election"
+   ],
+   "notes": "pres2024_margin is 'about 38' per Newsweek (approximate). Patronis style: Trump-backed (not verified in fetched text; classification low confidence). [Verification 2026-11-04] District 2024 result Trump 68.09 / Harris 30.89 (Wikipedia FL 2024 by-CD table) -> -37.20 replaces Newsweek's approximate 38; overperformance 22.60. Patronis was Trump-endorsed (special-election page) but was the sitting state CFO, so reclassified traditional rather than insurgent maga. Wikipedia special page's 17.4 figure is vs the 2024 House result, not presidential.",
+   "verified": true
+  },
+  {
+   "id": "fl6_special_2025",
+   "date": "2025-04-01",
+   "office": "US House special",
+   "jurisdiction": "FL-6",
+   "dem_candidate": "Josh Weil",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "style_confidence": "low",
+   "style_evidence": "Schoolteacher; 2022 US Senate candidate; won primary ~61% over Ges Selmont. No ideology characterization found.",
+   "rep_candidate": "Randy Fine",
+   "rep_style": "maga",
+   "rep_quality_flags": [
+    "trump_endorsed"
+   ],
+   "dem_pct": 42.69,
+   "rep_pct": 56.68,
+   "margin": -13.99,
+   "pres2024_margin": -30.09,
+   "overperformance_vs_pres2024": 16.1,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_United_States_House_of_Representatives_elections",
+    "https://www.newsweek.com/list-of-2025-elections-where-democrats-overperformed-trumps-margins-11150315",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Florida",
+    "https://en.wikipedia.org/wiki/2025_Florida%27s_6th_congressional_district_special_election"
+   ],
+   "notes": "pres2024_margin is 'about 30' per Newsweek (approximate). Rep style unverified. [Verification 2026-11-04] District 2024 result Trump 64.68 / Harris 34.59 -> -30.09 (Wikipedia FL 2024 by-CD table); overperformance 16.10. Fine Trump-endorsed per special-election page.",
+   "verified": true
+  },
+  {
+   "id": "va11_special_2025",
+   "date": "2025-09-09",
+   "office": "US House special",
+   "jurisdiction": "VA-11",
+   "dem_candidate": "James Walkinshaw",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "style_confidence": "high",
+   "style_evidence": "Former chief of staff to Rep. Connolly and Fairfax County supervisor 2019-25; endorsed by Connolly, Beyer, Vindman, Wexton, McAuliffe, later Warner and Spanberger.",
+   "rep_candidate": "Stewart Whitson",
+   "rep_style": "traditional",
+   "rep_quality_flags": [
+    "endorsed_by_youngkin"
+   ],
+   "dem_pct": 75.14,
+   "rep_pct": 24.67,
+   "margin": 50.47,
+   "pres2024_margin": 34,
+   "overperformance_vs_pres2024": 16.47,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Virginia%27s_11th_congressional_district_special_election",
+    "https://en.wikipedia.org/wiki/2025_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/Virginia%27s_11th_congressional_district"
+   ],
+   "notes": "113,596 vs 37,297. District 2024 presidential margin not retrieved; overperformance null. [Verification 2026-11-04] District 2024 president Harris 65 / Trump 31 (rounded, Wikipedia VA-11 district page) -> ~34; overperformance ~16.47 is approximate because the baseline is rounded; exact by-CD figure not retrievable (VA 2024 page truncated). Whitson endorsed by Youngkin; no Trump endorsement found.",
+   "verified": true
+  },
+  {
+   "id": "az7_special_2025",
+   "date": "2025-09-23",
+   "office": "US House special",
+   "jurisdiction": "AZ-7",
+   "dem_candidate": "Adelita Grijalva",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "style_confidence": "medium",
+   "style_evidence": "Former Pima County supervisor, daughter of late Rep. Raul Grijalva; endorsed by Sanders plus Gallego, Kelly, EMILY's List, unions; beat insurgent influencer Deja Foxx 61.48-22.38 in primary.",
+   "rep_candidate": "Daniel Butierez",
+   "rep_style": "traditional",
+   "rep_quality_flags": [],
+   "dem_pct": 68.92,
+   "rep_pct": 29.42,
+   "margin": 39.5,
+   "pres2024_margin": 22.13,
+   "overperformance_vs_pres2024": 17.37,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Arizona%27s_7th_congressional_district_special_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona"
+   ],
+   "notes": "Harris 2024 margin of 22 per Wikipedia (rounded). [Verification 2026-11-04] District 2024 result Harris 60.48 / Trump 38.35 -> 22.13 (Wikipedia AZ 2024 by-CD table); overperformance 17.37.",
+   "verified": true
+  },
+  {
+   "id": "tx18_special_2025_2026",
+   "date": "2026-01-31",
+   "office": "US House special (runoff; first round 2025-11-04)",
+   "jurisdiction": "TX-18",
+   "dem_candidate": "Christian Menefee (beat Amanda Edwards, D)",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "style_confidence": "low",
+   "style_evidence": "Young Harris County attorney vs former Houston councilmember; D-vs-D runoff; no detailed style sourcing retrieved.",
+   "rep_candidate": "None in runoff (Carmen Maria Montiel R got 6.7% in round 1)",
+   "rep_style": "not_applicable",
+   "rep_quality_flags": [],
+   "dem_pct": 68.86,
+   "rep_pct": null,
+   "margin": null,
+   "pres2024_margin": null,
+   "overperformance_vs_pres2024": null,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-special-elections/texas-house-results"
+   ],
+   "notes": "Runoff 18,646 vs 8,434. Round 1: Menefee 28.9, Edwards 25.6, Jolanda Jones 19.1. Intra-party; no partisan margin. [Verification 2026-11-04] Runoff 68.86/31.14 and round-1 shares re-confirmed on 2025 House elections page.",
+   "verified": true
+  },
+  {
+   "id": "tn7_special_2025",
+   "date": "2025-12-02",
+   "office": "US House special",
+   "jurisdiction": "TN-7",
+   "dem_candidate": "Aftyn Behn",
+   "archetype": "progressive",
+   "ideology": "left",
+   "posture": "mixed",
+   "style_confidence": "medium",
+   "style_evidence": "Progressive Nashville state representative; GOP branded her 'AOC of Tennessee' and attacked past remarks about Nashville; national Dem/Indivisible support.",
+   "rep_candidate": "Matt Van Epps",
+   "rep_style": "maga",
+   "rep_quality_flags": [],
+   "dem_pct": 45.06,
+   "rep_pct": 53.9,
+   "margin": -8.84,
+   "pres2024_margin": -22.14,
+   "overperformance_vs_pres2024": 13.3,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2025_Tennessee%27s_7th_congressional_district_special_election",
+    "https://www.newsweek.com/list-of-2025-elections-where-democrats-overperformed-trumps-margins-11150315",
+    "https://www.axios.com/local/nashville/2025/12/04/political-fallout-nashville-district-7-election",
+    "https://ground.news/article/van-epps-comes-out-swinging-against-aoc-of-tennessee-challenger-ahead-of-special-election",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Tennessee"
+   ],
+   "notes": "Trump won district by 'more than 22'; Wikipedia states overperformance of 12.6 (computed here 13.16 using 22). Behn won early vote by 3 but lost Election Day 60-39 (Axios). Van Epps Trump endorsement not verified in fetched text. [Verification 2026-11-04] District 2024 result Trump 60.34 / Harris 38.20 -> -22.14 (Wikipedia TN 2024 by-CD table); overperformance 13.30.",
+   "verified": true
+  },
+  {
+   "id": "nj11_special_2026",
+   "date": "2026-04-16",
+   "office": "US House special",
+   "jurisdiction": "NJ-11",
+   "dem_candidate": "Analilia Mejia",
+   "archetype": "progressive",
+   "ideology": "left",
+   "posture": "mixed",
+   "style_confidence": "high",
+   "style_evidence": "Center for Popular Democracy co-director; AP 'progressive ally of Bernie Sanders'; endorsed by Sanders, AOC, WFP, Our Revolution, CPC PAC; backed abolishing ICE; beat Malinowski 29.33-27.57 in primary.",
+   "rep_candidate": "Joe Hathaway",
+   "rep_style": "traditional",
+   "rep_quality_flags": [],
+   "dem_pct": 60.18,
+   "rep_pct": 39.36,
+   "margin": 20.82,
+   "pres2024_margin": 8.72,
+   "overperformance_vs_pres2024": 12.1,
+   "subgroup_shifts": [
+    {
+     "group": "Dover (municipality): Mejia won by 45, ~31 pts better than Harris margin",
+     "shift_vs_2024_pres": 31,
+     "source": "https://newjerseyglobe.com/congress/here-are-the-final-results-in-the-nj-11-special-election/"
+    },
+    {
+     "group": "Bloomfield, Belleville, Woodland Park, Victory Gardens: at least 25 pts ahead of Harris margin",
+     "shift_vs_2024_pres": 25,
+     "source": "https://newjerseyglobe.com/congress/here-are-the-final-results-in-the-nj-11-special-election/"
+    }
+   ],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election",
+    "https://newjerseyglobe.com/congress/here-are-the-final-results-in-the-nj-11-special-election/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_New_Jersey"
+   ],
+   "notes": "Harris won district 'by just under nine points' (NJ Globe); overperformance 'roughly 12' as reported, approximate. Turnout ~136,000, about one-third of 2024. Hathaway: Randolph councilman, unopposed in GOP primary; Trump endorsement not verified. [Verification 2026-11-04] District 2024 result Harris 53.34 / Trump 44.62 -> 8.72 (Wikipedia NJ 2024 by-CD table); overperformance 20.82-8.72=12.10. Previously pres2024_margin was null while overperformance was filled.",
+   "verified": true
+  },
+  {
+   "id": "ga14_special_2026",
+   "date": "2026-04-07",
+   "office": "US House special (runoff; first round 2026-03-10)",
+   "jurisdiction": "GA-14",
+   "dem_candidate": "Shawn Harris",
+   "archetype": "moderate",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "style_confidence": "low",
+   "style_evidence": "Cattleman and retired Army brigadier general (biography-centered pitch); endorsed by Buttigieg and Warnock; ideology not characterized in fetched sources.",
+   "rep_candidate": "Clay Fuller",
+   "rep_style": "traditional",
+   "rep_quality_flags": [
+    "trump_endorsed",
+    "club_for_growth"
+   ],
+   "dem_pct": 44.11,
+   "rep_pct": 55.89,
+   "margin": -11.78,
+   "pres2024_margin": -37,
+   "overperformance_vs_pres2024": 25.22,
+   "subgroup_shifts": [],
+   "call_status": "Final",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Georgia%27s_14th_congressional_district_special_election",
+    "https://www.newsweek.com/democrats-biggest-overperformances-this-year-11804046",
+    "https://www.brookings.edu/articles/what-do-special-elections-mean-for-the-midterm-elections/",
+    "https://en.wikipedia.org/wiki/Georgia%27s_14th_congressional_district"
+   ],
+   "notes": "Trump margin 'about 37' per Newsweek (approximate); Newsweek cites ~25 overperformance. Round 1: Harris 37.34, Fuller 34.87, Colton Moore 11.63. Brookings: Fuller ran 8 behind MTG's 2024 showing. Harris outraised Fuller ~$4.30M to ~$0.79M. [Verification 2026-11-04] Baseline -37 remains approximate: Wikipedia GA-14 district page gives Trump 68 / 31 (rounded); Newsweek 'about 37'. Exact by-CD figure not retrievable. Fuller Trump- and Club for Growth-endorsed confirmed; Harris endorsed by Buttigieg, Warnock. Harris's 'moderate' ideology not confirmed by any fetched source.",
+   "verified": true
+  },
+  {
+   "id": "ca1_special_2026",
+   "date": "2026-06-02",
+   "office": "US House special (all-party; won outright)",
+   "jurisdiction": "CA-1 (old lines)",
+   "dem_candidate": "Audrey Denney and Mike McGuire (combined)",
+   "archetype": "mainstream_liberal",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "style_confidence": "low",
+   "style_evidence": "McGuire is a Democratic state senator (establishment); Denney a past nominee; no style sourcing retrieved.",
+   "rep_candidate": "James Gallagher",
+   "rep_style": "traditional",
+   "rep_quality_flags": [],
+   "dem_pct": 35.77,
+   "rep_pct": 63.3,
+   "margin": -27.53,
+   "pres2024_margin": -25.0,
+   "overperformance_vs_pres2024": -2.53,
+   "subgroup_shifts": [],
+   "call_status": "Certified June 11, 2026 (CA SoS)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_California%27s_1st_congressional_district_special_election",
+    "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/california-secretary-state-shirley-n-weber-phd-announces-certification-congressional-district-1-special-primary-election-results",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_California",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Vacancy from Rep. Doug LaMalfa's death. dem_pct = Denney 18.52 + McGuire 17.25. ~2% to other candidates. Old-district 2024 margin not retrieved. Separate Nov 2026 rematch on new Prop 50 lines (CBS projected McGuire) is outside this file. [Verification 2026-11-04] rep_pct now combined Republicans (Gallagher 62.1 + Thiara 1.2) to match the combined-Democrat dem_pct; margin -27.53. Old-lines 2024 result Trump 61.1 / Harris 36.1 -> -25.0 (Wikipedia CA 2024 by-CD table); overperformance -2.53 (an underperformance), all-party primary format, so not strictly comparable.",
+   "verified": true
+  },
+  {
+   "id": "ca14_special_2026",
+   "date": "2026-08-18",
+   "office": "US House special (runoff; first round 2026-06-16)",
+   "jurisdiction": "CA-14",
+   "dem_candidate": "Aisha Wahab (beat Melissa Hernandez, D)",
+   "archetype": "progressive",
+   "ideology": "left",
+   "posture": "mixed",
+   "style_confidence": "low",
+   "style_evidence": "State senator; ideology not characterized in fetched source; progressive label from reputation only (unverified).",
+   "rep_candidate": "None in runoff (Republicans Huang 9.2, Maldonado 9.0 in round 1)",
+   "rep_style": "not_applicable",
+   "rep_quality_flags": [],
+   "dem_pct": 53.1,
+   "rep_pct": null,
+   "margin": null,
+   "pres2024_margin": null,
+   "overperformance_vs_pres2024": null,
+   "subgroup_shifts": [],
+   "call_status": "Called Aug 20, 2026",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_California%27s_14th_congressional_district_special_election"
+   ],
+   "notes": "Swalwell seat. Runoff 51,734 vs 45,700. D-vs-D; margin vs Hernandez 6.2. Round 1: Wahab 42.8, Hernandez 16.8, Singh 12.9. [Verification 2026-11-04] Results re-confirmed (Wahab 51,734 / Hernandez 45,700). No source characterizing Wahab's ideology or endorsements retrieved; 'progressive' classification remains unverified.",
+   "verified": true
+  },
+  {
+   "id": "ga13_special_2026",
+   "date": "2026-08-25",
+   "office": "US House special (runoff; first round 2026-07-28)",
+   "jurisdiction": "GA-13",
+   "dem_candidate": "Everton Blair (beat Marcye Scott, D)",
+   "archetype": null,
+   "ideology": null,
+   "posture": null,
+   "style_confidence": "low",
+   "style_evidence": "Former Gwinnett County school board member, educator (Harvard/Stanford, Teach for America); no ideology or endorsement sourcing retrieved. Lost the regular Democratic primary to Jasmine Clark (56.1) with 11.6.",
+   "rep_candidate": "None in runoff (Republicans Caesar Gonzales 8.7, Fayth Park 4.7 in round 1)",
+   "rep_style": "not_applicable",
+   "rep_quality_flags": [],
+   "dem_pct": 53.9,
+   "rep_pct": null,
+   "margin": null,
+   "pres2024_margin": 43,
+   "overperformance_vs_pres2024": null,
+   "subgroup_shifts": [],
+   "call_status": "Final (Blair seated September 1, 2026)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Georgia%27s_13th_congressional_district_special_election",
+    "https://en.wikipedia.org/wiki/Georgia%27s_13th_congressional_district",
+    "https://en.wikipedia.org/wiki/Everton_Blair",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Vacancy from death of Rep. David Scott (D) on April 22, 2026. Runoff Blair 53.9 / Marcye Scott (David Scott's daughter) 46.1; vote counts differ slightly by page (9,895-8,447 vs 9,891-8,443). Round 1 (total 20,510): M. Scott 46.0, Blair 37.4, Gonzales (R) 8.7, Park (R) 4.7, Carlos Moore (D) 3.1. D-vs-D runoff, so margin and overperformance null. pres2024_margin is Harris 71 / Trump 28 rounded from the district page (approximate). Archetype not classified for lack of style sourcing. Added during verification.",
+   "verified": true
+  }
+ ],
+ "special_election_average_overperformance": {
+  "2025": 13.3,
+  "2026": 11,
+  "source": "https://www.the-downballot.com/p/100-specials-since-trumps-return",
+  "notes": "Downballot Big Board figures via secondary citations; calendar-year splits not published in fetched Downballot text. 2025 value: 13.3 avg overperformance vs Harris margin for the '2025-26 cycle' through Jan 7, 2026 (Daily Kos citing Downballot: https://www.dailykos.com/stories/2026/1/7/2361833/-Democrats-romp-to-victory-in-Virginia-special-elections), essentially all 2025 races; mid-2025 Downballot figure was 16.4 over 29 races; NPR (Nov 2025) ~14. 2026 value: ~11 avg for 2026 specials through early April 2026 (NPR citing Downballot: https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-keep-doing-better-in-elections-since-trump-returned-to-office; Newsweek: https://www.newsweek.com/democrats-biggest-overperformances-this-year-11804046). Full-period: Downballot Aug 19, 2026: 12.5 vs Harris and 8.4 vs Biden across 110 specials since Jan 2025. MultiState (Oct 14, 2026): 2026 median 10.4 over 37 contested Jan-Apr specials, 10 over May-Oct (https://www.multistate.us/insider/2026/10/14/democrats-special-election-edge-still-points-to-a-big-year-democratic-wave). Brookings/DLCC (Apr 2026): 4.5 avg; 30 GOP-to-Dem legislative flips, none reverse. Includes all special types, not only state legislative. [Verification 2026-11-04] Confirmed: Downballot 12.5 vs Harris / 8.4 vs Biden over 110 specials (Aug 19, 2026); Daily Kos 13.3 for '2025-26 cycle' (no race count given, so labeling it 2025 is approximate); Newsweek 11 for 2026 specials ('nearly 13' including late-2025 races); MultiState medians 10.4 (37 races Jan-Apr) and 10 (six contested May-Oct). The NPR April 2026 article timed out on re-fetch.",
+  "computed_us_house_specials_from_this_file": {
+   "2025_mean": 17.17,
+   "2025_races": [
+    "fl1_special_2025",
+    "fl6_special_2025",
+    "va11_special_2025",
+    "az7_special_2025",
+    "tn7_special_2025"
+   ],
+   "2026_mean": 11.6,
+   "2026_races": [
+    "ga14_special_2026",
+    "nj11_special_2026",
+    "ca1_special_2026"
+   ],
+   "notes": "Simple mean of overperformance_vs_pres2024 for D-vs-R US House specials in this file (computed during verification, not reported by any outlet). Excludes D-vs-D runoffs (TX-18, CA-14, GA-13). VA-11 and GA-14 baselines are rounded; CA-1 was an all-party contest."
+  }
+ },
+ "verification": {
+  "as_of": "2026-11-04T12:00:00-05:00",
+  "checked_items": 23,
+  "corrections": [
+   "nj_gov_2025: pres2024_margin 5.9->5.91, overperformance 8.46->8.45",
+   "ga_psc_d2_2025: shares to 62.74/37.26, margin 25.48, overperformance 27.68 (was rounded)",
+   "ga_psc_d3_2025: shares to 62.93/37.07, margin 25.86, overperformance 28.06 (was rounded)",
+   "fl1_special_2025: pres2024 -38 -> -37.2 (exact by-CD); overperformance 23.4 -> 22.6; Patronis rep_style maga -> traditional + trump_endorsed",
+   "fl6_special_2025: pres2024 -30 -> -30.09; overperformance 16.01 -> 16.10; added trump_endorsed",
+   "va11_special_2025: filled pres2024_margin ~34 (rounded) and overperformance ~16.47 (were null); style evidence verified",
+   "az7_special_2025: pres2024 22 -> 22.13; overperformance 17.5 -> 17.37",
+   "tn7_special_2025: pres2024 -22 -> -22.14; overperformance 13.16 -> 13.30",
+   "nj11_special_2026: filled pres2024_margin 8.72 (was null); overperformance 12 -> 12.10",
+   "ca1_special_2026: rep_pct 62.1 -> 63.3 (all R, consistent with combined D); margin -26.33 -> -27.53; filled pres2024 -25.0 and overperformance -2.53",
+   "Added missing GA-13 special (Aug 25, 2026 runoff, Everton Blair D)"
+  ],
+  "unresolved": [
+   "pa_supreme_retention_2025: Wikipedia/PA DOS 61.8% yes conflicts with Spotlight PA ~27-pt and Ballotpedia ~64% yes",
+   "va11 and ga14 and ga13 pres2024 baselines are rounded (district pages); exact by-CD figures not retrieved",
+   "Archetypes for Shawn Harris (moderate), Aisha Wahab (progressive), GA PSC, Jersey City, Miami, TX-18 rest on low-confidence evidence; GA-13 Blair left unclassified",
+   "NYC 2024 baseline 68.10/30.01 not re-verified; VA governor shares checked only against Wikipedia (bluevirginia 403)",
+   "Calendar-year special-election averages (13.3 for 2025, 11 for 2026) are secondary citations; Downballot does not publish year splits",
+   "Web search budget exhausted mid-check; no other missed US House specials found (Wikipedia lists 6 in 2025 and 6 in 2026, FL-20 and TX-23 left vacant)"
+  ]
+ }
+}

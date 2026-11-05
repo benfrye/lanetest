@@ -1,0 +1,161 @@
+{
+ "batch": 4,
+ "labels": {
+  "TX-27": {
+   "name": "Tanya Lloyd",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Rural teacher running on 'American Rural Revival'; backs moving toward Medicare for All/public option, 'rigged game' tax rhetoric, but also all-of-the-above energy and 'secure and humane' border. No left-org endorsements found.",
+   "source_url": "https://www.lonestarleft.com/p/meet-the-candidates-tanya-lloyd-for",
+   "source_date": "2026-05-04",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "MO-5": {
+   "name": "Emanuel Cleaver",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Long-time incumbent (since 2005), former KC mayor and CBC chair; conventional party-line Democrat, civility-caucus chair. Fetched page is current Wikipedia (undated).",
+   "source_url": "https://en.wikipedia.org/wiki/Emanuel_Cleaver",
+   "source_date": null,
+   "pre_election_verified": false,
+   "verified_fetch": true
+  },
+  "SEN-KY": {
+   "name": "Charles Booker",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "confidence": "medium",
+   "evidence": "2026 launch platform: Medicare, housing, wages, universal childcare, government that 'shows up for us'; previously the Sanders/AOC-backed Medicare-for-All insurgent; frames race as anger at McConnell/Barr establishment. No confirmed 2026 Sanders/OR endorsement (Warren endorsed).",
+   "source_url": "https://linknky.com/elections/2025/12/04/charles-booker-launches-2026-kentucky-senate-campaign/",
+   "source_date": "2025-12-04",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "TN-3": {
+   "name": "Anna Golladay",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Described as a 'progressive faith leader' (ex-UMC pastor); universal coverage, 'care over cruelty', attacks incumbent serving 'donors and party bosses' and 'corporate greed'. No left-org endorsements found.",
+   "source_url": "https://www.local3news.com/local-news/democrat-anna-golladay-challenging-rep-chuck-fleischmann-for-congress/article_4b4c90a3-ed6e-4be9-94b6-a5fd6a53863b.html",
+   "source_date": "2026-02-07",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "TX-6": {
+   "name": "Danny Minton",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "confidence": "medium",
+   "evidence": "Ex-Republican self-described 'working-class candidate'; tax billionaires/corporations, small business vs monopolies, Green New Deal, shrink/abolish ICE, Democrats shouldn't take orders from consultants or big-money donors. No left-org endorsements found.",
+   "source_url": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton",
+   "source_date": "2026-03-23",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "NJ-5": {
+   "name": "Josh Gottheimer",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "confidence": "high",
+   "evidence": "Problem Solvers Caucus and Blue Dog member; self-described 'passionately centrist', critic of democratic socialism; incumbent seeking re-election after 2025 governor primary loss. Fetched page is current Wikipedia (undated).",
+   "source_url": "https://en.wikipedia.org/wiki/Josh_Gottheimer",
+   "source_date": null,
+   "pre_election_verified": false,
+   "verified_fetch": true
+  },
+  "IL-5": {
+   "name": "Mike Quigley",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Incumbent since 2009, New Democrat Coalition member in a safe Chicago seat; party-line record; running for Chicago mayor 2027. Fetched page is current Wikipedia (undated).",
+   "source_url": "https://en.wikipedia.org/wiki/Mike_Quigley",
+   "source_date": null,
+   "pre_election_verified": false,
+   "verified_fetch": true
+  },
+  "NY-12": {
+   "name": "Micah Lasher",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Assemblymember and former Nadler/Hochul aide; endorsed by Nadler as successor (and per search results Hochul, Bloomberg, Levine, Hoylman-Sigal). Conventional institutional profile.",
+   "source_url": "https://www.westsiderag.com/2026/02/09/jerry-nadler-officially-endorses-uws-assemblymember-micah-lasher-as-his-successor",
+   "source_date": "2026-02-09",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "AR-1": {
+   "name": "Terri Yarbrough Green",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "low",
+   "evidence": "Retired pathologist, long-time party activist; affordability, democracy 'under severe threat', Congress as check on executive, government for working families 'not just wealthy insiders', civility. No ideological markers or endorsements.",
+   "source_url": "https://talkbusiness.net/2026/05/green-seeking-congressional-seat-to-fight-for-a-healthy-democracy/",
+   "source_date": "2026-05-04",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "TX-9": {
+   "name": "Leticia Gutierrez",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Environmental-justice advocate (Air Alliance Houston), daughter of farm laborers, single mother courting working-class families; universal health care; 'open for business'; endorsed by SEIU Texas and Gulf Coast labor federation (Houston Progressives per voter guide).",
+   "source_url": "https://insideclimatenews.org/?p=115492",
+   "source_date": "2026-10-29",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "TX-14": {
+   "name": "Thurman Bartie",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "low",
+   "evidence": "Retired former Port Arthur mayor, educator/pastor; Lone Star Left called both runoff candidates 'very nice liberal grandpas', contrasting them with a young progressive. No positions/endorsements found.",
+   "source_url": "https://www.lonestarleft.com/p/the-texas-democratic-primary-runoffs",
+   "source_date": "2026-03-07",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "IL-2": {
+   "name": "Donna Miller",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Cook County Commissioner; family-focused message; backed by Tribune/Sun-Times, SEIU, AFL-CIO, EMILY's List, DMFI, Lightfoot plus heavy outside super PAC spending (endorsement list from search results, not fetched). Fetched article gives no ideology.",
+   "source_url": "https://abc7chicago.com/post/illinois-primary-election-2026-2nd-congressional-district-race-fill-us-house-representative-robin-kellys-seat/18726755/",
+   "source_date": "2026-03-18",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "NC-13": {
+   "name": "Paul Barringer",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "confidence": "medium",
+   "evidence": "Farm-family healthcare consultant/lawyer running on 'common sense and North Carolina values', fiscal responsibility, local control, 'bringing people together, not dividing them' in a swing seat national Dems targeted.",
+   "source_url": "https://jocoreport.com/barringer-to-run-for-us-congressional-seat",
+   "source_date": "2025-05-22",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  }
+ }
+}

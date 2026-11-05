@@ -1,0 +1,516 @@
+{
+ "cycle": 2024,
+ "election_day": "2024-11-05",
+ "races": [
+  {
+   "id": "NC-7",
+   "dem_name": "Marlando Pridgen",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Rouzer",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -13.131,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-8",
+   "dem_name": "Justin Dues",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mark Harris",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -19.192,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-9",
+   "dem_name": "Nigel Bristow",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Richard Hudson",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -15.152,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-10",
+   "dem_name": "Ralph Scott Jr.",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Pat Harrigan",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -17.172,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-11",
+   "dem_name": "Caleb Rudow",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Chuck Edwards",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -9.091,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-13",
+   "dem_name": "Frank Pierce",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Brad Knott",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -17.172,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-14",
+   "dem_name": "Pam Genant",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Tim Moore",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -15.152,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "ND-AL",
+   "dem_name": "Trygve Hammer",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Julie Fedorchak",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -37.374,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NE-1",
+   "dem_name": "Carol Blood",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Flood",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -13.131,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NH-2",
+   "dem_name": "Maggie Goodlander",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Lily Tang Williams",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 3.03,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NJ-2",
+   "dem_name": "Joe Salerno",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jeff Van Drew",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -13.131,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NJ-3",
+   "dem_name": "Herb Conaway",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Rajesh Mohan",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 8.163,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NJ-7",
+   "dem_name": "Sue Altman",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Tom Kean Jr.",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -2.041,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NJ-9",
+   "dem_name": "Nellie Pou",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Billy Prempeh",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -1.031,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-1",
+   "dem_name": "John Avlon",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Nick LaLota",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -10.204,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-2",
+   "dem_name": "Rob Lubin",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Andrew Garbarino",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -13.131,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-3",
+   "dem_name": "Tom Suozzi",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Michael LiPetri",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -4.082,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-16",
+   "dem_name": "George Latimer",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Miriam Levitt Flisser",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 33.333,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-17",
+   "dem_name": "Mondaire Jones",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Lawler",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": 1.01,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-22",
+   "dem_name": "John Mannion",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Brandon Williams",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": 8.0,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-26",
+   "dem_name": "Tim Kennedy",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Anthony Marecki",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 19.192,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-2",
+   "dem_name": "Samantha Meadows",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "David Taylor",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -47.475,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-10",
+   "dem_name": "Amy Cox",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Turner",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -5.051,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-14",
+   "dem_name": "Brian Kenderes",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Joyce",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -18.0,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-15",
+   "dem_name": "Adam Miller",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Carey",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -9.091,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OK-5",
+   "dem_name": "Madison Horn",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Stephanie Bice",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -18.367,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OR-3",
+   "dem_name": "Maxine Dexter",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Joanna Harbour",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 47.917,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OR-5",
+   "dem_name": "Janelle Bynum",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Lori Chavez-DeRemer",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": 9.278,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "PA-10",
+   "dem_name": "Janelle Stelson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Scott Perry",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -5.051,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "SC-1",
+   "dem_name": "Michael Moore",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Nancy Mace",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -13.131,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "SC-2",
+   "dem_name": "David Robinson II",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Joe Wilson",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -14.286,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "SC-3",
+   "dem_name": "Bryon Best",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Sheri Biggs",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -43.434,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TN-5",
+   "dem_name": "Maryam Abolfazli",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Andy Ogles",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -18.367,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-18",
+   "dem_name": "Sylvester Turner",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Lana Centonze",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 40.816,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-23",
+   "dem_name": "Santos Limon",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Tony Gonzales",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -15.152,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-24",
+   "dem_name": "Sam Eppler",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Beth Van Duyne",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -16.327,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-26",
+   "dem_name": "Ernest Lineberger III",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Brandon Gill",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -23.232,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-32",
+   "dem_name": "Julie Johnson",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Darrell Day",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 24.49,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "UT-3",
+   "dem_name": "Glenn Wright",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mike Kennedy",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -19.588,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "VA-1",
+   "dem_name": "Leslie Mehta",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Rob Wittman",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -5.051,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "VA-2",
+   "dem_name": "Missy Cotter Smasal",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jen Kiggans",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -0.202,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "VA-5",
+   "dem_name": "Gloria Witt",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "John McGuire",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -13.131,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "VA-7",
+   "dem_name": "Eugene Vindman",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Derrick Anderson",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 3.03,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "VA-10",
+   "dem_name": "Suhas Subramanyam",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mike Clancy",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 8.163,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WA-5",
+   "dem_name": "Carmela Conroy",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Michael Baumgartner",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -11.34,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WA-6",
+   "dem_name": "Emily Randall",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Drew MacEwen",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 19.588,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WI-1",
+   "dem_name": "Peter Barca",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Bryan Steil",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -5.051,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WI-3",
+   "dem_name": "Rebecca Cooke",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Derrick Van Orden",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -7.071,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WI-6",
+   "dem_name": "John Zarbano",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Glenn Grothman",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -17.172,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WI-8",
+   "dem_name": "Kristin Lyerly",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Tony Wied",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -16.327,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WV-2",
+   "dem_name": "Steven Wendelin",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Riley Moore",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -40.816,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_"
+  }
+ ]
+}

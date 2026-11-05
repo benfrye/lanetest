@@ -1,0 +1,1680 @@
+{
+ "cycle": 2022,
+ "election_day": "2022-11-08",
+ "races": [
+  {
+   "id": "MN-8",
+   "dem_name": "Jennifer Schultz",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Pete Stauber",
+   "rep_incumbent": true,
+   "pres_margin_2p": -11.519,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "* Jennifer Schultz, state representative (7A)",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Emily Larson, Mayor of Duluth",
+    "Rick Nolan, former U.S. Representative (MN-8)",
+    "Minnesota Democratic–Farmer–Labor Party",
+    "Moms Demand Action For Gun Sense in America",
+    "Stonewall Democrats",
+    "TakeAction Minnesota",
+    "United Food and Commercial Workers Local 1189"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Minnesota&oldid=1120579074",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MO-1",
+   "dem_name": "Cori Bush",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Andrew Jones",
+   "rep_incumbent": false,
+   "pres_margin_2p": 59.35,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MO-2",
+   "dem_name": "Trish Gunby",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ann Wagner",
+   "rep_incumbent": true,
+   "pres_margin_2p": -7.833,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MO-4",
+   "dem_name": "Jack Truman",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mark Alford",
+   "rep_incumbent": false,
+   "pres_margin_2p": -40.204,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MO-7",
+   "dem_name": "Kristen Radaker-Sheafer",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Eric Burlison",
+   "rep_incumbent": false,
+   "pres_margin_2p": -42.159,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MS-4",
+   "dem_name": "Johnny DuPree",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mike Ezell",
+   "rep_incumbent": false,
+   "pres_margin_2p": -38.477,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Johnny DuPree, former Mayor of Hattiesburg; nominee for Governor of Mississippi in 2011 and Secretary of State of Mississippi in 2019",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Mississippi&oldid=1116716260",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MT-1",
+   "dem_name": "Monica Tranel",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Ryan Zinke",
+   "rep_incumbent": false,
+   "pres_margin_2p": -7.077,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-1",
+   "dem_name": "Don Davis",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Sandy Smith",
+   "rep_incumbent": false,
+   "pres_margin_2p": 7.366,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/"
+    },
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Don Davis, state senator from the 5th district",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "G. K. Butterfield, U.S. Representative for (2004–present)",
+    "Jim Clyburn, U.S. Representative for (1993–present) and House Majority Whip (2007–2011, 2019–present)",
+    "American Israel Public Affairs Committee",
+    "Congressional Black Caucus PAC",
+    "New Politics",
+    "North Carolina AFL–CIO",
+    "Sierra Club (post primary)",
+    "Vote Vets"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=1120555977",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-4",
+   "dem_name": "Valerie Foushee",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Courtney Geels",
+   "rep_incumbent": false,
+   "pres_margin_2p": 35.425,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    }
+   ],
+   "wiki_primary_desc": "*Valerie Foushee, state senator (since 2013)",
+   "wiki_endorsement_markers": [
+    "EMILY's List",
+    "AIPAC/UDP"
+   ],
+   "wiki_endorsers_sample": [
+    "G.K. Butterfield, U.S. representative from North Carolina's 1st congressional district (2004–present)",
+    "Josh Stein, North Carolina Attorney General (2017–present)",
+    "AIPAC",
+    "Congressional Black Caucus PAC",
+    "EMILY's List",
+    "Equality North Carolina",
+    "Giffords (post primary)",
+    "League of Conservation Voters Action Fund",
+    "Sierra Club",
+    "North Carolina AFL–CIO"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=1120555977",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-6",
+   "dem_name": "Kathy Manning",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Christian Castelli",
+   "rep_incumbent": false,
+   "pres_margin_2p": 12.551,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": "*Kathy Manning, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "American Israel Public Affairs Committee",
+    "End Citizens United",
+    "Feminist Majority PAC",
+    "League of Conservation Voters Action Fund",
+    "NARAL Pro-Choice America",
+    "Pro-Israel America",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=1120555977",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-7",
+   "dem_name": "Charles Graham",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Rouzer",
+   "rep_incumbent": true,
+   "pres_margin_2p": -12.841,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Charles Graham, state representative (since 2011)",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "North Carolina AFL–CIO",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=1120555977",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-9",
+   "dem_name": "Ben Clark",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Richard Hudson",
+   "rep_incumbent": true,
+   "pres_margin_2p": -8.114,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Ben Clark, state senator (since 2013)",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=1120555977",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-11",
+   "dem_name": "Jasmine Beach-Ferrara",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Chuck Edwards",
+   "rep_incumbent": false,
+   "pres_margin_2p": -10.233,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Jasmine Beach-Ferrara, Buncombe County commissioner",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "John Ager, member of the North Carolina House of Representatives from the 115th district (2015–present)",
+    "Susan Fisher, former member of the North Carolina House of Representatives from the 114th district (2004–2022)",
+    "Patsy Keever, former member of the North Carolina House of Representatives from the 115th district (2010–2012)",
+    "Julie Mayfield, member of the North Carolina Senate from the 49th district (2021–present)",
+    "Brian Turner, member of the North Carolina House of Representatives from the 116th district (2015–present)",
+    "Terry Van Duyn, former member of the North Carolina Senate from the 49th district (2014–2021)",
+    "Esther Manheimer, Mayor of Asheville (2013–present)",
+    "Equality North Carolina",
+    "Equality PAC (post primary)",
+    "LGBTQ Victory Fund",
+    "LPAC",
+    "North Carolina AFL–CIO",
+    "Sierra Club",
+    "North Carolina Sheet Metal, Air, Rail & Transportation Union"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=1120555977",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-13",
+   "dem_name": "Wiley Nickel",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Bo Hines",
+   "rep_incumbent": false,
+   "pres_margin_2p": 1.726,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/"
+    },
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Wiley Nickel, state senator (since 2019) (previously filed to run in North Carolina's 4th congressional district)",
+   "wiki_endorsement_markers": [
+    "DCCC"
+   ],
+   "wiki_endorsers_sample": [
+    "Dennis Cardoza, former U.S. Representative from California's 18th congressional district (2003–2012), former member of t",
+    "Tony Coelho, former House Majority Whip (1987–1989), former Chair of the DCCC (1981–1987), former U.S. Representative fr",
+    "Jim Costa, U.S. Representative from California's 16th congressional district (2013–present), former U.S. Representative ",
+    "Heath Shuler, former U.S. Representative from North Carolina's 11th congressional district (2007–2013)",
+    "Rufus L. Edmisten, former North Carolina Secretary of State (1989–1996), former North Carolina Attorney General (1974–19",
+    "Terry Van Duyn, former member of the North Carolina Senate from the 49th district (2014–2021)",
+    "Allen Wellons, former member of the North Carolina Senate from the 11th district (1997–2003)",
+    "Jonathan Melton, member of the Raleigh City Council from the at-large district (2019–present)",
+    "The News & Observer",
+    "Alliance for Retired Americans",
+    "Equality North Carolina",
+    "Human Rights Campaign PAC",
+    "League of Conservation Voters Action Fund",
+    "Sierra Club",
+    "#VOTEPROCHOICE",
+    "AFSCME",
+    "Communications Workers of America",
+    "Ironworkers Local 848",
+    "North Carolina State AFL–CIO"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=1120555977",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-14",
+   "dem_name": "Jeff Jackson",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Pat Harrigan",
+   "rep_incumbent": false,
+   "pres_margin_2p": 16.633,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Jeff Jackson, Member of the North Carolina Senate from the 37th district (2014–present), candidate for U.S. Senate in 2022",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=1120555977",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NE-1",
+   "dem_name": "Patty Pansing Brooks",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Flood",
+   "rep_incumbent": true,
+   "pres_margin_2p": -11.27,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NE-2",
+   "dem_name": "Tony Vargas",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Don Bacon",
+   "rep_incumbent": true,
+   "pres_margin_2p": 6.531,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NH-1",
+   "dem_name": "Chris Pappas",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Karoline Leavitt",
+   "rep_incumbent": false,
+   "pres_margin_2p": 6.098,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NH-2",
+   "dem_name": "Annie Kuster",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Robert Burns",
+   "rep_incumbent": false,
+   "pres_margin_2p": 9.054,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NJ-2",
+   "dem_name": "Tim Alexander",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jeff Van Drew",
+   "rep_incumbent": true,
+   "pres_margin_2p": -4.965,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Tim Alexander, former County Detective and civil rights attorney",
+   "wiki_endorsement_markers": [
+    "Collective PAC"
+   ],
+   "wiki_endorsers_sample": [
+    "Eric Swalwell, U.S. Representative from CA-15 (2013–present)",
+    "Vince Mazzeo, former New Jersey General Assemblymember from the 2nd district (2014-2022), former Chair of the New Jersey",
+    "Shavonda Sumter, New Jersey General Assemblymember from the 35th district (2012-present)",
+    "William Cunningham, chief investigator on the House Oversight Committee and candidate for New Jersey's 2nd congressional",
+    "Amy Kennedy, mental health advocate, wife of former U.S. Representative Patrick J. Kennedy, and nominee for this seat in",
+    "Hector Tavarez, retired Egg Harbor Township police captain, school board member, and former candidate for New Jersey's 2",
+    "The Collective PAC",
+    "Garden State Equality",
+    "Atlantic County"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NJ-3",
+   "dem_name": "Andy Kim",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Bob Healey Jr.",
+   "rep_incumbent": false,
+   "pres_margin_2p": 14.199,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Andy Kim, incumbent U.S. Representative.",
+   "wiki_endorsement_markers": [
+    "Democracy for America"
+   ],
+   "wiki_endorsers_sample": [
+    "Communications Workers of America",
+    "New Jersey Education Association",
+    "Council for a Livable World",
+    "Democracy for America",
+    "End Citizens United",
+    "Garden State Equality",
+    "Giffords",
+    "League of Conservation Voters",
+    "Natural Resources Defense Council",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NJ-5",
+   "dem_name": "Josh Gottheimer",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Frank Pallotta",
+   "rep_incumbent": false,
+   "pres_margin_2p": 12.551,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "*Josh Gottheimer, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "United States Chamber of Commerce"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NJ-6",
+   "dem_name": "Frank Pallone",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Sue Kiley",
+   "rep_incumbent": false,
+   "pres_margin_2p": 19.554,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Frank Pallone, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Communications Workers of America",
+    "New Jersey Education Association",
+    "Garden State Equality",
+    "League of Conservation Voters",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NJ-7",
+   "dem_name": "Tom Malinowski",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Thomas Kean Jr.",
+   "rep_incumbent": false,
+   "pres_margin_2p": 3.862,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Tom Malinowski, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Communications Workers of America",
+    "New Jersey Education Association",
+    "American Israel Public Affairs Committee",
+    "Council for a Livable World",
+    "End Citizens United",
+    "Feminist Majority PAC",
+    "Garden State Equality",
+    "Giffords",
+    "Humane Society of the United States Legislative Fund",
+    "League of Conservation Voters",
+    "NARAL Pro-Choice America",
+    "National Iranian American Council",
+    "National Organization for Women",
+    "Natural Resources Defense Council",
+    "Planned Parenthood Action Fund",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NJ-8",
+   "dem_name": "Rob Menendez",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Marcos Arroyo",
+   "rep_incumbent": false,
+   "pres_margin_2p": 45.804,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Rob Menendez, Commissioner of the Port Authority of New York and New Jersey and son of U.S. Senator Bob Menendez",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Cory Booker U.S. Senator from New Jersey (2013–)",
+    "Albio Sires, incumbent U.S. Representative",
+    "Phil Murphy, Governor of New Jersey (2018–present)",
+    "Annette Chaparro, New Jersey State Assemblymember from the 33rd district (2016–present)",
+    "Nicholas Chiaravalloti, Majority Whip of the New Jersey General Assembly (2020–present), New Jersey State Assemblymember",
+    "Joseph Cryan, New Jersey State Senator from the 20th district (2018–present), former New Jersey State Assemblymember fro",
+    "Angelica M. Jimenez, New Jersey State Assemblymember from the 32nd district (2012–present)",
+    "Angela V. McKnight, New Jersey State Assemblymember from the 31st district (2016–present)",
+    "Pedro Mejia, New Jersey State Assemblymember from the 32nd district (2018–present)",
+    "Raj Mukherji, Majority Whip of the New Jersey General Assembly (2018–2019), New Jersey State Assemblymember from the 33r",
+    "Nicholas Sacco, New Jersey State Senator from the 32nd district (1994-present), Mayor of North Bergen (1991–present)",
+    "William Sampson, New Jersey State Assemblymember from the 31st district (2022–present)",
+    "Nicholas Scutari, President-designate of the New Jersey Senate, New Jersey State Senator from the 22nd district (2004–pr",
+    "Brian P. Stack, New Jersey State Senator from the 33rd district (2008–present), former New Jersey State Assemblymember f",
+    "Communications Workers of America",
+    "Congressional Hispanic Caucus BOLD PAC",
+    "Garden State Equality",
+    "Laborers' International Union of North America",
+    "Latino Victory Fund",
+    "Pro-Israel America",
+    "Transport Workers Union of America (post primary)",
+    "Ravinder Bhalla, Mayor of Hoboken (2018–present), former member of the Hoboken City Council At-Large (2009–2017)",
+    "Christian Bollwage, Mayor of Elizabeth (1993-present)",
+    "Steven Fulop, Mayor of Jersey City (2013–present), former member of the Jersey City council from Ward E (2005–2013)"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NJ-9",
+   "dem_name": "Bill Pascrell",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Billy Prempeh",
+   "rep_incumbent": false,
+   "pres_margin_2p": 19.11,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Bill Pascrell, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Communications Workers of America",
+    "New Jersey Education Association",
+    "Garden State Equality",
+    "League of Conservation Voters",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NJ-11",
+   "dem_name": "Mikie Sherrill",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Paul DeGroot",
+   "rep_incumbent": false,
+   "pres_margin_2p": 17.123,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "*Mikie Sherrill, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Communications Workers of America",
+    "New Jersey Education Association",
+    "Feminist Majority PAC",
+    "Garden State Equality",
+    "Giffords",
+    "League of Conservation Voters",
+    "NARAL Pro-Choice America",
+    "Natural Resources Defense Council",
+    "New Politics",
+    "Sierra Club",
+    "The Star-Ledger (post primary)"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NM-1",
+   "dem_name": "Melanie Stansbury",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Michelle Garcia Holmes",
+   "rep_incumbent": false,
+   "pres_margin_2p": 14.784,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "* Melanie Stansbury, incumbent U.S. Representative (2021–present)",
+   "wiki_endorsement_markers": [
+    "Elizabeth Warren"
+   ],
+   "wiki_endorsers_sample": [
+    "Elizabeth Warren, U.S. Senator from Massachusetts (2013–present)",
+    "NARAL Pro-Choice America",
+    "Natural Resources Defense Council",
+    "Planned Parenthood Action Fund",
+    "Sierra Club",
+    "American Federation of Teachers New Mexico",
+    "National Education Association",
+    "Albuquerque Journal (post primary)"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Mexico&oldid=1120246764",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NM-2",
+   "dem_name": "Gabe Vasquez",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Yvette Herrell",
+   "rep_incumbent": true,
+   "pres_margin_2p": 5.918,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    },
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Gabe Vasquez, Las Cruces city councilor (2017–2021) and former aide to U.S. Senator Martin Heinrich",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Mexico&oldid=1120246764",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NM-3",
+   "dem_name": "Teresa Leger Fernandez",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Alexis Martinez Johnson",
+   "rep_incumbent": false,
+   "pres_margin_2p": 11.02,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    }
+   ],
+   "wiki_primary_desc": "* Teresa Leger Fernandez, incumbent U.S. Representative (2021–present)",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Mexico&oldid=1120246764",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NV-1",
+   "dem_name": "Dina Titus",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Mark Robertson",
+   "rep_incumbent": false,
+   "pres_margin_2p": 8.682,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NV-2",
+   "dem_name": "Elizabeth Krause",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mark Amodei",
+   "rep_incumbent": true,
+   "pres_margin_2p": -11.317,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NV-3",
+   "dem_name": "Susie Lee",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "April Becker",
+   "rep_incumbent": false,
+   "pres_margin_2p": 6.83,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NV-4",
+   "dem_name": "Steven Horsford",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Sam Peters",
+   "rep_incumbent": false,
+   "pres_margin_2p": 8.384,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-1",
+   "dem_name": "Bridget Fleming",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Nick LaLota",
+   "rep_incumbent": false,
+   "pres_margin_2p": 0.202,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    },
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Bridget Fleming, member of the Suffolk County Legislature for the 2nd district and candidate for this district in 2020",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Fred Thiele Jr., member of the New York State Assembly for the 1st district",
+    "Robert Calarco, former member of the Suffolk County Legislature for the 7th district (2012–2021)",
+    "Tom Donnelly, member of the Suffolk County Legislature for the 17th district",
+    "Samuel Gonzales, member of the Suffolk County Legislature for the 9th district",
+    "Kara Hahn, Deputy Presiding Officer of and member of the Suffolk County Legislature for the 5th district",
+    "Al Krupski, member of the Suffolk County Legislator for the 1st district",
+    "League of Conservation Voters",
+    "Sierra Club",
+    "Transport Workers Union of America"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-2",
+   "dem_name": "Jackie Gordon",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Andrew Garbarino",
+   "rep_incumbent": true,
+   "pres_margin_2p": -1.517,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    },
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Jackie Gordon, Babylon town councilwoman, U.S. Army veteran, and Democratic nominee for the 2nd district in 2020 (previously filed to run in the 1st district)",
+   "wiki_endorsement_markers": [
+    "New Democrat",
+    "EMILY's List",
+    "VoteVets"
+   ],
+   "wiki_endorsers_sample": [
+    "EMILY's List",
+    "Human Rights Campaign PAC",
+    "League of Conservation Voters",
+    "NARAL Pro-Choice America",
+    "New Democrat Coalition",
+    "New Politics",
+    "Sierra Club",
+    "VoteVets.org",
+    "New York State United Teachers"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-3",
+   "dem_name": "Robert P. Zimmerman",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "George Santos",
+   "rep_incumbent": false,
+   "pres_margin_2p": 8.283,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    },
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Robert Zimmerman, Democratic National Committee member and communications professional",
+   "wiki_endorsement_markers": [
+    "DCCC"
+   ],
+   "wiki_endorsers_sample": [
+    "Hillary Clinton, United States Secretary of State (2009-2013), U.S. Senator from New York (2001-2009), First Lady of the",
+    "Gary Ackerman, former U.S. Representative from New York's 7th congressional district (1993-2013), former U.S. Representa",
+    "Steve Israel, Chair of the Democratic Congressional Campaign Committee (2011–2015), former U.S. Representative from New ",
+    "Carolyn Maloney, Chair of the House Oversight Committee (2019-present), former Vice Chair of the Joint Economic Committe",
+    "Gregory Meeks, Chair of the House Foreign Affairs Committee (2021–present), Chair of the Queens Democratic Party (2019–p",
+    "Grace Meng, U.S. Representative from New York's 6th congressional district (2013-present), former Vice Chair of the Demo",
+    "Ritchie Torres, U.S. Representative from New York's 15th congressional district (2020-present), former New York City Cou",
+    "Thomas DiNapoli, New York State Comptroller (2007-present), former New York State Assemblymember from the 16th district ",
+    "Charles Lavine, New York State Assemblymember from the 13th district (2005-present)",
+    "Ruben Diaz Jr., former Bronx Borough President (2009-2021), former New York State Assemblymember from the 85th district ",
+    "Corey Johnson, former Speaker of the New York City Council (2018–2021), former New York City Councilmember from the 3rd ",
+    "Christine Quinn, former Speaker of the New York City Council (2006–2013), former New York City Councilmember from the 3r",
+    "Hazel Nell Dukes, former President of the NAACP",
+    "League of Conservation Voters",
+    "LGBTQ Victory Fund",
+    "Sierra Club",
+    "Stonewall Democratic Club of New York City",
+    "New York State United Teachers"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-4",
+   "dem_name": "Laura Gillen",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Anthony D'Esposito",
+   "rep_incumbent": false,
+   "pres_margin_2p": 14.747,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    }
+   ],
+   "wiki_primary_desc": "* Laura Gillen, former town supervisor of Hempstead (2018–2019)",
+   "wiki_endorsement_markers": [
+    "DCCC"
+   ],
+   "wiki_endorsers_sample": [
+    "Steve Israel, former Chair of the Democratic Congressional Campaign Committee (2011–2015), former U.S. Representative fr",
+    "League of Conservation Voters",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-7",
+   "dem_name": "Nydia Velázquez",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Juan Pagan",
+   "rep_incumbent": false,
+   "pres_margin_2p": 63.232,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Nydia Velázquez, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "Working Families"
+   ],
+   "wiki_endorsers_sample": [
+    "Feminist Majority PAC",
+    "Sierra Club",
+    "Stonewall Democratic Club of New York City",
+    "Working Families Party",
+    "District Council 37"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-10",
+   "dem_name": "Dan Goldman",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Benine Hamdan",
+   "rep_incumbent": false,
+   "pres_margin_2p": 71.919,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Dan Goldman, former assistant U.S. Attorney for the Southern District of New York (2007–2017), former general counsel for the U.S. House Intelligence Committee (2019–2020), candidate for Attorney General of New York in 2022",
+   "wiki_endorsement_markers": [
+    "DCCC"
+   ],
+   "wiki_endorsers_sample": [
+    "Donald Trump, former President of the United States (2017-2021)",
+    "Alexander Vindman, former Director for European Affairs for the United States National Security Council (2018-2020)",
+    "Steve Israel, former Chair of the House Democratic Policy and Communications Committee (2015–2017), former U.S. Represen",
+    "Ed Towns, former Chair of the House Oversight Committee (2009-2011), former U.S. Representative from New York's 10th con",
+    "Kathryn Freed, former Justice of the New York Supreme Court (2012-2021), former Judge of the New York City Civil Court (",
+    "Richard Ravitch, former Lieutenant Governor of New York (2009–2010), former Chairman of the Metropolitan Transportation ",
+    "James Brennan, former New York State Assemblymember from the 44th district (1985-2016)",
+    "Robert Carroll, New York State Assemblymember from the 44th district (2017–present)",
+    "Brian Cunningham, New York State Assemblymember from the 43rd district (2022–present) (previously endorsed Niou)",
+    "Simcha Eichenstein, New York State Assemblymember from the 48th district (2019–present)",
+    "Brad Hoylman, New York State Senator from the 27th district (2013–present) and candidate for Manhattan Borough President",
+    "Eddie Gibbs, New York State Assemblymember from the 68th district (2021–present)",
+    "Marty Markowitz, former Brooklyn Borough President (2002–2014), former New York State Senator from the 20th district (19",
+    "Alan Gerson, former New York City Councilmember from the 1st district (2002–2009)",
+    "Grace Lee, Democratic nominee for New York's 65th Assembly district in 2022",
+    "Belz Community Leaders",
+    "Bobov Community Leaders",
+    "Bobov-45 Community Leaders",
+    "Ger Community Leaders",
+    "Klausenburg Community Leaders",
+    "League of Conservation Voters (post primary)",
+    "New York League of Conservation Voters (post primary)",
+    "Satmar Community Leaders",
+    "Teamsters Local 202",
+    "The New York Times"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-11",
+   "dem_name": "Max Rose",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Nicole Malliotakis",
+   "rep_incumbent": true,
+   "pres_margin_2p": -7.77,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Max Rose, former U.S. Representative for this district (2019–2021)",
+   "wiki_endorsement_markers": [
+    "CPC PAC",
+    "New Democrat",
+    "VoteVets",
+    "DMFI"
+   ],
+   "wiki_endorsers_sample": [
+    "Jim Clyburn, House Majority Whip (2007–2011, 2019–present), U.S. Representative from South Carolina's 6th congressional ",
+    "Jason Crow, U.S. Representative from Colorado's 6th congressional district (2019–present)",
+    "Pramila Jayapal, Chair of the Congressional Progressive Caucus (2021–present), U.S. Representative from Washington's 7th",
+    "Katie Porter, U.S. Representative from California's 45th congressional district (2019–present)",
+    "Elissa Slotkin, U.S. Representative from Michigan's 8th congressional district (2019–present), former Acting Assistant S",
+    "Abigail Spanberger, U.S. Representative from Virginia's 7th congressional district (2019–present)",
+    "Ritchie Torres, U.S. Representative from New York's 15th congressional district (2021–present)",
+    "Charles Fall, New York State Assemblymember from the 61st district (2019–present) (rescinded endorsement)",
+    "Diane Savino, New York State Senator from the 23rd district (2005–present)",
+    "Jo Anne Simon, member of the New York State Assembly from the 52nd district (2015–present), former candidate for Brookly",
+    "Justin Brannan, New York City Councilmember from the 43rd district (2018–present)",
+    "Debi Rose, former New York City Councilmember from the 49th district (2010–2021)",
+    "Mike DeCillis, retired police officer, former candidate for New York's 11th congressional district in 2022, former candi",
+    "Democratic Majority for Israel",
+    "End Citizens United",
+    "New Democrat Coalition",
+    "New Politics",
+    "New York State Court Officers Association",
+    "Planned Parenthood Action Fund",
+    "Stonewall Democratic Club of New York City",
+    "VoteVets.org",
+    "District Council 37",
+    "New York State United Teachers",
+    "Retail, Wholesale and Department Store Union",
+    "NYC District Council of Carpenters"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-14",
+   "dem_name": "Alexandria Ocasio-Cortez",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Tina Forte",
+   "rep_incumbent": false,
+   "pres_margin_2p": 57.056,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+    },
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Alexandria Ocasio-Cortez, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "Justice Democrats",
+    "Working Families",
+    "Sunrise",
+    "Bernie Sanders",
+    "PDA",
+    "Brand New Congress",
+    "Democracy for America",
+    "Squad member"
+   ],
+   "wiki_endorsers_sample": [
+    "Bernie Sanders, U.S. Senator from Vermont",
+    "Brand New Congress",
+    "Democracy for America",
+    "Feminist Majority PAC",
+    "Jewish Voice for Peace Action Fund",
+    "Justice Democrats",
+    "League of Conservation Voters",
+    "New York League of Conservation Voters",
+    "Progressive Democrats of America",
+    "Sierra Club",
+    "Sunrise Movement",
+    "Working Families Party",
+    "District Council 37"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-16",
+   "dem_name": "Jamaal Bowman",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Miriam Flisser",
+   "rep_incumbent": false,
+   "pres_margin_2p": 44.097,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+    },
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Jamaal Bowman, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "Justice Democrats",
+    "Working Families",
+    "Sunrise",
+    "Bernie Sanders",
+    "Elizabeth Warren",
+    "PDA",
+    "Brand New Congress",
+    "Democracy for America",
+    "Squad member"
+   ],
+   "wiki_endorsers_sample": [
+    "Kirsten Gillibrand, U.S. Senator from New York",
+    "Chuck Schumer, U.S. Senator from New York and Senate Majority Leader",
+    "Bernie Sanders, U.S. Senator from Vermont",
+    "Elizabeth Warren, U.S. Senator from Massachusetts",
+    "Ayanna Pressley, U.S. Representative from Massachusetts's 7th congressional district",
+    "Democracy for America",
+    "Brand New Congress",
+    "Justice Democrats",
+    "NARAL Pro-Choice America",
+    "Progressive Democrats of America",
+    "Sierra Club",
+    "Sunrise Movement",
+    "Working Families Party",
+    "District Council 37",
+    "New York State United Teachers"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-17",
+   "dem_name": "Sean Patrick Maloney",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Mike Lawler",
+   "rep_incumbent": false,
+   "pres_margin_2p": 10.212,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": "*Sean Patrick Maloney, incumbent U.S. Representative from the 18th district",
+   "wiki_endorsement_markers": [
+    "Working Families",
+    "DMFI"
+   ],
+   "wiki_endorsers_sample": [
+    "Bill Clinton, 42nd President of the United States (1993–2001)",
+    "Alan Solomont, former United States Ambassador to Spain and United States Ambassador to Andorra (2010–2013)",
+    "Nita Lowey, former U.S. Representative from New York (1989–2021)",
+    "Carl Heastie, Speaker of the New York State Assembly (2015-present) and New York State Assemblymember from the 83rd dist",
+    "American Israel Public Affairs Committee",
+    "Democratic Majority for Israel",
+    "End Citizens United",
+    "Giffords",
+    "Jewish Democratic Council of America",
+    "League of Conservation Voters",
+    "Sierra Club",
+    "Working Families Party (switched endorsement to Biaggi)",
+    "The New York Times"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-18",
+   "dem_name": "Pat Ryan",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Colin Schmitt",
+   "rep_incumbent": false,
+   "pres_margin_2p": 8.537,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Pat Ryan, incumbent U.S. Representative from the 19th district",
+   "wiki_endorsement_markers": [
+    "Working Families",
+    "VoteVets"
+   ],
+   "wiki_endorsers_sample": [
+    "League of Conservation Voters",
+    "New Politics",
+    "New York League of Conservation Voters",
+    "Sierra Club",
+    "VoteVets.org",
+    "Working Families Party"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-19",
+   "dem_name": "Josh Riley",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Marc Molinaro",
+   "rep_incumbent": false,
+   "pres_margin_2p": 4.694,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Josh Riley, lawyer, aid to former U.S. Representative Maurice Hinchey, and general counsel to U.S. Senator Al Franken on the U.S. Senate Judiciary Committee (previously filed to run in the 22nd district)",
+   "wiki_endorsement_markers": [
+    "Democracy for America"
+   ],
+   "wiki_endorsers_sample": [
+    "Anna Kelles, state assemblywoman from the 125th district",
+    "Jason Garnar, Broome County executive",
+    "Tracy Mitrano, nominee for the 23rd district in 2020 and 2018",
+    "Democracy for America",
+    "League of Conservation Voters",
+    "Sierra Club",
+    "Communication Workers of America District 1"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-20",
+   "dem_name": "Paul Tonko",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Elizabeth Joy",
+   "rep_incumbent": false,
+   "pres_margin_2p": 19.592,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Paul Tonko, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "New York League of Conservation Voters",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-21",
+   "dem_name": "Matt Castelli",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Elise Stefanik",
+   "rep_incumbent": true,
+   "pres_margin_2p": -12.653,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Matt Castelli, former CIA officer",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Bill Owens, former U.S. Representative from (2009–2015)"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-22",
+   "dem_name": "Francis Conole",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Brandon Williams",
+   "rep_incumbent": false,
+   "pres_margin_2p": 7.566,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Francis Conole, commander in U.S. Navy Reserves and candidate for NY-24 in 2020",
+   "wiki_endorsement_markers": [
+    "VoteVets"
+   ],
+   "wiki_endorsers_sample": [
+    "Kathy Hochul, 57th Governor of New York",
+    "Al Stirpe, state assemblyman",
+    "Latoya Allen, member of the Syracuse common council",
+    "Khalid Bay, member of the Syracuse common council",
+    "Rasheada Caldwell, member-elect of the Syracuse common council",
+    "Peggy Chase, Onondaga County legislator",
+    "Terry Cuddy, Auburn city councilor",
+    "Joe Driscoll, member of the Syracuse common council",
+    "Linda Ervin, Onondaga County legislator",
+    "Dan Farfaglia, Fulton common councilor-elect",
+    "Charles Garland, Onondaga County legislator-elect",
+    "Amir Gethers, member-elect of the Syracuse common council",
+    "Patrick \"Pat\" Hogan, member of the Syracuse common council",
+    "Mary Khun, Onondaga County legislator",
+    "Bill Kinne, Onondaga County legislator",
+    "Chris Legg, Skaneateles town councilor",
+    "Marty Masterpole, Onondaga County Comptroler",
+    "Deb McCormick, Auburn city councilor",
+    "Heidi Nightingale, Cayuga County legislator",
+    "Rita Paniagua, member of the Syracuse common council",
+    "Michael Quill, mayor of Auburn",
+    "Chris Ryan, Onondaga County legislator minority leader",
+    "Jennifer Schultz, member-elect of the Syracuse common council",
+    "Mary Sennett, mayor of Skaneateles",
+    "Ben Walsh, mayor of Syracuse (Independent)"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-23",
+   "dem_name": "Max Della Pia",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Nick Langworthy",
+   "rep_incumbent": false,
+   "pres_margin_2p": -17.551,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Max Della Pia, U.S. Air Force veteran, candidate in 2018, and nominee for this seat in the special election",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NY-24",
+   "dem_name": "Steven Holden",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Claudia Tenney",
+   "rep_incumbent": true,
+   "pres_margin_2p": -17.587,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Steven Holden, veteran and businessman",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "wiki_district_article": null
+  },
+  {
+   "id": "OH-1",
+   "dem_name": "Greg Landsman",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Steve Chabot",
+   "rep_incumbent": true,
+   "pres_margin_2p": 8.629,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Greg Landsman, Cincinnati city councilor",
+   "wiki_endorsement_markers": [
+    "New Democrat"
+   ],
+   "wiki_endorsers_sample": [
+    "End Citizens United",
+    "Human Rights Campaign PAC",
+    "League of Conservation Voters Action Fund",
+    "Let America Vote",
+    "NARAL Pro-Choice America",
+    "New Democrat Coalition Action Fund",
+    "Planned Parenthood Action Fund",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Ohio&oldid=1120580141",
+   "wiki_district_article": null
+  },
+  {
+   "id": "OH-7",
+   "dem_name": "Matthew Diemer",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Max Miller",
+   "rep_incumbent": false,
+   "pres_margin_2p": -9.312,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Matthew Diemer, podcast producer",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Forward"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Ohio&oldid=1120580141",
+   "wiki_district_article": null
+  },
+  {
+   "id": "OH-9",
+   "dem_name": "Marcy Kaptur",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "J. R. Majewski",
+   "rep_incumbent": false,
+   "pres_margin_2p": -2.95,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Marcy Kaptur, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Feminist Majority PAC",
+    "Natural Resources Defense Council"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Ohio&oldid=1120580141",
+   "wiki_district_article": null
+  },
+  {
+   "id": "OH-10",
+   "dem_name": "David Esrati",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Turner",
+   "rep_incumbent": true,
+   "pres_margin_2p": -3.561,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*David Esrati, Veteran",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Ohio&oldid=1120580141",
+   "wiki_district_article": null
+  },
+  {
+   "id": "OH-13",
+   "dem_name": "Emilia Sykes",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Madison Gesiotto Gilbert",
+   "rep_incumbent": false,
+   "pres_margin_2p": 2.84,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Emilia Sykes, state representative from 34th district and former House Minority Leader",
+   "wiki_endorsement_markers": [
+    "Democracy for America",
+    "New Democrat"
+   ],
+   "wiki_endorsers_sample": [
+    "Democracy for America",
+    "Human Rights Campaign PAC",
+    "League of Conservation Voters",
+    "NARAL Pro-Choice America",
+    "New Democrat Coalition Action Fund",
+    "Planned Parenthood Action Fund",
+    "Sierra Club",
+    "Communications Workers of America"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Ohio&oldid=1120580141",
+   "wiki_district_article": null
+  }
+ ]
+}

@@ -1,0 +1,526 @@
+{
+ "cycle": 2020,
+ "coder": "batch_2020_2",
+ "labels": {
+  "NC-2": {
+   "name": "Deborah Ross",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former state rep / 2016 Senate nominee; endorsed by EMILY's List, NC AFL-CIO, SEIU, LCV, Planned Parenthood; conventional party-backed campaign, no left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_North_Carolina#District_2",
+   "verified_fetch": true
+  },
+  "NC-7": {
+   "name": "Christopher M. Ward",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Pharmaceutical sales executive; no endorsements or ideological markers listed; default conventional Democrat",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_North_Carolina#District_7",
+   "verified_fetch": false
+  },
+  "NC-8": {
+   "name": "Patricia Timmons-Goodson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former NC Supreme Court justice and US Civil Rights Commission vice chair; endorsed by Obama, Biden, EMILY's List, End Citizens United, AFL-CIO, LCV; conventional recruit",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_North_Carolina#District_8",
+   "verified_fetch": true
+  },
+  "NC-9": {
+   "name": "Cynthia Wallace",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "9th-district chair of the NC Democratic Party; endorsed by EMILY's List and AFL-CIO; party-insider profile",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_North_Carolina#District_9",
+   "verified_fetch": true
+  },
+  "NC-11": {
+   "name": "Moe Davis",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Retired USAF colonel / Guantanamo chief prosecutor; early backing from progressive Democrats, VoteVets, Sierra Club, AFL-CIO; anti-Trump campaign without left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/Moe_Davis",
+   "verified_fetch": true
+  },
+  "NE-1": {
+   "name": "Kate Bolz",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator; endorsed by AFL-CIO, LCV, Sierra Club, public-employee and firefighter unions, Lincoln Journal Star; conventional campaign",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Nebraska#District_1",
+   "verified_fetch": true
+  },
+  "NJ-2": {
+   "name": "Amy Kennedy",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Mental-health advocate backed by Gov. Murphy, Hoyer, Biden/Obama, AFL-CIO, NJEA, End Citizens United, NJ Working Families Alliance; county-party-backed primary winner, no centrist branding",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_New_Jersey#District_2",
+   "verified_fetch": true
+  },
+  "NJ-4": {
+   "name": "Stephanie Schmid",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Human rights activist; endorsed by Booker, Pallone, Malinowski, Moulton's Serve America PAC and Monmouth County party officials; conventional campaign",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_New_Jersey#District_4",
+   "verified_fetch": true
+  },
+  "NM-3": {
+   "name": "Teresa Leger Fernandez",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Endorsed by AOC, Courage to Change, Working Families Party, Haaland; campaigned on Medicare for All and a New Mexico Green New Deal",
+   "label_source_url": "https://en.wikipedia.org/wiki/Teresa_Leger_Fern%C3%A1ndez",
+   "verified_fetch": true
+  },
+  "NV-2": {
+   "name": "Patricia Ackerman",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Actress/activist, 2018 Assembly candidate; endorsed only by NOW and Sierra Club; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Nevada#District_2",
+   "verified_fetch": true
+  },
+  "NY-1": {
+   "name": "Nancy Goroff",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Stony Brook chemistry chair; DCCC Red to Blue, EMILY's List, 314 Action, Schumer/Gillibrand, NYT endorsement; conventional recruit",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_New_York#District_1",
+   "verified_fetch": true
+  },
+  "NY-2": {
+   "name": "Jackie Gordon",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Army veteran / Babylon councilwoman; endorsed by Biden, Schumer, EMILY's List, VoteVets, End Citizens United, DMFI, AFL-CIO; party-backed recruit",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_New_York#District_2",
+   "verified_fetch": true
+  },
+  "NY-15": {
+   "name": "Ritchie Torres",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "NYC councilman from public housing; endorsed by NYT, Cicilline, CHC, LCV, End Citizens United; left lane in primary was Samelys Lopez (DSA/Sanders/WFP), Torres ran as mainstream progressive",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_New_York#District_15",
+   "verified_fetch": true
+  },
+  "NY-17": {
+   "name": "Mondaire Jones",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Endorsed by Sanders, Warren, AOC, Pressley, Jayapal, Working Families Party, Sunrise, CPC, DFA; campaigned on Medicare for All and Green New Deal",
+   "label_source_url": "https://en.wikipedia.org/wiki/Mondaire_Jones",
+   "verified_fetch": true
+  },
+  "NY-27": {
+   "name": "Nate McMurray",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "low",
+   "style_evidence": "Former Grand Island supervisor, rematch nominee; few endorsements (NYLCV, PEF); from memory: combative anti-corruption, anti-establishment rust-belt populist style",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_New_York#District_27",
+   "verified_fetch": false
+  },
+  "OH-1": {
+   "name": "Kate Schroder",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Health care executive; endorsed by Obama, Buttigieg, EMILY's List, LCV, Sierra Club, Cincinnati mayor; conventional DCCC-style recruit",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Ohio#District_1",
+   "verified_fetch": true
+  },
+  "OH-2": {
+   "name": "Jaime Castle",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Teacher, unopposed in primary; endorsed only by National Women's Political Caucus; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Ohio#District_2",
+   "verified_fetch": true
+  },
+  "OH-10": {
+   "name": "Desiree Tims",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former aide to Sherrod Brown and Gillibrand; EMILY's List; beat Our Revolution-backed Eric Moyer in primary",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Ohio#District_10",
+   "verified_fetch": true
+  },
+  "OH-12": {
+   "name": "Alaina Shearer",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Businesswoman; endorsed by NWPC and gun-safety groups; beat Our Revolution-backed Jenny Bell; no clear left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Ohio#District_12",
+   "verified_fetch": true
+  },
+  "OH-14": {
+   "name": "Hillary O'Connor Mueri",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Attorney and Navy veteran, unopposed; EMILY's List; conventional profile",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Ohio#District_14",
+   "verified_fetch": true
+  },
+  "OH-15": {
+   "name": "Joel Newby",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Attorney; no endorsements listed; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Ohio#District_15",
+   "verified_fetch": false
+  },
+  "OH-16": {
+   "name": "Aaron Paul Godfrey",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Physicist, 2018 candidate; no endorsements listed; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Ohio#District_16",
+   "verified_fetch": false
+  },
+  "OR-2": {
+   "name": "Alex Spenser",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Activist and writer who took over Raz Mason's grassroots campaign; no endorsements listed; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Oregon#District_2",
+   "verified_fetch": false
+  },
+  "PA-1": {
+   "name": "Christina Finello",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Ivyland councilwoman and Bucks County official; Obama endorsement; beat Sunrise-backed Hurwitz; conventional profile",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Pennsylvania#District_1",
+   "verified_fetch": true
+  },
+  "PA-10": {
+   "name": "Eugene DePasquale",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Sitting PA Auditor General; endorsed by Obama, Biden, Harris, Pelosi, DMFI, Everytown, HRC; party-establishment campaign",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Pennsylvania#District_10",
+   "verified_fetch": true
+  },
+  "PA-16": {
+   "name": "Kristy Gnibus",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Teacher; endorsed by withdrawn 'working class advocate' DeSantis; little else; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Pennsylvania#District_16",
+   "verified_fetch": false
+  },
+  "RI-2": {
+   "name": "Jim Langevin",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-serving incumbent; conventional party-line Democrat (New Dem member) in a Biden+14 seat; from memory",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Rhode_Island#District_2",
+   "verified_fetch": false
+  },
+  "SC-2": {
+   "name": "Adair Boroughs",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Attorney; no endorsements listed; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_South_Carolina#District_2",
+   "verified_fetch": false
+  },
+  "SC-5": {
+   "name": "Moe Brown",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former USC football player / businessman; no endorsements listed; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_South_Carolina#District_5",
+   "verified_fetch": false
+  },
+  "SC-7": {
+   "name": "Melissa Watson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Nonprofit executive; beat 2018 nominee in primary; no endorsements listed; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_South_Carolina#District_7",
+   "verified_fetch": false
+  },
+  "TN-1": {
+   "name": "Blair Walsingham",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "low",
+   "style_evidence": "Air Force veteran; endorsed by Andrew Yang, Humanity Forward, Income Movement, No Dem Left Behind, local Indivisible; outsider grassroots campaign in deep-red seat",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Tennessee#District_1",
+   "verified_fetch": true
+  },
+  "TX-2": {
+   "name": "Sima Ladjevardian",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Beto O'Rourke adviser; endorsed by Obama, Biden, Warren, Booker, EMILY's List, AFL-CIO, End Citizens United, Giffords; conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_2",
+   "verified_fetch": true
+  },
+  "TX-3": {
+   "name": "Lulu Seikaly",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Attorney who won runoff over Sean McCaffity; no endorsements listed; no markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_3",
+   "verified_fetch": false
+  },
+  "TX-4": {
+   "name": "Russell Foster",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "IT technician, unopposed nominee in safe-R seat; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_4",
+   "verified_fetch": false
+  },
+  "TX-6": {
+   "name": "Stephen Daniel",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Attorney; endorsed by Clay Jenkins, Sarah Weddington, LCV, Sierra Club; no markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_6",
+   "verified_fetch": true
+  },
+  "TX-11": {
+   "name": "Jon Mark Hogg",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Lawyer, unopposed nominee in safe-R seat; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_11",
+   "verified_fetch": false
+  },
+  "TX-13": {
+   "name": "Gus Trujillo",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Office manager; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_13",
+   "verified_fetch": false
+  },
+  "TX-21": {
+   "name": "Wendy Davis",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former state senator/2014 gov nominee; endorsed by Obama, Biden, Warren, DCCC, EMILY's List, New Democrat Coalition, AFL-CIO; New Dem nod but no centrist branding",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_21",
+   "verified_fetch": true
+  },
+  "TX-24": {
+   "name": "Candace Valenzuela",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former school board member; CPC PAC, Warren, Jayapal, Pressley alongside EMILY's List, CHC BOLD PAC, Obama/Biden; plain CPC-PAC backing with conventional profile",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_24",
+   "verified_fetch": true
+  },
+  "TX-26": {
+   "name": "Carol Iannuzzi",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Activist; no endorsements listed; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_26",
+   "verified_fetch": false
+  },
+  "TX-28": {
+   "name": "Henry Cuellar",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition incumbent; backed by Pelosi/DCCC, US Chamber, AFP Action, LIBRE against Justice Democrats challenger Jessica Cisneros",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_28",
+   "verified_fetch": true
+  },
+  "TX-31": {
+   "name": "Donna Imam",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Computer engineer; endorsed by Bernie Sanders, Ilhan Omar, Warren, Andrew Yang, Julian Castro; Medicare for All not verified this run",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Texas#District_31",
+   "verified_fetch": true
+  },
+  "UT-1": {
+   "name": "Darren Parry",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Chairman of Northwestern Band of the Shoshone Nation; no endorsements listed; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Utah#District_1",
+   "verified_fetch": false
+  },
+  "UT-2": {
+   "name": "Kael Weston",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former State Dept official / professor; no endorsements listed; from memory ran an independent-minded, Utah-style campaign without explicit centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Utah#District_2",
+   "verified_fetch": false
+  },
+  "VA-1": {
+   "name": "Qasim Rashid",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Human rights lawyer; endorsed by Sunrise Movement (national + VA), Warren, Humanity Forward alongside Kaine/Warner/Northam; progressive-activist profile",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Virginia#District_1",
+   "verified_fetch": true
+  },
+  "VA-5": {
+   "name": "Cameron Webb",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Physician / former White House Fellow; endorsed by Obama, Harris, Spanberger, Clyburn, CBC PAC, 314 Action, Collective PAC; conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Virginia#District_5",
+   "verified_fetch": true
+  },
+  "WA-4": {
+   "name": "Douglas McKinley",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Attorney, top-two Democrat; no endorsements listed; thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Washington#District_4",
+   "verified_fetch": false
+  },
+  "WA-5": {
+   "name": "Dave Wilson",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Community activist; Our Revolution/Brand New Congress backed Armitage withdrew; no endorsements listed for Wilson",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Washington#District_5",
+   "verified_fetch": false
+  },
+  "WI-1": {
+   "name": "Roger Polack",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former Treasury intelligence analyst; beat Josh Pade; no endorsements listed",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Wisconsin#District_1",
+   "verified_fetch": false
+  },
+  "WI-5": {
+   "name": "Tom Palzewicz",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Navy veteran / small business owner, 2018 nominee; endorsed by Demand Universal Healthcare and Sierra Club",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Wisconsin#District_5",
+   "verified_fetch": true
+  },
+  "WI-6": {
+   "name": "Jessica King",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former state senator; beat Our Wisconsin Revolution board member Beardsley in primary; conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Wisconsin#District_6",
+   "verified_fetch": true
+  },
+  "WI-8": {
+   "name": "Amanda Stuck",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "State representative, unopposed; NWPC and Sierra Club endorsements",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Wisconsin#District_8",
+   "verified_fetch": true
+  }
+ }
+}

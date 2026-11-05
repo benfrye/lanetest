@@ -1,0 +1,526 @@
+{
+ "cycle": 2020,
+ "election_day": "2020-11-03",
+ "races": [
+  {
+   "id": "NC-2",
+   "dem_name": "Deborah Ross",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Alan Swain",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 30.824,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-7",
+   "dem_name": "Christopher M. Ward",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Rouzer",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -17.611,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-8",
+   "dem_name": "Patricia Timmons-Goodson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Richard Hudson",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -6.491,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-9",
+   "dem_name": "Cynthia Wallace",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Dan Bishop",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -7.988,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NC-11",
+   "dem_name": "Moe Davis",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Madison Cawthorn",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -12.259,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NE-1",
+   "dem_name": "Kate Bolz",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jeff Fortenberry",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -15.369,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NJ-2",
+   "dem_name": "Amy Kennedy",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jeff Van Drew",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -2.938,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NJ-4",
+   "dem_name": "Stephanie Schmid",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Chris Smith",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -10.638,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NM-3",
+   "dem_name": "Teresa Leger Fernandez",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Alexis Johnson",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 17.996,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NV-2",
+   "dem_name": "Patricia Ackerman",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mark Amodei",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -10.288,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-1",
+   "dem_name": "Nancy Goroff",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Lee Zeldin",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -4.251,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-2",
+   "dem_name": "Jackie Gordon",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Andrew Garbarino",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -4.049,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-15",
+   "dem_name": "Ritchie Torres",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Patrick Delices",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 73.843,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-17",
+   "dem_name": "Mondaire Jones",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Maureen McArdle-Schulman",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 20.404,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "NY-27",
+   "dem_name": "Nate McMurray",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Chris Jacobs",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -16.037,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-1",
+   "dem_name": "Kate Schroder",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Steve Chabot",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -3.245,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-2",
+   "dem_name": "Jaime Castle",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Brad Wenstrup",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -12.893,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-10",
+   "dem_name": "Desiree Tims",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Turner",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -4.472,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-12",
+   "dem_name": "Alaina Shearer",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Troy Balderson",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -5.99,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-14",
+   "dem_name": "Hillary O'Connor Mueri",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Joyce",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -9.109,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-15",
+   "dem_name": "Joel Newby",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Steve Stivers",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -14.315,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OH-16",
+   "dem_name": "Aaron Paul Godfrey",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Anthony Gonzalez",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -14.488,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "OR-2",
+   "dem_name": "Alex Spenser",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Cliff Bentz",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -13.818,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "PA-1",
+   "dem_name": "Christina Finello",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Brian Fitzpatrick",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": 5.859,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "PA-10",
+   "dem_name": "Eugene DePasquale",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Scott Perry",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -2.944,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "PA-16",
+   "dem_name": "Kristy Gnibus",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Kelly",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -18.946,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "RI-2",
+   "dem_name": "Jim Langevin",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Robert Lancia",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 13.706,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "SC-2",
+   "dem_name": "Adair Boroughs",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Joe Wilson",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -11.472,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "SC-5",
+   "dem_name": "Moe Brown",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ralph Norman",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -16.836,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "SC-7",
+   "dem_name": "Melissa Watson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Tom Rice",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -18.788,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TN-1",
+   "dem_name": "Blair Walsingham",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Diana Harshbarger",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -55.036,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-2",
+   "dem_name": "Sima Ladjevardian",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Dan Crenshaw",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -1.32,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-3",
+   "dem_name": "Lulu Seikaly",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Van Taylor",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -1.117,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-4",
+   "dem_name": "Russell Foster",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Pat Fallon",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -50.607,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-6",
+   "dem_name": "Stephen Daniel",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ron Wright",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -3.043,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-11",
+   "dem_name": "Jon Mark Hogg",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "August Pfluger",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -60.121,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-13",
+   "dem_name": "Gus Trujillo",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Ronny Jackson",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -60.649,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-21",
+   "dem_name": "Wendy Davis",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Chip Roy",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -2.741,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-24",
+   "dem_name": "Candace Valenzuela",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Beth Van Duyne",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 5.488,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-26",
+   "dem_name": "Carol Iannuzzi",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Michael C. Burgess",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -14.431,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-28",
+   "dem_name": "Henry Cuellar",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Sandra Whitten",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 4.453,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "TX-31",
+   "dem_name": "Donna Imam",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "John Carter",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -2.857,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "UT-1",
+   "dem_name": "Darren Parry",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Blake Moore",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -34.029,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "UT-2",
+   "dem_name": "Kael Weston",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Chris Stewart",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -16.511,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "VA-1",
+   "dem_name": "Qasim Rashid",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Rob Wittman",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -4.472,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "VA-5",
+   "dem_name": "Cameron Webb",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Bob Good",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -8.612,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WA-4",
+   "dem_name": "Douglas McKinley",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Dan Newhouse",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -18.686,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WA-5",
+   "dem_name": "Dave Wilson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Cathy McMorris Rodgers",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -9.278,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WI-1",
+   "dem_name": "Roger Polack",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Bryan Steil",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -9.331,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WI-5",
+   "dem_name": "Tom Palzewicz",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Scott Fitzgerald",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -15.33,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WI-6",
+   "dem_name": "Jessica King",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Glenn Grothman",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -15.447,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "WI-8",
+   "dem_name": "Amanda Stuck",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Gallagher",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -16.142,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  }
+ ]
+}

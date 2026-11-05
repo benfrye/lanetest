@@ -1,0 +1,559 @@
+{
+ "seed": 20261104,
+ "n_main": 389,
+ "targets": {
+  "center_populist": "all",
+  "left_populist": 10,
+  "progressive": 10,
+  "moderate": 15,
+  "mainstream_liberal": 41
+ },
+ "sample": [
+  {
+   "id": "SEN-AR",
+   "stratum": "center_populist",
+   "stratum_N": 2,
+   "stratum_n": 2,
+   "weight": 1.0
+  },
+  {
+   "id": "WI-3",
+   "stratum": "center_populist",
+   "stratum_N": 2,
+   "stratum_n": 2,
+   "weight": 1.0
+  },
+  {
+   "id": "GOV-KS",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "MT-1",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "OH-7",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "AL-1",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "FL-26",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "LA-1",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "SEN-LA",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "SEN-TX",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "GA-11",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "NC-9",
+   "stratum": "left_populist",
+   "stratum_N": 14,
+   "stratum_n": 10,
+   "weight": 1.4
+  },
+  {
+   "id": "FL-5",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TN-7",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "PA-11",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "CO-7",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TN-1",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "IN-4",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "WI-6",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TX-14",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "MO-5",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "GOV-NH",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "NJ-1",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "NJ-4",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "MI-2",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "GOV-MI",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "NY-18",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "WI-7",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TX-31",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TX-27",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "VA-11",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TX-25",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "PA-17",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "VA-5",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TN-3",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "NY-11",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "KY-2",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "SEN-GA",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "IL-2",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "MI-9",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "CT-4",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "NY-12",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TX-6",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "AR-1",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TX-38",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "OH-3",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "PA-15",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "SEN-WV",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "MA-9",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "MS-1",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TX-9",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "TN-8",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "VA-6",
+   "stratum": "mainstream_liberal",
+   "stratum_N": 285,
+   "stratum_n": 41,
+   "weight": 6.951219512195122
+  },
+  {
+   "id": "GOV-WI",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "NJ-5",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "IL-13",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "SEN-IA",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "OH-13",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "SEN-KS",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "MI-3",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "OH-1",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "CO-4",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "FL-7",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "NC-13",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "SPECIAL-GA-14-2026-04",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "IL-5",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "TX-28",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "GA-2",
+   "stratum": "moderate",
+   "stratum_N": 63,
+   "stratum_n": 15,
+   "weight": 4.2
+  },
+  {
+   "id": "TX-30",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  },
+  {
+   "id": "TX-37",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  },
+  {
+   "id": "SEN-KY",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  },
+  {
+   "id": "FL-15",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  },
+  {
+   "id": "MN-5",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  },
+  {
+   "id": "SEN-MN",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  },
+  {
+   "id": "NY-10",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  },
+  {
+   "id": "GOV-VT",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  },
+  {
+   "id": "MI-12",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  },
+  {
+   "id": "TN-9",
+   "stratum": "progressive",
+   "stratum_N": 25,
+   "stratum_n": 10,
+   "weight": 2.5
+  }
+ ]
+}

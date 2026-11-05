@@ -1,0 +1,161 @@
+{
+ "batch": 5,
+ "labels": {
+  "PA-15": {
+   "name": "Ray Bilger",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "confidence": "medium",
+   "evidence": "Former Republican, Air Force/NSA veteran; 'not for donors or party or leadership', 'I have a lot of MAGA friends', 'not anti-fracking', practical 'guy who knows how to fix things' framing.",
+   "source_url": "https://www.statecollege.com/articles/columns/frank-can-ray-bilger-end-the-gops-winning-streak-in-the-15th-congressional-district/",
+   "source_date": "2026-02-18",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "NY-18": {
+   "name": "Pat Ryan",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "confidence": "medium",
+   "evidence": "Incumbent pitching 'patriotic populism'; 2026 campaign attacks 'big mega companies' and billionaires, 'systemic corruption', pledges to be 'an independent voice', fight for 'the working class'; no explicit left or centrist caucus marker found.",
+   "source_url": "https://www.wamc.org/news/2026-10-28/election-2026-ny-18-pat-ryan-focused-on-tariffs-iran-war-corruption",
+   "source_date": "2026-10-28",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "SEN-IA": {
+   "name": "Josh Turek",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "confidence": "medium",
+   "evidence": "Self-described 'common sense prairie populist' in Harkin mold; economic-adversity personal story, insulin/healthcare costs, term limits and congressional stock-trading ban. 'Common sense' framing borders on centrist but no explicit moderate/Blue Dog marker.",
+   "source_url": "https://iowastartingline.com/2025/08/12/josh-turek-us-senate-joni-ernst",
+   "source_date": "2025-08-12",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "FL-26": {
+   "name": "Nicole Locklin",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "confidence": "medium",
+   "evidence": "Campaign page: running 'to take on corruption', rejects corporate or foreign PAC money, 'a candidate for The People, not the powerful billionaire class', government that answers 'to voters, not donors'. No left-group endorsements found.",
+   "source_url": "https://secure.actblue.com/donate/nicolelocklin",
+   "source_date": null,
+   "pre_election_verified": false,
+   "verified_fetch": true
+  },
+  "SPECIAL-GA-14-2026-04": {
+   "name": "Shawn Harris",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "confidence": "low",
+   "evidence": "Retired Army brigadier general and cattle farmer ('work with my hands'); campaign on grocery prices and tariffs, party-backed (Warnock events). No explicit centrist or left marker in fetched sources.",
+   "source_url": "https://www.pbs.org/newshour/amp/politics/could-a-democrat-really-win-marjorie-taylor-greenes-conservative-district-this-retired-army-general-is-trying",
+   "source_date": "2026-03-30",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "TN-1": {
+   "name": "Kristi Burke",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "confidence": "medium",
+   "evidence": "First-time candidate, artist/organizer, 'big believer in people over power'; healthcare 'a human right', shift taxes onto corporations and the very wealthy; platform billed as anti-oligarchy/anti-corruption/pro-impeachment. No DSA/JD/OR markers found.",
+   "source_url": "https://www.greenevillesun.com/news/local_news/greene-co-democrats-hear-from-two-congressional-candidates/article_a956a8a2-3e8e-469a-a24e-dfbc7b32f388.html",
+   "source_date": "2026-03-13",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "TX-37": {
+   "name": "Greg Casar",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "confidence": "high",
+   "evidence": "Chair of the Congressional Progressive Caucus, former labor organizer aligned with democratic socialists, 'Fighting Oligarchy' tour with Sanders; incumbent so posture mixed per brief.",
+   "source_url": "https://www.click2houston.com/news/texas/2025/06/25/progressive-rep-greg-casar-has-a-playbook-he-wants-democrats-to-use-in-2026/",
+   "source_date": "2025-06-25",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "MI-12": {
+   "name": "Rashida Tlaib",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "confidence": "high",
+   "evidence": "Squad member, DSA-endorsed (2026 DSA candidate roundup); 'unbought and unapologetic', attacks big banks and corporations; four-term incumbent so posture mixed.",
+   "source_url": "https://wdet.org/2026/07/28/rashida-tlaib-seeks-fifth-term-in-congress/",
+   "source_date": "2026-07-28",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "NY-11": {
+   "name": "Michael DeCillis",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Former NYPD officer/9-11 responder and teacher; 'Healthcare is a right', universal health care, raise corporate tax rate; described as mainstream progressive supporting Medicare for All but no Sanders/WFP/DSA backing found.",
+   "source_url": "https://bkreader.com/policy-government/meet-your-candidate-mike-decillis-for-congressional-district-11-12303307",
+   "source_date": "2026-05-20",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "CT-4": {
+   "name": "Jim Himes",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Long-time incumbent, former New Democrat Coalition chair ('a modern Democrat'), Intelligence Committee ranking member; safe seat so New Dem membership alone -> liberal.",
+   "source_url": "https://www.thirdway.org/press/third-way-congratulates-jim-himes-newly-elected-chairperson-of-the-new-democratic-coalition",
+   "source_date": "2016-12-01",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "KY-2": {
+   "name": "Megan Wingfield",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "confidence": "medium",
+   "evidence": "Mechanic with automotive technology degree; 'People-First Economy' where one job supports a family, crack down on corporate price gouging, supports Medicare for All (no Sanders/OR/WFP backing found, so not left).",
+   "source_url": "https://branch.vote/races/2026-kentucky-primary-election-ky-state-us-representative-ky-congressional-2-d/candidates/megan-wingfield",
+   "source_date": null,
+   "pre_election_verified": false,
+   "verified_fetch": true
+  },
+  "FL-5": {
+   "name": "Rachel Grage",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "low",
+   "evidence": "Top Democratic fundraiser in primary, affordability focus, prior state House run; no populist, left or centrist markers in fetched coverage.",
+   "source_url": "https://floridatrib.org/2026/08/18/rachel-grage-wins-democratic-primary-in-floridas-5th-district/",
+   "source_date": "2026-08-18",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "MS-1": {
+   "name": "Cliff Johnson",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "confidence": "low",
+   "evidence": "Civil rights attorney, Ole Miss MacArthur Justice Center director; 'too many career politicians have forgotten those values', grocery/gas prices, healthcare affordability; no explicit ideological label.",
+   "source_url": "https://mississippifreepress.org/meet-the-candidates-for-mississippis-first-congressional-district-in-the-nov-3-elections/",
+   "source_date": "2026-10-05",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  }
+ }
+}

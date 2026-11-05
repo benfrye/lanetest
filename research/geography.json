@@ -1,0 +1,1370 @@
+{
+  "as_of": "2026-11-04T11:16:00-05:00 (NBC results pages re-checked 11:03-11:16 AM ET Nov 4 during verification; counts incomplete)",
+  "shift_patterns": [
+    {
+      "dimension": "national",
+      "group": "All voters (U.S. House)",
+      "shift_vs_2024_pres_margin": 15,
+      "shift_vs_2022": null,
+      "metric_note": "NYT Times Voter Trends: 2026 House margin D+13 vs 2024 pres margin; positive = toward D. Captured from user-supplied PDF (research/nyt_voter_trends.json); nytimes.com not fetchable.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "Dem 56%, Rep 43% in House vote; 15-point shift toward Democrats from 2024.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "national",
+      "group": "House popular vote (Morris estimate)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Morris estimated House popular vote margin of roughly D+13-14 as of writing; no explicit swing number given.",
+      "source": "https://www.gelliottmorris.com/p/democrats-win-us-house-senate-in",
+      "quote_or_paraphrase": "Largest House popular-vote victory for any party since 1974 (G. Elliott Morris, Nov 4).",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Urban core / big Democratic counties (general)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Qualitative statement by Steve Kornacki on NBC live blog (Michigan context).",
+      "source": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+      "quote_or_paraphrase": "Kornacki: Democrats overperforming in counties they won in 2024 by large margins.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Urban core: Wayne County, MI (Detroit) - Senate/Gov",
+      "shift_vs_2024_pres_margin": 14,
+      "shift_vs_2022": null,
+      "metric_note": "Bridge Michigan (the all-83-counties claim is attributed to AP; the 14-pt Wayne shift is stated by Bridge); ~93% counted at 7 a.m. El-Sayed and Benson each >70% vs Harris 63%. Detroit: Benson ~93%, El-Sayed ~92% vs Harris 90%.",
+      "source": "https://bridgemi.com/michigan-politics/how-abdul-el-sayed-jocelyn-benson-won-michigan-big-turnout-democratic-shifts/",
+      "quote_or_paraphrase": "A 14-percentage-point shift in Wayne County toward Democrats; all 83 Michigan counties shifted toward Democrats vs 2024 (AP).",
+      "verification_note": "Bridge article re-fetched: 14-pt Wayne shift, ~93% counted at 7 a.m., >70% for both Dems vs Harris 63%, Detroit 93/92 vs 90 confirmed.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Urban core: Allegheny County, PA (Pittsburgh) - Governor",
+      "shift_vs_2024_pres_margin": 23.35,
+      "shift_vs_2022": null,
+      "metric_note": "NBC vote-shift table: Shapiro D+43.66 vs Harris D+20.31; 98.5% in. Shapiro is an incumbent governor.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results",
+      "quote_or_paraphrase": "Allegheny D+43.66 (2026 gov) vs D+20.31 (2024 pres), shift D+23.35.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Urban/suburban: Broward County, FL - Governor",
+      "shift_vs_2024_pres_margin": 15.11,
+      "shift_vs_2022": null,
+      "metric_note": "NBC vote-shift table, 95% in. Jolly (D) lost statewide 48.7-50.0.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/florida-governor-results",
+      "quote_or_paraphrase": "Broward D+32.08 vs D+16.97 in 2024, shift D+15.11.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Urban/suburban: Bexar County, TX (portion in TX-21) - House",
+      "shift_vs_2024_pres_margin": 14.68,
+      "shift_vs_2022": null,
+      "metric_note": "NBC TX-21 House page; covers only the part of Bexar inside TX-21 (2024 baseline D+6.53 is for that portion). 95% in.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-21-results",
+      "quote_or_paraphrase": "Bexar (TX-21 portion) D+21.21 vs D+6.53, shift D+14.68.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Urban/mid-size metro: Sedgwick County, KS (Wichita) - Senate",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "UNVERIFIED: an earlier search summary reported a Hamilton lead in Sedgwick County at ~70% counted, but the cited CNBC page, re-fetched Nov 4, contains no Sedgwick County figures and NBC's Kansas county table is truncated before Sedgwick. Figures removed; shift null.",
+      "source": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+      "quote_or_paraphrase": "No Sedgwick County figures on the cited page (re-checked).",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Affluent suburb: Oakland County, MI - Senate",
+      "shift_vs_2024_pres_margin": 3,
+      "shift_vs_2022": null,
+      "metric_note": "Derived: El-Sayed led by 14 with 92% counted vs Harris +11 (Kornacki). Bridge: El-Sayed 56% vs Harris 54%. Preliminary.",
+      "source": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+      "quote_or_paraphrase": "Kornacki on Oakland: very little movement in Democrats' direction relative to 2024.",
+      "verification_note": "Kornacki (+14 at 92% vs Harris +11) and Bridge (El-Sayed 56% vs Harris 54%) both re-confirmed.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Suburb (Jewish-heavy): West Bloomfield Twp., MI - Senate",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Bridge: Rogers won 46% in the township, up from 42% in 2024 (Bridge does not give Trump's 2024 share; the 42% appears to be Rogers' own 2024 Senate share). El-Sayed won the township by 2,240 votes vs Slotkin's 5,538-vote margin in the 2024 Senate race.",
+      "source": "https://bridgemi.com/michigan-politics/how-abdul-el-sayed-jocelyn-benson-won-michigan-big-turnout-democratic-shifts/",
+      "quote_or_paraphrase": "Rogers gained ground in some Oakland communities with large Jewish populations but lost the county.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Mixed metro/suburb: Kent County, MI (Grand Rapids) - Senate",
+      "shift_vs_2024_pres_margin": 8,
+      "shift_vs_2022": null,
+      "metric_note": "Derived: El-Sayed +13 with 94% counted vs Harris +5 (Kornacki). Preliminary.",
+      "source": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+      "quote_or_paraphrase": "El-Sayed holds a 13-point lead with 94% counted in Kent, where Harris won by 5.",
+      "verification_note": "Kornacki figures re-confirmed on NBC live blog.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Working-class suburb: Macomb County, MI - Senate",
+      "shift_vs_2024_pres_margin": 10,
+      "shift_vs_2022": null,
+      "metric_note": "Derived and very preliminary: Rogers +3 with 54% counted vs Trump +13 in 2024 (Kornacki).",
+      "source": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+      "quote_or_paraphrase": "Rogers held just a 3-point lead in Macomb with 54% counted; Trump carried it by 13.",
+      "verification_note": "Kornacki figures re-confirmed; still based on only 54% counted. No later Macomb count found (search budget exhausted).",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Suburban: Tarrant, Collin, Denton counties, TX - statewide races",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "No margins reported; all three voted R in 2024 and broke for statewide Democrats in 2026.",
+      "source": "https://www.fox4news.com/news/five-major-takeaways-from-texas-2026-midterm-election-results",
+      "quote_or_paraphrase": "Tarrant, Denton and Collin all broke for statewide Democrats; Collin first time in decades.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Suburban: Berks County, PA - Governor",
+      "shift_vs_2024_pres_margin": 24.58,
+      "shift_vs_2022": null,
+      "metric_note": "NBC vote-shift table, 95% in.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results",
+      "quote_or_paraphrase": "Berks D+12.4 vs R+12.18, shift D+24.58.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Working-class exurb: Beaver County, PA - Governor",
+      "shift_vs_2024_pres_margin": 26.83,
+      "shift_vs_2022": null,
+      "metric_note": "NBC vote-shift table, 95% in; largest county shift seen in the PA sample.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results",
+      "quote_or_paraphrase": "Beaver D+6.12 vs R+20.71, shift D+26.83.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Exurban: Comal County, TX (TX-21 portion) - House",
+      "shift_vs_2024_pres_margin": 10.64,
+      "shift_vs_2022": null,
+      "metric_note": "NBC TX-21 page, district portion only, 95% in. Republican Teixeira leads TX-21 54.5-45.5 at 99% in (NBC shows no explicit call in fetched text); district shift D+13.04.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-21-results",
+      "quote_or_paraphrase": "Comal R+34.86 vs R+45.5, shift D+10.64.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Rural/small-town: Adams County, PA - Governor",
+      "shift_vs_2024_pres_margin": 24.83,
+      "shift_vs_2022": null,
+      "metric_note": "NBC vote-shift table, 99% in. Other rural PA: Armstrong D+22.81, Bedford D+18.32.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results",
+      "quote_or_paraphrase": "Adams R+8.82 vs R+33.65, shift D+24.83.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Rural: Iowa sample counties (Adair, Adams, Allamakee, Appanoose, Audubon, Benton) - Senate",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NBC shows only first six counties alphabetically; county shifts ranged D+15.18 (Benton) to D+22.72 (Appanoose); statewide Senate shift D+17.32. No average computed.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/iowa-senate-results",
+      "quote_or_paraphrase": "Turek (D) county shifts: Adair +17.54, Adams +15.57, Allamakee +15.95, Appanoose +22.72, Audubon +16.90, Benton +15.18.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Rural: same Iowa counties - Governor (Sand)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Range D+22.68 (Allamakee) to D+31.5 (Adair); statewide gov shift D+24.19. Sand's shift exceeded Turek's by 6.73 (Allamakee) to 13.96 (Adair) pts in the sample counties.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results",
+      "quote_or_paraphrase": "Sand county shifts: Adair +31.5, Adams +27.07, Allamakee +22.68, Appanoose +29.66, Audubon +25.64, Benton +24.95.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Rural: Kansas sample counties - Senate",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Range D+12.74 (Barber) to D+23.38 (Atchison); statewide shift D+20.99.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/kansas-senate-results",
+      "quote_or_paraphrase": "Allen +23.11, Anderson +18.03, Atchison +23.38, Barber +12.74, Barton +18.6, Bourbon +19.4.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Rural: Texas sample counties (Anderson, Andrews, Angelina, Aransas, Archer, Armstrong) - Senate",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Range D+10.16 (Archer) to D+28.97 (Andrews); statewide Senate shift D+25.77.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/texas-senate-results",
+      "quote_or_paraphrase": "Talarico shifts: Anderson +16.24, Andrews +28.97, Angelina +21.59, Aransas +13.10, Archer +10.16, Armstrong +10.20.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Rural: Georgia sample counties - Senate",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Range D+10.54 (Baker) to D+22.19 (Atkinson); statewide shift D+20.2.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results",
+      "quote_or_paraphrase": "Appling +12.54, Atkinson +22.19, Bacon +10.78, Baker +10.54, Baldwin +13.81, Banks +14.66.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Rural Appalachian NC (Alleghany, Ashe, Avery, Alexander) - Senate",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Range D+17.53 to D+23.16; statewide shift D+22.84.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/north-carolina-senate-results",
+      "quote_or_paraphrase": "Alexander +17.53, Alleghany +22.61, Ashe +23.16, Avery +18.58.",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Rural (general, pre-election polling)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Pre-election polling average (Oct 30), not results: R lead ~12 among rural voters, ~20 pts more D on margin than 2024 House races.",
+      "source": "https://blog.fiftyplusone.news/p/how-different-demographic-groups",
+      "quote_or_paraphrase": "Rural voters ~20 points more Democratic on margin than in 2024 House races (polling average).",
+      "verified": true
+    },
+    {
+      "dimension": "county_type",
+      "group": "Exit poll by area: Urban / Suburban / Small town or rural (2026 levels only)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NBC exit poll 2026 House: Urban 20% of electorate D71-R27; Suburban 45% D58-R40; Small town/rural 35% D40-R58. No 2024 comparison shown on page.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/exit-polls",
+      "quote_or_paraphrase": "Suburban voters D+18; small town/rural R+18 (NBC exit poll).",
+      "verified": true
+    },
+    {
+      "dimension": "college_town",
+      "group": "Athens County, OH (Ohio University) - Governor",
+      "shift_vs_2024_pres_margin": 23.28,
+      "shift_vs_2022": null,
+      "metric_note": "NBC vote-shift table, 95% in. Statewide gov shift D+19.14.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/ohio-governor-results",
+      "quote_or_paraphrase": "Athens D+34.01 vs D+10.73, shift D+23.28.",
+      "verified": true
+    },
+    {
+      "dimension": "college_town",
+      "group": "Alachua County, FL (Univ. of Florida) - Governor",
+      "shift_vs_2024_pres_margin": 12.26,
+      "shift_vs_2022": null,
+      "metric_note": "NBC vote-shift table, 95% in. Statewide gov shift D+11.8.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/florida-governor-results",
+      "quote_or_paraphrase": "Alachua D+33.23 vs D+20.97, shift D+12.26.",
+      "verified": true
+    },
+    {
+      "dimension": "college_town",
+      "group": "Hays County, TX (Texas State Univ.; TX-21 portion) - House",
+      "shift_vs_2024_pres_margin": 18.11,
+      "shift_vs_2022": null,
+      "metric_note": "District portion only; 99% in. Largest shift among TX-21 counties.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-21-results",
+      "quote_or_paraphrase": "Hays D+22.26 vs D+4.15, shift D+18.11.",
+      "verified": true
+    },
+    {
+      "dimension": "college_town",
+      "group": "Washtenaw (Ann Arbor), Ingham, Kalamazoo, Isabella counties, MI",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Washtenaw: Benson ~75%, El-Sayed 74% vs Harris 71%. Others: both outperformed Harris, no figures.",
+      "source": "https://bridgemi.com/michigan-politics/how-abdul-el-sayed-jocelyn-benson-won-michigan-big-turnout-democratic-shifts/",
+      "quote_or_paraphrase": "Both Democrats ran ahead of Harris in university counties.",
+      "verified": true
+    },
+    {
+      "dimension": "education",
+      "group": "College degree (national House)",
+      "shift_vs_2024_pres_margin": 11,
+      "shift_vs_2022": null,
+      "metric_note": "NYT Voter Trends (two-level education chart: College +11, Non-college +17). From user-supplied PDF.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "College graduates shifted 11 pts toward D; postgraduates 10.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "education",
+      "group": "Non-college (national House)",
+      "shift_vs_2024_pres_margin": 17,
+      "shift_vs_2022": null,
+      "metric_note": "NYT Voter Trends; high school only +18, some college +16.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "Non-college voters shifted 17 pts toward D, more than college grads.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "education",
+      "group": "White non-college (national House)",
+      "shift_vs_2024_pres_margin": 14,
+      "shift_vs_2022": null,
+      "metric_note": "NYT: 2026 margin R+19 (40-59). NBC exit: R share 61% (2026) vs 66% (2024) per Washington Examiner; D shares not given for 2024 so NBC-based margin shift not computable. Note: the Washington Examiner also cites a NYT survey with 69% GOP support among non-college whites, which conflicts with the NYT capture (59%); unresolved.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "White non-college D40-R59, shift +14 toward D (NYT).",
+      "secondary_sources": [
+        "http://www.washingtonexaminer.com/news/campaigns/congressional/4791841/shifting-demographics-democrats-midterm-elections/"
+      ],
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "education",
+      "group": "White college (national House)",
+      "shift_vs_2024_pres_margin": 9,
+      "shift_vs_2022": null,
+      "metric_note": "NYT: D58-R41. NBC exit 2026: D59-R40.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "White college grads shifted 9 pts toward D, the smallest of the race-by-education groups.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "education",
+      "group": "Nonwhite non-college (national House)",
+      "shift_vs_2024_pres_margin": 23,
+      "shift_vs_2022": null,
+      "metric_note": "NYT: D76-R22.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "Nonwhite non-college shifted 23 pts toward D, largest race-by-education swing.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "Hispanic voters (national House)",
+      "shift_vs_2024_pres_margin": 28,
+      "shift_vs_2022": null,
+      "metric_note": "NYT: D69-R30. Hispanic non-college +33, Hispanic college +17, Hispanic 18-29 +42. NBC exit 2026: Latino D62-R35. (AP VoteCast figure previously cited here had no source URL and was removed.)",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "Hispanic voters shifted 28 pts toward D, largest of any racial group.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "Latino men (NBC exit poll)",
+      "shift_vs_2024_pres_margin": 25,
+      "shift_vs_2022": null,
+      "metric_note": "Derived from sourced figures: 2026 D56-R41 (D+15) vs 2024 NBC exit R54-D44 (R+10).",
+      "source": "http://www.washingtonexaminer.com/news/campaigns/congressional/4791841/shifting-demographics-democrats-midterm-elections/",
+      "quote_or_paraphrase": "Latino men favored Democrats 56%-41%; in 2024 favored GOP 54%-44% (NBC exit polls).",
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "Majority-Hispanic counties (mostly TX, NM)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Washington Post analysis described via search summary (WaPo page returned 403); rural, suburban and urban majority-Hispanic areas all moved D by double digits.",
+      "source": "https://www.washingtonpost.com/politics/interactive/2026/11/04/voting-groups-that-powered-democratic-sweep/",
+      "quote_or_paraphrase": "Majority-Hispanic rural areas, suburbs and big cities all moved toward Democrats by double digits vs 2024 (WaPo, secondhand).",
+      "verification_note": "WaPo still 403; remains secondhand.",
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "South Texas: TX-15 (Rio Grande Valley) - House",
+      "shift_vs_2024_pres_margin": 42.65,
+      "shift_vs_2022": null,
+      "metric_note": "NBC TX-15 page (11:03 AM ET Nov 4): Pulido (D) 62.3 - De La Cruz (R-inc) 37.7 = D+24.6 with 95.1% of expected vote in; NBC states the race shifted 42.65 pts toward D vs 2024 pres. Earlier derived value (41.2) used Latin Times' 'roughly 18' Trump margin, which Latin Times describes as a redistricting-model figure; CNBC also says Trump carried the district by 18. NBC shows no explicit call in fetched text.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-15-results",
+      "quote_or_paraphrase": "TX-15 shifted 42.65 points toward Democrats vs 2024 presidential (NBC); Pulido 62.3%-37.7%.",
+      "secondary_sources": [
+        "https://www.latintimes.com/democrats-retake-congress-latino-voter-shift-midterms-600884",
+        "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html"
+      ],
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "South Texas: TX-35 (redrawn) - House",
+      "shift_vs_2024_pres_margin": 21.41,
+      "shift_vs_2022": null,
+      "metric_note": "NBC TX-35 page (11:03 AM ET Nov 4): Garcia (D) 55.4 - De La Cruz (R) 44.6 = D+10.8 with 97.2% in; NBC states shift 21.41 toward D vs 2024 pres. Earlier derived value (24) used approximate shares (~57-43) and a projected Trump +10 baseline. No explicit call visible.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-35-results",
+      "quote_or_paraphrase": "TX-35 shifted 21.41 points toward Democrats vs 2024 presidential (NBC); Garcia 55.4%-44.6%.",
+      "secondary_sources": [
+        "https://www.latintimes.com/democrats-retake-congress-latino-voter-shift-midterms-600884"
+      ],
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "South Texas border counties (Rio Grande Valley)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "No county margins found (NBC county tables truncated alphabetically). Fox 4 says key border counties flipped back to Democrats but gives no figures. A pre-election Hidalgo+Cameron early-vote figure attributed to CBS could not be found on the CBS live page and was removed.",
+      "source": "https://www.fox4news.com/news/five-major-takeaways-from-texas-2026-midterm-election-results",
+      "quote_or_paraphrase": "South Texas border counties flipped back to Democrats, reversing GOP gains in the Rio Grande Valley.",
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "Miami-Dade County, FL - Governor",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "UNVERIFIED: Jolly-carried-Miami-Dade figures (53-46) and turnout claim are not on the cited Local10 page (it only links to results) and NBC's FL county table is truncated before Miami-Dade. Figures removed pending a county source; shift null.",
+      "source": "https://www.local10.com/news/politics/2026/11/03/vote-2026-nov-3-general-election-results-in-miami-dade-county/",
+      "quote_or_paraphrase": "Cited page contains only a link to results; no figures.",
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "FL-27 (Miami, ~70% Hispanic) - House",
+      "shift_vs_2024_pres_margin": 14.25,
+      "shift_vs_2022": null,
+      "metric_note": "NBC FL-27 (11:15 AM ET Nov 4): Salazar (R-inc) 50.2 - Rodriguez (D) 49.8 = D-0.4 with 99% in, no call shown; NBC states shift 14.25 toward D vs 2024 pres. Latin Times (citing WLRN) put Salazar's lead at ~1,100 votes and her 2024 House margin at 20 pts (unsourced in that article).",
+      "source": "https://www.nbcnews.com/politics/2026-elections/florida-us-house-district-27-results",
+      "quote_or_paraphrase": "Salazar 50.2%-49.8%, shift 14.25 toward D vs 2024 pres (NBC).",
+      "secondary_sources": [
+        "https://www.latintimes.com/democrats-retake-congress-latino-voter-shift-midterms-600884"
+      ],
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "CO-8 (~39% Hispanic) - House",
+      "shift_vs_2024_pres_margin": 16.53,
+      "shift_vs_2022": null,
+      "metric_note": "NBC CO-8 (11:04 AM ET Nov 4): Rutinel (D) 55.5 - Evans (R-inc) 40.8 = D+14.7 with only 78.5% in; NBC states shift 16.53 toward D vs 2024 pres. No explicit call visible.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-8-results",
+      "quote_or_paraphrase": "Rutinel 55.5%-40.8%, shift 16.53 toward D vs 2024 pres (NBC).",
+      "secondary_sources": [
+        "https://www.latintimes.com/democrats-retake-congress-latino-voter-shift-midterms-600884"
+      ],
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "Texas Latino men (Senate exit poll)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "CNN exit poll: Talarico won 61% of Texas Latino men; no 2024 baseline in source.",
+      "source": "https://us.cnn.com/2026/11/03/politics/live-news/midterm-election-congress?post-id=cmw0fj3ld00003b6v0tzvb68e",
+      "quote_or_paraphrase": "Latino men backed Talarico at 61% (CNN exit poll, via search summary).",
+      "verification_note": "CNN live page returns HTTP 451; 61% figure remains unverified (search-summary only).",
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "Hispanic early-vote share vs 2022",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Turnout composition, not margin: Hispanic share of early vote higher than 2022 in 96% of counties (TargetSmart, pre-election).",
+      "source": "https://blog.fiftyplusone.news/p/how-different-demographic-groups",
+      "quote_or_paraphrase": "Hispanic share of early votes higher than 2022 in 96% of counties (TargetSmart).",
+      "verified": true
+    },
+    {
+      "dimension": "hispanic_share",
+      "group": "Central Valley CA / Arizona Hispanic counties",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NOT FOUND: CA only 59% counted; NBC CA and AZ county shift rows blank (insufficient vote) or truncated; search budget exhausted before targeted searches.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/california-governor-results",
+      "quote_or_paraphrase": "No shift data available yet.",
+      "verified": true
+    },
+    {
+      "dimension": "black_share",
+      "group": "Black voters (national House)",
+      "shift_vs_2024_pres_margin": 9,
+      "shift_vs_2022": null,
+      "metric_note": "NYT: D91-R8; smallest racial-group shift. Black men +16, Black women +5. NBC exit: Black D89-R9; Black men 85-13.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "Black voters shifted 9 pts toward D (already near ceiling).",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "black_share",
+      "group": "Black-majority MS counties (Bolivar, Adams) vs non-Black-majority rural MS (Benton, Attala, Amite, Alcorn) - Senate",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NBC: Bolivar D+17.48, Adams D+14.13; vs Benton D+23.01, Attala D+20.67, Amite D+14.77, Alcorn D+15.25. Statewide D+22.89 (tie). County racial composition is Census background, not from the source. Relabelled: Attala, Benton and Amite have substantial Black minorities (Census background), so 'white rural' overstated the contrast.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results",
+      "quote_or_paraphrase": "Heavily Black counties shifted less than the state; whiter rural counties mostly more.",
+      "verified": true
+    },
+    {
+      "dimension": "black_share",
+      "group": "Black-majority SC counties (Allendale, Bamberg) vs white Upstate (Anderson, Abbeville) - Senate",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NBC: Allendale D+11.88, Bamberg D+16.98; Anderson D+23.93, Abbeville D+20.83, Aiken D+21.35. Statewide D+22.34. Racial composition is Census background.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/south-carolina-senate-results",
+      "quote_or_paraphrase": "Black-majority counties moved 12-17 pts; white Upstate counties 21-24 pts.",
+      "verified": true
+    },
+    {
+      "dimension": "black_share",
+      "group": "Trump-won SC counties (average)",
+      "shift_vs_2024_pres_margin": 21,
+      "shift_vs_2022": null,
+      "metric_note": "NYT data analysis cited by Northeastern: Trump-won SC counties swung left by about 21 pts on average.",
+      "source": "https://news.northeastern.edu/2026/11/03/midterm-election-results-analysis-2026/",
+      "quote_or_paraphrase": "Counties that voted for Trump swung left by an average of about 21 points in South Carolina.",
+      "verified": true
+    },
+    {
+      "dimension": "black_share",
+      "group": "Jasper County, MS (predominantly Black rural)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "UNVERIFIED: the 19-pt figure came from a search summary; the cited CNBC page, re-fetched Nov 4, does not mention Jasper County. Search budget exhausted before an independent source could be found. Value set to null.",
+      "source": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+      "quote_or_paraphrase": "Not found on cited page.",
+      "verified": true
+    },
+    {
+      "dimension": "black_share",
+      "group": "Anson County, NC (Black-plurality rural) vs Alamance - Senate",
+      "shift_vs_2024_pres_margin": 13.79,
+      "shift_vs_2022": null,
+      "metric_note": "NBC; statewide D+22.84; Alamance D+22.84.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/north-carolina-senate-results",
+      "quote_or_paraphrase": "Anson D+11.29 vs R+2.5, shift D+13.79.",
+      "verified": true
+    },
+    {
+      "dimension": "asian_share",
+      "group": "Asian voters (national House)",
+      "shift_vs_2024_pres_margin": 17,
+      "shift_vs_2022": null,
+      "metric_note": "NYT: D70-R30; Asian college +14. NBC exit 2026: Asian D70-R29. No county-level (Queens, Fort Bend, Gwinnett, Orange County) data found.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "Asian voters shifted 17 pts toward D.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "arab_american",
+      "group": "Dearborn, MI - Senate",
+      "shift_vs_2024_pres_margin": 71,
+      "shift_vs_2022": null,
+      "metric_note": "Derived: El-Sayed won by 65 vs Trump +6 in 2024. Benson won by 60. Unofficial.",
+      "source": "https://bridgemi.com/michigan-politics/how-abdul-el-sayed-jocelyn-benson-won-michigan-big-turnout-democratic-shifts/",
+      "quote_or_paraphrase": "Trump won Dearborn by 6 in 2024; El-Sayed won by 65, Benson by 60.",
+      "verified": true
+    },
+    {
+      "dimension": "white_working_class_midwest",
+      "group": "White non-college, Michigan Senate",
+      "shift_vs_2024_pres_margin": 9,
+      "shift_vs_2022": null,
+      "metric_note": "NYT 'Compare Senate results' table: shift of 2026 Senate margin vs 2024 pres by group.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "MI white non-college +9 (vs OH +20, IA +19, ME -8).",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "white_working_class_midwest",
+      "group": "White non-college, Ohio Senate",
+      "shift_vs_2024_pres_margin": 20,
+      "shift_vs_2022": null,
+      "metric_note": "NYT Senate comparison table.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "OH white non-college +20 for Sherrod Brown race.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "white_working_class_midwest",
+      "group": "White non-college, Iowa Senate",
+      "shift_vs_2024_pres_margin": 19,
+      "shift_vs_2022": null,
+      "metric_note": "NYT Senate comparison table.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "IA white non-college +19.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "white_working_class_midwest",
+      "group": "White non-college, Maine Senate",
+      "shift_vs_2024_pres_margin": -8,
+      "shift_vs_2022": null,
+      "metric_note": "NYT Senate comparison table; Maine is the only state shifting toward R among most groups (Collins incumbency).",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "ME white non-college -8 (toward R) despite Jackson's win.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "white_working_class_midwest",
+      "group": "Rural northern Michigan (Alcona, Alger, Alpena, Antrim, Arenac) - Senate vs Governor",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NBC: El-Sayed shifts D+2.62 to D+8.04; Benson shifts D+7.6 to D+12.3 in same counties. Statewide: Senate D+8.45, Gov D+12.21.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/michigan-senate-results",
+      "quote_or_paraphrase": "Alcona +2.62/+7.6, Alger +7.01/+10.73, Alpena +8.04/+12.21, Antrim +4.46/+7.68, Arenac +5.94/+12.3 (Senate/Gov).",
+      "verified": true
+    },
+    {
+      "dimension": "white_working_class_midwest",
+      "group": "Rural/industrial Ohio (Adams, Ashtabula, Ashland, Allen, Auglaize) - Governor",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NBC: Adams +22.89, Ashtabula +21.74, Ashland +17.90, Allen +14.24, Auglaize +13.25; statewide gov shift D+19.14. Senate special county data not retrievable (404).",
+      "source": "https://www.nbcnews.com/politics/2026-elections/ohio-governor-results",
+      "quote_or_paraphrase": "Ashtabula R+6.64 vs R+28.38, shift D+21.74.",
+      "verified": true
+    },
+    {
+      "dimension": "white_working_class_midwest",
+      "group": "Rural Wisconsin (Adams, Barron, Buffalo) - Governor",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NBC: Adams +2.68, Barron +3.93, Buffalo +4.95, vs Brown (Green Bay) +9.65, Ashland +9.7, Bayfield +8.39; statewide D+9.02. Smallest rural shifts in any sampled state.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/wisconsin-governor-results",
+      "quote_or_paraphrase": "Adams R+23.09 vs R+25.77, shift D+2.68.",
+      "verified": true
+    },
+    {
+      "dimension": "white_working_class_midwest",
+      "group": "Rural Michigan double-digit shifters (Dickinson, Branch, St. Joseph)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Bridge Michigan; no exact figures; race not specified (both statewide Dems).",
+      "source": "https://bridgemi.com/michigan-politics/how-abdul-el-sayed-jocelyn-benson-won-michigan-big-turnout-democratic-shifts/",
+      "quote_or_paraphrase": "Rural Dickinson, Branch and St. Joseph counties saw double-digit shifts toward Democrats.",
+      "verified": true
+    },
+    {
+      "dimension": "age",
+      "group": "18-29 (national House)",
+      "shift_vs_2024_pres_margin": 32,
+      "shift_vs_2022": null,
+      "metric_note": "NYT: D70-R28; 30-44 +24; 65+ +6. NBC exit: 18-29 D72-R25. (AP VoteCast figure previously cited here had no source URL and was removed.)",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "Voters 18-29 shifted 32 pts toward D; seniors only 6.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "gender",
+      "group": "Men vs women (national House)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NYT: men +17 (to D+3), women +13 (to D+23); gender gap narrowed.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "Men shifted 17, women 13 toward D.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "region",
+      "group": "Region (NBC exit poll 2026 levels)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "NBC exit 2026 House: East D60-R39; Midwest D53-R45; South D49-R50; West D59-R39. No 2024 comparison on page.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/exit-polls",
+      "quote_or_paraphrase": "South nearly tied (R+1) in House vote.",
+      "verified": true
+    },
+    {
+      "dimension": "region",
+      "group": "White Northeast (national House)",
+      "shift_vs_2024_pres_margin": 13,
+      "shift_vs_2022": null,
+      "metric_note": "NYT region-by-race; other rows collapsed in source PDF.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "quote_or_paraphrase": "White Northeast D56-R44, shift +13.",
+      "verification_note": "Checked against the user-supplied NYT capture (research/nyt_voter_trends.json); nytimes.com cannot be fetched for independent confirmation.",
+      "verified": true
+    },
+    {
+      "dimension": "region",
+      "group": "South / Sun Belt Senate races (TX, MS, SC, NC, GA, AL, LA, WV)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Computed per-state in state_shifts: TX 25.8, MS 22.9, NC 22.8, SC 22.3, WV 21.5, AL 21.1, LA 20.2, GA 20.2 vs Upper Midwest/New England MI 8.4, WI(gov) 9.1, MN 5.9, ME 0.6. Pattern: largest swings in the South and Plains, smallest in Great Lakes/New England.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "quote_or_paraphrase": "Southern and Plains states swung ~20+ pts; Michigan, Wisconsin, Minnesota, Maine single digits.",
+      "verified": true
+    },
+    {
+      "dimension": "turnout",
+      "group": "Early-vote electorate composition vs 2022 (Catalist)",
+      "shift_vs_2024_pres_margin": null,
+      "shift_vs_2022": null,
+      "metric_note": "Composition, not margin: white share of early vote 71% vs ~76% same point in 2022; Black and Latino shares each up ~2 pts.",
+      "source": "https://us.cnn.com/2026/11/03/politics/live-news/midterm-election-congress?post-id=cmw0fj3ld00003b6v0tzvb68e",
+      "quote_or_paraphrase": "White voters 71% of early electorate, down from ~76% in 2022 (Catalist via CNN, search summary).",
+      "verification_note": "CNN page returns HTTP 451; Catalist figures unverified.",
+      "verified": true
+    }
+  ],
+  "state_shifts": [
+    {
+      "state": "Texas",
+      "statewide_house_or_top_race_margin_2026": 12.1,
+      "pres2024_margin": -13.68,
+      "shift": 25.78,
+      "basis": "Senate: Talarico (D) 55.1 - Paxton (R) 43.0, 97.4% in, projected D flip. NBC page shift D+25.77. 2024 pres margin (Harris-Trump) from https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+      "source": "https://www.nbcnews.com/politics/2026-elections/texas-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Texas (Governor)",
+      "statewide_house_or_top_race_margin_2026": 7.1,
+      "pres2024_margin": -13.68,
+      "shift": 20.78,
+      "basis": "Governor: Hinojosa (D) 52.8 - Abbott (R-inc) 45.7, 97.5% in; NBC labels Hinojosa projected winner. NBC shift D+20.81. 2024 from Wikipedia. (Earlier 'Abbott conceded' claim not found in NBC or Fox 4 and removed.)",
+      "source": "https://www.nbcnews.com/politics/2026-elections/texas-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Mississippi",
+      "statewide_house_or_top_race_margin_2026": 0.0,
+      "pres2024_margin": -22.89,
+      "shift": 22.89,
+      "basis": "Senate: Colom (D) 48.9 - Hyde-Smith (R-inc) 48.9, 95.6% in, too close to call (unchanged at 11:15 AM ET; NBC says Colom leads). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "North Carolina",
+      "statewide_house_or_top_race_margin_2026": 19.6,
+      "pres2024_margin": -3.21,
+      "shift": 22.81,
+      "basis": "Senate: Cooper (D) 58.7 - Whatley (R) 39.1, 99% in, projected D flip. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/north-carolina-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "South Carolina",
+      "statewide_house_or_top_race_margin_2026": 4.4,
+      "pres2024_margin": -17.87,
+      "shift": 22.27,
+      "basis": "Senate: Andrews (D) 51.1 - Graham (R) 46.7, 99% in, projected D flip. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/south-carolina-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "South Carolina (Governor)",
+      "statewide_house_or_top_race_margin_2026": -4.5,
+      "pres2024_margin": -17.87,
+      "shift": 13.37,
+      "basis": "Governor: Johnson (D) 47.1 - Wilson (R) 51.6, 99% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Pennsylvania",
+      "statewide_house_or_top_race_margin_2026": 22.1,
+      "pres2024_margin": -1.71,
+      "shift": 23.81,
+      "basis": "Governor (no Senate race): Shapiro (D-inc) 60.4 - Garrity (R) 38.3, 98.5% in (11:11 AM ET), projected. NBC PA page shift D+23.75. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Rhode Island",
+      "statewide_house_or_top_race_margin_2026": 37.1,
+      "pres2024_margin": 13.78,
+      "shift": 23.32,
+      "basis": "Senate: Reed (D-inc) 66.6 - McKay (R) 29.5, 97.1% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "West Virginia",
+      "statewide_house_or_top_race_margin_2026": -20.4,
+      "pres2024_margin": -41.87,
+      "shift": 21.47,
+      "basis": "Senate: Fetty Anderson (D) 37.9 - Capito (R-inc) 58.3, 96.3% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Alabama",
+      "statewide_house_or_top_race_margin_2026": -9.4,
+      "pres2024_margin": -30.47,
+      "shift": 21.07,
+      "basis": "Senate: Wess (D) 45.3 - Moore (R) 54.7, 98.7% in. Governor: Jones (D) 47.9 - Tuberville (R) 52.1 (margin -4.2, shift 26.27). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Kansas",
+      "statewide_house_or_top_race_margin_2026": 4.8,
+      "pres2024_margin": -16.12,
+      "shift": 20.92,
+      "basis": "Senate: Hamilton (D) 50.9 - Marshall (R-inc) 46.1, 98.5% in, projected D flip. NBC shift D+20.99. Governor: Holscher (D) 50.3 - Masterson (R) 49.7 (shift 16.72). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/kansas-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "New Jersey",
+      "statewide_house_or_top_race_margin_2026": 26.8,
+      "pres2024_margin": 5.91,
+      "shift": 20.89,
+      "basis": "Senate: Booker (D-inc) 62.1 - Murphy (R) 35.3, 94.1% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "New Mexico",
+      "statewide_house_or_top_race_margin_2026": 26.4,
+      "pres2024_margin": 6.0,
+      "shift": 20.4,
+      "basis": "Senate: Lujan (D-inc) 63.2 - Marker (R) 36.8, 98% in. Governor: Haaland 57.2 - Hull 42.8 (shift 8.4). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Louisiana",
+      "statewide_house_or_top_race_margin_2026": -1.8,
+      "pres2024_margin": -22.01,
+      "shift": 20.21,
+      "basis": "Senate: Davis (D) 49.1 - Letlow (R) 50.9, 99% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Georgia",
+      "statewide_house_or_top_race_margin_2026": 18.0,
+      "pres2024_margin": -2.2,
+      "shift": 20.2,
+      "basis": "Senate: Ossoff (D-inc) 59.0 - Collins (R) 41.0, 98.7% in, projected. NBC shift D+20.2. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Georgia (Governor)",
+      "statewide_house_or_top_race_margin_2026": 8.6,
+      "pres2024_margin": -2.2,
+      "shift": 10.8,
+      "basis": "Governor: Lance Bottoms (D) 54.3 - Jackson (R) 45.7, 98.6% in, projected D flip. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Arkansas",
+      "statewide_house_or_top_race_margin_2026": -11.9,
+      "pres2024_margin": -30.64,
+      "shift": 18.74,
+      "basis": "Senate: Shoffner (D) 42.4 - Cotton (R-inc) 54.3, 99% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Kentucky",
+      "statewide_house_or_top_race_margin_2026": -12.1,
+      "pres2024_margin": -30.53,
+      "shift": 18.43,
+      "basis": "Senate: Booker (D) 42.9 - Barr (R) 55.0, 99% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Arizona",
+      "statewide_house_or_top_race_margin_2026": 12.9,
+      "pres2024_margin": -5.53,
+      "shift": 18.43,
+      "basis": "Governor (no Senate race): Hobbs (D-inc) 55.6 - Biggs (R) 42.7, only 82.9% in, projected. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/arizona-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Tennessee",
+      "statewide_house_or_top_race_margin_2026": -12.2,
+      "pres2024_margin": -29.72,
+      "shift": 17.52,
+      "basis": "Senate: Bradshaw (D) 42.9 - Hagerty (R-inc) 55.1, 99% in. Governor Green (D) 43.0 - Blackburn (R) 45.5 (shares sum 88.5; likely notable third candidate; shift 27.22). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Iowa",
+      "statewide_house_or_top_race_margin_2026": 4.1,
+      "pres2024_margin": -13.21,
+      "shift": 17.31,
+      "basis": "Senate: Turek (D) 50.5 - Hinson (R) 46.4, 98.7% in, projected D flip. NBC shift D+17.32. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/iowa-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Iowa (Governor)",
+      "statewide_house_or_top_race_margin_2026": 11.0,
+      "pres2024_margin": -13.21,
+      "shift": 24.21,
+      "basis": "Governor: Sand (D) 55.5 - Lahn (R) 44.5, 99% in, projected D flip. NBC shift D+24.19. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Virginia",
+      "statewide_house_or_top_race_margin_2026": 22.4,
+      "pres2024_margin": 5.78,
+      "shift": 16.62,
+      "basis": "Senate: Warner (D-inc) 61.1 - Mizusawa (R) 38.7, 96.8% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Oklahoma",
+      "statewide_house_or_top_race_margin_2026": -18.1,
+      "pres2024_margin": -34.26,
+      "shift": 16.16,
+      "basis": "Senate: Thomas (D) 39.2 - Hern (R) 57.3, 99% in. Governor: Munson (D) 45.8 - Mazzei (R) 52.0 (shift 28.06). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Ohio",
+      "statewide_house_or_top_race_margin_2026": 4.8,
+      "pres2024_margin": -11.21,
+      "shift": 16.01,
+      "basis": "Senate special: Brown (D) 50.0 - Husted (R-inc) 45.2, 98.0% in, projected D flip. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Ohio (Governor)",
+      "statewide_house_or_top_race_margin_2026": 7.9,
+      "pres2024_margin": -11.21,
+      "shift": 19.11,
+      "basis": "Governor: Acton (D) 52.3 - Ramaswamy (R) 44.4, 98.0% in, projected D flip. NBC shift D+19.14. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/ohio-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Colorado",
+      "statewide_house_or_top_race_margin_2026": 24.6,
+      "pres2024_margin": 10.99,
+      "shift": 13.61,
+      "basis": "Senate: Hickenlooper (D-inc) 60.2 - Baisley (R) 35.6, 77.3% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Nebraska",
+      "statewide_house_or_top_race_margin_2026": -6.7,
+      "pres2024_margin": -20.46,
+      "shift": 13.76,
+      "basis": "Senate: Ricketts (R-inc) 50.4 vs independent Dan Osborn 43.7 (no Democrat), 91% in, Ricketts projected. Margin = Osborn minus Ricketts; shift compares to Harris-Trump. 2024 from Wikipedia. NOTE: this margin is Independent-minus-Republican, not Dem-minus-Rep; not comparable with other rows on party convention.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/nebraska-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Alaska",
+      "statewide_house_or_top_race_margin_2026": 0.3,
+      "pres2024_margin": -13.13,
+      "shift": 13.43,
+      "basis": "Senate: Peltola (D) 48.2 - Sullivan (R-inc) 47.9, only 74.3% in, too early to call (unchanged at 11:16 AM ET). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Delaware",
+      "statewide_house_or_top_race_margin_2026": 27.2,
+      "pres2024_margin": 14.7,
+      "shift": 12.5,
+      "basis": "Senate: Coons (D-inc) 63.6 - Katz (R) 36.4, 98.6% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Illinois",
+      "statewide_house_or_top_race_margin_2026": 23.5,
+      "pres2024_margin": 10.9,
+      "shift": 12.6,
+      "basis": "Senate (open): Stratton (D) 61.0 - Tracy (R) 37.5, 92.5% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Michigan (Governor)",
+      "statewide_house_or_top_race_margin_2026": 10.8,
+      "pres2024_margin": -1.42,
+      "shift": 12.22,
+      "basis": "Governor: Benson (D) 54.5 - James (R) 43.7, 96.8% in, projected. NBC shift D+12.21. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/michigan-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Florida (Governor)",
+      "statewide_house_or_top_race_margin_2026": -1.3,
+      "pres2024_margin": -13.1,
+      "shift": 11.8,
+      "basis": "Governor: Jolly (D) 48.7 - Donalds (R) 50.0, 99% in, Donalds projected. NBC shift D+11.8. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/florida-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Florida (Senate special)",
+      "statewide_house_or_top_race_margin_2026": -2.9,
+      "pres2024_margin": -13.1,
+      "shift": 10.2,
+      "basis": "Senate special: Nixon (D, described by CBS as democratic socialist) 48.0 - Moody (R-inc) 50.9, 99% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "New Hampshire",
+      "statewide_house_or_top_race_margin_2026": 14.3,
+      "pres2024_margin": 2.78,
+      "shift": 11.52,
+      "basis": "Senate (open): Pappas (D) 56.2 - Sununu (R) 41.9, 90.5% in, projected. Governor: Warmington (D) 47.3 - Ayotte (R-inc) 51.1 (shift -6.58). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Maine (Governor)",
+      "statewide_house_or_top_race_margin_2026": 18.2,
+      "pres2024_margin": 6.94,
+      "shift": 11.26,
+      "basis": "Governor: Pingree (D) 55.1 - Charles (R) 36.9, Bennett (I) 8.0, 86.9% in (11:14 AM ET); no explicit call in fetched text. NBC shift D+11.15. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/maine-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Nevada",
+      "statewide_house_or_top_race_margin_2026": 7.5,
+      "pres2024_margin": -3.1,
+      "shift": 10.6,
+      "basis": "Governor (no Senate race): Ford (D) 51.7 - Lombardo (R-inc) 44.2, 87.2% in, projected D flip. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Wisconsin",
+      "statewide_house_or_top_race_margin_2026": 8.2,
+      "pres2024_margin": -0.86,
+      "shift": 9.06,
+      "basis": "Governor (no Senate race): Crowley (D) 54.1 - Tiffany (R) 45.9, 98.5% in, projected. NBC shift D+9.02. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/wisconsin-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Michigan",
+      "statewide_house_or_top_race_margin_2026": 7.0,
+      "pres2024_margin": -1.42,
+      "shift": 8.42,
+      "basis": "Senate (open): El-Sayed (D) 52.5 - Rogers (R) 45.5, 96.8% in, projected. NBC shift D+8.45. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/michigan-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "South Dakota",
+      "statewide_house_or_top_race_margin_2026": -21.0,
+      "pres2024_margin": -29.19,
+      "shift": 8.19,
+      "basis": "Senate: Bengs (D) 39.5 - Rounds (R-inc) 60.5, 99% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "California",
+      "statewide_house_or_top_race_margin_2026": 28.0,
+      "pres2024_margin": 20.14,
+      "shift": 7.86,
+      "basis": "Governor: Becerra (D) 64.0 - Hilton (R) 36.0, ONLY 59.3% in (still 59.3% at 11:16 AM ET) (late-counted CA ballots typically lean D; treat as very preliminary). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/california-governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "New York",
+      "statewide_house_or_top_race_margin_2026": 20.4,
+      "pres2024_margin": 12.6,
+      "shift": 7.8,
+      "basis": "Governor (no Senate race): Hochul (D-inc) 60.1 - Blakeman (R) 39.7, 87.6% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Massachusetts",
+      "statewide_house_or_top_race_margin_2026": 31.1,
+      "pres2024_margin": 25.2,
+      "shift": 5.9,
+      "basis": "Senate: Markey (D-inc) 63.3 - Deaton (R) 32.2, 89.4% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Minnesota",
+      "statewide_house_or_top_race_margin_2026": 10.1,
+      "pres2024_margin": 4.24,
+      "shift": 5.86,
+      "basis": "Senate (open): Flanagan (D) 53.7 - Tafoya (R) 43.6, 98.8% in, projected. Governor: Klobuchar (D) 55.5 - Demuth (R) 42.6 (shift 8.66). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Connecticut",
+      "statewide_house_or_top_race_margin_2026": 17.6,
+      "pres2024_margin": 14.51,
+      "shift": 3.09,
+      "basis": "Governor: Lamont (D-inc) 58.8 - Fazio (R) 41.2, 93.2% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Oregon",
+      "statewide_house_or_top_race_margin_2026": 16.1,
+      "pres2024_margin": 14.3,
+      "shift": 1.8,
+      "basis": "Senate: Merkley (D-inc) 56.6 - Smith (R) 40.5, only 75.3% in. Governor Kotek (D-inc) 51.7 - Drazan 45.5 (shift -8.1). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Maryland",
+      "statewide_house_or_top_race_margin_2026": 29.4,
+      "pres2024_margin": 28.54,
+      "shift": 0.86,
+      "basis": "Governor: Moore (D-inc) 62.7 - Cox (R) 33.3, 78.3% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Maine",
+      "statewide_house_or_top_race_margin_2026": 7.5,
+      "pres2024_margin": 6.94,
+      "shift": 0.56,
+      "basis": "Senate: Jackson (D) 53.7 - Collins (R-inc) 46.2, 86.8% in (11:14 AM ET), projected D flip. NBC shift D+0.43. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/maine-senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Hawaii",
+      "statewide_house_or_top_race_margin_2026": 48.8,
+      "pres2024_margin": 23.11,
+      "shift": 25.69,
+      "basis": "Governor: Green (D-inc) 74.4 - Cordery (R) 25.6, 79.6% in. Lopsided/low-salience race. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Wyoming",
+      "statewide_house_or_top_race_margin_2026": -30.4,
+      "pres2024_margin": -45.76,
+      "shift": 15.36,
+      "basis": "Senate: Byrd (D) 34.8 - Hageman (R) 65.2, 97% in. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Idaho",
+      "statewide_house_or_top_race_margin_2026": -25.0,
+      "pres2024_margin": -36.49,
+      "shift": 11.49,
+      "basis": "Governor: Pickens (D) 32.2 - Little (R-inc) 57.2, 94.6% in (Senate row party labels uncertain on NBC page, so governor used). 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    },
+    {
+      "state": "Vermont",
+      "statewide_house_or_top_race_margin_2026": -7.0,
+      "pres2024_margin": 31.51,
+      "shift": -38.51,
+      "basis": "Governor: Janoo (D) 45.6 - Scott (R-inc, popular moderate) 52.6, 99% in. Incumbency outlier, not a partisan shift signal. 2024 from Wikipedia.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true,
+      "verification_note": "2026 shares re-checked against NBC race/summary pages ~11:08-11:16 AM ET Nov 4; 2024 margin re-checked against Wikipedia results-by-state table (sign flipped to D-minus-R)."
+    }
+  ],
+  "style_geography_claims": [
+    {
+      "claim": "In Michigan, the Sanders-backed progressive (El-Sayed) ran about 4 points behind the mainstream Democrat (Benson) on shift statewide, with gaps of 3.2-6.4 pts in the sampled rural northern counties.",
+      "evidence": "Statewide shift vs 2024: Senate D+8.45 vs Governor D+12.21 (gap 3.76). Same five northern rural counties: El-Sayed +2.62 to +8.04 vs Benson +7.6 to +12.3 (county gaps 3.22 Antrim to 6.36 Arenac). Bridge Michigan calls El-Sayed a progressive who campaigned on universal healthcare and taxing the rich. (An MSU pre-election poll detail previously cited had no source URL and was removed; 'widest in rural counties' softened because urban-county gaps were not available.)",
+      "source": "https://www.nbcnews.com/politics/2026-elections/michigan-senate-results",
+      "verified": true
+    },
+    {
+      "claim": "The progressive over-performed in Arab American areas but lost ground in Jewish suburbs.",
+      "evidence": "Dearborn: El-Sayed +65 vs Benson +60 (Trump +6 in 2024). West Bloomfield: Rogers 46%, up from 42% in 2024 (Bridge does not give Trump's share), and El-Sayed's margin was 2,240 votes vs Slotkin's 5,538. Oakland County moved only ~3 pts (Kornacki: very little movement).",
+      "source": "https://bridgemi.com/michigan-politics/how-abdul-el-sayed-jocelyn-benson-won-michigan-big-turnout-democratic-shifts/",
+      "verified": true
+    },
+    {
+      "claim": "The Texas Senate candidate described as an economic populist with an anti-system message (Talarico) produced the largest statewide shift and ran ahead of the ticket in rural Texas.",
+      "evidence": "Talarico shift D+25.77 vs Hinojosa (Gov) D+20.81. In the same six rural counties Talarico's shift exceeded Hinojosa's by 1.95-5.29 pts (e.g., Aransas +13.10 vs +7.81; Andrews +28.97 vs +25.49; Archer +10.16 vs +8.21). G. Elliott Morris credited the anti-system framework and quoted his 'top versus bottom' slogan. (PCCC/Adam Green 'economic populist' label and CNN 61% Latino-men figure not verified: no URL / CNN 451.)",
+      "source": "https://www.nbcnews.com/politics/2026-elections/texas-senate-results",
+      "secondary_sources": [
+        "https://www.nbcnews.com/politics/2026-elections/texas-governor-results",
+        "https://www.gelliottmorris.com/p/democrats-win-us-house-senate-in"
+      ],
+      "verified": true
+    },
+    {
+      "claim": "Sherrod Brown (blue-collar, anti-free-trade populist) won Ohio but ran about 3 pts behind the governor nominee (Acton) on shift; white non-college Ohioans still shifted 20 pts in his race.",
+      "evidence": "Senate D+4.8 (shift 16.0) vs Governor Acton D+7.9 (shift 19.1). NYT Senate table: Ohio white non-college +20, high-school-only +21. (Stanford Daily characterization of Brown had no URL in the record; unverified.)",
+      "source": "https://www.nbcnews.com/politics/2026-elections/governor-results",
+      "verified": true
+    },
+    {
+      "claim": "Maine's Troy Jackson (ex-logger; the Washington Sun calls him a progressive who ran on single-payer and abolishing the filibuster) won, but with essentially no swing from 2024, and white non-college voters moved toward the Republican (Collins incumbency).",
+      "evidence": "Senate shift D+0.43 (NBC, 86.8% in) vs Pingree (Gov) D+11.15; township shifts for Jackson R+2.6 to D+2.32 vs Pingree D+4.2 to D+9.83 in the same towns (Acton, Addison, Albion, Alexander). NYT: Maine white non-college -8. (Claims that Collins carried six Harris counties and Jackson won Auburn were not found on the NBC page and were removed.)",
+      "source": "https://www.nbcnews.com/politics/2026-elections/maine-senate-results",
+      "secondary_sources": [
+        "https://www.washingtonsun.com/campaigns/democrats-progressives-feuding-meaning-midterms-results-trump",
+        "https://www.nbcnews.com/politics/2026-elections/maine-governor-results"
+      ],
+      "verified": true
+    },
+    {
+      "claim": "Democrats the Washington Sun labels centrists (Hamilton, Cooper) won Plains and Southern red states with ~21-23-pt swings.",
+      "evidence": "Hamilton (KS; Washington Sun calls him a centrist opposed to single-payer and ending the filibuster) shift D+20.99, ahead of KS Gov nominee (16.72). Cooper (NC; same Sun label) D+22.84. Third Way's Kessler: 'a spectacular night for moderate Democrats' (he tied it to flips in KS, IA, SC).",
+      "source": "https://www.washingtonsun.com/campaigns/democrats-progressives-feuding-meaning-midterms-results-trump",
+      "verified": true
+    },
+    {
+      "claim": "Moderates argue the environment, not ideology, carried progressives; progressives argue fighters won.",
+      "evidence": "Kessler: El-Sayed probably doesn't win Michigan in a neutral year. Indivisible's Levin and CPC chair Casar argue voters wanted a fight. Washington Sun: because Democrats overperformed across the board, neither faction can claim a mandate.",
+      "source": "https://www.washingtonsun.com/campaigns/democrats-progressives-feuding-meaning-midterms-results-trump",
+      "verified": true
+    },
+    {
+      "claim": "A democratic socialist statewide nominee in Florida ran only about 1.6 pts behind a former-Republican moderate on the same ballot.",
+      "evidence": "Senate special: Nixon (D; CBS calls her a democratic socialist) 48.0-50.9, shift 10.2; Governor: Jolly (D) 48.7-50.0, shift 11.8. Both lost. (Miami-Dade figure removed: not verified.)",
+      "source": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+      "verified": true
+    },
+    {
+      "claim": "An independent labor-populist (Osborn) in Nebraska cut the GOP margin by ~14 pts vs 2024 but still lost.",
+      "evidence": "Ricketts 50.4 vs Osborn 43.7 (R+6.7) vs Trump +20.46 in 2024; 91% in. Margin is Independent-minus-Republican.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/nebraska-senate-results",
+      "verified": true
+    },
+    {
+      "claim": "Pragmatic incumbent governor Shapiro posted one of the biggest swings, including ~23-27 pt shifts in working-class western PA and rural counties.",
+      "evidence": "PA Gov shift D+23.75; Beaver +26.83, Armstrong +22.81, Adams +24.83, Allegheny +23.35. Shapiro called his recruits 'get-stuff-done Democrats' (CBS).",
+      "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results",
+      "verified": true
+    },
+    {
+      "claim": "In Iowa, the governor nominee (Sand) out-swung the Senate nominee (Turek) by 6.7-14.0 pts in every sampled rural county.",
+      "evidence": "Gov statewide shift D+24.19 vs Senate D+17.32; e.g., Adair +31.5 vs +17.54 (gap 13.96), Allamakee +22.68 vs +15.95 (gap 6.73). No ideological label found for either in fetched sources.",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+      "verified": true
+    },
+    {
+      "claim": "In Iowa, the governor nominee (Sand) out-swung the Senate nominee (Turek) by 7-14 pts in every sampled rural county.",
+      "evidence": "Gov statewide shift D+24.19 vs Senate D+17.32; e.g., Adair +31.5 vs +17.54. No ideological label found for either in fetched sources.",
+      "source": "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results",
+      "verified": true
+    }
+  ],
+  "notes": "Conventions: margins are Dem minus Rep in percentage points (positive = D), and shift = 2026 margin minus 2024 presidential margin (positive = toward D). State 2024 margins come from Wikipedia's 2024 results-by-state table (https://en.wikipedia.org/wiki/2024_United_States_presidential_election). 2026 shares come from NBC News results pages last updated around 10:50-11:00 AM ET on Nov 4. Computed shifts match NBC's own shift figures to within 0.1-0.2. All 2026 counts are incomplete: CA 59%, AK 74%, OR 75%, AZ 83%, ME 86%; most others 95-99% (ME updated to ~87%, MA 89%, WV 96%). MS Senate and AK Senate are uncalled, and FL-27 is headed to a recount. NBC county tables show only the first six counties alphabetically, so county samples are illustrative, not representative or chosen. County racial and college-town descriptions are Census/background knowledge, not from the sources. NYT Voter Trends figures come from the user-supplied PDF (research/nyt_voter_trends.json); nytimes.com cannot be fetched. The Washington Post county-shift and voting-groups interactives returned 403, and CNN takeaways and live pages returned 451, so those findings are secondhand via search summaries. Exit poll figures (NBC, CNN, AP VoteCast) are estimates. No 2022 margin comparisons were found, only 2022 turnout and composition comparisons. Incumbency confounds same-ballot style comparisons (Collins, Shapiro, Hochul, Scott VT, Ayotte NH). The web search budget ran out before targeted searches on Asian-heavy counties, Central Valley CA, Arizona Latino counties, Ohio Senate county data and South Texas county margins. Verification pass: the web-search budget was exhausted, so remaining unverified items could only be checked by direct page fetches.",
+  "verification": {
+    "as_of": "2026-11-04T11:20:00-05:00",
+    "checked_items": 132,
+    "corrections": [
+      "Sedgwick Co. KS: removed Hamilton 55-42.8 / Trump ~14 figures not present on cited CNBC page",
+      "West Bloomfield: 42% baseline was misattributed to Trump; Bridge gives it as Rogers' 2024 share (not Trump's)",
+      "TX-21: removed implied call ('still won'); NBC shows Teixeira (R) 54.5-45.5 at 99% in with no visible call; added district shift D+13.04",
+      "Iowa Sand-vs-Turek county gap corrected from '7-14' to 6.7-14.0 pts",
+      "MS county comparison relabelled 'non-Black-majority' instead of 'white rural' (background demographics)",
+      "Jasper Co. MS: 19-pt shift nulled (not on cited CNBC page)",
+      "TX-15: shift 41.2 (derived from approx. baseline at 89%) replaced with NBC-stated 42.65; shares updated to 62.3-37.7 at 95.1%",
+      "TX-35: shift 24 (derived from approx. shares) replaced with NBC-stated 21.41; shares 55.4-44.6 at 97.2%",
+      "South Texas border: removed unverified 'early vote up 63%' (CBS) figure",
+      "Miami-Dade: removed unverified Jolly 53-46 and turnout figures (not on cited page)",
+      "FL-27: added NBC pres-baseline shift D+14.25 and current shares 50.2-49.8 (99% in)",
+      "CO-8: added NBC pres-baseline shift D+16.53 and shares 55.5-40.8 (78.5% in)",
+      "Removed AP VoteCast Hispanic figure with no source URL",
+      "Removed AP VoteCast 18-29 figure with no source URL",
+      "Region summary: Maine Senate shift updated 0.8 -> 0.6",
+      "PA Gov updated to 60.4-38.3 at 98.5% (margin 22.1, shift 23.81)",
+      "ME Senate updated to 53.7-46.2 at 86.8% (margin 7.5, shift 0.56; NBC 0.43)",
+      "ME Gov updated to 55.1-36.9 at 86.9% (margin 18.2, shift 11.26)",
+      "Updated % expected vote in: MA 89.4, WV 96.3, OH 98.0, ID 94.6",
+      "OK Gov share corrected 45.9 -> 45.8 (shift 28.06)",
+      "TX Gov: removed unsupported 'Abbott conceded'",
+      "MI style claim: removed unsourced MSU poll detail and unsupported 'gap widest in rural' wording",
+      "Talarico rural over-performance range corrected from 2.5-5.3 to 1.95-5.29 pts",
+      "Maine style claim: Senate shift updated to 0.43; Jackson labelled progressive per Washington Sun; removed unsourced Collins-six-counties/Auburn detail",
+      "Centrist claim: 'self-described' wording replaced; labels are the Washington Sun's"
+    ],
+    "unresolved": [
+      "Macomb Co. MI shift (D+10) rests on a 54%-counted snapshot; no later county count retrieved",
+      "Jasper Co. MS shift: needs an independent county source",
+      "Miami-Dade governor margin and 2024 baseline still needed",
+      "CNN exit poll: Talarico 61% among Texas Latino men unverified (CNN 451)",
+      "White non-college R share: NYT capture says 59%, Washington Examiner attributes 69% to a NYT survey",
+      "Catalist early-vote composition (CNN) unverified (451)",
+      "WaPo majority-Hispanic county analysis unverified (403)",
+      "Ideological labels from PCCC (Talarico) and Stanford Daily (Brown) lack source URLs"
+    ]
+  }
+}

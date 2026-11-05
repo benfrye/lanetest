@@ -1,0 +1,1056 @@
+{
+ "units": [
+  {
+   "id": "AL",
+   "house26": -10.1429,
+   "house26_sd": 0.189,
+   "pct_counted": 0.9856,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 7,
+   "rel26": 5.4027,
+   "electorate_adj": -0.0121
+  },
+  {
+   "id": "AK",
+   "house26": 0.6945,
+   "house26_sd": 5.0,
+   "pct_counted": 1.0,
+   "imputed_share": 1.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": -0.948,
+   "electorate_adj": -0.1337
+  },
+  {
+   "id": "AZ",
+   "house26": 13.3472,
+   "house26_sd": 1.2881,
+   "pct_counted": 0.8692,
+   "imputed_share": 0.1111,
+   "hatched": true,
+   "n_districts": 9,
+   "rel26": 3.5999,
+   "electorate_adj": 0.1763
+  },
+  {
+   "id": "AR",
+   "house26": -20.6129,
+   "house26_sd": 0.25,
+   "pct_counted": 0.99,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 4,
+   "rel26": -4.6086,
+   "electorate_adj": -0.1857
+  },
+  {
+   "id": "CA",
+   "house26": 32.9942,
+   "house26_sd": 1.284,
+   "pct_counted": 0.6795,
+   "imputed_share": 0.1731,
+   "hatched": true,
+   "n_districts": 52,
+   "rel26": -3.1417,
+   "electorate_adj": 0.4317
+  },
+  {
+   "id": "CO",
+   "house26": 25.0423,
+   "house26_sd": 1.6056,
+   "pct_counted": 0.8271,
+   "imputed_share": 0.0,
+   "hatched": true,
+   "n_districts": 8,
+   "rel26": -1.5865,
+   "electorate_adj": -0.0769
+  },
+  {
+   "id": "CT",
+   "house26": 26.5599,
+   "house26_sd": 0.5312,
+   "pct_counted": 0.9528,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 5,
+   "rel26": -3.5322,
+   "electorate_adj": -0.0332
+  },
+  {
+   "id": "DE",
+   "house26": 28.6,
+   "house26_sd": 0.5,
+   "pct_counted": 0.99,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": -1.6942,
+   "electorate_adj": -0.0026
+  },
+  {
+   "id": "DC",
+   "house26": 101.0082,
+   "house26_sd": 5.0,
+   "pct_counted": null,
+   "imputed_share": 1.0,
+   "hatched": false,
+   "n_districts": 0,
+   "rel26": -0.9569,
+   "electorate_adj": 0.9812
+  },
+  {
+   "id": "FL",
+   "house26": 0.7683,
+   "house26_sd": 0.2012,
+   "pct_counted": 0.9904,
+   "imputed_share": 0.0357,
+   "hatched": false,
+   "n_districts": 28,
+   "rel26": -1.3453,
+   "electorate_adj": 0.1444
+  },
+  {
+   "id": "GA",
+   "house26": 12.67,
+   "house26_sd": 0.1336,
+   "pct_counted": 0.986,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 14,
+   "rel26": -0.457,
+   "electorate_adj": 0.2388
+  },
+  {
+   "id": "HI",
+   "house26": 43.8368,
+   "house26_sd": 0.3536,
+   "pct_counted": 0.99,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 2,
+   "rel26": 4.9405,
+   "electorate_adj": 0.1295
+  },
+  {
+   "id": "ID",
+   "house26": -25.476,
+   "house26_sd": 0.3536,
+   "pct_counted": 0.975,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 2,
+   "rel26": -3.2898,
+   "electorate_adj": -0.4158
+  },
+  {
+   "id": "IL",
+   "house26": 28.6209,
+   "house26_sd": 0.8075,
+   "pct_counted": 0.8891,
+   "imputed_share": 0.0,
+   "hatched": true,
+   "n_districts": 17,
+   "rel26": 2.1496,
+   "electorate_adj": 0.0858
+  },
+  {
+   "id": "IN",
+   "house26": 3.6042,
+   "house26_sd": 0.1667,
+   "pct_counted": 0.9763,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 9,
+   "rel26": 7.5734,
+   "electorate_adj": -0.3222
+  },
+  {
+   "id": "IA",
+   "house26": 0.7111,
+   "house26_sd": 0.25,
+   "pct_counted": 0.9888,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 4,
+   "rel26": -1.179,
+   "electorate_adj": -0.5233
+  },
+  {
+   "id": "KS",
+   "house26": -4.3652,
+   "house26_sd": 0.25,
+   "pct_counted": 0.9785,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 4,
+   "rel26": -3.2894,
+   "electorate_adj": -0.2727
+  },
+  {
+   "id": "KY",
+   "house26": -12.4292,
+   "house26_sd": 0.2041,
+   "pct_counted": 0.99,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 6,
+   "rel26": 3.2633,
+   "electorate_adj": -0.4735
+  },
+  {
+   "id": "LA",
+   "house26": -18.2563,
+   "house26_sd": 1.1902,
+   "pct_counted": 0.9933,
+   "imputed_share": 0.3333,
+   "hatched": false,
+   "n_districts": 6,
+   "rel26": -11.235,
+   "electorate_adj": 0.101
+  },
+  {
+   "id": "ME",
+   "house26": 15.9,
+   "house26_sd": 1.5782,
+   "pct_counted": 0.911,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 2,
+   "rel26": -6.5243,
+   "electorate_adj": -0.8462
+  },
+  {
+   "id": "ME-1",
+   "house26": 32.4,
+   "house26_sd": 2.4,
+   "pct_counted": 0.904,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": -5.0187,
+   "electorate_adj": -0.852
+  },
+  {
+   "id": "ME-2",
+   "house26": -0.6,
+   "house26_sd": 2.05,
+   "pct_counted": 0.918,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": -6.701,
+   "electorate_adj": -0.7917
+  },
+  {
+   "id": "MD",
+   "house26": 39.7234,
+   "house26_sd": 2.0067,
+   "pct_counted": 0.7781,
+   "imputed_share": 0.0,
+   "hatched": true,
+   "n_districts": 8,
+   "rel26": -5.1218,
+   "electorate_adj": 0.2725
+  },
+  {
+   "id": "MA",
+   "house26": 39.3802,
+   "house26_sd": 1.2115,
+   "pct_counted": 0.9622,
+   "imputed_share": 0.4444,
+   "hatched": false,
+   "n_districts": 9,
+   "rel26": -1.8661,
+   "electorate_adj": -0.1648
+  },
+  {
+   "id": "MI",
+   "house26": 10.469,
+   "house26_sd": 0.6107,
+   "pct_counted": 0.9526,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 13,
+   "rel26": -3.4242,
+   "electorate_adj": -0.2447
+  },
+  {
+   "id": "MN",
+   "house26": 13.3005,
+   "house26_sd": 0.1768,
+   "pct_counted": 0.9883,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 8,
+   "rel26": -6.3786,
+   "electorate_adj": -0.4424
+  },
+  {
+   "id": "MS",
+   "house26": -5.9139,
+   "house26_sd": 0.25,
+   "pct_counted": 0.956,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 4,
+   "rel26": 1.8954,
+   "electorate_adj": 0.1534
+  },
+  {
+   "id": "MO",
+   "house26": -0.4791,
+   "house26_sd": 0.1768,
+   "pct_counted": 0.9864,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 8,
+   "rel26": 2.86,
+   "electorate_adj": -0.3486
+  },
+  {
+   "id": "MT",
+   "house26": -12.9402,
+   "house26_sd": 0.7315,
+   "pct_counted": 0.9565,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 2,
+   "rel26": -7.6978,
+   "electorate_adj": -0.6413
+  },
+  {
+   "id": "NE",
+   "house26": -14.8272,
+   "house26_sd": 0.94,
+   "pct_counted": 0.9323,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 3,
+   "rel26": -9.3222,
+   "electorate_adj": -0.3764
+  },
+  {
+   "id": "NE-1",
+   "house26": -4.2487,
+   "house26_sd": 1.95,
+   "pct_counted": 0.922,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": -6.3561,
+   "electorate_adj": -0.3511
+  },
+  {
+   "id": "NE-2",
+   "house26": 15.8111,
+   "house26_sd": 1.975,
+   "pct_counted": 0.921,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": -4.2089,
+   "electorate_adj": -0.2171
+  },
+  {
+   "id": "NE-3",
+   "house26": -56.044,
+   "house26_sd": 0.5,
+   "pct_counted": 0.954,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": -16.9489,
+   "electorate_adj": -0.4989
+  },
+  {
+   "id": "NV",
+   "house26": 18.0201,
+   "house26_sd": 1.7222,
+   "pct_counted": 0.8668,
+   "imputed_share": 0.0,
+   "hatched": true,
+   "n_districts": 4,
+   "rel26": 5.8434,
+   "electorate_adj": 0.2078
+  },
+  {
+   "id": "NH",
+   "house26": 17.5866,
+   "house26_sd": 1.0794,
+   "pct_counted": 0.937,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 2,
+   "rel26": -0.5703,
+   "electorate_adj": -0.7346
+  },
+  {
+   "id": "NJ",
+   "house26": 29.0323,
+   "house26_sd": 0.5934,
+   "pct_counted": 0.9434,
+   "imputed_share": 0.0833,
+   "hatched": false,
+   "n_districts": 12,
+   "rel26": 7.6689,
+   "electorate_adj": 0.1578
+  },
+  {
+   "id": "NM",
+   "house26": 22.4667,
+   "house26_sd": 0.2887,
+   "pct_counted": 0.9797,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 3,
+   "rel26": 0.9892,
+   "electorate_adj": 0.4341
+  },
+  {
+   "id": "NY",
+   "house26": 30.8409,
+   "house26_sd": 0.7394,
+   "pct_counted": 0.911,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 26,
+   "rel26": 2.8157,
+   "electorate_adj": 0.1801
+  },
+  {
+   "id": "NC",
+   "house26": 14.3654,
+   "house26_sd": 0.1336,
+   "pct_counted": 0.9899,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 14,
+   "rel26": 2.2904,
+   "electorate_adj": 0.0283
+  },
+  {
+   "id": "ND",
+   "house26": -21.9979,
+   "house26_sd": 0.5,
+   "pct_counted": 0.973,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": 0.0594,
+   "electorate_adj": -0.4944
+  },
+  {
+   "id": "OH",
+   "house26": 3.317,
+   "house26_sd": 0.1291,
+   "pct_counted": 0.9799,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 15,
+   "rel26": -0.7055,
+   "electorate_adj": -0.3356
+  },
+  {
+   "id": "OK",
+   "house26": -18.6788,
+   "house26_sd": 0.2236,
+   "pct_counted": 0.9834,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 5,
+   "rel26": 0.9256,
+   "electorate_adj": -0.1283
+  },
+  {
+   "id": "OR",
+   "house26": 17.6462,
+   "house26_sd": 2.2419,
+   "pct_counted": 0.795,
+   "imputed_share": 0.0,
+   "hatched": true,
+   "n_districts": 6,
+   "rel26": -12.5556,
+   "electorate_adj": -0.3564
+  },
+  {
+   "id": "PA",
+   "house26": 13.7784,
+   "house26_sd": 0.3168,
+   "pct_counted": 0.9864,
+   "imputed_share": 0.0588,
+   "hatched": false,
+   "n_districts": 17,
+   "rel26": 0.1691,
+   "electorate_adj": -0.2869
+  },
+  {
+   "id": "RI",
+   "house26": 33.0615,
+   "house26_sd": 0.3536,
+   "pct_counted": 0.9705,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 2,
+   "rel26": 3.5634,
+   "electorate_adj": -0.2253
+  },
+  {
+   "id": "SC",
+   "house26": -2.3391,
+   "house26_sd": 0.189,
+   "pct_counted": 0.9899,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 7,
+   "rel26": 0.4486,
+   "electorate_adj": 0.0187
+  },
+  {
+   "id": "SD",
+   "house26": -28.0,
+   "house26_sd": 0.5,
+   "pct_counted": 0.99,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": -13.4455,
+   "electorate_adj": -0.5703
+  },
+  {
+   "id": "TN",
+   "house26": -10.0538,
+   "house26_sd": 0.1667,
+   "pct_counted": 0.9892,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 9,
+   "rel26": 4.7316,
+   "electorate_adj": -0.2207
+  },
+  {
+   "id": "TX",
+   "house26": 8.5255,
+   "house26_sd": 0.0811,
+   "pct_counted": 0.9862,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 38,
+   "rel26": 7.0679,
+   "electorate_adj": 0.4028
+  },
+  {
+   "id": "UT",
+   "house26": 0.7286,
+   "house26_sd": 4.3901,
+   "pct_counted": 0.655,
+   "imputed_share": 0.0,
+   "hatched": true,
+   "n_districts": 4,
+   "rel26": 7.6036,
+   "electorate_adj": -0.2468
+  },
+  {
+   "id": "VT",
+   "house26": 35.692,
+   "house26_sd": 0.5,
+   "pct_counted": 0.99,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": -12.4141,
+   "electorate_adj": -0.7774
+  },
+  {
+   "id": "VA",
+   "house26": 20.1573,
+   "house26_sd": 0.1508,
+   "pct_counted": 0.9741,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 11,
+   "rel26": -1.0805,
+   "electorate_adj": 0.0793
+  },
+  {
+   "id": "WA",
+   "house26": 26.9615,
+   "house26_sd": 2.6548,
+   "pct_counted": 0.668,
+   "imputed_share": 0.0,
+   "hatched": true,
+   "n_districts": 10,
+   "rel26": -7.3038,
+   "electorate_adj": -0.1906
+  },
+  {
+   "id": "WV",
+   "house26": -18.4605,
+   "house26_sd": 0.3536,
+   "pct_counted": 0.962,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 2,
+   "rel26": 8.8916,
+   "electorate_adj": -0.6449
+  },
+  {
+   "id": "WI",
+   "house26": 9.6224,
+   "house26_sd": 0.6465,
+   "pct_counted": 0.9864,
+   "imputed_share": 0.125,
+   "hatched": false,
+   "n_districts": 8,
+   "rel26": -4.84,
+   "electorate_adj": -0.4507
+  },
+  {
+   "id": "WY",
+   "house26": -23.5828,
+   "house26_sd": 0.5,
+   "pct_counted": 0.966,
+   "imputed_share": 0.0,
+   "hatched": false,
+   "n_districts": 1,
+   "rel26": 8.0399,
+   "electorate_adj": -0.5153
+  }
+ ],
+ "national_house26": 13.836,
+ "durable_phi_default": 1,
+ "senate": [
+  {
+   "id": "AL",
+   "race": "SEN-AL",
+   "margin": -9.4
+  },
+  {
+   "id": "AK",
+   "race": "SEN-AK",
+   "margin": 0.3122
+  },
+  {
+   "id": "AR",
+   "race": "SEN-AR",
+   "margin": -12.3061
+  },
+  {
+   "id": "CO",
+   "race": "SEN-CO",
+   "margin": 25.3138
+  },
+  {
+   "id": "DE",
+   "race": "SEN-DE",
+   "margin": 27.2
+  },
+  {
+   "id": "FL",
+   "race": "SEN-FL-special",
+   "margin": -2.9323
+  },
+  {
+   "id": "GA",
+   "race": "SEN-GA",
+   "margin": 18.0
+  },
+  {
+   "id": "ID",
+   "race": "SEN-ID",
+   "margin": -25.4162
+  },
+  {
+   "id": "IL",
+   "race": "SEN-IL",
+   "margin": 23.5772
+  },
+  {
+   "id": "IA",
+   "race": "SEN-IA",
+   "margin": 4.2312
+  },
+  {
+   "id": "KS",
+   "race": "SEN-KS",
+   "margin": 4.9485
+  },
+  {
+   "id": "KY",
+   "race": "SEN-KY",
+   "margin": -12.3596
+  },
+  {
+   "id": "LA",
+   "race": "SEN-LA",
+   "margin": -1.8
+  },
+  {
+   "id": "ME",
+   "race": "SEN-ME",
+   "margin": 6.9069
+  },
+  {
+   "id": "MA",
+   "race": "SEN-MA",
+   "margin": 32.4268
+  },
+  {
+   "id": "MI",
+   "race": "SEN-MI",
+   "margin": 7.1429
+  },
+  {
+   "id": "MN",
+   "race": "SEN-MN",
+   "margin": 10.3803
+  },
+  {
+   "id": "MS",
+   "race": "SEN-MS",
+   "margin": 0.0102
+  },
+  {
+   "id": "MT",
+   "race": "SEN-MT",
+   "margin": -12.892
+  },
+  {
+   "id": "NE",
+   "race": "SEN-NE",
+   "margin": -7.234
+  },
+  {
+   "id": "NH",
+   "race": "SEN-NH",
+   "margin": 14.053
+  },
+  {
+   "id": "NJ",
+   "race": "SEN-NJ",
+   "margin": 27.5154
+  },
+  {
+   "id": "NM",
+   "race": "SEN-NM",
+   "margin": 26.4
+  },
+  {
+   "id": "NC",
+   "race": "SEN-NC",
+   "margin": 20.0409
+  },
+  {
+   "id": "OH",
+   "race": "SEN-OH-special",
+   "margin": 5.042
+  },
+  {
+   "id": "OK",
+   "race": "SEN-OK",
+   "margin": -18.7565
+  },
+  {
+   "id": "OR",
+   "race": "SEN-OR",
+   "margin": 16.9928
+  },
+  {
+   "id": "RI",
+   "race": "SEN-RI",
+   "margin": 38.6056
+  },
+  {
+   "id": "SC",
+   "race": "SEN-SC",
+   "margin": 4.499
+  },
+  {
+   "id": "SD",
+   "race": "SEN-SD",
+   "margin": -21.0
+  },
+  {
+   "id": "TN",
+   "race": "SEN-TN",
+   "margin": -12.449
+  },
+  {
+   "id": "TX",
+   "race": "SEN-TX",
+   "margin": 12.3344
+  },
+  {
+   "id": "VA",
+   "race": "SEN-VA",
+   "margin": 22.4449
+  },
+  {
+   "id": "WV",
+   "race": "SEN-WV",
+   "margin": -21.2058
+  },
+  {
+   "id": "WY",
+   "race": "SEN-WY",
+   "margin": -30.4
+  }
+ ],
+ "governor": [
+  {
+   "id": "AL",
+   "race": "GOV-AL",
+   "margin": -4.2
+  },
+  {
+   "id": "AK",
+   "race": "GOV-AK",
+   "margin": 25.4151
+  },
+  {
+   "id": "AZ",
+   "race": "GOV-AZ",
+   "margin": 13.1231
+  },
+  {
+   "id": "AR",
+   "race": "GOV-AR",
+   "margin": -16.5405
+  },
+  {
+   "id": "CA",
+   "race": "GOV-CA",
+   "margin": 28.4
+  },
+  {
+   "id": "CO",
+   "race": "GOV-CO",
+   "margin": 28.254
+  },
+  {
+   "id": "CT",
+   "race": "GOV-CT",
+   "margin": 17.8
+  },
+  {
+   "id": "FL",
+   "race": "GOV-FL",
+   "margin": -1.3171
+  },
+  {
+   "id": "GA",
+   "race": "GOV-GA",
+   "margin": 8.6
+  },
+  {
+   "id": "HI",
+   "race": "GOV-HI",
+   "margin": 46.8
+  },
+  {
+   "id": "ID",
+   "race": "GOV-ID",
+   "margin": -27.7405
+  },
+  {
+   "id": "IL",
+   "race": "GOV-IL",
+   "margin": 23.4747
+  },
+  {
+   "id": "IA",
+   "race": "GOV-IA",
+   "margin": 11.0
+  },
+  {
+   "id": "KS",
+   "race": "GOV-KS",
+   "margin": 0.6
+  },
+  {
+   "id": "ME",
+   "race": "GOV-ME",
+   "margin": 19.1304
+  },
+  {
+   "id": "MD",
+   "race": "GOV-MD",
+   "margin": 30.7612
+  },
+  {
+   "id": "MA",
+   "race": "GOV-MA",
+   "margin": 28.2316
+  },
+  {
+   "id": "MI",
+   "race": "GOV-MI",
+   "margin": 10.998
+  },
+  {
+   "id": "MN",
+   "race": "GOV-MN",
+   "margin": 13.1498
+  },
+  {
+   "id": "NE",
+   "race": "GOV-NE",
+   "margin": -9.2473
+  },
+  {
+   "id": "NV",
+   "race": "GOV-NV",
+   "margin": 7.5157
+  },
+  {
+   "id": "NH",
+   "race": "GOV-NH",
+   "margin": -4.3655
+  },
+  {
+   "id": "NM",
+   "race": "GOV-NM",
+   "margin": 14.4
+  },
+  {
+   "id": "NY",
+   "race": "GOV-NY",
+   "margin": 20.2405
+  },
+  {
+   "id": "OH",
+   "race": "GOV-OH",
+   "margin": 8.1696
+  },
+  {
+   "id": "OK",
+   "race": "GOV-OK",
+   "margin": -6.3395
+  },
+  {
+   "id": "OR",
+   "race": "GOV-OR",
+   "margin": 6.7901
+  },
+  {
+   "id": "PA",
+   "race": "GOV-PA",
+   "margin": 22.3911
+  },
+  {
+   "id": "RI",
+   "race": "GOV-RI",
+   "margin": 62.4294
+  },
+  {
+   "id": "SC",
+   "race": "GOV-SC",
+   "margin": -4.5593
+  },
+  {
+   "id": "SD",
+   "race": "GOV-SD",
+   "margin": -27.0
+  },
+  {
+   "id": "TN",
+   "race": "GOV-TN",
+   "margin": -2.8249
+  },
+  {
+   "id": "TX",
+   "race": "GOV-TX",
+   "margin": 7.2081
+  },
+  {
+   "id": "VT",
+   "race": "GOV-VT",
+   "margin": -7.1283
+  },
+  {
+   "id": "WI",
+   "race": "GOV-WI",
+   "margin": 8.2
+  },
+  {
+   "id": "WY",
+   "race": "GOV-WY",
+   "margin": -64.7059
+  }
+ ],
+ "V16": {
+  "national_house26": 13.836,
+  "nyt_topline_two_party": 13.1313,
+  "gap": 0.7047,
+  "within_1_5": true,
+  "bucket_match_share": 0.8163,
+  "bucket_pass": false,
+  "mismatches": [
+   {
+    "state": "MD",
+    "nyt": "D_70plus",
+    "ours": "D_55_70",
+    "house26": 39.7234,
+    "match": false
+   },
+   {
+    "state": "AZ",
+    "nyt": "D_50_55",
+    "ours": "D_55_70",
+    "house26": 13.3472,
+    "match": false
+   },
+   {
+    "state": "MT",
+    "nyt": "R_50_55",
+    "ours": "R_55_70",
+    "house26": -12.9402,
+    "match": false
+   },
+   {
+    "state": "NE",
+    "nyt": "R_50_55",
+    "ours": "R_55_70",
+    "house26": -14.8272,
+    "match": false
+   },
+   {
+    "state": "UT",
+    "nyt": "R_50_55",
+    "ours": "D_50_55",
+    "house26": 0.7286,
+    "match": false
+   },
+   {
+    "state": "KY",
+    "nyt": "R_50_55",
+    "ours": "R_55_70",
+    "house26": -12.4292,
+    "match": false
+   },
+   {
+    "state": "TN",
+    "nyt": "R_50_55",
+    "ours": "R_55_70",
+    "house26": -10.0538,
+    "match": false
+   },
+   {
+    "state": "LA",
+    "nyt": "R_50_55",
+    "ours": "R_55_70",
+    "house26": -18.2563,
+    "match": false
+   },
+   {
+    "state": "FL",
+    "nyt": "R_50_55",
+    "ours": "D_50_55",
+    "house26": 0.7683,
+    "match": false
+   }
+  ],
+  "pass": false,
+  "note": "District vote totals are not on disk: districts are equal-weighted within a state and states weighted by 2024 presidential turnout. NYT buckets were read by eye from a map (approximate)."
+ }
+}

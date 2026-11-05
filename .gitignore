@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+site/dist/
+site/dist-*/
+analysis/.venv/
+__pycache__/
+*.pyc
+# Copyrighted source material (NYT page PDF and text extracted from it) stays local.
+research/external/

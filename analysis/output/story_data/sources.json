@@ -1,0 +1,386 @@
+{
+ "total_citations": 4695,
+ "total_domains": 244,
+ "nyt_citations": 19,
+ "datasets": [
+  {
+   "dataset": "Race results (House, Senate, governor)",
+   "citations": 2942,
+   "domains": 120,
+   "top": [
+    {
+     "domain": "en.wikipedia.org",
+     "name": "Wikipedia",
+     "citations": 1485
+    },
+    {
+     "domain": "nbcnews.com",
+     "name": "NBC News",
+     "citations": 723
+    },
+    {
+     "domain": "docs.google.com",
+     "name": "The Downballot (data sheets)",
+     "citations": 257
+    },
+    {
+     "domain": "the-downballot.com",
+     "name": "The Downballot",
+     "citations": 85
+    },
+    {
+     "domain": "api.sos.ca.gov",
+     "name": "California Secretary of State",
+     "citations": 52
+    },
+    {
+     "domain": "apnews.com",
+     "name": "Associated Press",
+     "citations": 33
+    },
+    {
+     "domain": "flelectionfiles.floridados.gov",
+     "name": "Florida Division of Elections",
+     "citations": 28
+    },
+    {
+     "domain": "davesredistricting.org",
+     "name": "davesredistricting.org",
+     "citations": 28
+    }
+   ]
+  },
+  {
+   "dataset": "Primaries and 2025 races",
+   "citations": 369,
+   "domains": 47,
+   "top": [
+    {
+     "domain": "en.wikipedia.org",
+     "name": "Wikipedia",
+     "citations": 192
+    },
+    {
+     "domain": "nbcnews.com",
+     "name": "NBC News",
+     "citations": 103
+    },
+    {
+     "domain": "cbsnews.com",
+     "name": "CBS News",
+     "citations": 7
+    },
+    {
+     "domain": "newsweek.com",
+     "name": "newsweek.com",
+     "citations": 5
+    },
+    {
+     "domain": "npr.org",
+     "name": "npr.org",
+     "citations": 4
+    },
+    {
+     "domain": "multistate.us",
+     "name": "multistate.us",
+     "citations": 4
+    },
+    {
+     "domain": "city-journal.org",
+     "name": "city-journal.org",
+     "citations": 4
+    },
+    {
+     "domain": "axios.com",
+     "name": "axios.com",
+     "citations": 3
+    }
+   ]
+  },
+  {
+   "dataset": "Ballot measures",
+   "citations": 294,
+   "domains": 12,
+   "top": [
+    {
+     "domain": "en.wikipedia.org",
+     "name": "Wikipedia",
+     "citations": 127
+    },
+    {
+     "domain": "nbcnews.com",
+     "name": "NBC News",
+     "citations": 112
+    },
+    {
+     "domain": "nbcsandiego.com",
+     "name": "nbcsandiego.com",
+     "citations": 10
+    },
+    {
+     "domain": "calmatters.org",
+     "name": "CalMatters",
+     "citations": 10
+    },
+    {
+     "domain": "boston.com",
+     "name": "boston.com",
+     "citations": 8
+    },
+    {
+     "domain": "wbur.org",
+     "name": "wbur.org",
+     "citations": 7
+    },
+    {
+     "domain": "sgfcitizen.org",
+     "name": "sgfcitizen.org",
+     "citations": 6
+    },
+    {
+     "domain": "gazette.com",
+     "name": "gazette.com",
+     "citations": 6
+    }
+   ]
+  },
+  {
+   "dataset": "Exit polls and national results",
+   "citations": 85,
+   "domains": 20,
+   "top": [
+    {
+     "domain": "nbcnews.com",
+     "name": "NBC News",
+     "citations": 41
+    },
+    {
+     "domain": "aljazeera.com",
+     "name": "aljazeera.com",
+     "citations": 8
+    },
+    {
+     "domain": "abcnews.com",
+     "name": "ABC News",
+     "citations": 7
+    },
+    {
+     "domain": "cbsnews.com",
+     "name": "CBS News",
+     "citations": 5
+    },
+    {
+     "domain": "sg.news.yahoo.com",
+     "name": "sg.news.yahoo.com",
+     "citations": 2
+    },
+    {
+     "domain": "gelliottmorris.com",
+     "name": "Strength in Numbers (G. Elliott Morris)",
+     "citations": 2
+    },
+    {
+     "domain": "time.com",
+     "name": "time.com",
+     "citations": 2
+    },
+    {
+     "domain": "nytimes.com",
+     "name": "New York Times",
+     "citations": 2
+    }
+   ]
+  },
+  {
+   "dataset": "County and regional shifts",
+   "citations": 142,
+   "domains": 15,
+   "top": [
+    {
+     "domain": "nbcnews.com",
+     "name": "NBC News",
+     "citations": 95
+    },
+    {
+     "domain": "nytimes.com",
+     "name": "New York Times",
+     "citations": 17
+    },
+    {
+     "domain": "bridgemi.com",
+     "name": "Bridge Michigan",
+     "citations": 6
+    },
+    {
+     "domain": "latintimes.com",
+     "name": "latintimes.com",
+     "citations": 4
+    },
+    {
+     "domain": "cnbc.com",
+     "name": "cnbc.com",
+     "citations": 3
+    },
+    {
+     "domain": "washingtonsun.com",
+     "name": "washingtonsun.com",
+     "citations": 3
+    },
+    {
+     "domain": "gelliottmorris.com",
+     "name": "Strength in Numbers (G. Elliott Morris)",
+     "citations": 2
+    },
+    {
+     "domain": "fox4news.com",
+     "name": "fox4news.com",
+     "citations": 2
+    }
+   ]
+  },
+  {
+   "dataset": "Analysis and commentary",
+   "citations": 45,
+   "domains": 27,
+   "top": [
+    {
+     "domain": "nbcnews.com",
+     "name": "NBC News",
+     "citations": 8
+    },
+    {
+     "domain": "newsweek.com",
+     "name": "newsweek.com",
+     "citations": 5
+    },
+    {
+     "domain": "split-ticket.org",
+     "name": "Split Ticket",
+     "citations": 3
+    },
+    {
+     "domain": "yahoo.com",
+     "name": "yahoo.com",
+     "citations": 2
+    },
+    {
+     "domain": "jacobin.com",
+     "name": "jacobin.com",
+     "citations": 2
+    },
+    {
+     "domain": "thenation.com",
+     "name": "thenation.com",
+     "citations": 2
+    },
+    {
+     "domain": "washingtonsun.com",
+     "name": "washingtonsun.com",
+     "citations": 2
+    },
+    {
+     "domain": "en.wikipedia.org",
+     "name": "Wikipedia",
+     "citations": 2
+    }
+   ]
+  },
+  {
+   "dataset": "2028 contenders",
+   "citations": 798,
+   "domains": 64,
+   "top": [
+    {
+     "domain": "en.wikipedia.org",
+     "name": "Wikipedia",
+     "citations": 342
+    },
+    {
+     "domain": "defirate.com",
+     "name": "DeFi Rate (Kalshi odds)",
+     "citations": 78
+    },
+    {
+     "domain": "polymarket.com",
+     "name": "Polymarket",
+     "citations": 43
+    },
+    {
+     "domain": "echeloninsights.com",
+     "name": "Echelon Insights",
+     "citations": 41
+    },
+    {
+     "domain": "nbcnews.com",
+     "name": "NBC News",
+     "citations": 35
+    },
+    {
+     "domain": "newsweek.com",
+     "name": "newsweek.com",
+     "citations": 28
+    },
+    {
+     "domain": "stratpolitics.org",
+     "name": "stratpolitics.org",
+     "citations": 27
+    },
+    {
+     "domain": "harvardharrispoll.com",
+     "name": "harvardharrispoll.com",
+     "citations": 23
+    }
+   ]
+  },
+  {
+   "dataset": "State demographics",
+   "citations": 20,
+   "domains": 8,
+   "top": [
+    {
+     "domain": "en.wikipedia.org",
+     "name": "Wikipedia",
+     "citations": 9
+    },
+    {
+     "domain": "api.census.gov",
+     "name": "U.S. Census Bureau",
+     "citations": 5
+    },
+    {
+     "domain": "www2.census.gov",
+     "name": "U.S. Census Bureau",
+     "citations": 1
+    },
+    {
+     "domain": "election.lab.ufl.edu",
+     "name": "University of Florida Election Lab",
+     "citations": 1
+    },
+    {
+     "domain": "census.gov",
+     "name": "U.S. Census Bureau",
+     "citations": 1
+    },
+    {
+     "domain": "github.com",
+     "name": "github.com",
+     "citations": 1
+    },
+    {
+     "domain": "ava.prri.org",
+     "name": "PRRI",
+     "citations": 1
+    },
+    {
+     "domain": "bls.gov",
+     "name": "bls.gov",
+     "citations": 1
+    }
+   ]
+  }
+ ],
+ "user_supplied": [
+  "New York Times Voter Trends page, supplied as a PDF (nytimes.com cannot be fetched automatically)"
+ ]
+}

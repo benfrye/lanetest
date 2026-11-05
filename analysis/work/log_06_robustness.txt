@@ -1,0 +1,28 @@
+R1: margin scale (D-R points) with m24 spline n=403 progre=-0.60 left_p=+1.18 center=+2.51 modera=+1.03
+R1: margin - house24 (House, unchanged lines) n=236 progre=+0.54 left_p=+1.75 center=+1.94 modera=+0.37
+R1: raw 2026 margin with m24 spline           n=403 progre=-0.51 left_p=+1.17 center=+2.49 modera=+1.08
+R2: leave out Maine                           n=399 progre=-0.69 left_p=+1.32 center=+2.90 modera=+1.26
+R2: leave out California                      n=403 progre=-0.82 left_p=+1.22 center=+2.82 modera=+1.25
+R2: leave out redistricted states             n=277 progre=-0.69 left_p=+0.31 center=+1.45 modera=+0.80
+R2: drop each archetype's 3 highest-leverage races n=392 progre=-0.19 left_p=+1.48 center=+2.43 modera=+0.93
+R2 LOSO range: {'progressive': {'min': -1.356336346857423, 'max': -0.43067574434572375, 'argmin': 'NY', 'argmax': 'MN'}, 'left_populist': {'min': 0.6866402732022807, 'max': 1.5227389792152746, 'argmin': 'TX', 'argmax': 'IL'}, 'center_populist': {'min': 1.7464254755953328, 'max': 3.2505892749157583, 'argmin': 'TX', 'argmax': 'VT'}, 'moderate': {'min': 0.7504294655529472, 'max': 1.542815494438584, 'argmin': 'TX', 'argmax': 'PA'}}
+R2 top statewide DFBETA: [{'id': 'GOV-VT', 'dbeta_L': -0.06816010213842416, 'dbeta_P': 0.3853900544503053}, {'id': 'SEN-SC', 'dbeta_L': -0.028304174738968957, 'dbeta_P': 0.19687402076038651}, {'id': 'GOV-OK', 'dbeta_L': 0.0006910986157175891, 'dbeta_P': -0.14918061383241277}]
+R3: Set B (rule-based) labels only            n=403 progre=+0.20 left_p=+1.04 center=+0.86 modera=-0.14
+R3: high-confidence labels only               n= 65 progre=+0.57 left_p=+0.57 center=+0.04 modera=-0.26
+R3: Set C soft labels                         n=403 progre=-1.21 left_p=-0.98 center=-0.14 modera=+0.42
+R3: strict source-date audit (dated/primary-record only keep Set A) n=403 progre=-0.12 left_p=+0.62 center=+0.89 modera=+0.23
+R3: all archetype deviations u_a on (min-N ignored) n=403 progre=-0.72 left_p=+1.29 center=+2.85 modera=+1.26
+R3 label-flip attenuation A (beta_L, beta_P) = [0.5258391307255375, 0.4222633574480018], OLS base [-2.36404324  3.46376025]
+SIMEX (q=0.132): beta_L -2.36 -> -4.00; beta_P 3.46 -> 6.24
+R4: House only                                n=346 progre=-0.50 left_p=+1.46 center=+2.88 modera=+1.35
+R4: statewide only                            n= 57 progre=-1.61 left_p=-0.59 center=+1.39 modera=+1.44
+R4: Nov 2026 only (no specials)               n=396 progre=-0.34 left_p=+1.36 center=+2.58 modera=+0.99
+R4: extended sample (|pres2024| <= 30)        n=296 progre=-0.83 left_p=+1.59 center=+3.04 modera=+1.24
+R4: competitive only (|pres2024| <= 20)       n=211 progre=-1.46 left_p=+0.96 center=+2.10 modera=+0.59
+R4: competitive only, margin scale (previous headline spec) n=211 progre=-1.30 left_p=+0.99 center=+2.16 modera=+0.67
+R4: provisional (p >= 0.5)                    n=475 progre=-0.71 left_p=+1.33 center=+2.72 modera=+1.23
+R6: random effects without Mundlak terms (between-state) n=403 progre=-0.87 left_p=+1.18 center=+2.90 modera=+1.31
+direction_depends_on_prior: {'progressive': False, 'left_populist': False, 'center_populist': False, 'moderate': False}
+selection report: {'progressive': (30, 4, 0.13), 'left_populist': (16, 2, 0.12), 'center_populist': (3, 1, 0.33), 'mainstream_liberal': (350, 58, 0.17), 'moderate': (81, 12, 0.15)}
+provisional_archetypes: ['center_populist']
+done in 18s

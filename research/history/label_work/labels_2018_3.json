@@ -1,0 +1,586 @@
+{
+ "cycle": 2018,
+ "coder": "batch_2018_3",
+ "labels": {
+  "NC-9": {
+   "name": "Dan McCready",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; NewDem PAC endorsed (Mar 2018); DCCC Red to Blue; Marine veteran businessman",
+   "label_source_url": "https://rollcall.com/2018/03/09/new-democrats-pac-endorses-first-16-candidates-for-2018/",
+   "verified_fetch": true
+  },
+  "NC-13": {
+   "name": "Kathy Manning",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; NewDem PAC endorsed (Jul 2018); DCCC Red to Blue",
+   "label_source_url": "https://rollcall.com/2018/07/12/new-democrats-pac-endorses-13-more-candidates/",
+   "verified_fetch": true
+  },
+  "ND-AL": {
+   "name": "Mac Schneider",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; former state senate minority leader",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "NE-2": {
+   "name": "Kara Eastman",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + PCCC + WFP; Medicare for All; insurgent who beat DCCC-backed ex-Rep. Brad Ashford in primary",
+   "label_source_url": "https://www.nbcnews.com/politics/elections/meet-progressive-whose-surprise-win-just-spoiled-establishment-democrats-plans-n874701",
+   "verified_fetch": true
+  },
+  "NH-1": {
+   "name": "Chris Pappas",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Establishment-backed (nearly every NH elected Dem); Medicare buy-in not M4A; DCCC Red to Blue; Brand New Congress marker judged a false match",
+   "label_source_url": "https://ballotpedia.org/New_Hampshire%27s_1st_Congressional_District_election_(September_11,_2018_Democratic_primary)",
+   "verified_fetch": true
+  },
+  "NH-2": {
+   "name": "Annie Kuster",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem member; conventional party-line Democrat, no explicit centrist branding",
+   "label_source_url": "https://en.wikipedia.org/wiki/Ann_McLane_Kuster",
+   "verified_fetch": false
+  },
+  "NJ-2": {
+   "name": "Jeff Van Drew",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; conservative-leaning longtime state senator; DCCC Red to Blue",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "NJ-3": {
+   "name": "Andy Kim",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former Obama NSC official; DCCC Red to Blue; single PCCC listing; campaign centred on ACA/health care",
+   "label_source_url": "https://www.inquirer.com/philly/news/politics/andy-kim-tom-macarthur-midterms-nj-congress-trump-20180827.html",
+   "verified_fetch": true
+  },
+  "NJ-4": {
+   "name": "Josh Welle",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Navy veteran; With Honor and VoteVets backing; campaign on Smith absenteeism and health costs; no left or centrist markers",
+   "label_source_url": "https://ballotpedia.org/Josh_Welle",
+   "verified_fetch": true
+  },
+  "NJ-5": {
+   "name": "Josh Gottheimer",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog member; New Dem member; Problem Solvers co-chair; Blue Dog PAC endorsed",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "NJ-6": {
+   "name": "Frank Pallone",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-time incumbent; CPC member (plain membership not left); committee ranking member",
+   "label_source_url": "https://en.wikipedia.org/wiki/Frank_Pallone",
+   "verified_fetch": false
+  },
+  "NJ-7": {
+   "name": "Tom Malinowski",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former Asst. Sec. of State; DCCC Red to Blue; NewDem PAC endorsed but no centrist branding; Brand New Congress marker judged a false match",
+   "label_source_url": "https://rollcall.com/2018/07/12/new-democrats-pac-endorses-13-more-candidates/",
+   "verified_fetch": true
+  },
+  "NJ-11": {
+   "name": "Mikie Sherrill",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; NewDem PAC endorsed (Mar 2018); Navy pilot/prosecutor; said she would not back Pelosi",
+   "label_source_url": "https://rollcall.com/2018/03/09/new-democrats-pac-endorses-first-16-candidates-for-2018/",
+   "verified_fetch": true
+  },
+  "NM-1": {
+   "name": "Deb Haaland",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Our Revolution + PCCC; \"unapologetically progressive\" platform with Medicare for All and federal jobs guarantee; former state party chair (institutional ties)",
+   "label_source_url": "https://ballotpedia.org/New_Mexico%27s_1st_Congressional_District_election_(June_5,_2018_Democratic_primary)",
+   "verified_fetch": true
+  },
+  "NM-2": {
+   "name": "Xochitl Torres Small",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; DCCC Red to Blue; water attorney in Trump +11 seat",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "NM-3": {
+   "name": "Ben Ray Luj\u00e1n",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent DCCC chair; conventional party leadership figure",
+   "label_source_url": "https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n",
+   "verified_fetch": false
+  },
+  "NV-2": {
+   "name": "Clint Koble",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former Nevada USDA Farm Service Agency director; long-shot challenger, little ideological coverage found",
+   "label_source_url": "https://ballotpedia.org/Nevada%27s_2nd_Congressional_District_election,_2018",
+   "verified_fetch": true
+  },
+  "NV-3": {
+   "name": "Susie Lee",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem PAC endorsed (Mar 2018); DCCC Red to Blue; measured approach avoiding sweeping progressive proposals",
+   "label_source_url": "https://rollcall.com/2018/03/09/new-democrats-pac-endorses-first-16-candidates-for-2018/",
+   "verified_fetch": true
+  },
+  "NV-4": {
+   "name": "Steven Horsford",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former U.S. Representative; DCCC Red to Blue; conventional; Brand New Congress marker judged a false match",
+   "label_source_url": "https://en.wikipedia.org/wiki/Steven_Horsford",
+   "verified_fetch": false
+  },
+  "NY-1": {
+   "name": "Perry Gershon",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Businessman; DCCC Red to Blue; supported Medicare for All but no Sanders/OR/WFP backing",
+   "label_source_url": "https://ballotpedia.org/New_York%27s_1st_Congressional_District_election_(June_26,_2018_Democratic_primary)",
+   "verified_fetch": true
+  },
+  "NY-2": {
+   "name": "Liuba Grechen Shirley",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Our Revolution + Progressive Democrats of America; Medicare for All, $15 minimum wage; grassroots working-mom outsider campaign",
+   "label_source_url": "https://pdamerica.org/help-new-yorks-liuba-grechen-shirley-join-alexandria-ocasio-cortez-in-congress/",
+   "verified_fetch": true
+  },
+  "NY-3": {
+   "name": "Thomas Suozzi",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; Problem Solvers Caucus member with bipartisan branding",
+   "label_source_url": "https://en.wikipedia.org/wiki/Tom_Suozzi",
+   "verified_fetch": false
+  },
+  "NY-4": {
+   "name": "Kathleen Rice",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem member in safe seat; conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/Kathleen_Rice",
+   "verified_fetch": false
+  },
+  "NY-11": {
+   "name": "Max Rose",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC + NewDem PAC endorsed; pledged not to vote for Pelosi; no-corporate-PAC/lobbyist pledge alongside DCCC Red to Blue backing",
+   "label_source_url": "https://www.cityandstateny.com/articles/politics/campaigns-elections/max-rose-running-congress-can-do-military-veteran.html",
+   "verified_fetch": true
+  },
+  "NY-14": {
+   "name": "Alexandria Ocasio-Cortez",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + Brand New Congress + Our Revolution + PCCC; DSA member; working-class insurgent who beat Rep. Joe Crowley",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+   "verified_fetch": false
+  },
+  "NY-18": {
+   "name": "Sean Patrick Maloney",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Incumbent New Dem member in Trump-won swing seat; pragmatic/bipartisan profile",
+   "label_source_url": "https://en.wikipedia.org/wiki/Sean_Patrick_Maloney",
+   "verified_fetch": false
+  },
+  "NY-19": {
+   "name": "Antonio Delgado",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Branded himself \"an independent voice in Congress\"; opposed Medicare for All (public option); no-corporate-PAC pledge; DCCC Red to Blue",
+   "label_source_url": "https://www.pressreader.com/usa/the-record-troy-ny/20181031/281625306303184",
+   "verified_fetch": true
+  },
+  "NY-20": {
+   "name": "Paul Tonko",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-time incumbent; conventional party-line liberal",
+   "label_source_url": "https://en.wikipedia.org/wiki/Paul_Tonko",
+   "verified_fetch": false
+  },
+  "NY-21": {
+   "name": "Tedra Cobb",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Our Revolution + DCCC Red to Blue; wavered on Medicare for All (leaned toward it); ex-county legislator attacking Stefanik as insider",
+   "label_source_url": "https://www.adirondackdailyenterprise.com/news/local-news/2018/10/where-ny-21-candidates-stand-on-health-care",
+   "verified_fetch": true
+  },
+  "NY-22": {
+   "name": "Anthony Brindisi",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; NewDem PAC endorsed (Mar 2018); state assemblyman; DCCC Red to Blue",
+   "label_source_url": "https://rollcall.com/2018/03/09/new-democrats-pac-endorses-first-16-candidates-for-2018/",
+   "verified_fetch": true
+  },
+  "NY-23": {
+   "name": "Tracy Mitrano",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Ithaca academic; campaigned on Medicare for All without Sanders/OR/WFP backing; gun-owning Democrat",
+   "label_source_url": "https://oleantimesherald.com/2018/10/11/rep-tom-reed-calls-out-candidate-mitrano-over-support-for-medicare-for-all",
+   "verified_fetch": true
+  },
+  "NY-24": {
+   "name": "Dana Balter",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Our Revolution + PCCC; progressive activist who beat DCCC-backed Juanita Perez Williams 62-38 with local-party support; later Red to Blue",
+   "label_source_url": "https://ballotpedia.org/New_York%27s_24th_Congressional_District_election_(June_26,_2018_Democratic_primary)",
+   "verified_fetch": true
+  },
+  "NY-25": {
+   "name": "Joseph Morelle",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State Assembly Majority Leader; party-backed open-seat nominee",
+   "label_source_url": "https://en.wikipedia.org/wiki/Joseph_Morelle",
+   "verified_fetch": false
+  },
+  "OH-1": {
+   "name": "Aftab Pureval",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Hamilton County clerk of courts; DCCC Red to Blue; conventional campaign",
+   "label_source_url": "https://en.wikipedia.org/wiki/Aftab_Pureval",
+   "verified_fetch": false
+  },
+  "OH-2": {
+   "name": "Jill Schiller",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former Obama White House OMB special assistant; conventional challenger",
+   "label_source_url": "https://ballotpedia.org/Ohio%27s_2nd_Congressional_District_election,_2018",
+   "verified_fetch": true
+  },
+  "OH-10": {
+   "name": "Theresa Gasper",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Dayton businesswoman (Republican-turned-Democrat); local party/DCCC memo support; no clear ideological markers",
+   "label_source_url": "https://ballotpedia.org/Theresa_Gasper",
+   "verified_fetch": true
+  },
+  "OH-12": {
+   "name": "Danny O'Connor",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Franklin County recorder; called for new leadership in both parties and opposed Pelosi as leader; promised to work with Republicans",
+   "label_source_url": "https://www.mediaite.com/tv/ohios-danny-oconnor-speaks-out-on-balderson-and-pelosi-as-tight-race-still-too-close-to-call",
+   "verified_fetch": true
+  },
+  "OH-13": {
+   "name": "Tim Ryan",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; blue-collar Youngstown profile and 2016 challenge to Pelosi on working-class message, otherwise conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/Tim_Ryan_(Ohio_politician)",
+   "verified_fetch": false
+  },
+  "OH-14": {
+   "name": "Betsy Rader",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Self-described moderate (\"moderate candidates like me\"); rejected single-payer for Medicare buy-in; no corporate/labor PAC money; grew up poor in Appalachian Ohio (Hillbilly Elegy rebuttal)",
+   "label_source_url": "https://www.ideastream.org/community/2018-10-23/ohios-14th-district-roiled-over-healthcare-tax-cuts-and-trump",
+   "verified_fetch": true
+  },
+  "OH-15": {
+   "name": "Rick Neal",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former international aid worker, first-time candidate; little ideological coverage found",
+   "label_source_url": "https://ballotpedia.org/Rick_Neal",
+   "verified_fetch": false
+  },
+  "OH-16": {
+   "name": "Susan Moran Palmer",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Medical-device sales/health-industry professional, first-time candidate; no markers found",
+   "label_source_url": "https://ballotpedia.org/Ohio%27s_16th_Congressional_District_election,_2018",
+   "verified_fetch": true
+  },
+  "OK-1": {
+   "name": "Tim Gilpin",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Tulsa attorney, former state Board of Education member; no markers found",
+   "label_source_url": "https://ballotpedia.org/Oklahoma%27s_1st_Congressional_District_election,_2018",
+   "verified_fetch": true
+  },
+  "OK-5": {
+   "name": "Kendra Horn",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Ran as a centrist; did not support Medicare for All; did not commit to Pelosi; EMILY's List backed",
+   "label_source_url": "https://www.thenation.com/article/politics/kendra-horn-oklahoma-congress/",
+   "verified_fetch": true
+  },
+  "OR-4": {
+   "name": "Peter DeFazio",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-time incumbent; CPC founding member (plain CPC not left); committee ranking member",
+   "label_source_url": "https://en.wikipedia.org/wiki/Peter_DeFazio",
+   "verified_fetch": false
+  },
+  "OR-5": {
+   "name": "Kurt Schrader",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog member; New Dem member; Blue Dog PAC endorsed",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "PA-1": {
+   "name": "Scott Wallace",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Self-funding philanthropist; progressive platform incl. Medicare for All and $15 wage; backed by Sierra Club/MoveOn, no Sanders/OR/WFP",
+   "label_source_url": "https://www.inquirer.com/philly/opinion/editorials/brian-fitzpatrick-scott-wallace-pa-1-midterm-election-2018-endorsement-20181024.html",
+   "verified_fetch": true
+  },
+  "PA-4": {
+   "name": "Madeleine Dean",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State representative; party-backed open-seat nominee; conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/Madeleine_Dean",
+   "verified_fetch": false
+  },
+  "PA-5": {
+   "name": "Mary Gay Scanlon",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Attorney/school board; party-backed open-seat nominee; conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon",
+   "verified_fetch": false
+  },
+  "PA-6": {
+   "name": "Chrissy Houlahan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Air Force veteran/business executive; NewDem PAC endorsed (Mar 2018) but no explicit centrist branding found; DCCC Red to Blue; Clinton +10 seat",
+   "label_source_url": "https://rollcall.com/2018/03/09/new-democrats-pac-endorses-first-16-candidates-for-2018/",
+   "verified_fetch": true
+  },
+  "PA-7": {
+   "name": "Susan Wild",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Lehigh County commissioner; DCCC Red to Blue; beat conservative and Sanders-backed rivals from the centre-left",
+   "label_source_url": "https://en.wikipedia.org/wiki/Susan_Wild",
+   "verified_fetch": false
+  },
+  "PA-8": {
+   "name": "Matt Cartwright",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent CPC member (plain membership not left) in Trump-won seat; conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/Matt_Cartwright",
+   "verified_fetch": false
+  },
+  "PA-9": {
+   "name": "Denny Wolff",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; former PA agriculture secretary, farmer",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "PA-10": {
+   "name": "George Scott",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; Army veteran and pastor; DCCC Red to Blue",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "PA-11": {
+   "name": "Jess King",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + Our Revolution + PCCC; no corporate PAC money or party help; challenged Smucker on corporate-PAC dependence",
+   "label_source_url": "https://www.pbs.org/newshour/politics/the-rise-of-the-anti-pac-democrat",
+   "verified_fetch": true
+  },
+  "PA-13": {
+   "name": "Brent Ottaway",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Described by WITF as a moderate Democrat; St. Francis communications professor, first-time candidate",
+   "label_source_url": "https://witf.org/2018/10/30/voters-to-choose-between-two-first-time-candidates-in-13th-district",
+   "verified_fetch": true
+  },
+  "PA-14": {
+   "name": "Bibiana Boerio",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Retired auto-industry executive; health-care-focused campaign (fix ACA); no markers found",
+   "label_source_url": "https://www.wesa.fm/post/democrat-bibiana-boerio-turns-general-election-gop-friendly-14th-district",
+   "verified_fetch": true
+  },
+  "PA-16": {
+   "name": "Ron DiNicola",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed; Marine veteran, attorney; DCCC Red to Blue",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "PA-17": {
+   "name": "Conor Lamb",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent (2018 special winner) who ran as moderate: opposed Pelosi as leader, pro-gun-rights stance",
+   "label_source_url": "https://en.wikipedia.org/wiki/Conor_Lamb",
+   "verified_fetch": false
+  }
+ }
+}

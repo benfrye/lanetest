@@ -1,0 +1,566 @@
+{
+ "cycle": 2022,
+ "coder": "batch_2022_3",
+ "labels": {
+  "MN-8": {
+   "name": "Jennifer Schultz",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "MPR 2022 voter guide: backs single-payer/Medicare for All but wants to 'be a bridge between environmental groups and the mining industry'; DFL-endorsed state rep, backed by Rick Nolan and TakeAction MN; no Sanders/OR/WFP marker; 'country above party' op-ed",
+   "label_source_url": "https://www.mprnews.org/story/2022/10/20/gua-del-votante-conozca-las-posturas-de-los-candidatos-del-8-distrito",
+   "verified_fetch": true
+  },
+  "MO-1": {
+   "name": "Cori Bush",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats-endorsed, WFP, CPC; Squad-aligned left insurgent (beat Clay 2020) now incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582",
+   "verified_fetch": false
+  },
+  "MO-2": {
+   "name": "Trish Gunby",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State rep; labor-backed (\"pro-worker\" per Labor Tribune), campaign centred on abortion rights and calling Wagner extremist; no left or centrist markers",
+   "label_source_url": "https://missouriindependent.com/2022/08/02/trish-gunby-defeats-ray-reed-in-missouris-2nd-congressional-district-democratic-primary/",
+   "verified_fetch": false
+  },
+  "MO-4": {
+   "name": "Jack Truman",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "style_confidence": "high",
+   "style_evidence": "Self-described 'liberal conservative' bridging both parties; \"I'm not a politician\", government needs 'regular people', self-funded protest candidacy 'For the people'",
+   "label_source_url": "https://www.kbia.org/2022-11-07/candidate-conversations-jack-truman",
+   "verified_fetch": true
+  },
+  "MO-7": {
+   "name": "Kristen Radaker-Sheafer",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Political newcomer (bakery owner, Joplin); fine with voter ID, called student-debt forgiveness unwise, energy independence; positions right of party but no explicit centrist label",
+   "label_source_url": "https://digital-release.ozarksfirst.com/your-local-election-hq/missouri-election-november-2022/see-where-missouri-7th-district-candidates-stand-on-certain-issues/amp/",
+   "verified_fetch": true
+  },
+  "MS-4": {
+   "name": "Johnny DuPree",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former Hattiesburg mayor, 2011 gubernatorial nominee; conventional party nominee, no ideological markers found",
+   "label_source_url": "https://www.wjtv.com/news/election/meet-the-candidates-johnny-dupree/amp",
+   "verified_fetch": true
+  },
+  "MT-1": {
+   "name": "Monica Tranel",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund; pitched as 'an independent voice', 'not wedded to party'; career fighting big corporations/utilities, invokes 'Prairie Populism', calls Zinke 'a purchased politician', no corporate PAC money",
+   "label_source_url": "https://www.eenews.net/articles/how-zinkes-democratic-opponent-plans-to-beat-him/",
+   "verified_fetch": true
+  },
+  "NC-1": {
+   "name": "Don Davis",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed, NewDem Action Fund, DCCC Red to Blue; AIPAC, CBC PAC",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "NC-4": {
+   "name": "Valerie Foushee",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "high",
+   "style_evidence": "EMILY's List, AIPAC/UDP, NewDem Action Fund, CBC PAC; party-backed candidate who beat left candidate Nida Allam",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "NC-6": {
+   "name": "Kathy Manning",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem member in D+12.6 seat; AIPAC, End Citizens United, LCV; conventional incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "NC-7": {
+   "name": "Charles Graham",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Lumbee state rep (since 2011), retired educator; campaign centred on Lumbee/Indigenous representation, Social Security/Medicaid; NC AFL-CIO, Sierra Club; past HB2 vote hints conservative lean but no centrist branding found",
+   "label_source_url": "https://ictnews.org/news/charles-graham-wins-democratic-nomination/",
+   "verified_fetch": true
+  },
+  "NC-9": {
+   "name": "Ben Clark",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Air Force veteran state senator; campaign bio: govern by 'working across the aisle, finding areas of agreement and compromise, standing up to special interests'",
+   "label_source_url": "https://ballotpedia.org/North_Carolina%27s_9th_Congressional_District_election,_2022",
+   "verified_fetch": false
+  },
+  "NC-11": {
+   "name": "Jasmine Beach-Ferrara",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Buncombe County commissioner, minister and LGBTQ-rights advocate (Campaign for Southern Equality); local party officials backing; no left/centrist group markers",
+   "label_source_url": "https://ballotpedia.org/Jasmine_Beach-Ferrara",
+   "verified_fetch": false
+  },
+  "NC-13": {
+   "name": "Wiley Nickel",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed, NewDem Action Fund, DCCC Red to Blue; endorsed by Blue Dog figures (Costa, Cardoza, Coelho)",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "NC-14": {
+   "name": "Jeff Jackson",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund + DCCC Red to Blue in D+16.6 seat; state senator known for anti-gerrymandering, no-corporate-PAC Senate run; no explicit centrist branding",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "NE-1": {
+   "name": "Patty Pansing Brooks",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Lincoln state senator; conventional Democratic campaign (abortion rights); crossover endorsement from GOP first lady Susanne Shore; no left/centrist markers",
+   "label_source_url": "https://nebraskaexaminer.com/2022/11/08/mike-flood-beats-patty-pansing-brooks-in-nebraskas-1st-district-adrian-smith-wins-in-3rd/",
+   "verified_fetch": false
+  },
+  "NE-2": {
+   "name": "Tony Vargas",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund + DCCC Red to Blue; campaign attacked Bacon as \"talks centrist, votes conservative\", codify Roe; no explicit centrist branding found for 2022",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "NH-1": {
+   "name": "Chris Pappas",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "New Dem + Problem Solvers Caucus member, swing seat",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "NH-2": {
+   "name": "Annie Kuster",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem member in D+9 seat; conventional incumbent, no Problem Solvers/Blue Dog marker",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "NJ-2": {
+   "name": "Tim Alexander",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Civil rights attorney/ex-detective; WFP, Collective PAC, county-line backed; campaign on Van Drew's party switch and South Jersey funding, police reform, voting rights",
+   "label_source_url": "https://whyy.org/articles/nj-2022-midterm-elections-2nd-congressional-district-jeff-van-drew-tim-alexander",
+   "verified_fetch": true
+  },
+  "NJ-3": {
+   "name": "Andy Kim",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member, WFP, DFA; no-corporate-PAC pledge but conventional swing-seat incumbent; CPC alone not left",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "NJ-5": {
+   "name": "Josh Gottheimer",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog + New Dem + Problem Solvers co-chair; Blue Dog PAC; US Chamber endorsement",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "NJ-6": {
+   "name": "Frank Pallone",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member, WFP; long-time committee chair, conventional party-line incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "NJ-7": {
+   "name": "Tom Malinowski",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "New Dem + Problem Solvers Caucus member in D+3.9 swing seat (also WFP line)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "NJ-8": {
+   "name": "Rob Menendez",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Party-machine pick (Booker, Murphy, Sires, county leaders); son of Sen. Menendez; no left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "verified_fetch": false
+  },
+  "NJ-9": {
+   "name": "Bill Pascrell",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-serving conventional incumbent; CWA, NJEA, LCV, Sierra Club",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_Jersey&oldid=1120618357",
+   "verified_fetch": false
+  },
+  "NJ-11": {
+   "name": "Mikie Sherrill",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog member + New Dem; Blue Dog PAC endorsed",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "NM-1": {
+   "name": "Melanie Stansbury",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member, WFP, Warren endorsement; conventional incumbent; CPC alone not left",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "NM-2": {
+   "name": "Gabe Vasquez",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "WFP + NewDem Action Fund + DCCC Red to Blue; self-styled 'progressive outdoorsman', \"I don't come from money\", reverse 'gross wealth inequality', tax the wealthy; institutional backing",
+   "label_source_url": "https://gabeforcongress.com/2022/06/08/gabe-vasquez-wins-democratic-primary-will-face-yvette-herrell-for-congressional-seat/",
+   "verified_fetch": true
+  },
+  "NM-3": {
+   "name": "Teresa Leger Fernandez",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member; conventional incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "NV-1": {
+   "name": "Dina Titus",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Conventional long-serving incumbent; no caucus/ideological markers",
+   "label_source_url": "https://ballotpedia.org/Dina_Titus",
+   "verified_fetch": false
+  },
+  "NV-2": {
+   "name": "Elizabeth Krause",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Teacher/Native-rights advocate; SEIU-backed; criticises corporations 'not doing their part', $12/hr wages; no left-group or centrist markers",
+   "label_source_url": "https://thenevadaindependent.com/article/in-ruby-red-congressional-district-2-democrat-krause-seeks-opportunity-despite-an-uphill-battle",
+   "verified_fetch": true
+  },
+  "NV-3": {
+   "name": "Susie Lee",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "New Dem + Problem Solvers Caucus member, swing seat",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "NV-4": {
+   "name": "Steven Horsford",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Problem Solvers + New Dem + CPC member (conflicting); rubric Problem Solvers marker in D+8 swing seat -> moderate, but CPC/CBC profile argues liberal",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "NY-1": {
+   "name": "Bridget Fleming",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "WFP + NewDem Action Fund + DCCC Red to Blue; Suffolk legislator, conventional recruit",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "NY-2": {
+   "name": "Jackie Gordon",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem Coalition, EMILY's List, VoteVets, WFP, R2B; Army veteran; no explicit centrist branding",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "NY-3": {
+   "name": "Robert P. Zimmerman",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DNC member; Hillary Clinton, Steve Israel, DCCC; WFP + NewDem Action Fund + R2B",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "NY-4": {
+   "name": "Laura Gillen",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "NewDem Action Fund, DCCC, Steve Israel; ex-Hempstead supervisor on ethics reform; moderate reputation not verified from pre-election sources",
+   "label_source_url": "https://en.wikipedia.org/wiki/Laura_Gillen",
+   "verified_fetch": true
+  },
+  "NY-7": {
+   "name": "Nydia Velázquez",
+   "ideology": "left",
+   "posture": "establishment",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "CPC + WFP-endorsed long-time Sanders ally and Medicare for All backer; prominently left senior member, now establishment incumbent",
+   "label_source_url": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "verified_fetch": false
+  },
+  "NY-10": {
+   "name": "Dan Goldman",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC-aligned former prosecutor/impeachment counsel; Steve Israel, Vindman; beat left candidates (Niou, Jones) in primary; no explicit centrist branding",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "verified_fetch": false
+  },
+  "NY-11": {
+   "name": "Max Rose",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Former Blue Dog member who voted against Pelosi for Speaker (2019); NewDem Action Fund, R2B, DMFI, VoteVets; brash non-party-guy persona",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "NY-14": {
+   "name": "Alexandria Ocasio-Cortez",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Squad; Justice Democrats, Sunrise, Sanders, Brand New Congress, PCCC; left insurgent now incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582",
+   "verified_fetch": false
+  },
+  "NY-16": {
+   "name": "Jamaal Bowman",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Squad; Justice Democrats, Sanders, Warren, Sunrise, PCCC; beat Engel from the left in 2020, now incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582",
+   "verified_fetch": false
+  },
+  "NY-17": {
+   "name": "Sean Patrick Maloney",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "high",
+   "style_evidence": "DCCC chair; New Dem; Bill Clinton, DMFI; quintessential establishment incumbent who beat left challenger Biaggi",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "NY-18": {
+   "name": "Pat Ryan",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Won Aug 2022 special on abortion rights; WFP, VoteVets, LCV; Army veteran, ex-county exec; some anti-corporate messaging but conventional party campaign",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "verified_fetch": false
+  },
+  "NY-19": {
+   "name": "Josh Riley",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund + R2B, DFA, CWA; refused corporate PAC money and contrasted with Molinaro's corporate PAC funding; otherwise conventional",
+   "label_source_url": "https://cornellsun.com/2022/10/25/who-your-candidates-answer-to-an-investigation-into-riley-and-molinaro-campaign-contributions/",
+   "verified_fetch": false
+  },
+  "NY-20": {
+   "name": "Paul Tonko",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-serving conventional incumbent; LCV, Sierra Club",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_New_York&oldid=1120579796",
+   "verified_fetch": false
+  },
+  "NY-21": {
+   "name": "Matt Castelli",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Self-described moderate; created 'Moderate Party' fusion line for 'the great middle majority'; gun owner opposing assault-weapons ban",
+   "label_source_url": "https://www.wamc.org/news/2022-09-13/democratic-challenger-in-ny-21-congressional-race-outlines-fusion-moderate-party-platform",
+   "verified_fetch": true
+  },
+  "NY-22": {
+   "name": "Francis Conole",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Party-designated (Onondaga Dems), NewDem Action Fund + R2B, Hochul, VoteVets; Navy officer; abortion-focused campaign",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "NY-23": {
+   "name": "Max Della Pia",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Retired Air Force wing commander and Tioga County Dem chair; abortion rights, broader Medicare drug negotiation, praised bipartisan infrastructure bill; no group markers",
+   "label_source_url": "https://www.wskg.org/news/2022-08-18/ny-23-special-election-della-pia-wants-to-serve",
+   "verified_fetch": true
+  },
+  "NY-24": {
+   "name": "Steven Holden",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Retired Army officer running on democracy/rule of law, codifying Roe, Micron jobs Democrats delivered; conventional",
+   "label_source_url": "https://www.wrvo.org/elections/2022-10-27/holden-and-tenney-battle-for-new-yorks-new-24th-district",
+   "verified_fetch": true
+  },
+  "OH-1": {
+   "name": "Greg Landsman",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Democrat Coalition Action Fund, R2B, End Citizens United, HRC, NARAL; Cincinnati councilman; no explicit centrist branding found",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "OH-7": {
+   "name": "Matthew Diemer",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Forward (Yang) endorsement; 'unite, not divide', 'policy over politics', speaks for a 'silent majority' between 'the extreme left and the extreme right'; \"I am not part of Washington\"",
+   "label_source_url": "https://spectrumnews1.com/oh/columbus/news/2022/09/09/matthew-diemer-full-interview-ohio-7",
+   "verified_fetch": true
+  },
+  "OH-9": {
+   "name": "Marcy Kaptur",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-time economic populist (anti-NAFTA) incumbent; 2022 ads stressed pro-police and Majewski extremism, one ad broke with Biden; institutional incumbent",
+   "label_source_url": "https://www.13abc.com/2022/07/21/kaptur-sets-tone-early-tough-reelection-campaign",
+   "verified_fetch": true
+  },
+  "OH-10": {
+   "name": "David Esrati",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Dayton gadfly activist, 'an outsider in every conceivable way', not endorsed by local Democratic Party, $57 in campaign account; money-out-of-politics/age-limits themes",
+   "label_source_url": "https://www.wvxu.org/2022-11-04/a-combative-history-between-candidates-and-district-boundary-changes-mark-u-s-10th-district-house-race",
+   "verified_fetch": true
+  },
+  "OH-13": {
+   "name": "Emilia Sykes",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Democrat Coalition Action Fund + DFA + R2B; former state House minority leader; conventional recruit",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  }
+ }
+}

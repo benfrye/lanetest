@@ -1,0 +1,546 @@
+{
+ "cycle": 2022,
+ "coder": "batch_2022_4",
+ "labels": {
+  "OH-14": {
+   "name": "Matt Kilboy",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Navy nurse/health consultant newcomer; infrastructure, prevention-focused health care, local-control education; no left/centrist/populist framing (Vindicator Oct 2022)",
+   "label_source_url": "https://www.vindy.com/news/local-news/2022/10/democratic-newcomer-takes-on-rep-joyce/",
+   "verified_fetch": true
+  },
+  "OH-15": {
+   "name": "Gary Josephson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Unopposed long-shot; described as activist/union leader; no platform details found (fetches rate-limited)",
+   "label_source_url": "https://ballotpedia.org/Ohio%27s_15th_Congressional_District_election,_2022",
+   "verified_fetch": false
+  },
+  "OK-2": {
+   "name": "Naomi Andrews",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "State party CD-1 vice-chair, tiny campaign (<$8k); no ideological markers found",
+   "label_source_url": "https://ballotpedia.org/Oklahoma%27s_2nd_Congressional_District_election,_2022",
+   "verified_fetch": false
+  },
+  "OK-5": {
+   "name": "Joshua Harris-Till",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former Young Democrats of America president and ex-Boren staffer; Black Wall St Times endorsement frames democracy/healthcare/gun reform, no left or centrist markers",
+   "label_source_url": "https://theblackwallsttimes.com/2022/11/03/endorsement-joshua-harris-till-for-u-s-congress/",
+   "verified_fetch": true
+  },
+  "OR-4": {
+   "name": "Val Hoyle",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State Labor Commissioner; NewDem Action Fund + WFP + EMILY's List + Red to Blue, endorsed by Merkley/Wyden/DeFazio; mixed group signals, conventional party-backed profile",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "OR-5": {
+   "name": "Jamie McLeod-Skinner",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Insurgent who ousted Biden/Pelosi-backed Blue Dog Schrader from the left; Medicare for All, GND, $15; Our Revolution, WFP, Sunrise, PCCC, Warren backing; attacked pharma-friendly incumbent",
+   "label_source_url": "https://www.wweek.com/news/state/2021/10/28/jamie-mcleod-skinner-will-challenge-us-rep-kurt-schrader-from-the-left/",
+   "verified_fetch": true
+  },
+  "OR-6": {
+   "name": "Andrea Salinas",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State rep; Warren (\"progressive champion\"), Jayapal, Gov. Brown, SEIU, LCV, Red to Blue; no Medicare for All/left-org markers found",
+   "label_source_url": "https://opb.org/article/2022/05/17/oregon-us-house-sixth-congressional-district",
+   "verified_fetch": true
+  },
+  "PA-1": {
+   "name": "Ashley Ehasz",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "West Point grad/Army pilot; VoteVets, NARAL, PP endorsements; no ideological framing found in 2022 coverage",
+   "label_source_url": "https://buckscountybeacon.com/2021/10/army-vet-ashley-ehasz-announces-campaign-for-pennsylvanias-1st-congressional-district",
+   "verified_fetch": true
+  },
+  "PA-4": {
+   "name": "Madeleine Dean",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; CPC + New Dem member in safe seat; 2026 calibration lists Dean as mainstream_liberal",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "PA-6": {
+   "name": "Chrissy Houlahan",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent; New Dem + Problem Solvers member (pre-election caucus lists); calibration example for moderate",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "PA-7": {
+   "name": "Susan Wild",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent frontliner in toss-up seat; New Dem member, DMFI/EMILY's List backing; ran on bipartisan record",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "PA-8": {
+   "name": "Matt Cartwright",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; CPC member (plain CPC = liberal) in Trump-won seat; conventional institutional campaign",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "PA-10": {
+   "name": "Shamaine Daniels",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Harrisburg councilmember/immigration lawyer; campaign on protecting Social Security/Medicare vs Perry; no M4A or left-org markers found",
+   "label_source_url": "https://witf.org/2022/11/04/republican-scott-perry-faces-democrat-shamaine-daniels-in-race-for-u-s-congressional-10th-district",
+   "verified_fetch": true
+  },
+  "PA-12": {
+   "name": "Summer Lee",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Justice Democrats, Sanders, Our Revolution, WFP, Sunrise, PCCC; Medicare for All; insurgent who beat establishment/AIPAC-backed corporate lawyer Irwin while campaigning against corporate/dark-money super PACs",
+   "label_source_url": "https://www.thenation.com/article/politics/summer-lee-progressive-victory",
+   "verified_fetch": true
+  },
+  "PA-17": {
+   "name": "Chris Deluzio",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue; campaign built on labor (Allegheny-Fayette CLC, many union PACs: \"You don't win as a Democrat in Western PA without... labor\"), but party-backed conventional profile",
+   "label_source_url": "https://projects.propublica.org/itemizer/committee/C00787648/2022/pac-donations",
+   "verified_fetch": true
+  },
+  "RI-2": {
+   "name": "Seth Magaziner",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "General Treasurer; DCCC Red to Blue; conventional party-backed statewide officeholder",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "SC-1": {
+   "name": "Annie Andrews",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Pediatrician newcomer; gun safety/children's health focus; no-corporate-PAC pledge and two-term limit pledge within a conventional campaign",
+   "label_source_url": "https://www.postandcourier.com/politics/democrat-annie-andrews-raises-500-000-in-congressional-bid-against-scs-nancy-mace/article_21c60a74-6ccb-11ec-8c86-eb402f0a4e4a.html",
+   "verified_fetch": true
+  },
+  "SC-2": {
+   "name": "Judd Larkins",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "First-time candidate, grocery store owner; no ideological markers found",
+   "label_source_url": "https://www.lexingtonchronicle.com/stories/vote-2022-local-contested-races,30028",
+   "verified_fetch": false
+  },
+  "SC-5": {
+   "name": "Evangeline Hundley",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Residential builder/real-estate agent, first run; no ideological markers found",
+   "label_source_url": "https://www.foxcarolina.com/2022/06/07/candidate-us-house-district-5-d-sc-evangeline-hundley/",
+   "verified_fetch": false
+  },
+  "SC-7": {
+   "name": "Daryl Scott",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Uncontested nominee; no platform/ideology info found",
+   "label_source_url": "https://ballotpedia.org/South_Carolina%27s_7th_Congressional_District_election,_2022",
+   "verified_fetch": false
+  },
+  "TN-5": {
+   "name": "Heidi Campbell",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator; press framed as \"progressive Democrat\" vs Trump Republican; endorsed by Bredesen; no left-org/M4A markers found",
+   "label_source_url": "https://tennesseelookout.com/2022/10/04/tennessees-new-5th-congressional-district-features-trump-republican-vs-progressive-democrat/",
+   "verified_fetch": true
+  },
+  "TN-7": {
+   "name": "Odessa Kelly",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + WFP; Medicare for All, housing justice, GND union jobs; working-class Stand Up Nashville organizer, \"the system is broken\", vs \"greedy millionaire\"",
+   "label_source_url": "https://vanderbilthustler.com/2022/03/25/the-system-is-broken-odessa-kelly-speaks-to-vanderbilt-college-democrats",
+   "verified_fetch": true
+  },
+  "TX-1": {
+   "name": "Jrmar Jefferson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Investor; Texas AFL-CIO and UAW endorsements; no other info found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Texas",
+   "verified_fetch": false
+  },
+  "TX-3": {
+   "name": "Sandeep Srivastava",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Collin County realtor/immigrant; message that Self does not represent diverse county; UAW endorsement; no ideological markers",
+   "label_source_url": "https://ballotpedia.org/Texas%27_3rd_Congressional_District_election,_2022",
+   "verified_fetch": false
+  },
+  "TX-8": {
+   "name": "Laura Jones",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "County party chair; no platform info found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Texas",
+   "verified_fetch": false
+  },
+  "TX-10": {
+   "name": "Linda Nuno",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Healthcare worker; Texas AFL-CIO endorsement; no other info found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Texas",
+   "verified_fetch": false
+  },
+  "TX-12": {
+   "name": "Trey Hunt",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Social worker/homeless housing coordinator, unopposed; Texas AFL-CIO endorsement; no ideological markers found",
+   "label_source_url": "https://ballotpedia.org/Texas%27_12th_Congressional_District_election,_2022",
+   "verified_fetch": false
+  },
+  "TX-15": {
+   "name": "Michelle Vallejo",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Medicare for All, $15 wage, anti-war; CPC PAC + WFP endorsed, Sanders rallied with her; beat moderate Ramirez; also Red to Blue backing",
+   "label_source_url": "https://www.texastribune.org/2022/08/24/tx15-vallejo-de-la-cruz-2022-midterm",
+   "verified_fetch": true
+  },
+  "TX-16": {
+   "name": "Veronica Escobar",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; CPC + New Dem member, single PCCC endorsement -> liberal per rubric",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "TX-21": {
+   "name": "Claudia Zapata",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "First-time candidate, state HHS analyst/community activist; grassroots door-to-door campaign in poorer areas; AFL-CIO, Stonewall, Austin Chronicle; no M4A/DSA markers found",
+   "label_source_url": "https://www.austinchronicle.com/news/chronicle-endorsements-for-the-may-24-democratic-run-offs-12137797/",
+   "verified_fetch": true
+  },
+  "TX-22": {
+   "name": "Jamie Jordan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Unopposed attorney nominee; no platform info found",
+   "label_source_url": "https://ballotpedia.org/Texas%27_22nd_Congressional_District_election,_2022",
+   "verified_fetch": false
+  },
+  "TX-23": {
+   "name": "John Lira",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "NewDem Action Fund endorsed + centrist branding: \"I'm not positioning myself as a partisan, I'm positioning myself as a partner\"; bipartisan border solutions; Marine vet, VoteVets, Beto",
+   "label_source_url": "https://elpasomatters.org/2022/09/19/john-lira-aims-to-unseat-el-paso-congressman-tony-gonzales-in-midterm/",
+   "verified_fetch": true
+  },
+  "TX-24": {
+   "name": "Jan McDowell",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Perennial candidate, former county party treasurer/precinct chair; no ideological markers found",
+   "label_source_url": "https://ballotpedia.org/Jan_McDowell",
+   "verified_fetch": false
+  },
+  "TX-28": {
+   "name": "Henry Cuellar",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent Blue Dog member + Blue Dog PAC endorsed; survived left primary challenge with Pelosi/Hoyer backing",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "TX-30": {
+   "name": "Jasmine Crockett",
+   "ideology": "left",
+   "posture": "establishment",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Endorsed by CPC PAC, Our Revolution, WFP, PCCC, DFA, Warren; DMN: platform \"far to the left\"; but handpicked by retiring EBJ and soft-pedaled M4A/GND labels",
+   "label_source_url": "https://dallasnews.com/opinion/editorials/2022/01/30/our-recommendation-in-the-democratic-primary-for-us-house-district-30",
+   "verified_fetch": true
+  },
+  "TX-34": {
+   "name": "Vicente Gonzalez",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent Blue Dog + New Dem + Problem Solvers member, Blue Dog PAC endorsed",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "TX-35": {
+   "name": "Greg Casar",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats, Sanders, AOC, WFP, Sunrise, Brand New Congress; Medicare for All, GND; ex-labor organizer running a \"movement of working people\" with broad union/institutional backing",
+   "label_source_url": "https://www.texastribune.org/2022/03/01/greg-casar-democratic-primary-austin/",
+   "verified_fetch": true
+  },
+  "TX-38": {
+   "name": "Duncan Klussmann",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-superintendent; centrist branding: \"form strong relationships with both sides of the aisle\", \"country first, my party second\"; Houston Chronicle electability pick",
+   "label_source_url": "https://communityimpact.com/houston/cy-fair/government/2022/10/07/qa-meet-the-candidates-for-us-rep-district-38",
+   "verified_fetch": true
+  },
+  "UT-2": {
+   "name": "Nick Mitchell",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "style_confidence": "low",
+   "style_evidence": "Scientist/business owner: \"facts and data, and not partisan politics\", across-the-aisle health care; anti-career-politician (term limits, campaign finance, stock-trading ban), pro-union/liveable wage",
+   "label_source_url": "https://suunews.net/2022/09/12/facts-and-data-not-partisan-politics-an-suu-news-exclusive-interview-with-congress-candidate-nick-mitchell",
+   "verified_fetch": true
+  },
+  "VA-1": {
+   "name": "Herb Jones",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Retired Army colonel, 2019 state senate nominee; no ideological markers found",
+   "label_source_url": "https://ballotpedia.org/Virginia%27s_1st_Congressional_District_election,_2022",
+   "verified_fetch": false
+  },
+  "VA-2": {
+   "name": "Elaine Luria",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent frontliner; New Dem + Problem Solvers member",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "VA-5": {
+   "name": "Josh Throneburg",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Ordained minister/small business owner from Charlottesville, rural upbringing; local-issue campaign; no left or centrist markers found",
+   "label_source_url": "https://cardinalnews.org/2022/10/26/5th-district-candidates-good-and-throneburg-spar-in-farmville/",
+   "verified_fetch": true
+  },
+  "VA-7": {
+   "name": "Abigail Spanberger",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent Blue Dog + New Dem + Problem Solvers member, Blue Dog PAC endorsed; calibration moderate",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "VA-10": {
+   "name": "Jennifer Wexton",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; plain New Dem member in safe seat -> liberal",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "WA-3": {
+   "name": "Marie Gluesenkamp Perez",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "style_confidence": "high",
+   "style_evidence": "NewDem Action Fund; auto-shop owner running on manual-labor/rural identity, \"independent-minded Democrat\" without party support; calibration center_populist",
+   "label_source_url": "https://www.opb.org/article/2022/11/12/marie-gluesenkamp-perez-declares-victory-in-congressional-bid-as-kent-votes-dwindle/",
+   "verified_fetch": true
+  },
+  "WA-4": {
+   "name": "Doug White",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Yakima businessman/farmer, endorsed early by all district Democratic orgs; no ideological markers found",
+   "label_source_url": "https://spokesman.com/stories/2022/oct/06/newhouse-white-face-off-in-4th-congressional-distr",
+   "verified_fetch": true
+  },
+  "WA-5": {
+   "name": "Natasha Hill",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Civil-rights attorney/Gonzaga adjunct, first run; campaign on Jan. 6/democracy; no left or centrist markers",
+   "label_source_url": "https://www.spokanepublicradio.org/regional-news/2022-10-22/mcmorris-rodgers-hill-share-similarities-differences-in-thursday-debate",
+   "verified_fetch": true
+  },
+  "WA-6": {
+   "name": "Derek Kilmer",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; former New Dem Coalition chair with pragmatic/bipartisan reform (Modernization Committee) brand; leadership-level New Dem rather than plain membership",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "WA-7": {
+   "name": "Pramila Jayapal",
+   "ideology": "left",
+   "posture": "establishment",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent CPC chair, Justice Democrats-endorsed, PCCC; calibration progressive",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582",
+   "verified_fetch": false
+  },
+  "WA-8": {
+   "name": "Kim Schrier",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent frontliner in swing seat; New Dem member running on pragmatic/bipartisan record",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "WA-10": {
+   "name": "Marilyn Strickland",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; plain New Dem member in safe seat -> liberal",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "WI-1": {
+   "name": "Ann Roe",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Janesville business owner/newcomer; economic message for families \"left out of politics\"; Wisconsin AFL-CIO endorsed; conventional profile",
+   "label_source_url": "https://wisconsinexaminer.com/2021/07/14/janesville-business-owner-announces-bid-for-congress-in-first-district/",
+   "verified_fetch": true
+  },
+  "WI-3": {
+   "name": "Brad Pfaff",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC + NewDem Action Fund endorsed; state senator/ex-ag secretary backed by Ron Kind and Herb Kohl",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "WY-AL": {
+   "name": "Lynnette Grey Bull",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Activist, 2020 nominee; platform renewable energy, reproductive and LGBTQ rights, gun regulation, health access; \"Defending Democracy\"; no left-org markers",
+   "label_source_url": "https://www.wyomingpublicmedia.org/tribal-news/2022-08-16/democrat-against-hageman-says-it-will-be-a-david-and-goliath-campaign",
+   "verified_fetch": true
+  }
+ }
+}

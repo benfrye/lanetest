@@ -1,0 +1,2251 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "expected_rows": 36,
+ "summary": {
+  "dem_govs_after": 28,
+  "net_change": "D +5 called (GA, IA, NV, OH, TX flipped R->D; no D seats lost so far). 28 Democratic governors secured nationally (24 before election per Wikipedia); 29 if Holscher holds KS, 30 if Kreiss-Tomkins wins AK. NBC headline: Democrats clinch a majority of governorships for first time in 16 years.",
+  "uncalled": [
+   "GOV-KS",
+   "GOV-AK"
+  ],
+  "sources": [
+   "https://www.nbcnews.com/politics/2026-elections/governor-results",
+   "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+   "https://www.cnn.com/2026/11/03/politics/midterm-election-night-takeaways",
+   "https://kansasreflector.com/2026/11/04/kansas-governors-race-deadlocked-between-republican-ty-masterson-democrat-cindy-holscher/"
+  ]
+ },
+ "races": [
+  {
+   "id": "GOV-AL",
+   "office": "Governor",
+   "state": "AL",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Doug Jones",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Former U.S. senator (2017-21) and federal prosecutor; affordability-focused pitch (\"fight for\" ordinary Alabamians), attacked Tuberville residency and megabill vote; endorsed by Gov. Andy Beshear and Alabama AFL-CIO per Wikipedia.",
+    "background": "Former U.S. senator and U.S. attorney; lost 2020 Senate race to Tuberville",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won multi-candidate primary (incl. Will Boyd); not framed as ideological contest."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tommy Tuberville",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 47.9,
+    "rep_pct": 52.1,
+    "other_pct": 0.0,
+    "margin": -4.2,
+    "pct_expected_vote_counted": 98.7,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -30.47,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -37.7,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 26.27,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alabama-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://alabamareflector.com/2025/11/24/doug-jones-enters-2026-alabama-governors-race/",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Rematch of 2020 Senate race. Jones lost by about 4 pts in a Trump +30 state, a ~26-pt overperformance. Wikipedia lead says AP declared Tuberville winner Nov 4. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-AK",
+   "office": "Governor",
+   "state": "AK",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jonathan Kreiss-Tomkins",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "Ran as bipartisan coalition builder: ex-member of Alaska House bipartisan majority, pledged cabinet one-third D/I/R, nonpartisan running mate Zac Johnson, touted moderate-Republican endorsements; education funding central.",
+    "background": "Former Alaska state representative from Sitka",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Top-four open primary (Aug 18); won with 22.5%; fellow Democrat Tom Begich withdrew and endorsed him."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Bernadette Wilson",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 49.1,
+    "rep_pct": 29.2,
+    "other_pct": 21.7,
+    "margin": 19.9,
+    "pct_expected_vote_counted": 75.2,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -13.13,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -26.1,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 33.13,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alaska-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://alaskabeacon.com/2026/09/03/amid-fractured-gop-field-a-democrat-could-be-headed-for-the-alaska-governors-mansion/",
+    "https://www.adn.com/alaska-journal/news/2026/10/04/heeding-ranked-choice-voting-candidates-refine-their-strategies-in-alaska-governors-race/",
+    "https://www.alaskasnewssource.com/2026/11/03/live-blog-midterm-elections-2026/",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Ranked-choice general with three Republicans (Wilson 29.2, Bronson 14.2, Taylor 7.5). Result fields are FIRST-CHOICE shares; margin is vs top Republican (Wilson). Combined Republican first choices (50.9) exceed Kreiss-Tomkins (49.2), so RCV tabulation could decide it. NBC: too early to call at 73.9% in. Republican style for Wilson not researched (defaulted traditional, low confidence). NBC status: Too early to call. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Wikipedia infobox first-choice shares match (KT 49.2, Wilson 29.2, Bronson 14.2, Taylor 7.5) at 74%; elected TBD.",
+   "verified": true
+  },
+  {
+   "id": "GOV-AZ",
+   "office": "Governor",
+   "state": "AZ",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Katie Hobbs",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; governed as pragmatic centrist with record vetoes against GOP legislature; party-backed (Obama, EMILYs List, AZ AFL-CIO endorsements per Wikipedia); unopposed in primary.",
+    "background": "Incumbent governor; former secretary of state and social worker",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Andy Biggs",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "extreme_statements"
+    ]
+   },
+   "result": {
+    "dem_pct": 55.6,
+    "rep_pct": 42.7,
+    "other_pct": 1.7,
+    "margin": 12.9,
+    "pct_expected_vote_counted": 85.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -5.53,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 0.6,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 18.43,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Arizona_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Swing state; Biggs is a Freedom Caucus/Trump-aligned congressman who beat Schweikert with 73.6% in the primary. Potential 2028 relevance: swing-state Democratic governor reelected comfortably. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Wikipedia infobox Hobbs 55.83 / Biggs 42.49 at 76% (older); NBC 82.9% kept.",
+   "verified": true
+  },
+  {
+   "id": "GOV-AR",
+   "office": "Governor",
+   "state": "AR",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Fred Love",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "State senator; little national coverage of positioning found; won primary 81% over a businesswoman.",
+    "background": "Arkansas state senator",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Supha Xayprasith-Mays 81.0%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Sarah Huckabee Sanders",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 38.6,
+    "rep_pct": 53.9,
+    "other_pct": 7.5,
+    "margin": -15.3,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -30.64,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -27.8,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 15.34,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arkansas-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Arkansas_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Style classification low confidence (no campaign-positioning coverage reviewed). Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-CA",
+   "office": "Governor",
+   "state": "CA",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Xavier Becerra",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Former HHS secretary and state attorney general; endorsed by Gov. Newsom and Kamala Harris (Wikipedia endorsements); conventional institutional campaign.",
+    "background": "Former HHS secretary, CA attorney general, congressman",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Top-two primary with 61 candidates; Becerra beat progressive-backed Steyer (Our Revolution) and Porter (Warren), and moderate Mahan (Majority Democrats) to face Hilton."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Steve Hilton",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 64.2,
+    "rep_pct": 35.8,
+    "other_pct": 0.0,
+    "margin": 28.4,
+    "pct_expected_vote_counted": 61.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 20.14,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 18.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 7.86,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/california-governor-results",
+    "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Newsom (potential 2028 candidate) term-limited; successor race. Only 59.3% of expected vote counted. Top-two general had just Becerra and Hilton. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Wikipedia infobox Becerra 64.04 / Hilton 35.96 at 66%; shares identical to NBC; Wikipedia reports 66% vs NBC 59.3%; counted share left at NBC value.",
+   "verified": true
+  },
+  {
+   "id": "GOV-CO",
+   "office": "Governor",
+   "state": "CO",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Phil Weiser",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Two-term attorney general; won state assembly (only candidate over 30%) and beat U.S. Sen. Michael Bennet 56.9-43.1 in primary; Indivisible Colorado endorsement per Wikipedia.",
+    "background": "Colorado attorney general; former law school dean",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Sen. Michael Bennet 56.9-43.1; ideological framing of that contest not established in sources reviewed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Victor Marx",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "extreme_statements"
+    ]
+   },
+   "result": {
+    "dem_pct": 60.6,
+    "rep_pct": 33.9,
+    "other_pct": 5.5,
+    "margin": 26.7,
+    "pct_expected_vote_counted": 83.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 10.99,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 19.3,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 16.31,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/colorado-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Polis (potential 2028 candidate) term-limited. Notable: a sitting U.S. senator (Bennet) lost the gubernatorial primary. GOP nominee Marx made dubious claims per Wikipedia. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-CT",
+   "office": "Governor",
+   "state": "CT",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ned Lamont",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Business-friendly incumbent seeking third term; beat progressive challenger state Rep. Josh Elliott (backed by Sunrise New Haven, Indivisible groups) at convention 74.6% and primary 67.9%.",
+    "background": "Incumbent governor; cable-TV entrepreneur",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Progressive state Rep. Josh Elliott challenged as a progressive; Lamont won 67.9%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ryan Fazio",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 58.9,
+    "rep_pct": 41.1,
+    "other_pct": 0.0,
+    "margin": 17.8,
+    "pct_expected_vote_counted": 95.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 14.51,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 12.9,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 3.09,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/connecticut-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Connecticut_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": " Vote shares from NBC News results page (last updated 10:51 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-FL",
+   "office": "Governor",
+   "state": "FL",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "David Jolly",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Former Republican congressman turned Democrat (2025); pitched coalition of independents and \"commonsense Republicans,\" rejected socialism after primary; affordability, property insurance, ethics reform.",
+    "background": "Former GOP congressman (FL-13), Trump critic, TV commentator",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 61.0% over five lesser-known Democrats."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Byron Donalds",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 48.7,
+    "rep_pct": 50,
+    "other_pct": 1.3,
+    "margin": -1.3,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -13.1,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -19.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 11.8,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/florida-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-election/former-republican-david-jolly-launches-long-shot-bid-florida-governor-rcna211069",
+    "https://www.wlrn.org/government-politics/2026-08-18/david-jolly-governors-race-florida",
+    "https://kdhnews.com/news/politics/jolly-appeals-to-decency-rejects-socialism-after-florida-democratic-primary-win/article_dc532db2-f06d-502e-9bbd-40a1c188f6ec.html",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Lost by 1.3 pts in a Trump +13 state; ~12-pt overperformance. NBC projects Donalds. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Wikipedia infobox Donalds 49.77 / Jolly 48.97 at 97% (8:51 PM EST, older); NBC 50.0/48.7 at 99% kept.",
+   "verified": true
+  },
+  {
+   "id": "GOV-GA",
+   "office": "Governor",
+   "state": "GA",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Keisha Lance Bottoms",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Former Atlanta mayor and Biden White House adviser; Trump-opposition and affordability message (Medicaid expansion, corporate landlords); called herself a political iconoclast; won primary outright 56.2%.",
+    "background": "Former Atlanta mayor; former Biden White House senior adviser",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 56.2% over Esteves, Thurmond, ex-GOP Lt. Gov. Geoff Duncan and others; progressive Ruwa Romman also ran."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rick Jackson",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "self_funder"
+    ]
+   },
+   "result": {
+    "dem_pct": 54.3,
+    "rep_pct": 45.7,
+    "other_pct": 0.0,
+    "margin": 8.6,
+    "pct_expected_vote_counted": 98.6,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -2.2,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -7.5,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 10.8,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/georgia-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.ajc.com/politics/2025/11/bottoms-reframes-her-record-as-2026-races-takes-shape",
+    "https://www.cnn.com/2026/11/03/politics/midterm-election-night-takeaways",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] FLIP R->D. Jackson self-funded ($83M+ in primary per Wikipedia), beat Trump- and Kemp-endorsed Burt Jones, tied himself to Trump. Republican style label is an inference (low confidence). Vote shares from NBC News results page (last updated 10:52 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-HI",
+   "office": "Governor",
+   "state": "HI",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Josh Green",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent physician-governor; won primary 88.5%; conventional party campaign.",
+    "background": "Incumbent governor; emergency-room physician",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 88.5%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Gary Cordery",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 73.4,
+    "rep_pct": 26.6,
+    "other_pct": 0.0,
+    "margin": 46.8,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 23.11,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 26.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 25.69,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/hawaii-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.civilbeat.org/",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Only 79.6% of expected vote counted. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] other_pct -0.0 normalized to 0.0. Civil Beat independently reports Green won (73%+ in first returns); Wikipedia infobox had no 2026 figures; Hawaii Office of Elections page gave no parsable governor totals.",
+   "verified": true
+  },
+  {
+   "id": "GOV-ID",
+   "office": "Governor",
+   "state": "ID",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Terri Pickens",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Boise attorney; won four-way primary 61.4%; no positioning coverage reviewed.",
+    "background": "Attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 61.42% in four-way primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brad Little",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 32.3,
+    "rep_pct": 57.1,
+    "other_pct": 10.5,
+    "margin": -24.8,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -36.49,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -40.2,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 11.49,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/idaho-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Independent John Stegner took 7.6%. Style classification low confidence. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Counts updated from NBC News governor results page re-checked at 11:08 AM ET Nov 4.",
+   "verified": true
+  },
+  {
+   "id": "GOV-IL",
+   "office": "Governor",
+   "state": "IL",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "JB Pritzker",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Billionaire two-term incumbent; unopposed in primary; prominent national Trump antagonist; Illinois AFL-CIO endorsement.",
+    "background": "Incumbent governor; Hyatt heir and investor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Darren Bailey",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 59.7,
+    "rep_pct": 37,
+    "other_pct": 3.3,
+    "margin": 22.7,
+    "pct_expected_vote_counted": 91.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 10.9,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 12.5,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 12.1,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/illinois-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Pritzker is a potential 2028 presidential candidate; rematch with 2022 nominee Bailey. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-IA",
+   "office": "Governor",
+   "state": "IA",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rob Sand",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "State auditor brands as bipartisan watchdog, criticized both parties over fundraising, used green not blue branding, bipartisan leadership team; endorsed by Beshear, Buttigieg, Kelly. Opponent called him a liberal pretending.",
+    "background": "Iowa state auditor; former anti-corruption prosecutor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Zach Lahn",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 55.5,
+    "rep_pct": 44.5,
+    "other_pct": 0.0,
+    "margin": 11.0,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -13.21,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -18.5,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 24.21,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.yahoo.com/news/iowa-auditor-rob-sand-launches-144732299.html",
+    "https://www.cbsnews.com/minnesota/news/rob-sand-iowa-governor-race-2026-election-andy-beshear/",
+    "https://www.newsweek.com/rob-sands-chances-defeating-republican-zach-lahn-iowa-polls-12370608",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "FLIP R->D; first Democratic governor win in Iowa since 2006. Won by 11 in a Trump +13 state (~24-pt overperformance). Lahn upset Trump-endorsed Feenstra in primary; R style label is an inference. Sand has anti-establishment, cross-party elements; borderline center_populist. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-KS",
+   "office": "Governor",
+   "state": "KS",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Cindy Holscher",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "State senator ran populist message attacking billionaires, corporations and data centers to beat Gov. Kelly-endorsed Ethan Corson; then courted moderates on cost of living. Masterson called her a socialist.",
+    "background": "Kansas state senator from Johnson County",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Gov. Laura Kelly-endorsed Ethan Corson with a populist anti-billionaire/data-center message."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ty Masterson",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 50.3,
+    "rep_pct": 49.7,
+    "other_pct": 0.0,
+    "margin": 0.6,
+    "pct_expected_vote_counted": 98.8,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -16.12,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 2.2,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 16.72,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/kansas-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://kansasreflector.com/2026/11/04/kansas-governors-race-deadlocked-between-republican-ty-masterson-democrat-cindy-holscher/",
+    "https://www.axios.com/local/kansas-city/2026/11/04/kansas-governor-race-holscher-masterson",
+    "https://johnsoncountypost.com/2026/11/04/kansas-governor-holscher-masterson-results-300827/",
+    "https://www.kcur.org/politics-elections-and-government/2026-10-14/kansas-governor-race-2026-election-candidates-masterson-holscher",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "UNCALLED (AP and NBC: too close to call). Holscher leads 50.3-49.7 (~5,500-5,900 votes) at ~98% in; provisional and mail ballots arriving by Friday; recount possible. Kansas Senate President Masterson style not researched in depth. NBC status: Too close to call. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Rep style changed traditional->maga: KCUR (Oct 14) calls Masterson a 'GOP firebrand' who ran on a MAGA message with Trump's endorsement (Wikipedia also lists Trump endorsement), later toned down. Holscher populist posture corroborated by KCUR and Johnson County Post (corporate interests, billionaires, data-center moratorium), but she gained Kelly/EMILYs List/AFL-CIO backing post-primary and pivoted to the middle; left_populist kept, borderline vs mainstream_liberal. Wikipedia infobox: Holscher 546,587 (50.26%) vs Masterson 541,030 (49.74%), margin 5,557, 98% reporting; uncalled.",
+   "verified": true
+  },
+  {
+   "id": "GOV-ME",
+   "office": "Governor",
+   "state": "ME",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Hannah Pingree",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Former Maine House speaker from a political family; won RCV primary via alliance with Sanders-backed Troy Jackson and Shenna Bellows over poll-leader Nirav Shah (56-44 final round).",
+    "background": "Former Maine House speaker; daughter of Rep. Chellie Pingree",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Five-way RCV primary; Pingree allied with Sanders/DSA/Our Revolution-backed Troy Jackson and Bellows against Shah and Angus King III."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Bobby Charles",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 54.8,
+    "rep_pct": 37.2,
+    "other_pct": 8,
+    "margin": 17.6,
+    "pct_expected_vote_counted": 91,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 6.94,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 13.3,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 11.46,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maine-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Plurality general; independent Rick Bennett 8.0%. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Counts updated from NBC News governor results page re-checked at 11:08 AM ET Nov 4.",
+   "verified": true
+  },
+  {
+   "id": "GOV-MD",
+   "office": "Governor",
+   "state": "MD",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Wes Moore",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Incumbent; Army veteran and former Robin Hood Foundation CEO; VoteVets and party establishment support; rematch with 2022 nominee Cox.",
+    "background": "Incumbent governor; Army veteran, former nonprofit CEO",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Not seriously contested."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Dan Cox",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "extreme_statements"
+    ]
+   },
+   "result": {
+    "dem_pct": 62.7,
+    "rep_pct": 33.2,
+    "other_pct": 4.1,
+    "margin": 29.5,
+    "pct_expected_vote_counted": 78.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 28.54,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 32.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 0.86,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maryland-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Moore is a potential 2028 presidential candidate. Only 78.3% of expected vote counted. Cox is a 2020-election denier per 2022 coverage (not re-verified for 2026). Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-MA",
+   "office": "Governor",
+   "state": "MA",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Maura Healey",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Incumbent former attorney general; unopposed in primary; EMILYs List and Massachusetts AFL-CIO.",
+    "background": "Incumbent governor; former state attorney general",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michael Minogue",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "self_funder"
+    ]
+   },
+   "result": {
+    "dem_pct": 62,
+    "rep_pct": 34.7,
+    "other_pct": 3.4,
+    "margin": 27.3,
+    "pct_expected_vote_counted": 95.3,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 25.2,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 29.1,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 2.4,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.wbur.org/news/2026/11/03/massachusetts-healey-governor-race-election-result",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Minogue spent $6.1M in Sept 2026 alone per Wikipedia. Vote shares from NBC News results page (last updated 10:52 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Counts updated from NBC News governor results page re-checked at 11:08 AM ET Nov 4. [Verification] Wikipedia infobox (no timestamp) shows Healey 62.7 / Minogue 33.9 vs NBC 62.1 / 34.5; NBC 11:08 ET kept as most recent timestamped count. WBUR: AP called race as polls closed.",
+   "verified": true
+  },
+  {
+   "id": "GOV-MI",
+   "office": "Governor",
+   "state": "MI",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jocelyn Benson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Two-term secretary of state; EMILYs List, Michigan AFL-CIO, Buttigieg endorsements; beat Sheriff Chris Swanson 83.2%.",
+    "background": "Michigan secretary of state; election-law scholar",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Genesee County Sheriff Chris Swanson 83.2%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John James",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 54.5,
+    "rep_pct": 43.7,
+    "other_pct": 1.8,
+    "margin": 10.8,
+    "pct_expected_vote_counted": 96.8,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -1.42,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 10.6,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 12.22,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/michigan-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Whitmer (potential 2028 candidate) term-limited; successor race. James was Trump-endorsed. Detroit Mayor Mike Duggan, who had launched an independent bid, does not appear in NBC results; status not researched. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Wikipedia lists Mike Duggan as a withdrawn independent candidate with no general-election votes; infobox Benson 54.5 / James 43.7 at 95% matches NBC.",
+   "verified": true
+  },
+  {
+   "id": "GOV-MN",
+   "office": "Governor",
+   "state": "MN",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Amy Klobuchar",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Sitting U.S. senator and 2020 presidential candidate known for pragmatic, bipartisan brand; entered after Walz withdrew; won primary 89.7%; AFL-CIO, EMILYs List, VoteVets.",
+    "background": "U.S. senator; 2020 presidential candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 89.7% against minimal opposition."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Lisa Demuth",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 55.5,
+    "rep_pct": 42.6,
+    "other_pct": 1.9,
+    "margin": 12.9,
+    "pct_expected_vote_counted": 98.8,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 4.24,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 7.7,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 8.66,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Walz (2024 VP nominee) ran then withdrew in January amid a social-services fraud scandal; Klobuchar replaced him. Klobuchar herself is a past and possible future presidential candidate. Demuth beat Trump-endorsed Mike Lindell. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-NE",
+   "office": "Governor",
+   "state": "NE",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lynne Walz",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "Former state senator pitched bipartisanship and property-tax relief (universal homestead exemption, valuation cap), citing past work with Republicans.",
+    "background": "Former Nebraska state senator from Fremont",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 91.5%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jim Pillen",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 42.2,
+    "rep_pct": 50.8,
+    "other_pct": 7.1,
+    "margin": -8.6,
+    "pct_expected_vote_counted": 94.2,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -20.46,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -23.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 12.06,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/nebraska-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://nebraskaexaminer.com/?p=43608",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Nebraska governor race is officially partisan. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-NV",
+   "office": "Governor",
+   "state": "NV",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Aaron Ford",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Two-term attorney general; affordability and \"Lombardo-Trump economy\" message; endorsed by Obama, Harris, Newsom, Warren per Wikipedia.",
+    "background": "Nevada attorney general",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Washoe commission chair Alexis Hill 63.8% (Hill backed by Progressive Leadership Alliance of Nevada)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joe Lombardo",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 51.5,
+    "rep_pct": 44.3,
+    "other_pct": 4.1,
+    "margin": 7.2,
+    "pct_expected_vote_counted": 87,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -3.1,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -1.5,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 10.6,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/nevada-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.fox5vegas.com/2026/06/14/nevada-democrats-rally-around-aaron-fords-gubernatorial-campaign/",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "FLIP R->D: incumbent Lombardo defeated. Only 87.2% counted. Ballot includes None of These Candidates (1.4%). Vote shares from NBC News results page (last updated 10:51 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-NH",
+   "office": "Governor",
+   "state": "NH",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Cinde Warmington",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Executive councilor and second-time candidate; affordability message, pledged to repeal voucher program; attacked by Ayotte as former pharma lobbyist.",
+    "background": "Executive councilor; former health-care lawyer/lobbyist",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Primary details not researched."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kelly Ayotte",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 47.1,
+    "rep_pct": 51.4,
+    "other_pct": 1.5,
+    "margin": -4.3,
+    "pct_expected_vote_counted": 93.9,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 2.78,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -9.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": -6.58,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-hampshire-governor-results",
+    "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nhpr.org/nh-news/2026-02-18/cinde-warmington-running-new-hampshire-governor-2026",
+    "https://www.concordmonitor.com/2026/02/18/warmington-challenges-ayotte-campaign/",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Two-year term: prev_seat is the 2024 governor race (Ayotte 53.6, Craig 44.3). One of two R governors in Harris-won states. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2024 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-NM",
+   "office": "Governor",
+   "state": "NM",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Deb Haaland",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Former Interior secretary and ex-congresswoman (Progressive Caucus record); New Mexico Working Families Party endorsement; beat tough-on-crime DA Sam Bregman 72-28.",
+    "background": "Former U.S. Interior secretary and congresswoman",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Bernalillo County DA Sam Bregman, the more centrist candidate, 72.3%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Greggory Hull",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 57.2,
+    "rep_pct": 42.8,
+    "other_pct": 0.0,
+    "margin": 14.4,
+    "pct_expected_vote_counted": 98,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 6.0,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 6.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 8.4,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-mexico-governor-results",
+    "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Classified liberal not left: progressive-coded but not an insurgent. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-NY",
+   "office": "Governor",
+   "state": "NY",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kathy Hochul",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Incumbent centrist-leaning establishment Democrat; endorsed by AOC and NYC Mayor Mamdani per Wikipedia; Working Families Party ultimately nominated Hochul.",
+    "background": "Incumbent governor; former lieutenant governor and congresswoman",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Lt. Gov. Antonio Delgado challenged from the left, then withdrew."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Bruce Blakeman",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 60,
+    "rep_pct": 39.8,
+    "other_pct": 0.2,
+    "margin": 20.2,
+    "pct_expected_vote_counted": 92.6,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 12.6,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 6.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 7.8,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-governor-results",
+    "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Trump-endorsed Blakeman after Stefanik exit. Only 87.6% counted. Vote shares from NBC News results page (last updated 10:51 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-OH",
+   "office": "Governor",
+   "state": "OH",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Amy Acton",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Non-politician physician; cost-of-living platform, \"tax breaks for the working class, not billionaires,\" vowed to be most pro-union governor; called Ramaswamy an out-of-touch plutocrat; Beshear, Obama, Buttigieg backing.",
+    "background": "Physician; former Ohio Department of Health director (COVID-19)",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Vivek Ramaswamy",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "extreme_statements"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.3,
+    "rep_pct": 44.4,
+    "other_pct": 3.3,
+    "margin": 7.9,
+    "pct_expected_vote_counted": 98.0,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -11.21,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -25.0,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 19.11,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/ohio-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://ohiocapitaljournal.com/2026/04/30/amy-acton-hosts-roundtable-with-cincinnati-constituents-over-affordability-concerns/",
+    "https://www.wysu.org/ohio-news/2026-04-06/ohio-governor-race-acton-releases-lots-of-affordability-ideas-but-few-specifics-on-funding-them",
+    "https://www.wcpo.com/news/local-news/ohio-association-of-professional-firefighters-endorses-amy-acton-for-governor",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] FLIP R->D; first Democratic governor win in Ohio since 2006. Won by ~8 in a Trump +11 state. Ramaswamy (2024 presidential candidate) attacked Acton's childhood abuse history per Wikipedia; flag reflects that. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Counts updated from NBC News governor results page re-checked at 11:08 AM ET Nov 4.",
+   "verified": true
+  },
+  {
+   "id": "GOV-OK",
+   "office": "Governor",
+   "state": "OK",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Cyndi Munson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "State House minority leader; affordability, teacher pay and health care; attacked self-funding opponent as trying to buy the office.",
+    "background": "Oklahoma House minority leader",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 74.9% over Constance Johnson."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Mazzei",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "self_funder"
+    ]
+   },
+   "result": {
+    "dem_pct": 45.8,
+    "rep_pct": 52,
+    "other_pct": 2.2,
+    "margin": -6.2,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -34.26,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -13.6,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 28.06,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/oklahoma-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.news9.com/oklahoma-elections/oklahoma-governor-poll-mazzei-munson",
+    "https://www.newsweek.com/trump-backed-mike-mazzeis-chances-of-beating-cyndi-munson-in-oklahoma-12368327",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Lost by ~6 in a Trump +34 state (~28-pt overperformance). Mazzei put $11M+ of loans into campaign; described as Trump-backed by Newsweek. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Counts updated from NBC News governor results page re-checked at 11:08 AM ET Nov 4. [Verification] Wikipedia infobox Mazzei 52 / Munson 45.9 at 99%; lists Trump endorsement of Mazzei (May 29, 2026), supporting maga label.",
+   "verified": true
+  },
+  {
+   "id": "GOV-OR",
+   "office": "Governor",
+   "state": "OR",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Tina Kotek",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent former House speaker; Oregon Working Families Party endorsement; won primary 84%.",
+    "background": "Incumbent governor; former Oregon House speaker",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 84%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Christine Drazan",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 51.9,
+    "rep_pct": 45.3,
+    "other_pct": 2.8,
+    "margin": 6.6,
+    "pct_expected_vote_counted": 79.3,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 14.3,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 3.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": -8.1,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/oregon-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Rematch of 2022. Only 75.1% counted. Margin shifted toward Republicans vs 2024 president per NBC. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-PA",
+   "office": "Governor",
+   "state": "PA",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Josh Shapiro",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Incumbent governor with bipartisan, results-focused brand; unopposed primary; Obama and Pennsylvania AFL-CIO endorsements.",
+    "background": "Incumbent governor; former state attorney general",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Stacy Garrity",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 60.4,
+    "rep_pct": 38.3,
+    "other_pct": 1.3,
+    "margin": 22.1,
+    "pct_expected_vote_counted": 98.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -1.71,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 14.8,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 23.81,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Shapiro is a leading potential 2028 presidential candidate; won by ~22 in a Trump +1.7 state (~23-pt overperformance), largest margin among swing-state governors. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Counts updated from NBC News governor results page re-checked at 11:08 AM ET Nov 4.",
+   "verified": true
+  },
+  {
+   "id": "GOV-RI",
+   "office": "Governor",
+   "state": "RI",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Helena Foulkes",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Former CVS executive; beat unpopular incumbent McKee in primary that Wikipedia says did not follow progressive-vs-moderate lines (both relatively moderate; driven by Washington Bridge closure).",
+    "background": "Former CVS Health executive",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Defeated incumbent Gov. Dan McKee; not an ideological contest per Wikipedia."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Aaron Guckian",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 57.5,
+    "rep_pct": 13.3,
+    "other_pct": 29.2,
+    "margin": 44.2,
+    "pct_expected_vote_counted": 97.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 13.78,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 19.0,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 30.42,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/rhode-island-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Runner-up was independent Ken Block (27.9%); Republican Guckian third (13.3%). Margin is D minus R per convention; D minus runner-up = 29.6. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Wikipedia infobox Foulkes 57.5 / Block (I) 27.9 / Guckian 13.3 at 95% confirmed; both primary candidates described as relatively moderate.",
+   "verified": true
+  },
+  {
+   "id": "GOV-SC",
+   "office": "Governor",
+   "state": "SC",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jermaine Johnson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "State representative ran grassroots, low-budget \"different kind of Democrat\" campaign stressing faith and family; beat two wealthy self-funders in primary.",
+    "background": "South Carolina state representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 59.7% over Billy Webster and Mullins McLeod."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Alan Wilson",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 47.1,
+    "rep_pct": 51.6,
+    "other_pct": 1.3,
+    "margin": -4.5,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -17.87,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -17.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 13.37,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-carolina-governor-results",
+    "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://wistv.com/2026/06/10/decision-2026-jermaine-johnson-wins-democratic-nomination-sc-governor/",
+    "https://thegrio.com/2026/07/23/sc-hasnt-elected-a-democratic-governor-since-1998-jermaine-johnson-hopes-to-change-that-and-make-history/",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Lost by ~4.5 in a Trump +18 state. Trump endorsed both Wilson and Evette in GOP runoff. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-SD",
+   "office": "Governor",
+   "state": "SD",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dan Ahlers",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former state senator; no positioning coverage reviewed.",
+    "background": "Former South Dakota state senator",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Not researched."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Larry Rhoden",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 36.5,
+    "rep_pct": 63.5,
+    "other_pct": 0.0,
+    "margin": -27.0,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.19,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -26.8,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 2.19,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/south-dakota-governor-results",
+    "https://en.wikipedia.org/wiki/2026_South_Dakota_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Rhoden succeeded Noem in 2025; seeking first full term. Style classification low confidence. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-TN",
+   "office": "Governor",
+   "state": "TN",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jerri Green",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Memphis Democrat; affordability, public schools, childcare; said she wants to move Tennessee \"forward\" not far left or right; 200+ town halls, small-donor fundraising.",
+    "background": "Memphis Democrat; former state representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Not researched."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Marsha Blackburn",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 43,
+    "rep_pct": 45.5,
+    "other_pct": 11.5,
+    "margin": -2.5,
+    "pct_expected_vote_counted": 98.9,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.72,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -32.0,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 27.22,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.wsmv.com/2026/08/07/jerri-green-wins-tennessee-democratic-gubernatorial-primary/",
+    "https://www.wknofm.org/behind-the-headlines-0/2026-08-13/bth-democrat-jerri-green-on-her-campaign-for-governor",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Lost by ~2.5 to Sen. Marsha Blackburn in a Trump +30 state; independent David Hatley took 9.3%. Blackburn declined to debate. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Wikipedia infobox shows inconsistent percentages (Blackburn 44.5, Green 43.2) but its vote counts (Blackburn 955,259; Green 902,546; Hatley 195,288) imply ~45.5/43.0/9.3 of ~2.10M, consistent with NBC; NBC figures kept.",
+   "verified": true
+  },
+  {
+   "id": "GOV-TX",
+   "office": "Governor",
+   "state": "TX",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Gina Hinojosa",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Austin legislator and public-schools advocate; anti-corruption message that Abbott's rich donors run Texas, opposed vouchers; launched in Rio Grande Valley; sued Abbott over Musk emails. Abbott called her woke/extreme.",
+    "background": "Texas state representative from Austin; public-education advocate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 58.5% in multi-candidate primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Greg Abbott",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.8,
+    "rep_pct": 45.7,
+    "other_pct": 1.5,
+    "margin": 7.1,
+    "pct_expected_vote_counted": 97.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -13.68,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -10.9,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 20.78,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/texas-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.texasobserver.org/gina-hinojosa-campaign-for-texas-governor/",
+    "https://www.fox4news.com/news/gina-hinojosa-texas-governor-campaign",
+    "https://www.fox4news.com/news/five-major-takeaways-from-texas-2026-midterm-election-results",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "FLIP R->D: incumbent Abbott defeated; first Democratic governor elected in Texas since 1990. Won by ~7 in a Trump +13.7 state (~21-pt overperformance). Vote shares from NBC News results page (last updated 10:51 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares. [Verification] Wikipedia infobox Hinojosa 53.0 / Abbott 45.6 at 95% (8:24 AM CST); NBC 52.8/45.7 at 97.5% kept as later count.",
+   "verified": true
+  },
+  {
+   "id": "GOV-VT",
+   "office": "Governor",
+   "state": "VT",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Amanda Janoo",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "First-time candidate, economist and Wellbeing Economy founder; ran on sweeping progressive policy changes; endorsed by Bernie Sanders; Democratic/Progressive fusion nominee; narrowly beat Aly Richards 49.1-46.6.",
+    "background": "Economist; founder of Wellbeing Economy Alliance Vermont",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Narrowly beat Aly Richards 49.1-46.6 running on sweeping progressive changes."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Phil Scott",
+    "incumbent": true,
+    "style": "moderate",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 45.6,
+    "rep_pct": 52.6,
+    "other_pct": 1.8,
+    "margin": -7.0,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 31.51,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -51.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": -38.51,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/vermont-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.sevendaysvt.com/news/election-2026/richards-janoo-wins-the-democratic-nomination-for-governor/",
+    "https://www.vermontpublic.org/local-news/2026-09-08/janoo-raising-more-campaign-money-than-scott-still-faces-financial-handicap",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Two-year term: prev_seat is 2024 (Scott 73.4, Charlestin 21.8). Sanders-backed left candidate held popular moderate GOP incumbent Scott to a 7-pt win, a 44-pt swing from 2024 margin; still lost in a Harris +31.5 state. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2024 governor summary shares. [Verification] Wikipedia infobox Scott 52.35 / Janoo 45.88 at 97%; Sanders endorsement and Democratic/Progressive alliance confirmed. 2024 baseline confirmed: Scott 73.43, Charlestin 21.83.",
+   "verified": true
+  },
+  {
+   "id": "GOV-WI",
+   "office": "Governor",
+   "state": "WI",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "David Crowley",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Milwaukee County executive; positioned as centrist alternative to DSA-backed Francesca Hong; endorsed by Gov. Evers; won primary in upset 39.8-39.4 after briefly withdrawing.",
+    "background": "Milwaukee County executive; former state representative",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat democratic socialist state Rep. Francesca Hong (DSA, Our Revolution backing), who led final polls by 22."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tom Tiffany",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 54.1,
+    "rep_pct": 45.9,
+    "other_pct": 0.0,
+    "margin": 8.2,
+    "pct_expected_vote_counted": 98.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -0.86,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": 3.4,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": 9.06,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://wjla.com/news/nation-world/2026-wisconsin-governor-primary-democratic-party-candidates-david-crowley-francesca-hong-nomination",
+    "https://www.newsweek.com/wisconsin-governor-primary-hong-crowley-in-tight-democratic-race-12312350",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "[2028 watch] Open seat (Evers retired). Swing state hold by ~8 in a Trump +0.9 state. Wikipedia lists Crowley 39.8% in the primary; its results box shows Hong at 39.35%. Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  },
+  {
+   "id": "GOV-WY",
+   "office": "Governor",
+   "state": "WY",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kenneth Casner",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Perennial candidate; unopposed primary; no campaign coverage reviewed.",
+    "background": "Perennial candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Eric Barlow",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 14.7,
+    "rep_pct": 68.6,
+    "other_pct": 16.7,
+    "margin": -53.9,
+    "pct_expected_vote_counted": 97,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -45.76,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": -58.3,
+    "prev_seat_year": 2022
+   },
+   "overperformance_vs_pres2024": -8.14,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wyoming-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_United_States_gubernatorial_elections",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Democrat finished third behind Constitution Party nominee Rebecca Bextel (16.8%). Vote shares from NBC News results page (last updated 10:50 AM ET Nov 4); other_pct = 100 - D - R. pres2024_margin from Wikipedia 2024 presidential results; prev_seat_margin from rounded Wikipedia 2022 governor summary shares.",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T11:30-05:00",
+  "checked_items": 288,
+  "corrections": [
+   "ID/ME/MA/OH: pct_expected_vote_counted updated to NBC 11:08 ET snapshot (94.6/86.5/89.6/98.0)",
+   "OK: Munson 45.9->45.8 per NBC 11:08 ET; margin -6.1->-6.2, other 2.1->2.2, overperformance 28.16->28.06",
+   "PA: Shapiro/Garrity 60.3/38.4 -> 60.4/38.3 at 98.5% per NBC 11:08 ET; margin 21.9->22.1, overperformance 23.61->23.81",
+   "HI: other_pct -0.0 normalized to 0.0",
+   "KS: Republican Masterson style traditional->maga (Trump-endorsed, MAGA message per KCUR)",
+   "MI: resolved Duggan status (withdrawn independent per Wikipedia)",
+   "Added verification notes/independent corroboration (Wikipedia state infoboxes) for TX, FL, OK, AZ, CA, AK, VT, RI, TN, MA, MI, KS, HI"
+  ],
+  "unresolved": [
+   "MA: NBC (62.1/34.5 at 89.6%) vs Wikipedia infobox (62.7/33.9, no timestamp) differ by 0.6 pts; NBC kept",
+   "CA: NBC shows 59.3% counted while Wikipedia infobox shows 66% (shares identical); counted share not updated",
+   "Called status for non-featured races relies on prior NBC capture plus Wikipedia 'hold'/'elected' labels; AP pages unreachable for direct confirmation",
+   "IA: Sand posture 'mixed' (archetype moderate) is borderline center_populist ('well-fed versus the fed-up', not beholden to party establishment per CBS)",
+   "KS: Holscher left_populist vs mainstream_liberal borderline (post-primary establishment endorsements, pivot to middle)",
+   "Web search budget exhausted mid-check; verification used direct fetches of Wikipedia, NBC, KCUR, Johnson County Post, WBUR, Civil Beat"
+  ],
+  "checked_items_note": "36 races x 8 fields (nominees, vote shares, margin arithmetic, called, flipped, pres2024 baseline, prev_seat_margin, Dem archetype)"
+ }
+}

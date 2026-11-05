@@ -1,0 +1,109 @@
+{
+ "batch": 2,
+ "races": [
+  {
+   "id": "GOV-MI",
+   "name": "Jocelyn Benson",
+   "state": "MI",
+   "district": null,
+   "office": "Governor",
+   "opponent": "John James"
+  },
+  {
+   "id": "GOV-VT",
+   "name": "Amanda Janoo",
+   "state": "VT",
+   "district": null,
+   "office": "Governor",
+   "opponent": "Phil Scott"
+  },
+  {
+   "id": "SEN-MN",
+   "name": "Peggy Flanagan",
+   "state": "MN",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Michele Tafoya"
+  },
+  {
+   "id": "PA-11",
+   "name": "Nancy Mannion",
+   "state": "PA",
+   "district": 11,
+   "office": "House",
+   "opponent": "Lloyd Smucker"
+  },
+  {
+   "id": "CO-4",
+   "name": "Eileen Laubacher",
+   "state": "CO",
+   "district": 4,
+   "office": "House",
+   "opponent": "Lauren Boebert"
+  },
+  {
+   "id": "TX-25",
+   "name": "Dione Sims",
+   "state": "TX",
+   "district": 25,
+   "office": "House",
+   "opponent": "Roger Williams"
+  },
+  {
+   "id": "NJ-1",
+   "name": "Donald Norcross",
+   "state": "NJ",
+   "district": 1,
+   "office": "House",
+   "opponent": "Damon Galdo"
+  },
+  {
+   "id": "SEN-LA",
+   "name": "Jamie Davis",
+   "state": "LA",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Julia Letlow"
+  },
+  {
+   "id": "OH-7",
+   "name": "Brian Poindexter",
+   "state": "OH",
+   "district": 7,
+   "office": "House",
+   "opponent": "Max Miller"
+  },
+  {
+   "id": "SEN-KS",
+   "name": "Adam Hamilton",
+   "state": "KS",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Roger Marshall"
+  },
+  {
+   "id": "MI-3",
+   "name": "Hillary Scholten",
+   "state": "MI",
+   "district": 3,
+   "office": "House",
+   "opponent": "Terri DeBoer"
+  },
+  {
+   "id": "GOV-WI",
+   "name": "David Crowley",
+   "state": "WI",
+   "district": null,
+   "office": "Governor",
+   "opponent": "Tom Tiffany"
+  },
+  {
+   "id": "FL-15",
+   "name": "Robert People",
+   "state": "FL",
+   "district": 15,
+   "office": "House",
+   "opponent": "Laurel Lee"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "batch": 1,
+ "races": [
+  {
+   "id": "IN-4",
+   "name": "Drew Cox",
+   "state": "IN",
+   "district": 4,
+   "office": "House",
+   "opponent": "Jim Baird"
+  },
+  {
+   "id": "MI-2",
+   "name": "Ben Ambrose",
+   "state": "MI",
+   "district": 2,
+   "office": "House",
+   "opponent": "John Moolenaar"
+  },
+  {
+   "id": "NJ-4",
+   "name": "Rachel Peace",
+   "state": "NJ",
+   "district": 4,
+   "office": "House",
+   "opponent": "Chris Smith"
+  },
+  {
+   "id": "PA-17",
+   "name": "Chris Deluzio",
+   "state": "PA",
+   "district": 17,
+   "office": "House",
+   "opponent": "Tony Guy"
+  },
+  {
+   "id": "TX-30",
+   "name": "Frederick Haynes III",
+   "state": "TX",
+   "district": 30,
+   "office": "House",
+   "opponent": "Everett Jackson"
+  },
+  {
+   "id": "TX-28",
+   "name": "Henry Cuellar",
+   "state": "TX",
+   "district": 28,
+   "office": "House",
+   "opponent": "Tano Tijerina"
+  },
+  {
+   "id": "TN-9",
+   "name": "Justin J. Pearson",
+   "state": "TN",
+   "district": 9,
+   "office": "House",
+   "opponent": "Brent Taylor"
+  },
+  {
+   "id": "NY-10",
+   "name": "Brad Lander",
+   "state": "NY",
+   "district": 10,
+   "office": "House",
+   "opponent": "Jennifer Moore"
+  },
+  {
+   "id": "IL-13",
+   "name": "Nikki Budzinski",
+   "state": "IL",
+   "district": 13,
+   "office": "House",
+   "opponent": "Jeff Wilson"
+  },
+  {
+   "id": "WI-7",
+   "name": "Fred Clark",
+   "state": "WI",
+   "district": 7,
+   "office": "House",
+   "opponent": "Michael Alfonso"
+  },
+  {
+   "id": "WI-6",
+   "name": "Brad Smith",
+   "state": "WI",
+   "district": 6,
+   "office": "House",
+   "opponent": "Glenn Grothman"
+  },
+  {
+   "id": "FL-7",
+   "name": "Bale Dalton",
+   "state": "FL",
+   "district": 7,
+   "office": "House",
+   "opponent": "Ryan Elijah"
+  },
+  {
+   "id": "LA-1",
+   "name": "Lauren Jewett",
+   "state": "LA",
+   "district": 1,
+   "office": "House",
+   "opponent": "Steve Scalise"
+  }
+ ]
+}

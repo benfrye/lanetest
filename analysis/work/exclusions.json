@@ -1,0 +1,848 @@
+{
+ "exclusions": [
+  {
+   "id": "CA-1",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-2",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-3",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-4",
+   "office": "House",
+   "archetype": "left_populist",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "CA-5",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-6",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-7",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "CA-8",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-9",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-10",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-11",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "CA-12",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "CA-13",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-14",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "CA-15",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-16",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-17",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-18",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-19",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-20",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-21",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-22",
+   "office": "House",
+   "archetype": "left_populist",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-23",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-24",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-25",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-26",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-27",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-28",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-29",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "CA-30",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-31",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-32",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-33",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-34",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "CA-35",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-36",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-37",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "CA-38",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-39",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-40",
+   "office": "House",
+   "archetype": null,
+   "reason": "no_democrat_on_ballot"
+  },
+  {
+   "id": "CA-41",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-42",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-43",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-44",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-45",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-46",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-47",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-48",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-49",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-50",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-51",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CA-52",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "LA-3",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "LA-4",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "LA-5",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "LA-6",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "FL-10",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "PA-3",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "MD-2",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "MD-4",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "MD-7",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "MD-8",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "MA-1",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "MA-2",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "MA-5",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "MA-7",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "NY-13",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "NY-16",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "NJ-8",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "MI-13",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "IL-4",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "IL-7",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "IL-8",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WI-2",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "AZ-3",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "CO-1",
+   "office": "House",
+   "archetype": "left_populist",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CO-2",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "CO-6",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "UT-1",
+   "office": "House",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "UT-2",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "UT-3",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "UT-4",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-1",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-2",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-3",
+   "office": "House",
+   "archetype": "center_populist",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-4",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-5",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-6",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-7",
+   "office": "House",
+   "archetype": "progressive",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-8",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-9",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "WA-10",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "OR-1",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "OR-3",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "OR-6",
+   "office": "House",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "AK-AL",
+   "office": "House",
+   "archetype": "center_populist",
+   "reason": "independent_backed (Dem-backed independent; descriptive only)"
+  },
+  {
+   "id": "SEN-AK",
+   "office": "Senate",
+   "archetype": "moderate",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "SEN-ID",
+   "office": "Senate",
+   "archetype": "center_populist",
+   "reason": "independent_backed (Dem-backed independent; descriptive only)"
+  },
+  {
+   "id": "SEN-MT",
+   "office": "Senate",
+   "archetype": "center_populist",
+   "reason": "independent_backed (Dem-backed independent; descriptive only)"
+  },
+  {
+   "id": "SEN-NE",
+   "office": "Senate",
+   "archetype": "center_populist",
+   "reason": "independent_backed (Dem-backed independent; descriptive only)"
+  },
+  {
+   "id": "SEN-OR",
+   "office": "Senate",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "SEN-SD",
+   "office": "Senate",
+   "archetype": "center_populist",
+   "reason": "independent_backed (Dem-backed independent; descriptive only)"
+  },
+  {
+   "id": "GOV-AK",
+   "office": "Governor",
+   "archetype": "moderate",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "GOV-CA",
+   "office": "Governor",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "GOV-ID",
+   "office": "Governor",
+   "archetype": "mainstream_liberal",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "GOV-MD",
+   "office": "Governor",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "GOV-OR",
+   "office": "Governor",
+   "archetype": "mainstream_liberal",
+   "reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "GOV-RI",
+   "office": "Governor",
+   "archetype": "moderate",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "GOV-TN",
+   "office": "Governor",
+   "archetype": "mainstream_liberal",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "GOV-WY",
+   "office": "Governor",
+   "archetype": "mainstream_liberal",
+   "reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "VA_GOV_2025",
+   "office": "Validation2025",
+   "archetype": "moderate",
+   "reason": "validation_only_2025_offyear (\u00a72.3)"
+  },
+  {
+   "id": "NJ_GOV_2025",
+   "office": "Validation2025",
+   "archetype": "moderate",
+   "reason": "validation_only_2025_offyear (\u00a72.3)"
+  },
+  {
+   "id": "NYC_MAYOR_2025",
+   "office": "Validation2025",
+   "archetype": "left_populist",
+   "reason": "validation_only_2025_offyear (\u00a72.3)"
+  },
+  {
+   "id": "SPECIAL-TX-18-2026-01",
+   "office": "Special",
+   "archetype": "mainstream_liberal",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "SPECIAL-CA-1-2026-06",
+   "office": "Special",
+   "archetype": "mainstream_liberal",
+   "reason": "combined_multi_dem_vote (all-party special, two Democrats summed)"
+  },
+  {
+   "id": "SPECIAL-CA-14-2026-08",
+   "office": "Special",
+   "archetype": "progressive",
+   "reason": "uncontested_or_no_major_party_opponent"
+  },
+  {
+   "id": "SPECIAL-GA-13-2026-08",
+   "office": "Special",
+   "archetype": null,
+   "reason": "uncontested_or_no_major_party_opponent"
+  }
+ ],
+ "counts": {
+  "partial_count_lt_80pct": 77,
+  "uncontested_or_no_major_party_opponent": 20,
+  "no_democrat_on_ballot": 1,
+  "third_candidate_ge_10pct": 10,
+  "independent_backed": 5,
+  "validation_only_2025_offyear": 3,
+  "combined_multi_dem_vote": 1
+ },
+ "no_pres2024_by_archetype": {},
+ "user_flagged_uncalled": [
+  {
+   "id": "SEN-AK",
+   "called_in_data": null,
+   "pct_counted": 75.5,
+   "in_main": false,
+   "exclusion_reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "SEN-MS",
+   "called_in_data": null,
+   "pct_counted": 95.6,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "GOV-KS",
+   "called_in_data": null,
+   "pct_counted": 98.8,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "GOV-AK",
+   "called_in_data": null,
+   "pct_counted": 75.2,
+   "in_main": false,
+   "exclusion_reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "ME-2",
+   "called_in_data": null,
+   "pct_counted": 91.8,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "TN-4",
+   "called_in_data": null,
+   "pct_counted": 99.0,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "TN-9",
+   "called_in_data": null,
+   "pct_counted": 99.0,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "VA-5",
+   "called_in_data": null,
+   "pct_counted": 97.8,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "NC-3",
+   "called_in_data": null,
+   "pct_counted": 98.8,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "NC-5",
+   "called_in_data": null,
+   "pct_counted": 99.0,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "NC-7",
+   "called_in_data": null,
+   "pct_counted": 99.0,
+   "in_main": true,
+   "exclusion_reason": null
+  }
+ ],
+ "uncalled_ids": [
+  "CA-23",
+  "LA-5",
+  "LA-6",
+  "SC-2",
+  "TN-4",
+  "TN-9",
+  "FL-7",
+  "FL-9",
+  "FL-13",
+  "FL-26",
+  "FL-27",
+  "ME-2",
+  "NY-1",
+  "NY-2",
+  "NY-17",
+  "NY-21",
+  "OH-10",
+  "MN-1",
+  "VA-5",
+  "NC-3",
+  "NC-5",
+  "NC-7",
+  "AZ-1",
+  "AZ-2",
+  "AZ-5",
+  "AZ-6",
+  "AZ-8",
+  "CO-3",
+  "CO-4",
+  "CO-5",
+  "UT-2",
+  "MT-1",
+  "WA-4",
+  "WA-5",
+  "AK-AL",
+  "SEN-AK",
+  "SEN-MS",
+  "GOV-AK",
+  "GOV-KS"
+ ],
+ "data_flag_counts": {
+  "western_incomplete_count": 103,
+  "rep_style_missing_treated_as_traditional": 17,
+  "uncalled": 39,
+  "single_source_nbc": 345,
+  "prior_race_uncontested_no_personal_vote": 6,
+  "rep_style_unclassified_treated_as_traditional": 33,
+  "incumbent_appointed_no_personal_vote": 3,
+  "pv_midterm_prev_race_vs_prior_pres_baseline": 15,
+  "rep_style_not_applicable_treated_as_traditional": 3,
+  "combined_multi_dem_vote": 1
+ }
+}

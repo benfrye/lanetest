@@ -1,0 +1,586 @@
+{
+ "cycle": 2018,
+ "coder": "batch_2018_2",
+ "labels": {
+  "HI-2": {
+   "name": "Tulsi Gabbard",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; Our Revolution endorsed (confirmed on OR candidates page) + CPC member; Sanders 2016 surrogate who quit DNC vice-chair post to back him, M4A supporter; ideology from memory",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": true
+  },
+  "IA-1": {
+   "name": "Abby Finkenauer",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue state rep; campaign centred on working-class roots (daughter of union pipefitter-welder) but conventional party-backed; did not commit on Pelosi pre-election; no left or centrist markers",
+   "label_source_url": "https://awpc.cattcenter.iastate.edu/communication/campaign-speech-aug-9-2018",
+   "verified_fetch": true
+  },
+  "IA-2": {
+   "name": "Dave Loebsack",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member incumbent in Trump-won seat (2016 margin -4.4); conventional party-line liberal, no centrist branding; from markers + memory",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "verified_fetch": false
+  },
+  "IA-3": {
+   "name": "Cindy Axne",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue businesswoman; beat M4A-running D'Alessandro in primary; backed Medicare buy-in public option; did not commit on Pelosi pre-election",
+   "label_source_url": "https://ballotpedia.org/Iowa%27s_3rd_Congressional_District_election_(June_5,_2018_Democratic_primary)",
+   "verified_fetch": true
+  },
+  "ID-1": {
+   "name": "Cristina McNeil",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Real estate agent, chair of Idaho Democratic Latino caucus; no group markers; long shot in R+43 open seat; no campaign details found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Idaho&oldid=858870437",
+   "verified_fetch": false
+  },
+  "IL-3": {
+   "name": "Dan Lipinski",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog member and Policy co-chair (listed on Blue Dog site Oct 2018); socially conservative incumbent who survived left primary challenge",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "IL-4": {
+   "name": "Chuy García",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Endorsed by Bernie Sanders and Our Revolution (OR page + pre-election wiki); Sanders-aligned 2015 mayoral insurgent; also Gutierrez's chosen successor with establishment backing (Pritzker), hence mixed",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": true
+  },
+  "IL-6": {
+   "name": "Sean Casten",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Red to Blue clean-energy CEO in suburban swing seat; told Indivisible he does not favor Medicare for All (Daily Herald 2018) - only centrist marker; otherwise conventional liberal; borderline liberal",
+   "label_source_url": "https://ballotpedia.org/Illinois%27_6th_Congressional_District_election,_2018",
+   "verified_fetch": true
+  },
+  "IL-10": {
+   "name": "Brad Schneider",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog member (listed on Blue Dog site Oct 2018) and New Dem member",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "IL-12": {
+   "name": "Brendan Kelly",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed (Blue Dog site Oct 2018) + Red to Blue; county prosecutor/Navy vet",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "IL-13": {
+   "name": "Betsy Dirksen Londrigan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue + EMILY's List, endorsed by Durbin/Gillibrand; public option not M4A; would not commit on Pelosi. NOTE: Brand New Congress marker is a false positive - BNC page lists her as having DEFEATED BNC candidate David Gill",
+   "label_source_url": "https://wjbc.com/2018/11/05/if-elected-democratic-hopeful-wants-public-input-before-making-pelosi-speaker-again",
+   "verified_fetch": true
+  },
+  "IL-14": {
+   "name": "Lauren Underwood",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue nurse / former HHS ACA official; campaign centred on defending ACA/pre-existing conditions; no left or centrist markers",
+   "label_source_url": "https://time.com/5442702/lauren-underwood-health-care-illinois-14",
+   "verified_fetch": true
+  },
+  "IL-16": {
+   "name": "Sara Dady",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Immigration lawyer; no group markers; long-shot challenger; no campaign details found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "verified_fetch": false
+  },
+  "IL-17": {
+   "name": "Cheri Bustos",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem incumbent in Trump-won seat (2016 margin -0.7), ran as pragmatic Heartland/rural-outreach Democrat; from markers + memory",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition",
+   "verified_fetch": false
+  },
+  "IN-1": {
+   "name": "Pete Visclosky",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-time conventional incumbent, no caucus markers; labor-aligned party-line Democrat; from memory",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "verified_fetch": false
+  },
+  "IN-2": {
+   "name": "Mel Hall",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed (Blue Dog site) + Red to Blue; said he won't support Pelosi, blamed 'career politicians' in both parties (ABC57); former CEO",
+   "label_source_url": "https://www.abc57.com/news/mel-hall-says-he-wont-support-pelosi-as-speaker-or-minority-leader",
+   "verified_fetch": true
+  },
+  "IN-4": {
+   "name": "Tobi Beck",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Security technology designer; no markers; long shot in R+36 open seat; no campaign details found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "verified_fetch": false
+  },
+  "IN-5": {
+   "name": "Dee Thornton",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Businesswoman; no markers; no campaign details found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "verified_fetch": false
+  },
+  "IN-6": {
+   "name": "Jeannine Lake",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Publisher/CEO; no markers; long shot in R+42 open seat; no campaign details found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "verified_fetch": false
+  },
+  "IN-9": {
+   "name": "Liz Watson",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Medicare for All (H.R. 676) at top of platform; endorsed by Sanders and Warren (Sanders rally Oct 2018), Our Revolution and PCCC (both confirmed on archived pages); also Red to Blue, hence mixed",
+   "label_source_url": "https://en.wikipedia.org/wiki/Liz_Watson_(politician)",
+   "verified_fetch": true
+  },
+  "KS-2": {
+   "name": "Paul Davis",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed (Blue Dog site Oct 2018) + Red to Blue; former KS House minority leader",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "KS-3": {
+   "name": "Sharice Davids",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue/EMILY's List; beat Sanders-backed Brent Welder; called single-payer a long-term goal; no Pelosi pledge. NOTE: BNC marker is a false positive - BNC page lists her as having DEFEATED BNC's Welder",
+   "label_source_url": "https://www.kcur.org/politics-elections-and-government/2018-08-08/democrats-pledge-unity-to-defeat-yoder-in-kansas-3rd-congressional-district",
+   "verified_fetch": true
+  },
+  "KS-4": {
+   "name": "James Thompson",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + Our Revolution + Brand New Congress (BNC and OR pages confirm); Sanders-inspired political novice, Army vet/civil-rights attorney; Sanders and AOC rallied for him",
+   "label_source_url": "http://web.archive.org/web/20181109213119/https://brandnewcongress.org/candidates/",
+   "verified_fetch": true
+  },
+  "KY-1": {
+   "name": "Paul Walker",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Murray State English professor; single Our Revolution endorsement (confirmed on OR page) with otherwise conventional healthcare/education/jobs platform",
+   "label_source_url": "https://www.wkms.org/government-politics/2018-05-22/paul-walker-wins-1st-district-democratic-race",
+   "verified_fetch": true
+  },
+  "KY-3": {
+   "name": "John Yarmuth",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member incumbent; conventional party-line liberal; from markers + memory",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "verified_fetch": false
+  },
+  "KY-6": {
+   "name": "Amy McGrath",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Retired Marine; called herself a fiscal conservative, 'no love or allegiance' to party leaders, wouldn't commit to Pelosi; beat party-recruited Jim Gray as outsider, then Red to Blue",
+   "label_source_url": "https://www.lpm.org/news/2018-05-15/dems-vying-for-ky-s-6th-district-embrace-progressive-policies-but-run-from-pelosi",
+   "verified_fetch": true
+  },
+  "LA-4": {
+   "name": "Ryan Trundle",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Shreveport environmental activist; Our Revolution (OR page) + AFL-CIO + state party; universal health care, higher minimum wage, legal marijuana; thin evidence",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": true
+  },
+  "MA-3": {
+   "name": "Lori Trahan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former Marty Meehan chief of staff; endorsed by Meehan, Boston Globe/Herald/Lowell Sun and local officials; no left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Massachusetts&oldid=867440174",
+   "verified_fetch": true
+  },
+  "MA-6": {
+   "name": "Seth Moulton",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem incumbent in safe seat (rubric: liberal); publicly pushed for new party leadership in 2018, but no firm pre-election pledge confirmed this run; from memory",
+   "label_source_url": "https://en.wikipedia.org/wiki/Seth_Moulton",
+   "verified_fetch": false
+  },
+  "MA-9": {
+   "name": "Bill Keating",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem incumbent in safe seat; conventional party-line Democrat; from markers + memory",
+   "label_source_url": "https://en.wikipedia.org/wiki/Bill_Keating_(politician)",
+   "verified_fetch": false
+  },
+  "MD-6": {
+   "name": "David Trone",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Self-funding Total Wine businessman; conventional liberal platform (opioids/mental health); no group markers; from memory + pre-election wiki",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Maryland&oldid=865615686",
+   "verified_fetch": false
+  },
+  "MD-8": {
+   "name": "Jamie Raskin",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; CPC member, Our Revolution and PCCC listed (confirmed on archived pages) but conventional institutional profile; 2026 calibration places Raskin as mainstream_liberal",
+   "label_source_url": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "verified_fetch": true
+  },
+  "ME-1": {
+   "name": "Chellie Pingree",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member incumbent; conventional liberal; from markers + memory",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "verified_fetch": false
+  },
+  "ME-2": {
+   "name": "Jared Golden",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Marine vet, working-class populist campaign; pledged to vote against Pelosi (rubric centrist marker) but CPC PAC endorsed and backed moving toward M4A - conflicting; coded center_populist",
+   "label_source_url": "https://www.kaxe.org/2018-10-31/this-maine-district-went-for-obama-then-trump-now-its-a-toss-up",
+   "verified_fetch": true
+  },
+  "MI-1": {
+   "name": "Matt Morgan",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Justice Democrats endorsed (pre-election JD wiki revision); retired Marine Lt. Col.; grassroots door-to-door outsider campaign in red seat, made ballot via write-in",
+   "label_source_url": "https://www.interlochenpublicradio.org/post/running-first-iraq-war-veteran-declares-us-house-race-democrat",
+   "verified_fetch": true
+  },
+  "MI-2": {
+   "name": "Rob Davidson",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + Brand New Congress (BNC page confirms); ER doctor outsider who confronted Huizenga at town hall; ran on Medicare for All",
+   "label_source_url": "https://thinkprogress.org/medicare-for-all-popular-democrats-rob-davidson-michigan/",
+   "verified_fetch": true
+  },
+  "MI-3": {
+   "name": "Cathy Albro",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Educator; no group markers; no campaign details found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "verified_fetch": false
+  },
+  "MI-5": {
+   "name": "Dan Kildee",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent in leadership (chief deputy whip); conventional party-line liberal; from memory",
+   "label_source_url": "https://en.wikipedia.org/wiki/Dan_Kildee",
+   "verified_fetch": false
+  },
+  "MI-6": {
+   "name": "Matt Longjohn",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Red to Blue physician; said he won't support Pelosi for Speaker (WMUK Sept 2018), 'new generation'; declined M4A label. NOTE: BNC marker is a false positive - BNC page lists him as having DEFEATED BNC's David Benac",
+   "label_source_url": "https://www.wmuk.org/westsouthwest/2018-09-23/wsw-matt-longjohn-says-he-wants-to-be-part-of-new-generation-in-congress",
+   "verified_fetch": true
+  },
+  "MI-7": {
+   "name": "Gretchen Driskell",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed (Blue Dog site Oct 2018) + Red to Blue; former state rep/mayor",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "MI-8": {
+   "name": "Elissa Slotkin",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Red to Blue national-security candidate; on Ballotpedia list of candidates opposing Pelosi for Speaker",
+   "label_source_url": "https://ballotpedia.org/Democratic_candidates_opposing_Nancy_Pelosi_for_Speaker_of_the_House,_2018",
+   "verified_fetch": true
+  },
+  "MI-9": {
+   "name": "Andy Levin",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "PCCC endorsed (PCCC page: former union organizer, Employee Free Choice Act architect); but son of retiring incumbent with Kildee/Granholm establishment backing; single progressive-group endorsement",
+   "label_source_url": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "verified_fetch": true
+  },
+  "MI-11": {
+   "name": "Haley Stevens",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue; Obama auto task force chief of staff; Clinton endorsed; said she would oppose Pelosi as leader (as did all leading primary candidates)",
+   "label_source_url": "https://ballotpedia.org/Michigan%27s_11th_Congressional_District_election_(August_7,_2018_Democratic_primary)",
+   "verified_fetch": true
+  },
+  "MN-1": {
+   "name": "Dan Feehan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Red to Blue Army vet and Obama DoD official; dodged Pelosi question; no left or centrist markers found",
+   "label_source_url": "https://www.mprnews.org/story/2017/07/07/iraq-war-vet-to-vie-for-open-minn-congressional-seat",
+   "verified_fetch": true
+  },
+  "MN-2": {
+   "name": "Angie Craig",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue, DFL-endorsed former corporate exec; on the fence about Pelosi; no left or centrist markers",
+   "label_source_url": "https://www.cbsnews.com/minnesota/news/angie-craig-dfl-endorsement-2nd-district/",
+   "verified_fetch": true
+  },
+  "MN-3": {
+   "name": "Dean Phillips",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue businessman who refused all PAC money as central 'unrig the system' theme (mixed posture); sought a moderate, ticket-splitter profile against Paulsen",
+   "label_source_url": "https://phillipsforcongress.org/updates/0-from-pacs/",
+   "verified_fetch": true
+  },
+  "MN-5": {
+   "name": "Ilhan Omar",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + Our Revolution + PCCC (OR and PCCC pages confirm); left candidate in open seat who also won DFL endorsement, hence mixed",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": true
+  },
+  "MN-7": {
+   "name": "Collin Peterson",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog member (listed on Blue Dog site Oct 2018); long-time Ag committee ranking member, socially conservative",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "MN-8": {
+   "name": "Joe Radinovich",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Red to Blue; former Nolan campaign manager/state rep; endorsed by Obama, Biden, Mondale; no left or centrist markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/Joe_Radinovich",
+   "verified_fetch": true
+  },
+  "MO-2": {
+   "name": "Cort VanOstran",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue young lawyer; rejected corporate PAC money (End Citizens United endorsed) but conventional health-care-focused campaign",
+   "label_source_url": "https://endcitizensunited.org/latest-news/press-releases/ecu-endorses-cort-vanostran-congress-mo-02",
+   "verified_fetch": true
+  },
+  "MO-5": {
+   "name": "Emanuel Cleaver",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CBC incumbent, former CBC chair; conventional party-line liberal; from memory",
+   "label_source_url": "https://en.wikipedia.org/wiki/Emanuel_Cleaver",
+   "verified_fetch": false
+  },
+  "MO-7": {
+   "name": "Jamie Schoolcraft",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Justice Democrats endorsed (JD wiki revision; also on iVoterGuide) + AFL-CIO/SMART local; low-budget (~$57k) outsider in R+48 seat",
+   "label_source_url": "https://ivoterguide.com/candidate/44271/race/854/election/635",
+   "verified_fetch": true
+  },
+  "MS-3": {
+   "name": "Michael Evans",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "style_confidence": "high",
+   "style_evidence": "Self-described conservative Democrat, anti-abortion and pro-gun; east Mississippi farmer touring district on his tractor appealing to rural voters; opposed Trump trade policy",
+   "label_source_url": "https://m.washingtontimes.com/news/2018/oct/26/evans-and-tractor-try-to-pull-us-house-seat-from-g/",
+   "verified_fetch": true
+  },
+  "NC-2": {
+   "name": "Linda Coleman",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Red to Blue; former state rep and two-time Lt. Gov. nominee; conventional party-backed profile",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "NC-5": {
+   "name": "D. D. Adams",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Winston-Salem city council member; jobs/health care/education platform; beat Jenny Marshall in primary; no markers",
+   "label_source_url": "https://wfdd.org/story/councilwoman-adams-says-shell-run-congress-0",
+   "verified_fetch": true
+  },
+  "NC-6": {
+   "name": "Ryan Watts",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "28-year-old business consultant; 'healthcare is a human right', gun-safety themes; no group markers",
+   "label_source_url": "https://archive.politicsnc.com/cd06-2018",
+   "verified_fetch": true
+  },
+  "NC-7": {
+   "name": "Kyle Horton",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Physician and activist who organized AHCA protest before running; single Our Revolution endorsement (confirmed on OR page); thin evidence on platform",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": true
+  },
+  "NC-8": {
+   "name": "Frank McNeill",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed (Blue Dog site Oct 2018); former Aberdeen mayor/businessman",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  }
+ }
+}

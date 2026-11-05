@@ -1,0 +1,1692 @@
+{
+ "cycle": 2022,
+ "election_day": "2022-11-08",
+ "races": [
+  {
+   "id": "FL-22",
+   "dem_name": "Lois Frankel",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Daniel Franzese",
+   "rep_incumbent": false,
+   "pres_margin_2p": 17.706,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    }
+   ],
+   "wiki_primary_desc": "* Lois Frankel, incumbent U.S. representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Feminist Majority PAC",
+    "NARAL Pro-Choice America",
+    "Planned Parenthood Action Fund",
+    "Pro-Israel America",
+    "Sierra Club",
+    "AFSCME Florida",
+    "Service Employees International Union"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Florida&oldid=1120278062",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-23",
+   "dem_name": "Jared Moskowitz",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Joe Budd",
+   "rep_incumbent": false,
+   "pres_margin_2p": 13.28,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    }
+   ],
+   "wiki_primary_desc": "*Jared Moskowitz, Broward County commissioner, former director of the Florida Division of Emergency Management, and former state representative",
+   "wiki_endorsement_markers": [
+    "Sunrise"
+   ],
+   "wiki_endorsers_sample": [
+    "Hillary Clinton, former United States Secretary of State (2009–2013), former U.S. Senator from New York (2001–2009), for",
+    "Hakeem Jeffries, U.S. Representative for New York's 8th congressional district (2013–)",
+    "Patrick Murphy, former U.S. Representative for Florida's 18th congressional district (2013–2017)",
+    "Joe Neguse, U.S. Representative from Colorado's 2nd congressional district (2019–)",
+    "Donna Shalala, former U.S. Representative for Florida's 27th congressional district (2019–2021)",
+    "Larry Smith, former U.S. Representative for Florida's 16th congressional district",
+    "Robert Wexler, former U.S. Representative for Florida's 19th congressional district",
+    "Bob Butterworth, former Florida Attorney General (1987–2002)",
+    "Alex Sink, former Florida Chief Financial Officer (2007–2011) and Democratic nominee for governor in 2010",
+    "Loranne Ausley, state senator",
+    "Robin Bartleman, state representative",
+    "Janet Cruz, state senator",
+    "Dan Daley, state representative",
+    "Ben Diamond, state representative",
+    "Anna Eskamani, state representative",
+    "Joe Geller, state representative",
+    "Michael Gottlieb, state representative",
+    "Christine Hunschofsky, state representative",
+    "Evan Jenne, minority leader of the house of representatives",
+    "Shevrin Jones, state senator",
+    "Rosalind Osgood, state senator",
+    "Jason Pizzo, state senator",
+    "Tina Polsky, state senator",
+    "Bobby Powell, state senator",
+    "Kevin Rader, state representative"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Florida&oldid=1120278062",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-26",
+   "dem_name": "Christine Olivo",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mario Díaz-Balart",
+   "rep_incumbent": true,
+   "pres_margin_2p": -18.392,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Christine Olivo",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Marianne Williamson, author and candidate for the Democratic nomination for President of the United States in 2020"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Florida&oldid=1120278062",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-27",
+   "dem_name": "Annette Taddeo",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "María Elvira Salazar",
+   "rep_incumbent": true,
+   "pres_margin_2p": -0.302,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Annette Taddeo, state senator, nominee for FL-18 in 2008 and for lieutenant governor in 2014, and candidate for FL-26 in 2016 (previously ran for Governor)",
+   "wiki_endorsement_markers": [
+    "EMILY's List"
+   ],
+   "wiki_endorsers_sample": [
+    "Kathy Castor, Congresswoman for Florida's 14th congressional district",
+    "Charlie Crist, Congressman for Florida's 13th congressional district",
+    "Ruben Gallego, Congressman for Arizona's 7th congressional district",
+    "Steny Hoyer, Congressman for Maryland's 5th congressional district and as House Majority Leader (2007–2011; 2019–present",
+    "Lois Frankel, Congresswoman for Florida's 21st congressional district",
+    "Debbie Wasserman Schultz, Congresswoman for Florida's 23rd congressional district",
+    "Donna Shalala, Former Congresswoman for this district (2019–2021)",
+    "Shevrin Jones, state senator",
+    "Andrew Learned, state representative",
+    "Alix Desulme, vice-mayor of North Miami",
+    "Katie Saint Fleur, Miami Shores village councilmember",
+    "Dan Gelber, mayor of Miami Beach",
+    "Michael Gongora, Miami Beach city commissioner",
+    "Paul Hernandez, former Hialeah city councilmember",
+    "Eileen Higgins, Miami-Dade County commissioner",
+    "Anna Hockhammer,Pinecrest village councilmember",
+    "Cindy Lerner, former mayor of Pinecrest",
+    "Josh Liebman, South Miami city commissioner",
+    "Joy Malekoff, Miami Beach city commissioner",
+    "James McDonald, former Pinecrest village councilmember",
+    "Kionne McGhee, Miami-Dade County commissioner",
+    "Gladys Mezrahi, Aventura city councilmember",
+    "Jean Monestime, Miami-Dade County commissioner",
+    "Sally Phillips, mayor of South Miami",
+    "Shannon del Prado, Pinecrest village councilmember"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Florida&oldid=1120278062",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-28",
+   "dem_name": "Robert Asencio",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Carlos A. Giménez",
+   "rep_incumbent": true,
+   "pres_margin_2p": -6.439,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Robert Asencio, former state representative and former captain of the Miami-Dade Schools Police Department",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Congressional Hispanic Caucus BOLD PAC",
+    "AFSCME Florida",
+    "Miami Herald"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Florida&oldid=1120278062",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-1",
+   "dem_name": "Wade Herring",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Buddy Carter",
+   "rep_incumbent": true,
+   "pres_margin_2p": -13.59,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Wade Herring, attorney",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Derek Mallow, state representative from the 163rd district (2021–present)",
+    "Al Williams, state representative from the 168th district (2003–present)",
+    "Otis Johnson, former mayor of Savannah (2004–2012)",
+    "Bertice Berry, sociologist, author, lecturer, and educator"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Georgia&oldid=1120554691",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-2",
+   "dem_name": "Sanford Bishop",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Chris West",
+   "rep_incumbent": false,
+   "pres_margin_2p": 10.394,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "*Sanford Bishop, incumbent U.S. representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "American Israel Public Affairs Committee",
+    "Planned Parenthood Action Fund"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Georgia&oldid=1120554691",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-5",
+   "dem_name": "Nikema Williams",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Christian Zimm",
+   "rep_incumbent": false,
+   "pres_margin_2p": 67.206,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Nikema Williams, incumbent U.S. representative",
+   "wiki_endorsement_markers": [
+    "Democracy for America"
+   ],
+   "wiki_endorsers_sample": [
+    "Democracy for America",
+    "End Citizens United",
+    "Feminist Majority PAC",
+    "League of Conservation Voters",
+    "NARAL Pro-Choice America",
+    "Planned Parenthood Action Fund",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Georgia&oldid=1120554691",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-6",
+   "dem_name": "Bob Christian",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Rich McCormick",
+   "rep_incumbent": false,
+   "pres_margin_2p": -15.127,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Bob Christian, veteran",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "AFL–CIO",
+    "Vote Common Good"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Georgia&oldid=1120554691",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-10",
+   "dem_name": "Tabitha Johnson-Green",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mike Collins",
+   "rep_incumbent": false,
+   "pres_margin_2p": -23.684,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Tabitha Johnson-Green, registered nurse and nominee for Georgia's 10th congressional district in 2018 and 2020",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Georgia&oldid=1120554691",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-11",
+   "dem_name": "Antonio Daza",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Barry Loudermilk",
+   "rep_incumbent": true,
+   "pres_margin_2p": -15.565,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Antonio Daza-Fernandez, business owner",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Georgia&oldid=1120554691",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-12",
+   "dem_name": "Liz Johnson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Rick Allen",
+   "rep_incumbent": true,
+   "pres_margin_2p": -10.324,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Elizabeth Johnson, retired insurance professional and nominee for Insurance and Safety Fire Commissioner in 2014 and Georgia's 12th congressional district in 2020",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Georgia&oldid=1120554691",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-13",
+   "dem_name": "David Scott",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Caesar Gonzales",
+   "rep_incumbent": false,
+   "pres_margin_2p": 61.01,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "*David Scott, incumbent U.S. representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Planned Parenthood Action Fund"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Georgia&oldid=1120554691",
+   "wiki_district_article": null
+  },
+  {
+   "id": "HI-1",
+   "dem_name": "Ed Case",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Conrad Kress",
+   "rep_incumbent": false,
+   "pres_margin_2p": 29.878,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "HI-2",
+   "dem_name": "Jill Tokuda",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Joe Akana",
+   "rep_incumbent": false,
+   "pres_margin_2p": 30.194,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IA-1",
+   "dem_name": "Christina Bohannan",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mariannette Miller-Meeks",
+   "rep_incumbent": true,
+   "pres_margin_2p": -2.956,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Christina Bohannan, state representative",
+   "wiki_endorsement_markers": [
+    "New Democrat",
+    "EMILY's List"
+   ],
+   "wiki_endorsers_sample": [
+    "Cindy Axne, U.S. Representative for Iowa's 3rd congressional district (2019–present)",
+    "Jim Leach, former U.S. Representative for this district (1977–2007) (Democrat, served in Congress as a Republican)",
+    "Dave Loebsack, former U.S. Representative for Iowa's 2nd congressional district (2007–2021)",
+    "314 Action",
+    "EMILY's List",
+    "Everytown for Gun Safety Action Fund",
+    "Human Rights Campaign PAC",
+    "League of Conservation Voters",
+    "NARAL Pro-Choice America",
+    "New Democrat Coalition Action Fund",
+    "Planned Parenthood Action Fund",
+    "United Auto Workers"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Iowa&oldid=1120327701",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IA-2",
+   "dem_name": "Liz Mathis",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ashley Hinson",
+   "rep_incumbent": true,
+   "pres_margin_2p": -4.481,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Liz Mathis, state senator",
+   "wiki_endorsement_markers": [
+    "New Democrat",
+    "EMILY's List"
+   ],
+   "wiki_endorsers_sample": [
+    "Cindy Axne, U.S. Representative for Iowa's 3rd congressional district",
+    "Bruce Braley, former U.S. Representative for Iowa's 1st congressional district and nominee for U.S. Senate in 2014",
+    "Roxanne Conlin, former U.S. Attorney for the Southern District of Iowa and nominee for U.S. Senate in 2010",
+    "Abby Finkenauer, former U.S. Representative for Iowa's 1st congressional district",
+    "Dave Loebsack, former U.S. Representative for Iowa's 2nd congressional district",
+    "Patty Judge, former Lieutenant Governor of Iowa and nominee for U.S. Senate in 2016",
+    "Mike Fitzgerald, Iowa State Treasurer",
+    "Tom Miller, Iowa Attorney General",
+    "Sally Pederson, former Lieutenant Governor of Iowa",
+    "Rob Sand, Iowa State Auditor",
+    "Ako Abdul-Samad, state representative",
+    "Marti Anderson, state representative",
+    "Liz Bennett, state representative",
+    "Deborah Berry, former state representative",
+    "Tony Bisignano, state senator",
+    "Christina Bohannan, state representative and candidate for Iowa's 2nd congressional district in 2022",
+    "Joe Bolkcom, Assistant Minority Leader of the Iowa Senate",
+    "Wes Breckenridge, state representative",
+    "Timi Brown-Powers, state representative",
+    "Sue Cahill, state representative",
+    "Claire Celsi, state senator",
+    "Molly Donahue, state representative",
+    "Bill Dotzler, Assistant Minority Leader of the Iowa Senate",
+    "Bob Dvorsky, former state senator",
+    "Tracy Ehlert, state representative"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Iowa&oldid=1120327701",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IA-3",
+   "dem_name": "Cindy Axne",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Zach Nunn",
+   "rep_incumbent": false,
+   "pres_margin_2p": -0.407,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": "*Cindy Axne, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "EMILY's List"
+   ],
+   "wiki_endorsers_sample": [
+    "American Israel Public Affairs Committee",
+    "EMILY's List",
+    "Feminist Majority PAC",
+    "Giffords",
+    "Humane Society of the United States Legislative Fund",
+    "Jewish Democratic Council of America",
+    "League of Conservation Voters",
+    "NARAL Pro-Choice America",
+    "National Women's Political Caucus",
+    "Natural Resources Defense Council",
+    "Planned Parenthood Action Fund",
+    "Sierra Club",
+    "National Education Association",
+    "United Auto Workers"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Iowa&oldid=1120327701",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-1",
+   "dem_name": "Jonathan Jackson",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Eric Carlson",
+   "rep_incumbent": false,
+   "pres_margin_2p": 43.002,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-3",
+   "dem_name": "Delia Ramirez",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Justin Burau",
+   "rep_incumbent": false,
+   "pres_margin_2p": 42.245,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-6",
+   "dem_name": "Sean Casten",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Keith Pekau",
+   "rep_incumbent": false,
+   "pres_margin_2p": 11.111,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-8",
+   "dem_name": "Raja Krishnamoorthi",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Chris Dargis",
+   "rep_incumbent": false,
+   "pres_margin_2p": 15.682,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-10",
+   "dem_name": "Brad Schneider",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Joseph Severino",
+   "rep_incumbent": false,
+   "pres_margin_2p": 26.402,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-11",
+   "dem_name": "Bill Foster",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Catalina Lauf",
+   "rep_incumbent": false,
+   "pres_margin_2p": 15.628,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-13",
+   "dem_name": "Nikki Budzinski",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Regan Deering",
+   "rep_incumbent": false,
+   "pres_margin_2p": 11.475,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-14",
+   "dem_name": "Lauren Underwood",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Scott Gryder",
+   "rep_incumbent": false,
+   "pres_margin_2p": 11.633,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-17",
+   "dem_name": "Eric Sorensen",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Esther Joy King",
+   "rep_incumbent": false,
+   "pres_margin_2p": 7.992,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-1",
+   "dem_name": "Frank J. Mrvan",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Jennifer-Ruth Green",
+   "rep_incumbent": false,
+   "pres_margin_2p": 8.537,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-2",
+   "dem_name": "Paul Steury",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Rudy Yakym",
+   "rep_incumbent": false,
+   "pres_margin_2p": -23.014,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-5",
+   "dem_name": "Jeannine Lee Lake",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Victoria Spartz",
+   "rep_incumbent": true,
+   "pres_margin_2p": -16.327,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-9",
+   "dem_name": "Matthew Fyfe",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Erin Houchin",
+   "rep_incumbent": false,
+   "pres_margin_2p": -27.829,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "KS-2",
+   "dem_name": "Patrick Schmidt",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jake LaTurner",
+   "rep_incumbent": true,
+   "pres_margin_2p": -16.684,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Patrick Schmidt, retired U.S. Navy officer",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Kansas&oldid=1119672564",
+   "wiki_district_article": null
+  },
+  {
+   "id": "KS-3",
+   "dem_name": "Sharice Davids",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Amanda Adkins",
+   "rep_incumbent": false,
+   "pres_margin_2p": 4.597,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": "*Sharice Davids, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "EMILY's List",
+    "DMFI"
+   ],
+   "wiki_endorsers_sample": [
+    "American Israel Public Affairs Committee",
+    "Brady Campaign",
+    "Democratic Majority for Israel",
+    "EMILY's List",
+    "End Citizens United",
+    "Equality PAC",
+    "Feminist Majority PAC",
+    "Giffords",
+    "Humane Society of the United States Legislative Fund",
+    "Jewish Democratic Council of America",
+    "League of Conservation Voters",
+    "LPAC",
+    "NARAL Pro-Choice America",
+    "National Women's Political Caucus",
+    "Planned Parenthood Action Fund",
+    "Sierra Club",
+    "Women's Political Committee"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Kansas&oldid=1119672564",
+   "wiki_district_article": null
+  },
+  {
+   "id": "KY-3",
+   "dem_name": "Morgan McGarvey",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Stuart Ray",
+   "rep_incumbent": false,
+   "pres_margin_2p": 22.732,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    }
+   ],
+   "wiki_primary_desc": "*Morgan McGarvey, Minority Leader of the Kentucky Senate",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "John Yarmuth, U.S. Representative for (2007–present)",
+    "Kentucky AFL–CIO",
+    "League of Conservation Voters Action Fund",
+    "Pro-Israel America"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Kentucky&oldid=1116898148",
+   "wiki_district_article": null
+  },
+  {
+   "id": "KY-6",
+   "dem_name": "Geoff Young",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Andy Barr",
+   "rep_incumbent": true,
+   "pres_margin_2p": -11.224,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Geoff Young, perennial candidate and assistant director",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Kentucky&oldid=1116898148",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MA-7",
+   "dem_name": "Ayanna Pressley",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Donnie Palmer Jr.",
+   "rep_incumbent": false,
+   "pres_margin_2p": 73.428,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Ayanna Pressley, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "Justice Democrats",
+    "Working Families",
+    "Sunrise",
+    "Bernie Sanders",
+    "Elizabeth Warren",
+    "PDA",
+    "Democracy for America",
+    "Squad member"
+   ],
+   "wiki_endorsers_sample": [
+    "Bernie Sanders, U.S. Senator from Vermont (Independent)",
+    "Elizabeth Warren, U.S. Senator from Massachusetts",
+    "Democracy for America",
+    "Feminist Majority PAC",
+    "League of Conservation Voters",
+    "NARAL Pro-Choice America",
+    "Planned Parenthood Action Fund",
+    "Progressive Democrats of America",
+    "Justice Democrats",
+    "Sierra Club",
+    "Sunrise Movement",
+    "Working Families Party",
+    "SEIU Massachusetts State Council"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Massachusetts&oldid=1119858603",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MA-9",
+   "dem_name": "Bill Keating",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Jesse Brown",
+   "rep_incumbent": false,
+   "pres_margin_2p": 18.534,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": "*Bill Keating, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Planned Parenthood Action Fund"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Massachusetts&oldid=1119858603",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MD-1",
+   "dem_name": "Heather Mizeur",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Andy Harris",
+   "rep_incumbent": true,
+   "pres_margin_2p": -14.898,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    }
+   ],
+   "wiki_primary_desc": "*Heather Mizeur, former state delegate for the 20th district (2007–2015) and candidate for governor in 2014",
+   "wiki_endorsement_markers": [
+    "CPC PAC",
+    "New Democrat",
+    "EMILY's List"
+   ],
+   "wiki_endorsers_sample": [
+    "John King Jr., former United States Secretary of Education (2016–2017) and candidate for governor in 2022",
+    "Tom Perez, candidate for governor in 2022, former Democratic National Committee Chairman (2017–2021), former United Stat",
+    "Chris Van Hollen, U.S. Senator from Maryland (2017-present)",
+    "Anthony G. Brown, U.S. Representative for Maryland's fourth congressional district (2017–present)",
+    "Wayne Gilchrest, former U.S. Representative for Maryland's first congressional district (1991–2009)",
+    "Steny Hoyer, House Majority Leader (2007–2011, 2019–present) and U.S. Representative for Maryland's fifth congressional ",
+    "Kweisi Mfume, U.S. Representative for Maryland's seventh congressional district (1987–1996, 2020–present)",
+    "Jamie Raskin, U.S. Representative for Maryland's eighth congressional district (2017–present)",
+    "Dutch Ruppersberger, U.S. Representative for Maryland's second congressional district (2003–present)",
+    "John Sarbanes, U.S. Representative for Maryland's third congressional district (2007–present)",
+    "David Trone, U.S. Representative for Maryland's sixth congressional district (2019–present)",
+    "Doug Gansler, former Attorney General of Maryland (2007–2015) and candidate for governor in 2014 and 2022",
+    "Nancy Kopp, former Treasurer of Maryland (2002–2021)",
+    "Heather Bagnall, state delegate for the 33rd district (2019–present)",
+    "Ben Barnes, state delegate for the 33rd district (2007–present)",
+    "J. Sandy Bartlett, state delegate for the 32nd district (2019–present)",
+    "Pamela Beidle, state senator for the 32nd district (2019–present)",
+    "Sarah K. Elfreth, state senator for the 30th district (2019–present)",
+    "Dana Jones, state delegate for district 30A (2020–present)",
+    "Mary A. Lehman, state delegate for the 21st district (2019–present)",
+    "Joseline Peña-Melnyk, state delegate for the 21st district (2007–present)",
+    "James Rosapepe, state senator for the 21st district (2019–present)",
+    "Rushern Baker, former Prince George's County executive (2010–2018) and candidate for governor in 2018 and 2022",
+    "Gavin Buckley, mayor of Annapolis (2017–present)",
+    "Jacob R. Day, mayor of Salisbury (2015–present)"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Maryland&oldid=1120307827",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MD-4",
+   "dem_name": "Glenn Ivey",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Jeff Warner",
+   "rep_incumbent": false,
+   "pres_margin_2p": 82.299,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    }
+   ],
+   "wiki_primary_desc": "*Glenn Ivey, former Prince George's County State Attorney (2002–2011) and candidate for Maryland's 4th congressional district in 2016",
+   "wiki_endorsement_markers": [
+    "New Democrat",
+    "DMFI"
+   ],
+   "wiki_endorsers_sample": [
+    "Albert Wynn, former U.S. Representative for Maryland's 4th congressional district (1993–2008)",
+    "Maxine Waters, Chair of the House Financial Services Committee (2019–present) and U.S. Representative for California's 4",
+    "Parris Glendening, 59th Governor of Maryland (1995–2003)",
+    "Julian Ivey, state delegate for district 47A (2019–present) (candidate's son)",
+    "Rushern Baker, former Prince George's County Executive (2010–2018) and candidate for governor in 2018 and 2022",
+    "Jolene Ivey, Prince George's County councilmember (2018–present) (candidate's wife)",
+    "Ike Leggett, former Montgomery County executive (2006–2018)",
+    "International Federation of Professional and Technical Engineers",
+    "American Israel Public Affairs Committee",
+    "Democratic Majority for Israel",
+    "Maryland REALTORS® Political Action Committee",
+    "New Democrat Coalition Action Fund",
+    "Prince George's County Association of REALTORS®",
+    "Pro-Israel America",
+    "Baltimore Jewish Times (Democratic primary only)",
+    "The Washington Post (Democratic primary only)"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Maryland&oldid=1120307827",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MD-6",
+   "dem_name": "David Trone",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Neil Parrott",
+   "rep_incumbent": false,
+   "pres_margin_2p": 10.0,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": "*David Trone, incumbent U.S. representative",
+   "wiki_endorsement_markers": [
+    "DMFI"
+   ],
+   "wiki_endorsers_sample": [
+    "Kumar Barve, state delegate for the 17th district (1991–present)",
+    "Kathleen Dumais, former state delegate for the 15th district (2003–2021)",
+    "Brian J. Feldman, state senator for the 15th district (2013–present)",
+    "David Fraser-Hidalgo, state delegate for the 15th district (2013–present)",
+    "Susan C. Lee, state senator for the 16th district (2015–present)",
+    "Cheryl Kagan, state senator for the 17th district (2015–present)",
+    "Ken Kerr, state delegate for district 3B (2019–present)",
+    "Nancy J. King, Majority Leader of the Maryland Senate (2020–present) and state senator for the 39th district (2007–prese",
+    "Carol Krimm, state delegate for district 3A (2015–present)",
+    "Julie Palakovich Carr, state delegate for the 17th district (2019–present)",
+    "Lily Qi, state delegate for the 15th district (2019–present)",
+    "Kirill Reznik, state delegate for the 39th district (2007–present)",
+    "Karen Lewis Young, state delegate for district 3A (2015–present)",
+    "Ron Young, state senator the 3rd district (2011–present)",
+    "Gabe Albornoz, Montgomery County councilmember (2018–present)",
+    "Andrew Friedson, Montgomery County councilmember (2018–present)",
+    "Evan Glass, Montgomery County councilmember (2018–present)",
+    "Tom Hucker, Montgomery County council president (2014–present) and former state delegate for the 20th district (2007–201",
+    "Will Jawando, Montgomery County councilmember (2018–present)",
+    "Sidney A. Katz, Montgomery County councilmember (2014–present)",
+    "Isiah Leggett, former Montgomery County executive (2006–2018)",
+    "Nancy Navarro, Montgomery County councilmember (2009–present)",
+    "Craig L. Rice, Montgomery County councilmember (2010–present)",
+    "American Federation of State, County and Municipal Employees Local 67",
+    "American Federation of Teachers Maryland"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Maryland&oldid=1120307827",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MD-8",
+   "dem_name": "Jamie Raskin",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Gregory Coll",
+   "rep_incumbent": false,
+   "pres_margin_2p": 63.618,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Jamie Raskin, incumbent U.S. representative",
+   "wiki_endorsement_markers": [
+    "PCCC",
+    "PDA"
+   ],
+   "wiki_endorsers_sample": [
+    "American Federation of State, County and Municipal Employees Local 67",
+    "American Federation of Teachers Maryland",
+    "Maryland State and District of Columbia AFL–CIO",
+    "National Education Association",
+    "Service Employees International Union Local 500",
+    "UNITE HERE Local 25",
+    "United Auto Workers",
+    "United Farm Workers",
+    "United Food and Commercial Workers Local 27",
+    "United Food and Commercial Workers Local 400",
+    "United Food and Commercial Workers Local 1994 MCGEO",
+    "Feminist Majority PAC",
+    "Friends of the Earth Action",
+    "Human Rights Campaign",
+    "Humane Society of the United States Legislative Fund",
+    "JStreetPAC",
+    "Maryland REALTORS® Political Action Committee",
+    "League of Conservation Voters Action Fund",
+    "National Committee to Preserve Social Security and Medicare",
+    "National Nurses United",
+    "National Organization for Women PAC",
+    "Peace Action",
+    "Planned Parenthood Action Fund",
+    "Progressive Change Campaign Committee",
+    "Progressive Democrats of America"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Maryland&oldid=1120307827",
+   "wiki_district_article": null
+  },
+  {
+   "id": "ME-2",
+   "dem_name": "Jared Golden",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Bruce Poliquin",
+   "rep_incumbent": false,
+   "pres_margin_2p": -6.282,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "*Jared Golden, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "VoteVets",
+    "DMFI"
+   ],
+   "wiki_endorsers_sample": [
+    "American Israel Public Affairs Committee",
+    "Democratic Majority for Israel",
+    "End Citizens United",
+    "Maine Fraternal Order of Police lodge",
+    "NARAL Pro-Choice America",
+    "New Politics",
+    "Planned Parenthood Action Fund",
+    "Renew America Movement",
+    "Pro-Israel America",
+    "VoteVets.org"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Maine&oldid=1120578596",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-3",
+   "dem_name": "Hillary Scholten",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "John Gibbs",
+   "rep_incumbent": false,
+   "pres_margin_2p": 8.665,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Hillary Scholten, attorney and nominee for Michigan's 3rd congressional district in 2020",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Michigan&oldid=1120578931",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-4",
+   "dem_name": "Joseph Alfonso",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Bill Huizenga",
+   "rep_incumbent": true,
+   "pres_margin_2p": -4.073,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Joseph Alfonso, member of the Michigan State Plumbing Board, non-profit treasurer, and U.S. Marine Corps veteran",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "One Fair Wage",
+    "Michigan Education Association",
+    "Vote Common Good"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Michigan&oldid=1120578931",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-6",
+   "dem_name": "Debbie Dingell",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Whittney Williams",
+   "rep_incumbent": false,
+   "pres_margin_2p": 27.052,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    }
+   ],
+   "wiki_primary_desc": "*Debbie Dingell, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Michigan&oldid=1120578931",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-7",
+   "dem_name": "Elissa Slotkin",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Tom Barrett",
+   "rep_incumbent": false,
+   "pres_margin_2p": 0.509,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    }
+   ],
+   "wiki_primary_desc": "*Elissa Slotkin, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "VoteVets"
+   ],
+   "wiki_endorsers_sample": [
+    "American Israel Public Affairs Committee",
+    "End Citizens United",
+    "Feminist Majority PAC",
+    "Giffords",
+    "Humane Society of the United States Legislative Fund",
+    "League of Conservation Voters",
+    "Let America Vote",
+    "NARAL Pro-Choice America",
+    "New Politics",
+    "Planned Parenthood Action Fund",
+    "Sierra Club",
+    "VoteVets.org"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Michigan&oldid=1120578931",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-8",
+   "dem_name": "Dan Kildee",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Paul Junge",
+   "rep_incumbent": false,
+   "pres_margin_2p": 2.132,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    }
+   ],
+   "wiki_primary_desc": "*Dan Kildee, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Mark Ruffalo, actor and producer",
+    "Feminist Majority PAC",
+    "Giffords",
+    "League of Conservation Voters",
+    "NARAL Pro-Choice America",
+    "Natural Resources Defense Council",
+    "Planned Parenthood Action Fund",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Michigan&oldid=1120578931",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-10",
+   "dem_name": "Carl Marlinga",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "John James",
+   "rep_incumbent": false,
+   "pres_margin_2p": -1.014,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    }
+   ],
+   "wiki_primary_desc": "*Carl Marlinga, former Macomb County Circuit Court Judge and candidate for U.S. Senate in 1994",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "League of Conservation Voters",
+    "Detroit Free Press (primary only)"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Michigan&oldid=1120578931",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-11",
+   "dem_name": "Haley Stevens",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Mark Ambrose",
+   "rep_incumbent": false,
+   "pres_margin_2p": 20.162,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    }
+   ],
+   "wiki_primary_desc": "*Haley Stevens, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "EMILY's List",
+    "DMFI"
+   ],
+   "wiki_endorsers_sample": [
+    "Hillary Clinton, former United States Secretary of State (2009–2013)",
+    "Colin Allred, U.S. Representative from TX-32 (2019–present)",
+    "Cindy Axne, U.S. Representative from IA-03 (2019–present)",
+    "Joyce Beatty, U.S. Representative from OH-03 (2013–present)",
+    "Suzan DelBene, U.S. Representative from WA-01 (2012–present)",
+    "Lois Frankel, U.S. Representative from FL-21 (2013–present)",
+    "Eddie Bernice Johnson, U.S. Representative from TX-30 (1993–present)",
+    "Annie Kuster, U.S. Representative from NH-02 (2013–present)",
+    "Brenda Lawrence, U.S. Representative from MI-14 (2015–present)",
+    "Susie Lee, U.S. Representative from NV-03 (2019–present)",
+    "Chris Pappas, U.S. Representative from NH-01 (2019–present)",
+    "Linda Sánchez, U.S. Representative from CA-38 (2003–present)",
+    "Brad Schneider, U.S. Representative from IL-10 (2013–2015; 2017–present)",
+    "Jackie Speier, U.S. Representative from CA-14 (2008–present)",
+    "Susan Wild, U.S. Representative from PA-07 (2018–present)",
+    "Communications Workers of America Local 4009",
+    "Communications Workers of America Local 4123",
+    "International Union of Bricklayers and Allied Craftworkers Local 2",
+    "United Association Plumbers Local 98",
+    "United Association Pipefitters & Steamfitters Local 636",
+    "United Food and Commercial Workers Local 876",
+    "American Israel Public Affairs Committee",
+    "Democratic Majority for Israel",
+    "Jewish Dems",
+    "EMILY's List"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Michigan&oldid=1120578931",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-12",
+   "dem_name": "Rashida Tlaib",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Steven Elliott",
+   "rep_incumbent": false,
+   "pres_margin_2p": 49.039,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+    },
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Rashida Tlaib, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "Justice Democrats",
+    "DSA",
+    "Working Families",
+    "Sunrise",
+    "Bernie Sanders",
+    "PCCC",
+    "PDA",
+    "Brand New Congress",
+    "Democracy for America",
+    "Squad member"
+   ],
+   "wiki_endorsers_sample": [
+    "Bernie Sanders, U.S. Senator from Vermont (2007–present)",
+    "Brand New Congress",
+    "Democracy for America",
+    "Democratic Socialists of America",
+    "Feminist Majority PAC",
+    "Jewish Voice for Peace Action Fund",
+    "Justice Democrats",
+    "League of Conservation Voters",
+    "Planned Parenthood Action Fund",
+    "Progressive Change Campaign Committee",
+    "Progressive Democrats of America",
+    "Sierra Club",
+    "Sunrise Movement",
+    "Working Families Party",
+    "Detroit Free Press"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Michigan&oldid=1120578931",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-13",
+   "dem_name": "Shri Thanedar",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Martell Bivings",
+   "rep_incumbent": false,
+   "pres_margin_2p": 50.202,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "NewDem Action Fund",
+     "source": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates"
+    }
+   ],
+   "wiki_primary_desc": "*Shri Thanedar, state representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Michigan&oldid=1120578931",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-1",
+   "dem_name": "Jeff Ettinger",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Brad Finstad",
+   "rep_incumbent": true,
+   "pres_margin_2p": -9.407,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Minnesota&oldid=1120579074",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-2",
+   "dem_name": "Angie Craig",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Tyler Kistner",
+   "rep_incumbent": false,
+   "pres_margin_2p": 7.252,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    }
+   ],
+   "wiki_primary_desc": "* Angie Craig, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "EMILY's List",
+    "DMFI"
+   ],
+   "wiki_endorsers_sample": [
+    "American Israel Public Affairs Committee",
+    "Council for a Livable World",
+    "Democratic Majority for Israel",
+    "EMILY's List",
+    "End Citizens United",
+    "Equality PAC",
+    "Feminist Majority PAC",
+    "Giffords",
+    "Jewish Democratic Council of America",
+    "League of Conservation Voters",
+    "Let America Vote",
+    "LPAC",
+    "NARAL Pro-Choice America",
+    "National Women's Political Caucus",
+    "Planned Parenthood Action Fund",
+    "Sierra Club",
+    "National Education Association",
+    "United Auto Workers"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Minnesota&oldid=1120579074",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-3",
+   "dem_name": "Dean Phillips",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Tom Weiler",
+   "rep_incumbent": false,
+   "pres_margin_2p": 21.429,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194"
+    },
+    {
+     "marker": "Problem_Solvers_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903"
+    }
+   ],
+   "wiki_primary_desc": "* Dean Phillips, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "DMFI"
+   ],
+   "wiki_endorsers_sample": [
+    "Democratic Majority for Israel",
+    "End Citizens United",
+    "Planned Parenthood Action Fund",
+    "Sierra Club"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Minnesota&oldid=1120579074",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-5",
+   "dem_name": "Ilhan Omar",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Cicely Davis",
+   "rep_incumbent": false,
+   "pres_margin_2p": 64.49,
+   "pres_year": 2020,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282"
+    },
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582"
+    },
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/"
+    },
+    {
+     "marker": "Working Families",
+     "source": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "* Ilhan Omar, incumbent U.S. Representative",
+   "wiki_endorsement_markers": [
+    "Justice Democrats",
+    "Working Families",
+    "Sunrise",
+    "Elizabeth Warren",
+    "PDA",
+    "Democracy for America",
+    "Squad member",
+    "Indivisible"
+   ],
+   "wiki_endorsers_sample": [
+    "Elizabeth Warren, U.S. Senator from Massachusetts (2013–)",
+    "Alexandria Ocasio-Cortez, U.S. Representative from New York's 14th congressional district (2019–)",
+    "Nancy Pelosi, Speaker of the United States House of Representatives (2007–2011; 2019–); U.S. Representative from Califor",
+    "Democracy for America",
+    "End Citizens United",
+    "Indivisible",
+    "Justice Democrats",
+    "Jewish Voice for Peace Action Fund",
+    "Minnesota DFL",
+    "Planned Parenthood Action Fund",
+    "Progressive Democrats of America",
+    "Sierra Club",
+    "Sunrise Movement",
+    "TakeAction Minnesota",
+    "Working Families Party"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Minnesota&oldid=1120579074",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-6",
+   "dem_name": "Jeanne Hendricks",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Tom Emmer",
+   "rep_incumbent": true,
+   "pres_margin_2p": -17.996,
+   "pres_year": 2020,
+   "markers_found": [],
+   "wiki_primary_desc": "*Jeanne Hendricks, nurse",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2022_United_States_House_of_Representatives_elections_in_Minnesota&oldid=1120579074",
+   "wiki_district_article": null
+  }
+ ]
+}

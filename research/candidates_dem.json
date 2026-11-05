@@ -1,0 +1,2826 @@
+{
+ "as_of": "2026-11-04T11:14:00-05:00",
+ "candidates": [
+  {
+   "name": "Jon Ossoff",
+   "current_role": "U.S. Senator, Georgia (re-elected 2026-11-03)",
+   "age_in_2028": 41,
+   "home_state": "Georgia",
+   "home_state_pres2024_margin": -2.19,
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Party-backed incumbent; ran 2026 on affordability, health care and accountability (Newsweek). Anti-corruption/stock-ban signature and growing Israel criticism (Forward) add outsider notes, but not an insurgent.",
+   "track_record": [
+    {
+     "year": 2017,
+     "office": "U.S. House GA-6 special runoff (lost)",
+     "margin": -3.56,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2017_Georgia%27s_6th_congressional_district_special_election",
+     "dem_pct": 48.22,
+     "opp_pct": 51.78,
+     "verified_by_fetch_this_session": true,
+     "note": "district race; district pres baseline not compiled",
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2021,
+     "office": "U.S. Senate GA (Jan 2021 runoff)",
+     "margin": 1.2,
+     "pres_baseline_margin": 0.24,
+     "overperformance": 0.96,
+     "source": "https://en.wikipedia.org/wiki/2020%E2%80%9321_United_States_Senate_election_in_Georgia",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 50.6,
+     "opp_pct": 49.4,
+     "verified_by_fetch_this_session": false,
+     "note": "50.6% also cited on Wikipedia 2026 Senate elections page"
+    },
+    {
+     "year": 2026,
+     "office": "U.S. Senate GA",
+     "margin": 18.0,
+     "pres_baseline_margin": -2.19,
+     "overperformance": 20.19,
+     "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 59.0,
+     "opp_pct": 41.0,
+     "verified_by_fetch_this_session": true,
+     "note": "99% reporting as of 10:07 AM EST Nov 4; 2,463,132 vs 1,711,322"
+    }
+   ],
+   "result_2026": {
+    "office": "U.S. Senate (GA)",
+    "opponent": "Mike Collins (R)",
+    "dem_pct": 59.0,
+    "rep_pct": 41.0,
+    "margin": 18.0,
+    "pres2024_margin": -2.19,
+    "overperformance_vs_pres2024": 20.19,
+    "pct_expected_vote_counted": 98.7,
+    "called": true,
+    "called_by": [
+     "CBS News",
+     "NBC News",
+     "AP (per Fox 5 Atlanta)"
+    ],
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
+     "https://www.cbsnews.com/news/georgia-2026-senate-ossoff-collins/",
+     "https://www.fox5atlanta.com/news/george-us-senate-jon-ossoff-mike-collins",
+     "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results"
+    ],
+    "nbc_shift_vs_2024": 20.2,
+    "verification_note": "59.0/41.0 confirmed by NBC News results page 11:11 AM ET (98.7% expected, 4,174,454 votes, NBC shift +20.2 vs 2024)."
+   },
+   "midterm_role_2026": "Own re-election in a Trump-2024 state, the only Dem incumbent senator defending such a seat; won by 18. Said in an Oct 2026 debate he 'won't run for president in 2028' (Wikipedia 2028 primaries page); The Hill reports he pledged to serve a full six-year term.",
+   "favorability": {
+    "fav": 23,
+    "unfav": 17,
+    "pollster": "Echelon Insights",
+    "date": "2026-10-15/19",
+    "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "population": "1,010 likely voters, national"
+   },
+   "primary_polling": [
+    {
+     "pct": 7,
+     "pollster": "Harvard CAPS/Harris (HarrisX)",
+     "date": "2026-10-24/26",
+     "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+     "population": "Democrats within 2,700 RV",
+     "verified": true,
+     "verification_note": "Harvard/Harris PDF p.76 shows Ossoff 7, Shapiro 8, Pritzker 4; Wikipedia table mis-transcribes these as 6/7/5 - PDF values kept"
+    },
+    {
+     "pct": 5,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 4,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 8,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 10,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    }
+   ],
+   "head_to_heads": [
+    {
+     "opponent": "JD Vance",
+     "margin": 5,
+     "dem_pct": 49,
+     "rep_pct": 44,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    },
+    {
+     "opponent": "Marco Rubio",
+     "margin": 3,
+     "dem_pct": 47,
+     "rep_pct": 44,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    }
+   ],
+   "market_prob": {
+    "value": 29.4,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 21.0,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "note": "Market leader the morning after the election despite his no-run pledge",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Won by 18 in a Trump+2.2 state (~20-pt overperformance); youngest top-tier option; strong fundraising; high Dem favorability with low negatives (Dem voters 55/5).",
+   "weaknesses": "Has publicly ruled out a 2028 run; still low national name ID (Echelon: 40% never heard of him); thin record beyond one Senate term.",
+   "coalition_notes": "Liberal Currents (Dem voters, Sep): 15% among white Dems vs 4% Black and 4% Hispanic; 13% among high-knowledge Dems; 17% among Dems who reject 'woke' label. Harvard/Harris Oct: 8% white, 6% Black, 2% Hispanic.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
+    "https://www.cbsnews.com/news/georgia-2026-senate-ossoff-collins/",
+    "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://forward.com/fast-forward/860255/georgia-voters-decide-the-future-of-jon-ossoff-a-jewish-democrat-who-increasingly-criticizes-israel/",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://emersoncollegepolling.com/august-2026-national-poll/",
+    "https://en.wikipedia.org/wiki/2028_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Gavin Newsom",
+   "current_role": "Governor of California (term-limited, leaves office Jan 2027)",
+   "age_in_2028": 61,
+   "home_state": "California",
+   "home_state_pres2024_margin": 20.13,
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Two-term governor and party institutionalist; led 2025 Prop 50 redistricting counterattack; toured NH/AL/SC/NC for 2026 candidates; opposed CA billionaire wealth-tax measure while calling DSA a 'mainstream Democratic movement' (Townhall, Oct 2026).",
+   "track_record": [
+    {
+     "year": 2010,
+     "office": "Lt. Governor CA",
+     "margin": 11.2,
+     "pres_baseline_margin": 24.03,
+     "overperformance": -12.83,
+     "source": "https://en.wikipedia.org/wiki/Electoral_history_of_Gavin_Newsom",
+     "pres_baseline_year": 2008,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election",
+     "dem_pct": 50.2,
+     "opp_pct": 39.0,
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2014,
+     "office": "Lt. Governor CA",
+     "margin": 14.4,
+     "pres_baseline_margin": 23.12,
+     "overperformance": -8.72,
+     "source": "https://en.wikipedia.org/wiki/Electoral_history_of_Gavin_Newsom",
+     "pres_baseline_year": 2012,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election",
+     "dem_pct": 57.2,
+     "opp_pct": 42.8,
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2018,
+     "office": "Governor CA",
+     "margin": 23.9,
+     "pres_baseline_margin": 30.11,
+     "overperformance": -6.21,
+     "source": "https://en.wikipedia.org/wiki/Electoral_history_of_Gavin_Newsom",
+     "pres_baseline_year": 2016,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election",
+     "dem_pct": 61.95,
+     "opp_pct": 38.05,
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2021,
+     "office": "Governor CA recall (No on recall)",
+     "margin": 23.76,
+     "pres_baseline_margin": 29.16,
+     "overperformance": -5.4,
+     "source": "https://en.wikipedia.org/wiki/Electoral_history_of_Gavin_Newsom",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 61.88,
+     "opp_pct": 38.12,
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2022,
+     "office": "Governor CA",
+     "margin": 18.36,
+     "pres_baseline_margin": 29.16,
+     "overperformance": -10.8,
+     "source": "https://en.wikipedia.org/wiki/Electoral_history_of_Gavin_Newsom",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 59.18,
+     "opp_pct": 40.82,
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot. Campaigned in New Hampshire, Alabama, South Carolina and North Carolina (Axios/Newsweek); his 2025 Prop 50 House map was in effect for 2026; opposed the CA billionaire wealth-tax ballot measure (outcome not verified in this pass).",
+   "favorability": {
+    "fav": 33,
+    "unfav": 40,
+    "pollster": "Harvard CAPS/Harris (HarrisX)",
+    "date": "2026-10-24/26",
+    "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "population": "2,700 registered voters, national"
+   },
+   "primary_polling": [
+    {
+     "pct": 20,
+     "pollster": "Harvard CAPS/Harris (HarrisX)",
+     "date": "2026-10-24/26",
+     "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+     "population": "Democrats within 2,700 RV",
+     "verified": true
+    },
+    {
+     "pct": 14,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 9,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 14,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 15,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    },
+    {
+     "pct": 14.2,
+     "pollster": "RealClearPolling average (as reported by Newsweek)",
+     "date": "average through 2026-11-01",
+     "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "verified": true,
+     "verification_note": "Matches Newsweek report of RCP average through Nov 1 (RCP site not fetched)"
+    }
+   ],
+   "head_to_heads": [
+    {
+     "opponent": "JD Vance",
+     "margin": 4,
+     "dem_pct": 46,
+     "rep_pct": 42,
+     "pollster": "UMass Lowell/YouGov",
+     "date": "2026-10-02/04",
+     "url": "https://www.uml.edu/docs/2026-October-National-Topline_tcm18-423714.pdf",
+     "verification_note": "Confirmed vs UMass Lowell topline PDF"
+    },
+    {
+     "opponent": "JD Vance",
+     "margin": 5,
+     "dem_pct": 41,
+     "rep_pct": 36,
+     "pollster": "The Bulwark/Pablo Torre Finds Out/YouGov",
+     "date": "2026-10-10/14",
+     "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/The_Bulwark_x_Pablo_Torre_Finds_Out_poll_results.pdf",
+     "verification_note": "Confirmed vs YouGov PDF; population is 1,417 U.S. adults (not RV/LV)",
+     "population": "1,417 U.S. adults"
+    },
+    {
+     "opponent": "JD Vance",
+     "margin": 5,
+     "dem_pct": 49,
+     "rep_pct": 44,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    },
+    {
+     "opponent": "Marco Rubio",
+     "margin": 2,
+     "dem_pct": 44,
+     "rep_pct": 42,
+     "pollster": "UMass Lowell/YouGov",
+     "date": "2026-10-02/04",
+     "url": "https://www.uml.edu/docs/2026-October-National-Topline_tcm18-423714.pdf",
+     "verification_note": "Confirmed vs UMass Lowell topline PDF"
+    },
+    {
+     "opponent": "Marco Rubio",
+     "margin": 2,
+     "dem_pct": 48,
+     "rep_pct": 46,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    }
+   ],
+   "market_prob": {
+    "value": 14.9,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 14.0,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Consistent #2 in primary polls (avg ~14%); highest name ID after Harris; seen as the party's lead anti-Trump fighter after Prop 50; leads Vance in every recent matchup found.",
+   "weaknesses": "Net-negative nationally (33/40 Harvard/Harris); has underperformed CA's presidential baseline in every statewide race (-5 to -13 pts); 'California liberal' baggage; said he won't run if Harris runs.",
+   "coalition_notes": "Liberal Currents (Dem voters): strongest with self-identified liberals (24%) and 45+ (18%) vs 8% under 45; weak with socialists/progressives (7%). Harvard/Harris Oct: roughly even across white (21%), Black (22%), Hispanic (19%) Dems; 7% Asian.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Electoral_history_of_Gavin_Newsom",
+    "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://www.axios.com/2026/11/01/2028-democrats-midterm-bets",
+    "https://townhall.com/news/kyleolson/2026/10/26/gavin-newsom-calls-dsa-mainstream-democratic-movement-heading-into-2028-presidential-election-n2685292",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://www.uml.edu/docs/2026-October-National-Topline_tcm18-423714.pdf",
+    "https://d3nkl3psvxxpe9.cloudfront.net/documents/The_Bulwark_x_Pablo_Torre_Finds_Out_poll_results.pdf",
+    "https://emersoncollegepolling.com/august-2026-national-poll/",
+    "https://en.wikipedia.org/wiki/2028_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2016_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Alexandria Ocasio-Cortez",
+   "current_role": "U.S. Representative, NY-14 (re-elected 2026)",
+   "age_in_2028": 39,
+   "home_state": "New York",
+   "home_state_pres2024_margin": 12.59,
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "DSA-endorsed (NYC-DSA, Apr 2026); 2025 'Fighting Oligarchy' tour with Sanders; anti-billionaire/anti-corporate-money message; generational-change argument (Newsweek); campaigned for progressives in ME, MI, NV, CA.",
+   "track_record": [
+    {
+     "year": 2018,
+     "office": "U.S. House NY-14",
+     "margin": 64.57,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2018_New_York%27s_14th_congressional_district_election",
+     "dem_pct": 78.18,
+     "opp_pct": 13.61,
+     "verified_by_fetch_this_session": true,
+     "note": "district pres baseline for 2016 not compiled; 2020-2024 House margins not retrieved",
+     "verification_note": "Wikipedia: 110,318 (78.18%) vs Pappas 19,202 (13.61%)"
+    },
+    {
+     "year": 2026,
+     "office": "U.S. House NY-14",
+     "margin": 56.7,
+     "pres_baseline_margin": 32.39,
+     "overperformance": 24.31,
+     "source": "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-14-results",
+     "dem_pct": 78.2,
+     "opp_pct": 21.5,
+     "verified_by_fetch_this_session": true,
+     "note": "baseline implied by NBC's stated 24.31-pt shift vs 2024 (NBC county baselines: Bronx part D+35.82, Queens part D+28.65); 95.6% expected vote in"
+    }
+   ],
+   "result_2026": {
+    "office": "U.S. House NY-14",
+    "opponent": "Diamant Hysenaj (R)",
+    "dem_pct": 78.2,
+    "rep_pct": 21.5,
+    "margin": 56.7,
+    "pres2024_margin": 32.39,
+    "pres2024_margin_note": "district-level, Harris 65-Trump 33 (rounded, Wikipedia)",
+    "overperformance_vs_pres2024": 24.31,
+    "nbc_shift_vs_2024": 24.31,
+    "pct_expected_vote_counted": 95.6,
+    "called": null,
+    "called_note": "NBC page shows 'projected winner' label but extract did not confirm an explicit call; outcome not in doubt at 78%",
+    "sources": [
+     "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-14-results",
+     "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez"
+    ],
+    "verification_note": "NBC NY-14 results page (11:11 AM ET): 78.2/21.5 at 95.6% expected, 136,956 votes; NBC states a 24.31-pt shift toward Dems vs 2024 pres. pres2024_margin 32.39 is implied (56.7 - 24.31) and replaces the rounded 65-33 Wikipedia figure (32.0). Call status not shown on NBC page; left null."
+   },
+   "midterm_role_2026": "Safe-seat re-election. Campaigned for Democrats in Maine, Michigan, Nevada and California (Axios/Newsweek). Axios framed her future on whether a fellow progressive could carry a swing state: Sanders-wing Abdul El-Sayed won Michigan's open Senate seat (~+7.0 at 96.8% expected, AP/NBC call), a result Bloomberg called a boost to progressives.",
+   "favorability": {
+    "fav": 29,
+    "unfav": 40,
+    "pollster": "Harvard CAPS/Harris (HarrisX)",
+    "date": "2026-10-24/26",
+    "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "population": "2,700 registered voters, national"
+   },
+   "favorability_alt": {
+    "fav": 37,
+    "unfav": 39,
+    "pollster": "Echelon Insights",
+    "date": "2026-10-15/19",
+    "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "population": "1,010 likely voters, national"
+   },
+   "primary_polling": [
+    {
+     "pct": 11,
+     "pollster": "Harvard CAPS/Harris (HarrisX)",
+     "date": "2026-10-24/26",
+     "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+     "population": "Democrats within 2,700 RV",
+     "verified": true
+    },
+    {
+     "pct": 13,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 6,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 9,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 8,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    },
+    {
+     "pct": 11.8,
+     "pollster": "RealClearPolling average (as reported by Newsweek)",
+     "date": "average through 2026-11-01",
+     "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "verified": true,
+     "verification_note": "Matches Newsweek report of RCP average through Nov 1 (RCP site not fetched)"
+    }
+   ],
+   "head_to_heads": [
+    {
+     "opponent": "JD Vance",
+     "margin": 2,
+     "dem_pct": 40,
+     "rep_pct": 38,
+     "pollster": "The Bulwark/Pablo Torre Finds Out/YouGov",
+     "date": "2026-10-10/14",
+     "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/The_Bulwark_x_Pablo_Torre_Finds_Out_poll_results.pdf",
+     "verification_note": "Confirmed vs YouGov PDF; population is 1,417 U.S. adults (not RV/LV)",
+     "population": "1,417 U.S. adults"
+    },
+    {
+     "opponent": "JD Vance",
+     "margin": 3,
+     "dem_pct": 45,
+     "rep_pct": 42,
+     "pollster": "UMass Lowell/YouGov",
+     "date": "2026-10-02/04",
+     "url": "https://www.uml.edu/docs/2026-October-National-Topline_tcm18-423714.pdf",
+     "verification_note": "Confirmed vs UMass Lowell topline PDF"
+    },
+    {
+     "opponent": "JD Vance",
+     "margin": -3,
+     "dem_pct": 42,
+     "rep_pct": 45,
+     "pollster": "Quantus Insights",
+     "date": "2026-08-26/28",
+     "url": "https://quantusinsights.org/polling/f/new-survey-democrats-hold-the-midterm-advantage",
+     "verification_note": "Could not re-confirm: cited Quantus page rendered without numbers on re-fetch; value retained from original research, unverified"
+    },
+    {
+     "opponent": "JD Vance",
+     "margin": -2,
+     "dem_pct": 44,
+     "rep_pct": 46,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    },
+    {
+     "opponent": "Marco Rubio",
+     "margin": 0,
+     "dem_pct": 43,
+     "rep_pct": 43,
+     "pollster": "UMass Lowell/YouGov",
+     "date": "2026-10-02/04",
+     "url": "https://www.uml.edu/docs/2026-October-National-Topline_tcm18-423714.pdf",
+     "verification_note": "Confirmed vs UMass Lowell topline PDF"
+    },
+    {
+     "opponent": "Marco Rubio",
+     "margin": -5,
+     "dem_pct": 43,
+     "rep_pct": 48,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    }
+   ],
+   "market_prob": {
+    "value": 15.3,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 14.0,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Top movement/small-dollar base; dominant with young, Hispanic and Asian-American Dems; #2 in prediction markets; 2026 youth turnout and El-Sayed win bolster her lane.",
+   "weaknesses": "Weakest general-election numbers of the top tier (net -11 Harvard/Harris; trails Rubio/Vance in Emerson); no statewide record; little support among Black and older Dems.",
+   "coalition_notes": "Liberal Currents: 18% under 45 vs 3% 45+; 16% socialists/progressives vs 4% liberals. Harvard/Harris Oct: 21% Hispanic, 27% Asian, 7% white, 6% Black Dems. UNH NH primary polling showed her strongest with self-described socialists/progressives (MS NOW).",
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-14-results",
+    "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
+    "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://www.axios.com/2026/11/01/2028-democrats-midterm-bets",
+    "https://www.bloomberg.com/news/articles/2026-11-04/democrat-el-sayed-wins-michigan-senate-race-ddhq-projects",
+    "https://www.ms.now/news/new-hampshire-democrats-president-2028-poll-ocasio-cortez-buttigieg",
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://www.uml.edu/docs/2026-October-National-Topline_tcm18-423714.pdf",
+    "https://d3nkl3psvxxpe9.cloudfront.net/documents/The_Bulwark_x_Pablo_Torre_Finds_Out_poll_results.pdf",
+    "https://emersoncollegepolling.com/august-2026-national-poll/",
+    "https://quantusinsights.org/polling/f/new-survey-democrats-hold-the-midterm-advantage",
+    "https://en.wikipedia.org/wiki/2028_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Pete Buttigieg",
+   "current_role": "Former U.S. Secretary of Transportation (private citizen, Michigan)",
+   "age_in_2028": 46,
+   "home_state": "Michigan (formerly Indiana)",
+   "home_state_pres2024_margin": -1.41,
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former cabinet secretary; conventional party surrogate (seven-state 2026 closing tour incl. GA, MI); brand built on cross-partisan media (Fox, podcasts) and pragmatic tone rather than ideological insurgency.",
+   "track_record": [
+    {
+     "year": 2010,
+     "office": "Indiana State Treasurer (lost)",
+     "margin": -24.92,
+     "pres_baseline_margin": 1.03,
+     "overperformance": -25.95,
+     "source": "https://en.wikipedia.org/wiki/2010_Indiana_State_Treasurer_election",
+     "pres_baseline_year": 2008,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election",
+     "dem_pct": 37.54,
+     "opp_pct": 62.46,
+     "verified_by_fetch_this_session": true,
+     "note": "only statewide race; baseline = 2008 IN pres (Obama +1.0)",
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2015,
+     "office": "Mayor of South Bend",
+     "margin": 60.82,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2015_South_Bend_mayoral_election",
+     "dem_pct": 80.41,
+     "opp_pct": 19.59,
+     "verified_by_fetch_this_session": true,
+     "note": "citywide; no pres baseline compiled",
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot (passed on Michigan Senate/governor races). Ran a seven-state closing tour including Georgia and Michigan (Newsweek/Axios); Democrats won both Senate races in those states (Ossoff +18, El-Sayed ~+7).",
+   "favorability": {
+    "fav": 70,
+    "unfav": 7,
+    "pollster": "Center for Strategic Politics/Liberal Currents",
+    "date": "2026-09-03,08/10",
+    "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "population": "683 Democratic voters only (NOT national all-voter favorability)",
+    "verification_note": "Confirmed against Liberal Currents/CSP crosstab PDF Total column"
+   },
+   "primary_polling": [
+    {
+     "pct": 10,
+     "pollster": "Harvard CAPS/Harris (HarrisX)",
+     "date": "2026-10-24/26",
+     "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+     "population": "Democrats within 2,700 RV",
+     "verified": true
+    },
+    {
+     "pct": 13,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 7,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 10,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 13,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    },
+    {
+     "pct": 13.1,
+     "pollster": "RealClearPolling average (as reported by Newsweek)",
+     "date": "average through 2026-11-01",
+     "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "verified": true,
+     "verification_note": "Matches Newsweek report of RCP average through Nov 1 (RCP site not fetched)"
+    }
+   ],
+   "head_to_heads": [
+    {
+     "opponent": "JD Vance",
+     "margin": 2,
+     "dem_pct": 38,
+     "rep_pct": 36,
+     "pollster": "The Bulwark/Pablo Torre Finds Out/YouGov",
+     "date": "2026-10-10/14",
+     "url": "https://d3nkl3psvxxpe9.cloudfront.net/documents/The_Bulwark_x_Pablo_Torre_Finds_Out_poll_results.pdf",
+     "verification_note": "Confirmed vs YouGov PDF; population is 1,417 U.S. adults (not RV/LV)",
+     "population": "1,417 U.S. adults"
+    },
+    {
+     "opponent": "JD Vance",
+     "margin": 5,
+     "dem_pct": 49,
+     "rep_pct": 44,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    },
+    {
+     "opponent": "Marco Rubio",
+     "margin": 5,
+     "dem_pct": 49,
+     "rep_pct": 44,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    }
+   ],
+   "market_prob": {
+    "value": 4.1,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 5.1,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Highest favorability among Dem voters (70/7, Liberal Currents); leads both Vance and Rubio by 5 (Emerson Aug); led some 2026 primary polls and NH polling; strong communicator in hostile media.",
+   "weaknesses": "Persistent near-zero support among Black Democrats (2-5%); no statewide win (lost 2010 IN treasurer by 25); out of office since Jan 2025.",
+   "coalition_notes": "Liberal Currents: 23% among socialists/progressives (his best group), 19% high-knowledge, 16% men; 2% Black, 4% under-45. Harvard/Harris Oct: 13% white, 21% Asian, 5% Black, 3% Hispanic. UNH: drew from a broad mix of NH voters.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pete_Buttigieg",
+    "https://en.wikipedia.org/wiki/2010_Indiana_elections",
+    "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://www.axios.com/2026/11/01/2028-democrats-midterm-bets",
+    "https://thehill.com/homenews/campaign/5898010-pete-buttigieg-democratic-presidential-primary-poll/",
+    "https://www.lgbtqnation.com/2026/09/pete-buttigieg-is-more-popular-than-mr-rogers/",
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://d3nkl3psvxxpe9.cloudfront.net/documents/The_Bulwark_x_Pablo_Torre_Finds_Out_poll_results.pdf",
+    "https://emersoncollegepolling.com/august-2026-national-poll/",
+    "https://en.wikipedia.org/wiki/2028_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2008_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Kamala Harris",
+   "current_role": "Former Vice President; 2024 Democratic nominee",
+   "age_in_2028": 64,
+   "home_state": "California",
+   "home_state_pres2024_margin": 20.13,
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "high",
+   "style_evidence": "Party's 2024 nominee and former VP; conventional institutional profile; says she 'goes back and forth' on 2028 (Newsweek); no evidence of repositioning toward insurgent or centrist branding.",
+   "track_record": [
+    {
+     "year": 2010,
+     "office": "Attorney General CA",
+     "margin": 0.77,
+     "pres_baseline_margin": 24.03,
+     "overperformance": -23.26,
+     "source": "https://en.wikipedia.org/wiki/2010_California_Attorney_General_election",
+     "pres_baseline_year": 2008,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election",
+     "dem_pct": 46.05,
+     "opp_pct": 45.28,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2014,
+     "office": "Attorney General CA",
+     "margin": 15.0,
+     "pres_baseline_margin": 23.12,
+     "overperformance": -8.12,
+     "source": "https://en.wikipedia.org/wiki/2014_California_Attorney_General_election",
+     "pres_baseline_year": 2012,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election",
+     "dem_pct": 57.5,
+     "opp_pct": 42.5,
+     "verified_by_fetch_this_session": false
+    },
+    {
+     "year": 2016,
+     "office": "U.S. Senate CA (top-two, vs Democrat Loretta Sanchez)",
+     "margin": 23.2,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2016_United_States_Senate_election_in_California",
+     "dem_pct": 61.6,
+     "opp_pct": 38.4,
+     "verified_by_fetch_this_session": false,
+     "note": "D-vs-D race; partisan baseline not applicable"
+    },
+    {
+     "year": 2020,
+     "office": "Vice President (Biden-Harris ticket), national",
+     "margin": 4.5,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 51.3,
+     "opp_pct": 46.8,
+     "verified_by_fetch_this_session": false,
+     "note": "national popular vote; ticket margin is itself the baseline"
+    },
+    {
+     "year": 2024,
+     "office": "President, national (lost)",
+     "margin": -1.5,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 48.3,
+     "opp_pct": 49.8,
+     "verified_by_fetch_this_session": true,
+     "note": "national popular vote; lost 2024"
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot (passed on 2026 CA governor race). Specific 2026 campaign activity not documented in the sources gathered.",
+   "favorability": {
+    "fav": 43,
+    "unfav": 47,
+    "pollster": "Harvard CAPS/Harris (HarrisX)",
+    "date": "2026-10-24/26",
+    "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "population": "2,700 registered voters, national"
+   },
+   "primary_polling": [
+    {
+     "pct": 34,
+     "pollster": "Harvard CAPS/Harris (HarrisX)",
+     "date": "2026-10-24/26",
+     "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+     "population": "Democrats within 2,700 RV",
+     "verified": true
+    },
+    {
+     "pct": 19,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 12,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 29,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 25,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    },
+    {
+     "pct": 24.2,
+     "pollster": "RealClearPolling average (as reported by Newsweek)",
+     "date": "average through 2026-11-01",
+     "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "verified": true,
+     "verification_note": "Matches Newsweek report of RCP average through Nov 1 (RCP site not fetched)"
+    }
+   ],
+   "head_to_heads": [
+    {
+     "opponent": "JD Vance",
+     "margin": 4,
+     "dem_pct": 49,
+     "rep_pct": 45,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    },
+    {
+     "opponent": "Marco Rubio",
+     "margin": -5,
+     "dem_pct": 43,
+     "rep_pct": 48,
+     "pollster": "Emerson College",
+     "date": "2026-08-16/17",
+     "url": "https://emersoncollegepolling.com/august-2026-national-poll/",
+     "verification_note": "Confirmed vs Emerson full-results sheet (unrounded values; margin within rounding)"
+    }
+   ],
+   "market_prob": {
+    "value": 4.5,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 3.9,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Leads nearly every national primary poll (RCP avg 24.2%); dominant with Black Democrats; highest favorable rating of any Democrat tested by Harvard/Harris (43%).",
+   "weaknesses": "Markets price her at ~4% despite poll lead; lost 2024; support driven by name ID and slipping (Harvard/Harris Oct: 34%, a 5-pt drop from September); trails Rubio by 5 (Emerson).",
+   "coalition_notes": "Harvard/Harris Oct: 50% Black, 40% Hispanic, 27% white Dems. Liberal Currents: 42% Black, 37% under-45, 34% moderate/conservative Dems, 34% union households; only 11% socialists/progressives.",
+   "sources": [
+    "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://emersoncollegepolling.com/august-2026-national-poll/",
+    "https://en.wikipedia.org/wiki/2028_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://www.newsweek.com/kamala-harris-and-jd-vances-popularity-compared-as-2028-rumors-swirl-12626619"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Josh Shapiro",
+   "current_role": "Governor of Pennsylvania (re-elected 2026-11-03)",
+   "age_in_2028": 55,
+   "home_state": "Pennsylvania",
+   "home_state_pres2024_margin": -1.7,
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Ran 2026 on executive competence ('get stuff done', fast I-95 repair) and bipartisan appeal; launched federal PAC (Newsweek). Long characterized as a centrist-leaning governor; no insurgent/populist branding.",
+   "track_record": [
+    {
+     "year": 2016,
+     "office": "Attorney General PA",
+     "margin": 2.78,
+     "pres_baseline_margin": -0.72,
+     "overperformance": 3.5,
+     "source": "https://en.wikipedia.org/wiki/2016_Pennsylvania_Attorney_General_election",
+     "pres_baseline_year": 2016,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election",
+     "dem_pct": 51.39,
+     "opp_pct": 48.61,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2020,
+     "office": "Attorney General PA",
+     "margin": 4.52,
+     "pres_baseline_margin": 1.16,
+     "overperformance": 3.36,
+     "source": "https://en.wikipedia.org/wiki/2020_Pennsylvania_Attorney_General_election",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 50.85,
+     "opp_pct": 46.33,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2022,
+     "office": "Governor PA",
+     "margin": 14.78,
+     "pres_baseline_margin": 1.16,
+     "overperformance": 13.62,
+     "source": "https://en.wikipedia.org/wiki/2022_Pennsylvania_gubernatorial_election",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 56.49,
+     "opp_pct": 41.71,
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2026,
+     "office": "Governor PA",
+     "margin": 22.1,
+     "pres_baseline_margin": -1.7,
+     "overperformance": 23.8,
+     "source": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 60.4,
+     "opp_pct": 38.3,
+     "verified_by_fetch_this_session": true,
+     "note": "98% expected vote counted per Newsweek; NBC calculates a 23.57-pt shift vs 2024 pres",
+     "verification_note": "Updated to NBC News results page 11:14 AM ET Nov 4 (98.5% expected vote; 4,973,264 total votes; Krawchuk-Lib 1.3%). Prior 60.3/38.4 at 98% was Newsweek/AP; Wikipedia infobox showed 60.3/38.4 at 95% as of 5:05 AM."
+    }
+   ],
+   "result_2026": {
+    "office": "Governor (PA)",
+    "opponent": "Stacy Garrity (R)",
+    "dem_pct": 60.4,
+    "rep_pct": 38.3,
+    "margin": 22.1,
+    "pres2024_margin": -1.7,
+    "overperformance_vs_pres2024": 23.8,
+    "nbc_shift_vs_2024": 23.75,
+    "pct_expected_vote_counted": 98.5,
+    "called": true,
+    "called_by": [
+     "CBS News",
+     "NBC News"
+    ],
+    "note": "Garrity conceded election night; Axios pre-election benchmark: under 10 pts would be a 'bad night'",
+    "sources": [
+     "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "https://www.cbsnews.com/pittsburgh/news/pennsylvania-governor-election-results-josh-shapiro-stacy-garrity/",
+     "https://www.nbcnews.com/politics/2026-election/josh-shapiro-democrat-wins-pennsylvania-governor-battleground-race-rcna603368",
+     "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results"
+    ],
+    "verification_note": "Updated to NBC News results page 11:14 AM ET Nov 4 (98.5% expected vote; 4,973,264 total votes; Krawchuk-Lib 1.3%). Prior 60.3/38.4 at 98% was Newsweek/AP; Wikipedia infobox showed 60.3/38.4 at 95% as of 5:05 AM."
+   },
+   "midterm_role_2026": "Own re-election landslide in the tipping-point state; launched a federal PAC (Newsweek). Other 2026 endorsement/campaign activity not documented in gathered sources.",
+   "favorability": {
+    "fav": 54,
+    "unfav": 10,
+    "pollster": "Center for Strategic Politics/Liberal Currents",
+    "date": "2026-09-03,08/10",
+    "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "population": "683 Democratic voters only (NOT national all-voter favorability)",
+    "verification_note": "Re-read from Liberal Currents/CSP crosstab PDF Total column (TOTAL POSITIVE / TOTAL NEGATIVE)"
+   },
+   "primary_polling": [
+    {
+     "pct": 8,
+     "pollster": "Harvard CAPS/Harris (HarrisX)",
+     "date": "2026-10-24/26",
+     "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+     "population": "Democrats within 2,700 RV",
+     "verified": true
+    },
+    {
+     "pct": 4,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 1,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 5,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 6,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    },
+    {
+     "pct": 5.5,
+     "pollster": "RealClearPolling average (as reported by Newsweek)",
+     "date": "average through 2026-11-01",
+     "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "verified": true,
+     "verification_note": "Matches Newsweek report of RCP average through Nov 1 (RCP site not fetched)"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 3.6,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 4.5,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "~22-pt win in Trump+1.7 Pennsylvania (largest swing-state overperformance among 2028 names); executive record; broad crossover appeal.",
+   "weaknesses": "Low single digits in primary polls; weak with Black Democrats and the left (Israel stance, vouchers); unknown to many Dems (14% never heard, Liberal Currents).",
+   "coalition_notes": "Harvard/Harris Oct: 10% white, 14% Asian, 8% Hispanic, 3% Black Dems. Liberal Currents: 8% women vs 3% men; 9% Black (small n=116).",
+   "sources": [
+    "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://www.cbsnews.com/pittsburgh/news/pennsylvania-governor-election-results-josh-shapiro-stacy-garrity/",
+    "https://www.multistate.us/elections/governor-race/pennsylvania-2026",
+    "https://www.spotlightpa.org/news/2026/11/election-results-pennsylvania-governor-josh-shapiro-stacy-garrity-elections/",
+    "https://en.wikipedia.org/wiki/2022_Pennsylvania_gubernatorial_election",
+    "https://www.axios.com/2026/11/01/2028-democrats-midterm-bets",
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2016_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "JB Pritzker",
+   "current_role": "Governor of Illinois (won third term 2026-11-03)",
+   "age_in_2028": 63,
+   "home_state": "Illinois",
+   "home_state_pres2024_margin": 10.9,
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Billionaire two-term (now three-term) governor with a combative anti-Trump profile; conventional liberal platform; Newsweek says his national case rests on downstate/working-class appeal.",
+   "track_record": [
+    {
+     "year": 2018,
+     "office": "Governor IL",
+     "margin": 15.7,
+     "pres_baseline_margin": 17.06,
+     "overperformance": -1.36,
+     "source": "https://en.wikipedia.org/wiki/2018_Illinois_gubernatorial_election",
+     "pres_baseline_year": 2016,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election",
+     "dem_pct": 54.53,
+     "opp_pct": 38.83,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2022,
+     "office": "Governor IL",
+     "margin": 12.54,
+     "pres_baseline_margin": 16.99,
+     "overperformance": -4.45,
+     "source": "https://en.wikipedia.org/wiki/2022_Illinois_gubernatorial_election",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 54.91,
+     "opp_pct": 42.37,
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2026,
+     "office": "Governor IL",
+     "margin": 23.0,
+     "pres_baseline_margin": 10.9,
+     "overperformance": 12.1,
+     "source": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 59.8,
+     "opp_pct": 36.8,
+     "verified_by_fetch_this_session": true,
+     "note": "91% reporting as of 3:21 AM CST; 2,335,631 vs 1,438,609"
+    }
+   ],
+   "result_2026": {
+    "office": "Governor (IL)",
+    "opponent": "Darren Bailey (R)",
+    "dem_pct": 59.8,
+    "rep_pct": 36.8,
+    "margin": 23.0,
+    "pres2024_margin": 10.9,
+    "overperformance_vs_pres2024": 12.1,
+    "pct_expected_vote_counted": 90.8,
+    "called": true,
+    "called_by": [
+     "AP (per The Hill/Newsweek reporting)",
+     "NBC News (Decision Desk, results page)"
+    ],
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
+     "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "https://www.nbcnews.com/politics/2026-elections/illinois-governor-results"
+    ],
+    "nbc_shift_vs_2024": 12.07,
+    "verification_note": "59.8/36.8 confirmed by NBC News results page 11:11 AM ET (90.8% expected, 3,904,937 votes; Corbett 3.3%; NBC shift +12.07)."
+   },
+   "midterm_role_2026": "Own third-term re-election (rematch with Bailey). Other campaign activity not documented in gathered sources.",
+   "favorability": {
+    "fav": 43,
+    "unfav": 7,
+    "pollster": "Center for Strategic Politics/Liberal Currents",
+    "date": "2026-09-03,08/10",
+    "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "population": "683 Democratic voters only (NOT national all-voter favorability)",
+    "verification_note": "Re-read from Liberal Currents/CSP crosstab PDF Total column (TOTAL POSITIVE / TOTAL NEGATIVE)"
+   },
+   "primary_polling": [
+    {
+     "pct": 4,
+     "pollster": "Harvard CAPS/Harris (HarrisX)",
+     "date": "2026-10-24/26",
+     "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+     "population": "Democrats within 2,700 RV",
+     "verified": true
+    },
+    {
+     "pct": 2,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 2,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 3,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 4,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    },
+    {
+     "pct": 3.0,
+     "pollster": "RealClearPolling average (as reported by Newsweek)",
+     "date": "average through 2026-11-01",
+     "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "verified": true,
+     "verification_note": "Matches Newsweek report of RCP average through Nov 1 (RCP site not fetched)"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 1.4,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 2.6,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Big 2026 win (+23, ~12 over 2024 pres); self-funding capacity; strong anti-Trump credentials with base.",
+   "weaknesses": "Lowest polling of the governors (RCP 3%); blue-state win less probative than GA/PA (Newsweek); billionaire profile; 25% of Dems never heard of him.",
+   "coalition_notes": "Liberal Currents: 8% among Black Dems, 6% women, 6% socialists/progressives. Harvard/Harris Oct: 6% white, 3% Black, 1% Hispanic.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_Illinois_gubernatorial_election",
+    "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2016_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Andy Beshear",
+   "current_role": "Governor of Kentucky (term ends Dec 2027); 2026 DGA chair",
+   "age_in_2028": 50,
+   "home_state": "Kentucky",
+   "home_state_pres2024_margin": -30.53,
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Red-state governor pitching electability; faith-centered language; vetoed abortion ban but backs red-flag not assault-weapons ban; commentators call him moderate or 'liberal with a populist streak' (Wikipedia). DGA chair = institutional role.",
+   "track_record": [
+    {
+     "year": 2015,
+     "office": "Attorney General KY",
+     "margin": 0.2,
+     "pres_baseline_margin": -22.68,
+     "overperformance": 22.88,
+     "source": "https://en.wikipedia.org/wiki/Andy_Beshear",
+     "pres_baseline_year": 2012,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election",
+     "dem_pct": 50.1,
+     "opp_pct": 49.9,
+     "verified_by_fetch_this_session": true,
+     "note": "won by 2,194 votes"
+    },
+    {
+     "year": 2019,
+     "office": "Governor KY",
+     "margin": 0.37,
+     "pres_baseline_margin": -29.84,
+     "overperformance": 30.21,
+     "source": "https://en.wikipedia.org/wiki/Andy_Beshear",
+     "pres_baseline_year": 2016,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election",
+     "dem_pct": 49.2,
+     "opp_pct": 48.83,
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2023,
+     "office": "Governor KY",
+     "margin": 5.07,
+     "pres_baseline_margin": -25.94,
+     "overperformance": 31.01,
+     "source": "https://en.wikipedia.org/wiki/2023_Kentucky_gubernatorial_election",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 52.53,
+     "opp_pct": 47.46,
+     "verified_by_fetch_this_session": true,
+     "note": "Wikipedia bio body rounds to 53-47; lead says ~5 pts",
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Chair of the Democratic Governors Association; campaigned in Georgia, Iowa, Kansas, Nevada, Ohio and Wisconsin (Axios). Iowa elected Democrat Rob Sand governor (Wikipedia lists him as governor-elect); Kansas elected a Democratic senator; Ohio governor outcome not verified in this pass.",
+   "favorability": {
+    "fav": 49,
+    "unfav": 5,
+    "pollster": "Center for Strategic Politics/Liberal Currents",
+    "date": "2026-09-03,08/10",
+    "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "population": "683 Democratic voters only (NOT national all-voter favorability)",
+    "verification_note": "Confirmed against Liberal Currents/CSP crosstab PDF Total column"
+   },
+   "primary_polling": [
+    {
+     "pct": 2,
+     "pollster": "Harvard CAPS/Harris (HarrisX)",
+     "date": "2026-10-24/26",
+     "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+     "population": "Democrats within 2,700 RV",
+     "verified": true
+    },
+    {
+     "pct": 2,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 1,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 3,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 3,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    },
+    {
+     "pct": 4.0,
+     "pollster": "RealClearPolling average (as reported by Newsweek)",
+     "date": "average through 2026-11-01",
+     "url": "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+     "verified": true,
+     "verification_note": "Matches Newsweek report of RCP average through Nov 1 (RCP site not fetched)"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 4.0,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 4.7,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Three statewide wins in a Trump+30 state (overperformance ~+23 to +31); DGA chair as Dems flipped governorships; praised by Clyburn/Sharpton; very low negatives.",
+   "weaknesses": "Low name ID (22% of Dems never heard of him) and 1-4% in primary polls; moderate brand may not fit an energized, left-leaning primary electorate.",
+   "coalition_notes": "Liberal Currents: 10% among union-household Dems (n=57), 5% white, 5% unwoke. Harvard/Harris Oct (first time listed): 3% white, 2% Black, 2% Hispanic.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Andy_Beshear",
+    "https://en.wikipedia.org/wiki/2023_Kentucky_gubernatorial_election",
+    "https://www.axios.com/2026/11/01/2028-democrats-midterm-bets",
+    "https://www.newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2016_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2012_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Wes Moore",
+   "current_role": "Governor of Maryland (re-elected 2026-11-03)",
+   "age_in_2028": 50,
+   "home_state": "Maryland",
+   "home_state_pres2024_margin": 28.54,
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Army veteran and two-term governor with conventional Democratic platform; ran 2026 as incumbent rematch vs Dan Cox; listed by Wikipedia among those who declined a 2028 run.",
+   "track_record": [
+    {
+     "year": 2022,
+     "office": "Governor MD",
+     "margin": 32.41,
+     "pres_baseline_margin": 33.21,
+     "overperformance": -0.8,
+     "source": "https://en.wikipedia.org/wiki/2022_Maryland_gubernatorial_election",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 64.53,
+     "opp_pct": 32.12,
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2026,
+     "office": "Governor MD",
+     "margin": 29.4,
+     "pres_baseline_margin": 28.54,
+     "overperformance": 0.86,
+     "source": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 62.7,
+     "opp_pct": 33.3,
+     "verified_by_fetch_this_session": true,
+     "note": "78% reporting snapshot (8:00 PM EST infobox); Conduit Street/SBE unofficial ~63-33"
+    }
+   ],
+   "result_2026": {
+    "office": "Governor (MD)",
+    "opponent": "Dan Cox (R)",
+    "dem_pct": 62.7,
+    "rep_pct": 33.3,
+    "margin": 29.4,
+    "pres2024_margin": 28.54,
+    "overperformance_vs_pres2024": 0.86,
+    "pct_expected_vote_counted": 78.3,
+    "called": true,
+    "called_by": [
+     "AP (8:01 PM ET)",
+     "NBC News (Decision Desk, results page)"
+    ],
+    "note": "Count not stale: NBC News results page at 11:11 AM ET Nov 4 still shows 62.7/33.3 with 78.3% of expected vote in (est. 514,000 remaining; 1,855,935 counted; Andy Ellis 2.1%). Overperformance will move as the remaining ~22% is counted.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
+     "https://www.wmar2news.com/local/gov-wes-moore-wins-reelection-nov-3-2026",
+     "https://conduitstreet.mdcounties.org/2026/11/04/governor-moore-cruises-to-second-term/",
+     "https://www.nbcnews.com/politics/2026-elections/maryland-governor-results"
+    ]
+   },
+   "midterm_role_2026": "Own re-election; Maryland voters also approved a congressional redistricting amendment (WMAR). Other activity not documented in gathered sources.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pct": 1,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 1,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 1.6,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 2.3,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "First Black governor re-elected in Maryland; veteran biography; won comfortably.",
+   "weaknesses": "Ran roughly even with 2024 pres baseline (~+1) in a wave year; ~1% in primary polls; has said he is not running.",
+   "coalition_notes": "No candidate-level crosstabs found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_Maryland_gubernatorial_election",
+    "https://www.wmar2news.com/local/gov-wes-moore-wins-reelection-nov-3-2026",
+    "https://conduitstreet.mdcounties.org/2026/11/04/governor-moore-cruises-to-second-term/",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Mark Kelly",
+   "current_role": "U.S. Senator, Arizona",
+   "age_in_2028": 64,
+   "home_state": "Arizona",
+   "home_state_pres2024_margin": -5.53,
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Astronaut/Navy veteran; swing-state senator with border-security and bipartisan branding; has 'expressed interest' in 2028 (Wikipedia). Classification from pre-2026 record; no 2026 campaign of his own.",
+   "track_record": [
+    {
+     "year": 2020,
+     "office": "U.S. Senate AZ (special)",
+     "margin": 2.35,
+     "pres_baseline_margin": 0.31,
+     "overperformance": 2.04,
+     "source": "https://en.wikipedia.org/wiki/2020_United_States_Senate_special_election_in_Arizona",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 51.16,
+     "opp_pct": 48.81,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2022,
+     "office": "U.S. Senate AZ",
+     "margin": 4.88,
+     "pres_baseline_margin": 0.31,
+     "overperformance": 4.57,
+     "source": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Arizona",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 51.39,
+     "opp_pct": 46.51,
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot. Specific 2026 campaign activity not documented in gathered sources.",
+   "favorability": {
+    "fav": 57,
+    "unfav": 7,
+    "pollster": "Center for Strategic Politics/Liberal Currents",
+    "date": "2026-09-03,08/10",
+    "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "population": "683 Democratic voters only (NOT national all-voter favorability)",
+    "verification_note": "Re-read from Liberal Currents/CSP crosstab PDF Total column (TOTAL POSITIVE / TOTAL NEGATIVE)"
+   },
+   "primary_polling": [
+    {
+     "pct": 7,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 3,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 6,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 9,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 1.8,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 2.8,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Two swing-state Senate wins; military/astronaut biography; very low negatives among Dems (57/7); polls 6-9% in several surveys without much coverage.",
+   "weaknesses": "Modest overperformance (+2 to +5) in his Senate wins; not a dynamic campaigner per coverage; low market price.",
+   "coalition_notes": "Liberal Currents: 13% white Dems, 12% 45+, 11% liberals vs 3% under 45 and 4% Hispanic.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2020_United_States_Senate_special_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Raphael Warnock",
+   "current_role": "U.S. Senator, Georgia; senior pastor, Ebenezer Baptist Church",
+   "age_in_2028": 59,
+   "home_state": "Georgia",
+   "home_state_pres2024_margin": -2.19,
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Pastor-senator with mainstream liberal voting record; media-speculated (not declared) 2028 candidate per Wikipedia. Classification from pre-2026 record.",
+   "track_record": [
+    {
+     "year": 2021,
+     "office": "U.S. Senate GA special (Jan 2021 runoff)",
+     "margin": 2.08,
+     "pres_baseline_margin": 0.24,
+     "overperformance": 1.84,
+     "source": "https://en.wikipedia.org/wiki/2020%E2%80%9321_United_States_Senate_special_election_in_Georgia",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 51.04,
+     "opp_pct": 48.96,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2022,
+     "office": "U.S. Senate GA (Dec 2022 runoff)",
+     "margin": 2.8,
+     "pres_baseline_margin": 0.24,
+     "overperformance": 2.56,
+     "source": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Georgia",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 51.4,
+     "opp_pct": 48.6,
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot; Georgia colleague Ossoff won by 18. Specific activity not documented in gathered sources.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pct": 1,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 2.2,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 2.4,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Three wins in Georgia (two runoffs); moral/faith-based communication; Black church network.",
+   "weaknesses": "~1% in primary polls; overshadowed by Ossoff's 2026 landslide; no expressed interest.",
+   "coalition_notes": "No candidate-level crosstabs found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2020%E2%80%9321_United_States_Senate_special_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "James Talarico",
+   "current_role": "U.S. Senator-elect, Texas (won 2026-11-03)",
+   "age_in_2028": 39,
+   "home_state": "Texas",
+   "home_state_pres2024_margin": -13.68,
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Ran on 'not left vs right but the wealthy vs everyone else', blaming billionaires and corrupt politicians; David-vs-Goliath framing; faith-centered pitch; courted moderate Republicans and Cornyn voters (Texas Tribune).",
+   "track_record": [
+    {
+     "year": 2026,
+     "office": "U.S. Senate TX",
+     "margin": 12.1,
+     "pres_baseline_margin": -13.68,
+     "overperformance": 25.78,
+     "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 55.1,
+     "opp_pct": 43.0,
+     "verified_by_fetch_this_session": true,
+     "note": "97% counted as of 9:11 AM CST Nov 4; 5,445,121 vs 4,249,752; prior races were Texas House district contests (not compiled)"
+    }
+   ],
+   "result_2026": {
+    "office": "U.S. Senate (TX), open seat (Cornyn lost GOP runoff)",
+    "opponent": "Ken Paxton (R)",
+    "dem_pct": 55.1,
+    "rep_pct": 43.0,
+    "margin": 12.1,
+    "pres2024_margin": -13.68,
+    "overperformance_vs_pres2024": 25.78,
+    "pct_expected_vote_counted": 97.4,
+    "called": true,
+    "called_by": [
+     "AP (shortly after 10 PM)",
+     "NBC News",
+     "Fox News"
+    ],
+    "note": "first Dem statewide win in TX since 1994; Paxton (impeached 2023, acquitted) conceded",
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+     "https://www.texastribune.org/2026/11/03/texas-ken-paxton-james-talarico-us-senate-elections-2026/",
+     "https://www.click2houston.com/decision-2026/2026/11/04/nbc-news-projects-james-talarico-as-winner-of-texas-us-senate-race-defeating-ken-paxton/",
+     "https://www.nbcnews.com/politics/2026-elections/texas-senate-results"
+    ],
+    "nbc_shift_vs_2024": 25.77,
+    "verification_note": "55.1/43.0 confirmed by NBC News results page 11:12 AM ET (97.4% expected, 9,885,131 votes; Ted Brown 1.9%; NBC shift +25.77)."
+   },
+   "midterm_role_2026": "Won the marquee Texas Senate race; raised a record $27M in Q1; pledged $25M to Black voter turnout. Committed to a full six-year term, skipping 2028 (Wikipedia). Joe Rogan had urged him to run for president.",
+   "favorability": {
+    "fav": 27,
+    "unfav": 24,
+    "pollster": "Echelon Insights",
+    "date": "2026-10-15/19",
+    "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "population": "1,010 likely voters, national"
+   },
+   "primary_polling": [
+    {
+     "pct": 4,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 1,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 2.0,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 3.0,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Flipped Texas by 12 (~26-pt overperformance), the night's biggest upset; age 39; populist-faith message that won crossover voters.",
+   "weaknesses": "Pledged to serve full term; opponent Paxton was scandal-plagued, inflating the margin; no Senate record yet.",
+   "coalition_notes": "No candidate-level crosstabs found; Texas Tribune notes summer ad blitz aimed at independents and swing voters plus Black-turnout investment.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+    "https://www.texastribune.org/2026/11/03/texas-ken-paxton-james-talarico-us-senate-elections-2026/",
+    "https://www.click2houston.com/decision-2026/2026/11/04/nbc-news-projects-james-talarico-as-winner-of-texas-us-senate-race-defeating-ken-paxton/",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Cory Booker",
+   "current_role": "U.S. Senator, New Jersey (re-elected 2026-11-03)",
+   "age_in_2028": 59,
+   "home_state": "New Jersey",
+   "home_state_pres2024_margin": 5.91,
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Three-term senator and 2020 presidential candidate; conventional party-line liberal; ran a routine 2026 re-election vs Justin Murphy.",
+   "track_record": [
+    {
+     "year": 2013,
+     "office": "U.S. Senate NJ (special)",
+     "margin": 10.9,
+     "pres_baseline_margin": 17.79,
+     "overperformance": -6.89,
+     "source": "https://en.wikipedia.org/wiki/2013_United_States_Senate_special_election_in_New_Jersey",
+     "pres_baseline_year": 2012,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election",
+     "dem_pct": 54.92,
+     "opp_pct": 44.02,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2014,
+     "office": "U.S. Senate NJ",
+     "margin": 13.51,
+     "pres_baseline_margin": 17.79,
+     "overperformance": -4.28,
+     "source": "https://en.wikipedia.org/wiki/2014_United_States_Senate_election_in_New_Jersey",
+     "pres_baseline_year": 2012,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election",
+     "dem_pct": 55.84,
+     "opp_pct": 42.33,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2020,
+     "office": "U.S. Senate NJ",
+     "margin": 16.31,
+     "pres_baseline_margin": 15.94,
+     "overperformance": 0.37,
+     "source": "https://en.wikipedia.org/wiki/2020_United_States_Senate_election_in_New_Jersey",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 57.23,
+     "opp_pct": 40.92,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2026,
+     "office": "U.S. Senate NJ",
+     "margin": 26.8,
+     "pres_baseline_margin": 5.91,
+     "overperformance": 20.89,
+     "source": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 62.1,
+     "opp_pct": 35.3,
+     "verified_by_fetch_this_session": true,
+     "note": "95% reporting as of 2:23 AM ET; 1,754,917 vs 988,046; NBC page showed 62.1-35.3 at 94.1%",
+     "verification_note": "Updated to NBC News results page 11:11 AM ET Nov 4 (2,868,827 total votes, more than the 2,742,963 two-party votes in the 2:23 AM Wikipedia snapshot of 62.3/35.1 at 95%). Fernandez (I) 1.6%."
+    }
+   ],
+   "result_2026": {
+    "office": "U.S. Senate (NJ)",
+    "opponent": "Justin Murphy (R)",
+    "dem_pct": 62.1,
+    "rep_pct": 35.3,
+    "margin": 26.8,
+    "pres2024_margin": 5.91,
+    "overperformance_vs_pres2024": 20.89,
+    "pct_expected_vote_counted": 94.1,
+    "called": true,
+    "called_by": [
+     "NBC News (via NBC Philadelphia)",
+     "Fox 5 NY"
+    ],
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
+     "https://www.nbcphiladelphia.com/elections/cory-booker-wins-reelection-to-u-s-senate-in-new-jersey/4486539/",
+     "https://www.nbcnews.com/politics/2026-elections/new-jersey-senate-results"
+    ],
+    "nbc_shift_vs_2024": 20.86,
+    "verification_note": "Updated to NBC News results page 11:11 AM ET Nov 4 (2,868,827 total votes, more than the 2,742,963 two-party votes in the 2:23 AM Wikipedia snapshot of 62.3/35.1 at 95%). Fernandez (I) 1.6%."
+   },
+   "midterm_role_2026": "Own re-election; Democrats also flipped two NJ House seats (MercerMe/Fox 5 NY). Other activity not documented.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pct": 3,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 0,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV Dem primary voters; 45% undecided",
+     "note": "NYT crosstab page not fetchable; figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 3,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 0.6,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 0.7,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Large 2026 overperformance (~+21 vs 2024 pres) in a state that swung right in 2024; national profile from 2020 run.",
+   "weaknesses": "0-3% in primary polls; 2020 presidential bid failed to catch on; blue-state win less probative.",
+   "coalition_notes": "No candidate-level crosstabs found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Jersey",
+    "https://www.nbcphiladelphia.com/elections/cory-booker-wins-reelection-to-u-s-senate-in-new-jersey/4486539/",
+    "https://mercerme.com/booker-wins-reelection-as-democrats-flip-two-new-jersey-house-seats-and-take-control-of-congress/",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2012_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Gretchen Whitmer",
+   "current_role": "Governor of Michigan (term-limited, leaves office Jan 2027)",
+   "age_in_2028": 57,
+   "home_state": "Michigan",
+   "home_state_pres2024_margin": -1.41,
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Two-term swing-state governor, pragmatic 'fix the damn roads' branding; has said she won't 'close the door' on 2028 and in May 2026 appeared to decline before backtracking (Wikipedia). Not on 2026 ballot.",
+   "track_record": [
+    {
+     "year": 2018,
+     "office": "Governor MI",
+     "margin": 9.56,
+     "pres_baseline_margin": -0.22,
+     "overperformance": 9.78,
+     "source": "https://en.wikipedia.org/wiki/2018_Michigan_gubernatorial_election",
+     "pres_baseline_year": 2016,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election",
+     "dem_pct": 53.31,
+     "opp_pct": 43.75,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2022,
+     "office": "Governor MI",
+     "margin": 10.53,
+     "pres_baseline_margin": 2.78,
+     "overperformance": 7.75,
+     "source": "https://en.wikipedia.org/wiki/2022_Michigan_gubernatorial_election",
+     "pres_baseline_year": 2020,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+     "dem_pct": 54.47,
+     "opp_pct": 43.94,
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Term-limited; not on ballot. Activity in Michigan's open governor and Senate races not documented in gathered sources.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pct": 1,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 0.8,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 0.7,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Two comfortable wins in a pivotal swing state (+8 to +10 over pres baseline).",
+   "weaknesses": "~1% in primary polls; ambivalent about running; cordial dealings with Trump drew base criticism.",
+   "coalition_notes": "No candidate-level crosstabs found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2022_Michigan_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2018_Michigan_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2020_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2016_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Ro Khanna",
+   "current_role": "U.S. Representative, CA-17 (re-elected 2026)",
+   "age_in_2028": 52,
+   "home_state": "California",
+   "home_state_pres2024_margin": 20.13,
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Progressive Caucus member, Sanders 2020 co-chair, refuses PAC money; anti-corruption/'economic patriotism' pitch; urged AOC to challenge Schumer (Wikipedia). 'Expressed interest' in 2028.",
+   "track_record": [
+    {
+     "year": 2026,
+     "office": "U.S. House CA-17",
+     "margin": 41.0,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://www.nbcnews.com/politics/2026-elections/california-us-house-district-17-results",
+     "dem_pct": 70.5,
+     "opp_pct": 29.5,
+     "verified_by_fetch_this_session": true,
+     "note": "only 46.1% of expected vote counted at 10:50 AM ET Nov 4; district pres 2024 baseline not shown (district lines may have changed under 2025 Prop 50); earlier House races not compiled"
+    }
+   ],
+   "result_2026": {
+    "office": "U.S. House CA-17",
+    "opponent": "Ritesh Tandon (R)",
+    "dem_pct": 70.5,
+    "rep_pct": 29.5,
+    "margin": 41.0,
+    "pres2024_margin": null,
+    "overperformance_vs_pres2024": null,
+    "pct_expected_vote_counted": 46.1,
+    "called": true,
+    "called_by": [
+     "AP (per WTOP)"
+    ],
+    "note": "district pres2024 baseline not found",
+    "sources": [
+     "https://www.nbcnews.com/politics/2026-elections/california-us-house-district-17-results",
+     "https://wtop.com/national/2026/11/democrat-ro-khanna-wins-reelection-to-u-s-house-in-californias-17th-congressional-district/"
+    ],
+    "verification_note": "70.5/29.5 at 46.1% expected confirmed on NBC page 11:11 AM ET (102,615 votes); NBC shows no projected winner and no 2024 baseline."
+   },
+   "midterm_role_2026": "Safe-seat re-election. Specific 2026 campaigning not documented in gathered sources.",
+   "favorability": {
+    "fav": 33,
+    "unfav": 6,
+    "pollster": "Center for Strategic Politics/Liberal Currents",
+    "date": "2026-09-03,08/10",
+    "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "population": "683 Democratic voters only (NOT national all-voter favorability)",
+    "verification_note": "Re-read from Liberal Currents/CSP crosstab PDF Total column (TOTAL POSITIVE / TOTAL NEGATIVE)"
+   },
+   "primary_polling": [
+    {
+     "pct": 1,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    },
+    {
+     "pct": 1,
+     "pollster": "Center for Strategic Politics/Liberal Currents",
+     "date": "2026-09-03,08/10",
+     "url": "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+     "population": "683 Democratic voters (11-name list)",
+     "verified": true
+    },
+    {
+     "pct": null,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "note": "pct null: topline shows * (under 0.5%)",
+     "verified": true
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 1.5,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 1.5,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Distinct anti-corruption, pro-manufacturing populist lane; heavy media presence.",
+   "weaknesses": "~1% in polls; 32% of Dems have never heard of him; no statewide record; lane crowded by AOC.",
+   "coalition_notes": "Liberal Currents: 3% Hispanic Dems, 2% under 45; otherwise ~0-1%.",
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/california-us-house-district-17-results",
+    "https://wtop.com/national/2026/11/democrat-ro-khanna-wins-reelection-to-u-s-house-in-californias-17th-congressional-district/",
+    "https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Chris Murphy",
+   "current_role": "U.S. Senator, Connecticut",
+   "age_in_2028": 55,
+   "home_state": "Connecticut",
+   "home_state_pres2024_margin": 14.5,
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Party-line liberal senator who since 2025 has adopted anti-oligarchy/anti-corruption, fight-Trump messaging; classification from pre-2026 record, not re-verified in this pass.",
+   "track_record": [
+    {
+     "year": 2012,
+     "office": "U.S. Senate CT",
+     "margin": 11.75,
+     "pres_baseline_margin": 17.33,
+     "overperformance": -5.58,
+     "source": "https://en.wikipedia.org/wiki/2012_United_States_Senate_election_in_Connecticut",
+     "pres_baseline_year": 2012,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election",
+     "dem_pct": 54.82,
+     "opp_pct": 43.07,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2018,
+     "office": "U.S. Senate CT",
+     "margin": 20.18,
+     "pres_baseline_margin": 13.64,
+     "overperformance": 6.54,
+     "source": "https://en.wikipedia.org/wiki/2018_United_States_Senate_election_in_Connecticut",
+     "pres_baseline_year": 2016,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election",
+     "dem_pct": 59.53,
+     "opp_pct": 39.35,
+     "verified_by_fetch_this_session": true,
+     "verification_note": "Re-fetched from cited Wikipedia page during verification"
+    },
+    {
+     "year": 2024,
+     "office": "U.S. Senate CT",
+     "margin": 18.88,
+     "pres_baseline_margin": 14.5,
+     "overperformance": 4.38,
+     "source": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Connecticut",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 58.58,
+     "opp_pct": 39.7,
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot; activity not documented in gathered sources.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pct": 1,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    },
+    {
+     "pct": 1,
+     "pollster": "Noble Predictive Insights/The Center Square",
+     "date": "2026-10-05/07",
+     "url": "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+     "population": "1,171 RV",
+     "note": "figure via Wikipedia polling table",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 0.3,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 0.4,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Strong progressive-media following; outran pres baseline by ~4-7 pts in 2018/2024.",
+   "weaknesses": "~1% in polls; little name ID; safe-state record.",
+   "coalition_notes": "No candidate-level crosstabs found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Connecticut",
+    "https://en.wikipedia.org/wiki/2018_United_States_Senate_election_in_Connecticut",
+    "https://en.wikipedia.org/wiki/2012_United_States_Senate_election_in_Connecticut",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://www.thecentersquare.com/national/article_c4d77872-9422-45fb-bb3c-95ed9e0bfc9c.html",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2016_United_States_presidential_election",
+    "https://en.wikipedia.org/wiki/2012_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Ruben Gallego",
+   "current_role": "U.S. Senator, Arizona",
+   "age_in_2028": 48,
+   "home_state": "Arizona",
+   "home_state_pres2024_margin": -5.53,
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "style_confidence": "low",
+   "style_evidence": "Marine combat veteran with working-class Latino biography central to pitch; ex-Progressive Caucus member who moved right on border/immigration votes as senator. Classification from pre-2026 record; not re-verified.",
+   "track_record": [
+    {
+     "year": 2024,
+     "office": "U.S. Senate AZ",
+     "margin": 2.41,
+     "pres_baseline_margin": -5.53,
+     "overperformance": 7.94,
+     "source": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Arizona",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 50.06,
+     "opp_pct": 47.65,
+     "verified_by_fetch_this_session": true,
+     "note": "prior races were safe-D House districts (not compiled)"
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot; activity not documented in gathered sources.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pct": null,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "note": "pct null: topline shows * (under 0.5%)",
+     "verified": true
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 0.5,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 0.4,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Won Arizona by 2.4 while Trump carried it by 5.5 (~+8 overperformance in 2024), one of the best Dem showings with Latino working-class voters.",
+   "weaknesses": "Under 1% in polls and markets; first-term senator.",
+   "coalition_notes": "No candidate-level crosstabs found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Arizona",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Rahm Emanuel",
+   "current_role": "Former U.S. Ambassador to Japan; former Chicago mayor",
+   "age_in_2028": 68,
+   "home_state": "Illinois",
+   "home_state_pres2024_margin": 10.9,
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Explicitly centrist pitch (education, anti-'woke' critique of party); former White House chief of staff and DCCC chair; 'expressed interest' in 2028 (Wikipedia).",
+   "track_record": [
+    {
+     "year": 2015,
+     "office": "Mayor of Chicago (runoff vs Democrat Jesus Garcia)",
+     "margin": 12.46,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2015_Chicago_mayoral_election",
+     "dem_pct": 56.23,
+     "opp_pct": 43.77,
+     "verified_by_fetch_this_session": true,
+     "note": "nonpartisan D-vs-D race; no partisan baseline; earlier IL-5 House races not compiled",
+     "verification_note": "Wikipedia 2015 Chicago mayoral election: runoff 332,171 (56.23%) vs 258,562 (43.77%)"
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot; activity not documented in gathered sources.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pct": 1,
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15/19",
+     "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+     "population": "Dem/lean-Dem likely voters n=522",
+     "verified": true
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 1.2,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 2.2,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "note": "Polymarket event page shows 1.2c; DeFi Rate shows a stale 0.91c last trade",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Clearest centrist voice; deep fundraising/operative network.",
+   "weaknesses": "~1% in polls; never won statewide; base hostility from Chicago tenure; age 68 in 2028.",
+   "coalition_notes": "No candidate-level crosstabs found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2015_Chicago_mayoral_election",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Elissa Slotkin",
+   "current_role": "U.S. Senator, Michigan",
+   "age_in_2028": 52,
+   "home_state": "Michigan",
+   "home_state_pres2024_margin": -1.41,
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-CIA analyst, national-security moderate; New Democrat Coalition and Problem Solvers Caucus member in the House (Wikipedia); 'expressed interest' in 2028. Classification from pre-2026 record.",
+   "track_record": [
+    {
+     "year": 2018,
+     "office": "U.S. House MI-8",
+     "margin": 3.8,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2018_United_States_House_of_Representatives_elections_in_Michigan",
+     "dem_pct": 50.6,
+     "opp_pct": 46.8,
+     "verified_by_fetch_this_session": false,
+     "note": "district pres baseline not compiled"
+    },
+    {
+     "year": 2020,
+     "office": "U.S. House MI-8",
+     "margin": 3.6,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Michigan",
+     "dem_pct": 50.9,
+     "opp_pct": 47.3,
+     "verified_by_fetch_this_session": false,
+     "note": "district pres baseline not compiled"
+    },
+    {
+     "year": 2022,
+     "office": "U.S. House MI-7",
+     "margin": 5.4,
+     "pres_baseline_margin": null,
+     "overperformance": null,
+     "source": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_Michigan",
+     "dem_pct": 51.7,
+     "opp_pct": 46.3,
+     "verified_by_fetch_this_session": false,
+     "note": "district pres baseline not compiled",
+     "verification_note": "Wikipedia Slotkin article is internally inconsistent: prose says 51.5-46.5, electoral-history table 51.7-46.3; table values kept."
+    },
+    {
+     "year": 2024,
+     "office": "U.S. Senate MI",
+     "margin": 0.34,
+     "pres_baseline_margin": -1.41,
+     "overperformance": 1.75,
+     "source": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Michigan",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 48.64,
+     "opp_pct": 48.3,
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot; Haley Stevens (the moderate she would be closest to) lost Michigan's Senate primary to El-Sayed and then endorsed the Republican (Axios). Slotkin's own role not documented.",
+   "favorability": null,
+   "primary_polling": [],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 0.2,
+    "market": "Polymarket (2028 Democratic nominee, Buy-Yes price in cents ~ implied %)",
+    "date": "2026-11-04",
+    "url": "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "kalshi_value": 0.5,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Won Michigan Senate seat while Trump carried the state; national-security credentials.",
+   "weaknesses": "Not even listed in most 2028 primary polls; narrow 0.3-pt 2024 win; moderate lane in Michigan was rejected in the 2026 Senate primary.",
+   "coalition_notes": "No candidate-level crosstabs found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Michigan",
+    "https://www.axios.com/2026/11/04/michigan-senate-results-el-sayed-rogers",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Abdul El-Sayed",
+   "current_role": "U.S. Senator-elect, Michigan (won 2026-11-03)",
+   "age_in_2028": 44,
+   "home_state": "Michigan",
+   "home_state_pres2024_margin": -1.41,
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Physician; Sanders-wing insurgent who beat establishment-backed Rep. Haley Stevens in the August primary; Bloomberg framed the win as a boost to progressives. Medicare for All supporter (pre-2026 record).",
+   "track_record": [
+    {
+     "year": 2026,
+     "office": "U.S. Senate MI",
+     "margin": 7.0,
+     "pres_baseline_margin": -1.41,
+     "overperformance": 8.41,
+     "source": "https://www.bloomberg.com/news/articles/2026-11-04/democrat-el-sayed-wins-michigan-senate-race-ddhq-projects",
+     "pres_baseline_year": 2024,
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+     "dem_pct": 52.5,
+     "opp_pct": 45.5,
+     "verified_by_fetch_this_session": true,
+     "note": "~96% counted; 2018 MI governor primary loss not a general election",
+     "verification_note": "Updated to NBC News results page 11:14 AM ET Nov 4 (96.8% expected; 4,756,020 total votes). Wikipedia infobox also shows Rogers 45.5% (2,162,890) vs El-Sayed 52.5% (2,497,852). Prior file value Rogers 45.6% not found in either source."
+    }
+   ],
+   "result_2026": {
+    "office": "U.S. Senate (MI), open seat (Peters retired)",
+    "opponent": "Mike Rogers (R)",
+    "dem_pct": 52.5,
+    "rep_pct": 45.5,
+    "margin": 7.0,
+    "pres2024_margin": -1.41,
+    "overperformance_vs_pres2024": 8.41,
+    "pct_expected_vote_counted": 96.8,
+    "called": true,
+    "called_by": [
+     "AP (early Nov 4)",
+     "DDHQ",
+     "CBS News",
+     "NBC News (Decision Desk, results page)"
+    ],
+    "note": "Stevens endorsed Rogers in the campaign's final days; first Muslim U.S. senator",
+    "sources": [
+     "https://www.bloomberg.com/news/articles/2026-11-04/democrat-el-sayed-wins-michigan-senate-race-ddhq-projects",
+     "https://www.axios.com/2026/11/04/michigan-senate-results-el-sayed-rogers",
+     "https://www.cbsnews.com/news/michigan-2026-senate-el-sayed-rogers/",
+     "https://www.nbcnews.com/politics/2026-elections/michigan-senate-results"
+    ],
+    "nbc_shift_vs_2024": 8.45,
+    "verification_note": "Updated to NBC News results page 11:14 AM ET Nov 4 (96.8% expected; 4,756,020 total votes). Wikipedia infobox also shows Rogers 45.5% (2,162,890) vs El-Sayed 52.5% (2,497,852). Prior file value Rogers 45.6% not found in either source."
+   },
+   "midterm_role_2026": "Won Michigan's open Senate seat; listed by Wikipedia among those who declined a 2028 run (he is a senator-elect).",
+   "favorability": {
+    "fav": 26,
+    "unfav": 31,
+    "pollster": "Echelon Insights",
+    "date": "2026-10-15/19",
+    "url": "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "population": "1,010 likely voters, national"
+   },
+   "favorability_alt": {
+    "fav": 23,
+    "unfav": 36,
+    "pollster": "Harvard CAPS/Harris (HarrisX)",
+    "date": "2026-10-24/26",
+    "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "population": "2,700 registered voters, national"
+   },
+   "primary_polling": [
+    {
+     "pct": null,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV",
+     "note": "pct null: Wikipedia footnote lists El-Sayed only as above 0.5% (no point estimate)",
+     "verified": true,
+     "verification_note": "Matches Wikipedia national 2028 Dem primary polling table (secondary source)"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "value": 2.4,
+    "market": "Kalshi (via DeFi Rate); not listed on Polymarket",
+    "date": "2026-11-04",
+    "url": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_value": 2.4,
+    "kalshi_source": "https://defirate.com/odds/democratic-nominee/",
+    "kalshi_note": "Kalshi price per DeFi Rate aggregator snapshot Nov 4, 11:13 AM ET (quotes observed 6:38-11:13 AM ET)",
+    "verification_note": "Polymarket re-read from event page (dateModified 2026-11-04T15:00Z); Kalshi from DeFi Rate 11:13 AM ET. Intraday drift, not source errors."
+   },
+   "strengths": "Proof-of-concept that a Sanders-wing candidate can win a Trump-2024 swing state statewide; age 44.",
+   "weaknesses": "Smallest 2026 overperformance among the new winners (~+8 vs +20-26 for Ossoff/Shapiro/Talarico in the same wave); net-negative nationally (Echelon 26/31, Harvard/Harris 23/36).",
+   "coalition_notes": "No candidate-level crosstabs found.",
+   "sources": [
+    "https://www.bloomberg.com/news/articles/2026-11-04/democrat-el-sayed-wins-michigan-senate-race-ddhq-projects",
+    "https://www.axios.com/2026/11/04/michigan-senate-results-el-sayed-rogers",
+    "https://www.cbsnews.com/news/michigan-2026-senate-el-sayed-rogers/",
+    "https://time.com/article/2026/11/03/abdul-el-sayed-michigan-senate-2026-midterm-elections-mike-rogers/",
+    "https://en.wikipedia.org/wiki/2028_Democratic_Party_presidential_primaries",
+    "https://echeloninsights.com/hubfs/_Media%20for%20Insights%20Blog/October%202026%20-%20Voter%20Omnibus%20Topline%20-%20External.pdf",
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+    "https://www.nbcnews.com/politics/2026-elections/michigan-senate-results"
+   ],
+   "verified": true
+  }
+ ],
+ "ineligible_but_discussed": [
+  {
+   "name": "Zohran Mamdani",
+   "current_role": "Mayor of New York City",
+   "reason": "Not a natural-born U.S. citizen (born in Kampala, Uganda; naturalized) - constitutionally ineligible for president",
+   "favorability": {
+    "fav": 28,
+    "unfav": 37,
+    "pollster": "Harvard CAPS/Harris (HarrisX)",
+    "date": "2026-10-24/26",
+    "url": "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "population": "2,700 registered voters, national"
+   },
+   "primary_polling": [
+    {
+     "pct": 1,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV",
+     "note": "footnote value"
+    }
+   ],
+   "market_prob": {
+    "polymarket": 0.2,
+    "kalshi": 0.2,
+    "date": "2026-11-04",
+    "urls": [
+     "https://polymarket.com/event/democratic-presidential-nominee-2028",
+     "https://defirate.com/odds/democratic-nominee/"
+    ],
+    "verification_note": "Confirmed: Polymarket and Kalshi (DeFi Rate 11:13 AM ET) both unchanged"
+   },
+   "notes": "Still listed in prediction markets and some primary polls; Dem-voter favorability 57/12 (Liberal Currents, Sep 2026). Newsom called DSA a 'mainstream Democratic movement' (Townhall, Oct 2026).",
+   "sources": [
+    "https://harvardharrispoll.com/assets/uploads/2026/09/HHP_Oct2026_KeyResults.pdf",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/",
+    "https://stratpolitics.org/wp-content/uploads/2026/09/Liberal-Currents-2028-Democratic-Presidential-Primary-Poll-Crosstabs-Sep-2026-For-Public-Release.pdf"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Barack Obama",
+   "current_role": "Former President",
+   "reason": "Twenty-second Amendment: already elected president twice",
+   "primary_polling": [
+    {
+     "pct": 1,
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12/19",
+     "url": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+     "population": "1,170 RV",
+     "note": "footnote value"
+    }
+   ],
+   "market_prob": {
+    "polymarket": 0.2,
+    "kalshi": 0.3,
+    "date": "2026-11-04",
+    "urls": [
+     "https://polymarket.com/event/democratic-presidential-nominee-2028",
+     "https://defirate.com/odds/democratic-nominee/"
+    ],
+    "verification_note": "Confirmed: Polymarket and Kalshi (DeFi Rate 11:13 AM ET) both unchanged"
+   },
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Democratic_Party_presidential_primaries",
+    "https://polymarket.com/event/democratic-presidential-nominee-2028",
+    "https://defirate.com/odds/democratic-nominee/"
+   ],
+   "verified": true
+  }
+ ],
+ "notes": "As of 2026-11-04 ~11:00 ET; election counts incomplete. Margins are D minus R in percentage points; overperformance = candidate margin minus same-state presidential margin (most recent presidential election on or before the race; 2026 races vs 2024). State pres margins for 2016/2020/2024 come from the project's parsed Wikipedia presidential results (scratch pres_parsed.json); 2008/2012 baselines (CA, NJ, CT, KY, IN) were entered from the cited Wikipedia pages without re-fetch. Track-record entries carry verified_by_fetch_this_session; unverified pre-2026 margins come from the cited Wikipedia election pages and should be spot-checked. Wave context: Wikipedia (2026 Senate elections, projected) shows Democrats gaining 7-9 Senate seats (flips in TX, NC, OH special, IA, SC, KS, ME) and a projected House majority; every 2028-relevant Democrat on the ballot won. Style labels for non-candidates rely partly on pre-June-2026 knowledge plus 2026 coverage; confidence flags reflect that. Favorability: no single national poll covered all names; national RV/LV figures used where found (Harvard/Harris Oct 24-26; Echelon Oct 15-19); otherwise Liberal Currents Democratic-voters-only numbers (flagged in population). Primary polls show Harris leading (RCP avg 24.2) while markets price Ossoff first (Polymarket 29.4, Kalshi 21 as of ~11:13 AM ET) despite his no-run pledge. Declined per Wikipedia 2028 primaries page: Ossoff, Talarico, Moore, El-Sayed, Walz ('never run for elected office again'), Polis, Sanders, Michelle Obama; included anyway where markets/polls still price them. Excluded from main list: Tim Walz (declined; 0.1% markets), Chris Van Hollen, Josh Stein, Roy Cooper (NC Senate winner per Wikipedia map), Sherrod Brown (OH special winner per map), Adam Hamilton (KS Senate winner; ~0.4-0.6% markets). WebSearch budget for the run was exhausted mid-task; Ohio governor, Maine Senate details, California wealth-tax outcome and several candidates' midterm activities were not verified.",
+ "verification": {
+  "as_of": "2026-11-04T16:22:00Z",
+  "checked_items": 204,
+  "records_checked": 22,
+  "method": "Re-fetched Wikipedia race pages, NBC News live results pages (11:11-11:14 AM ET), Harvard/Harris, Echelon, Liberal Currents (OCR of crosstab PDF), UMass Lowell, YouGov/Bulwark and Emerson source files, Polymarket and DeFi Rate. WebSearch budget was exhausted, so verification used direct fetches of cited and parallel sources only.",
+  "corrections": [
+   "Shapiro 2026: 60.3-38.4 (98%) -> 60.4-38.3 at 98.5% expected (NBC 11:14 ET); margin 22.1, overperf 23.8",
+   "El-Sayed 2026: Rogers 45.6 -> 45.5 (NBC + Wikipedia); margin 6.9 -> 7.0; overperf 8.31 -> 8.41; 96.8% expected",
+   "Booker 2026: 62.3-35.1 (2:23 AM Wikipedia) -> 62.1-35.3 (NBC 11:11 ET, more votes counted); margin 26.8; overperf 20.89",
+   "Ossoff 2026: confirmed 59.0-41.0 via NBC; expected vote 99 -> 98.7 (NBC 11:11 ET)",
+   "AOC 2026: district 2024 baseline 32.0 (rounded Wikipedia) -> 32.39 implied by NBC shift; overperf 24.7 -> 24.31",
+   "Emanuel 2015 runoff: 55.7-44.3 (+11.4) -> 56.23-43.77 (+12.46)",
+   "AOC 2018: 78.0-13.6 (+64.4) -> 78.18-13.61 (+64.57)",
+   "Shapiro 2020 AG: margin 4.6 -> 4.52 (50.85-46.33); overperf 3.44 -> 3.36",
+   "Beshear 2023: 52.5-47.5 (+5.0) -> 52.53-47.46 (+5.07); overperf 31.01",
+   "Rounding-precision refresh of 14 pre-2026 track-record margins from re-fetched Wikipedia pages (Kelly 2020, Whitmer 2018, Murphy 2012/2018, Booker 2013/14/20, Warnock 2021, Pritzker 2018, Buttigieg 2010/15, Ossoff 2017, Harris 2010, Shapiro 2016); changes <=0.15 pts",
+   "Josh Shapiro Liberal Currents fav/unfav 55/10 -> 54/10",
+   "JB Pritzker Liberal Currents fav/unfav 44/7 -> 43/7",
+   "Mark Kelly Liberal Currents fav/unfav 58/7 -> 57/7",
+   "Ro Khanna Liberal Currents fav/unfav 33/7 -> 33/6",
+   "Mamdani Liberal Currents Dem-voter fav 57/11 -> 57/12",
+   "Slotkin style_evidence: 'Blue Dog-aligned' unsupported -> New Democrat Coalition + Problem Solvers (Wikipedia caucus list); archetype unchanged",
+   "Harris weakness: unsourced 'Harvard/Harris 42%->34% Aug-Oct' -> PDF-stated 5-pt drop since September to 34%",
+   "Market prices refreshed to latest snapshot: Ossoff Poly 29.8->29.4; Ossoff Kalshi 22.0->21.0; Harris Poly 4.4->4.5; Harris Kalshi 3.6->3.9; Beshear Kalshi 4.4->4.7; Talarico Poly 2.1->2.0; Talarico Kalshi 3.3->3.0; Emanuel Kalshi 2.6->2.2; El-Sayed Kalshi 2.5->2.4"
+  ],
+  "unresolved": [
+   "AOC NY-14 and Khanna CA-17: no race call located (NBC pages show no projected winner); Khanna's 'AP per WTOP' call not re-verified",
+   "Slotkin 2022 MI-7 margin: Wikipedia prose (51.5-46.5) vs table (51.7-46.3) disagree",
+   "Quantus Insights AOC vs Vance 42-45 (Aug 26-28) could not be re-confirmed (source page shows no figures)",
+   "Wikipedia 2028 Dem primary table mis-transcribes Harvard/Harris Oct (Ossoff 6/Shapiro 7/Pritzker 5 vs PDF 7/8/4); file uses PDF values",
+   "Leger Oct 23-25 national primary poll (Harris 22, Newsom 11, Buttigieg 8, AOC 7, Ossoff 6, Shapiro 7, Pritzker 5, Beshear 2) not included in file",
+   "No front-runner missing; Michelle Obama (Poly 1.5, Kalshi 1.6; declined) and Chelsea Clinton (Poly 1.2) priced above several listed names but not included",
+   "2026 race calls attributed to AP rely on secondary outlets (Fox 5, The Hill, WTOP, WMAR); AP results pages not fetched; WebSearch budget exhausted so no independent search was possible",
+   "Unverified pre-2026 margins remain for Harris 2014/2016, Kelly 2022, Slotkin House races, Ossoff 2021, Newsom 2010-2022 (most flagged verified in original run)"
+  ]
+ }
+}

@@ -1,0 +1,31 @@
+seats won in 2025-26 specials (no personal vote from the 2024 race): ['AZ-7', 'CA-1', 'CA-14', 'FL-1', 'FL-6', 'GA-13', 'GA-14', 'NJ-11', 'TN-7', 'TX-18', 'VA-11']
+house/house-ca.json: 52 races (expected_rows=52)
+house/house-deep-south.json: 33 races (expected_rows=33)
+house/house-fl-ga.json: 42 races (expected_rows=42)
+house/house-northeast.json: 47 races (expected_rows=47)
+house/house-ny-nj.json: 38 races (expected_rows=38)
+house/house-oh-mi-in-il.json: 54 races (expected_rows=54)
+house/house-plains.json: 37 races (expected_rows=37)
+house/house-tx-ok-ar.json: 47 races (expected_rows=47)
+house/house-va-nc-wv-ky.json: 33 races (expected_rows=33)
+house/house-west.json: 52 races (expected_rows=52)
+senate.json: 35 races (expected_rows=35)
+governors.json: 36 races (expected_rows=36)
+House rows: 435 (expect 435); Senate 35; Gov 36
+exclusion counts: {'partial_count_lt_80pct': 77, 'uncontested_or_no_major_party_opponent': 20, 'no_democrat_on_ballot': 1, 'third_candidate_ge_10pct': 10, 'independent_backed': 5, 'validation_only_2025_offyear': 3, 'combined_multi_dem_vote': 1}
+main sample: 403 rows; by office {'House': 339, 'Senate': 29, 'Governor': 28, 'Special': 7}
+main by archetype: {'left_populist': 15, 'mainstream_liberal': 291, 'moderate': 71, 'progressive': 24, 'center_populist': 2}
+rows lacking pres2024 on current lines by archetype (§2.3 report): {}
+user-flagged uncalled: {'id': 'SEN-AK', 'called_in_data': None, 'pct_counted': 75.5, 'in_main': False, 'exclusion_reason': 'partial_count_lt_80pct (provisional refit only)'}
+user-flagged uncalled: {'id': 'SEN-MS', 'called_in_data': None, 'pct_counted': 95.6, 'in_main': True, 'exclusion_reason': None}
+user-flagged uncalled: {'id': 'GOV-KS', 'called_in_data': None, 'pct_counted': 98.8, 'in_main': True, 'exclusion_reason': None}
+user-flagged uncalled: {'id': 'GOV-AK', 'called_in_data': None, 'pct_counted': 75.2, 'in_main': False, 'exclusion_reason': 'third_candidate_ge_10pct (aggregate other_pct >= 10)'}
+user-flagged uncalled: {'id': 'ME-2', 'called_in_data': None, 'pct_counted': 91.8, 'in_main': True, 'exclusion_reason': None}
+user-flagged uncalled: {'id': 'TN-4', 'called_in_data': None, 'pct_counted': 99.0, 'in_main': True, 'exclusion_reason': None}
+user-flagged uncalled: {'id': 'TN-9', 'called_in_data': None, 'pct_counted': 99.0, 'in_main': True, 'exclusion_reason': None}
+user-flagged uncalled: {'id': 'VA-5', 'called_in_data': None, 'pct_counted': 97.8, 'in_main': True, 'exclusion_reason': None}
+user-flagged uncalled: {'id': 'NC-3', 'called_in_data': None, 'pct_counted': 98.8, 'in_main': True, 'exclusion_reason': None}
+user-flagged uncalled: {'id': 'NC-5', 'called_in_data': None, 'pct_counted': 99.0, 'in_main': True, 'exclusion_reason': None}
+user-flagged uncalled: {'id': 'NC-7', 'called_in_data': None, 'pct_counted': 99.0, 'in_main': True, 'exclusion_reason': None}
+uncalled in data: 39
+data flag counts: {'western_incomplete_count': 103, 'rep_style_missing_treated_as_traditional': 17, 'uncalled': 39, 'single_source_nbc': 345, 'prior_race_uncontested_no_personal_vote': 6, 'rep_style_unclassified_treated_as_traditional': 33, 'incumbent_appointed_no_personal_vote': 3, 'pv_midterm_prev_race_vs_prior_pres_baseline': 15, 'rep_style_not_applicable_treated_as_traditional': 3, 'combined_multi_dem_vote': 1}

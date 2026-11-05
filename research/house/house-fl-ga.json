@@ -1,0 +1,2572 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "scope": "Florida (28) - check whether a new 2026 map was used; Georgia (14)",
+ "expected_rows": 42,
+ "races": [
+  {
+   "id": "FL-1",
+   "office": "House",
+   "state": "FL",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Gay Valimont",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Third straight run (2024, 2025 special); campaign themes: affordability, healthcare, veterans, voting rights; bipartisan framing. No caucus/insurgent signals found.",
+    "background": "Athletic trainer; sports-medicine career; repeat FL-1 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed in primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jimmy Patronis",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 35.61,
+    "rep_pct": 62.56,
+    "other_pct": 1.83,
+    "margin": -26.95,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -38.98,
+    "lines": "2024_same",
+    "house2024_margin": -32.0,
+    "prev_seat_margin": -14.6,
+    "prev_seat_year": 2025
+   },
+   "overperformance_vs_pres2024": 12.03,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Gay_Valimont",
+    "https://en.wikipedia.org/wiki/2025_Florida%27s_1st_congressional_district_special_election"
+   ],
+   "notes": "Lines effectively unchanged (identical 2024 pres margin on old and new maps). prev_seat_margin is the April 2025 special (Patronis 56.86, Valimont 42.26). Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-2",
+   "office": "House",
+   "state": "FL",
+   "district": 2,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Amanda Green",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Endorsed by Blue Dog PAC and ex-Blue Dog Rep. Allen Boyd, UAW, NEA; pitches \"common sense\", term limits, stock-trading ban, attacks \"corporate greed\" and billionaire donors.",
+    "background": "Operations/pricing manager for USAID-partner global health programs",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 4-way primary 33.5% over Yen Bailey (28.0) and Brice Barnes (27.0), both backed by Democratic Progressive Caucus of Florida."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Austin Rogers",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 47.87,
+    "rep_pct": 52.13,
+    "other_pct": 0.0,
+    "margin": -4.27,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -18.07,
+    "lines": "2024_same",
+    "house2024_margin": -23.2,
+    "prev_seat_margin": -23.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.8,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Amanda_Green_(Florida)"
+   ],
+   "notes": "Open: Neal Dunn retired. Rogers endorsed by Trump and DeSantis. Lines unchanged. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-3",
+   "office": "House",
+   "state": "FL",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Seth Harp",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little campaign-style evidence found; no caucus or insurgent-group endorsements located.",
+    "background": "Radio sports show host",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 45.2% over 2024 nominee Tom Wells."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kat Cammack",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 42.99,
+    "rep_pct": 55.15,
+    "other_pct": 1.87,
+    "margin": -12.16,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -20.99,
+    "lines": "2024_same",
+    "house2024_margin": -23.2,
+    "prev_seat_margin": -23.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.83,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "notes": "Trump +20.99 (just outside tier-1 threshold). Lines unchanged. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-4",
+   "office": "House",
+   "state": "FL",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "LaShonda \"L.J.\" Holloway",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Platform (campaign site): healthcare as a human right, rent control, abortion rights; endorsed by Ben Crump. Third run; no insurgent-group or caucus signals.",
+    "background": "Former DC government office director; 2022 and 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Michael Kirwan (backed by building-trades unions, Al Lawson) 57.3-30.4."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Aaron Bean",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.11,
+    "rep_pct": 50.22,
+    "other_pct": 1.67,
+    "margin": -2.11,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -11.8,
+    "lines": "2024_same",
+    "house2024_margin": -14.6,
+    "prev_seat_margin": -14.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.69,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/LaShonda_Holloway"
+   ],
+   "notes": "Lines unchanged. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-5",
+   "office": "House",
+   "state": "FL",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rachel Grage",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "First-time federal candidate; no caucus or insurgent endorsements found.",
+    "background": "Biomedical engineer; 2024 state House nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John Rutherford",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 43.57,
+    "rep_pct": 56.43,
+    "other_pct": 0.0,
+    "margin": -12.85,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -21.34,
+    "lines": "2024_same",
+    "house2024_margin": -26.2,
+    "prev_seat_margin": -26.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.49,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "notes": "Lines unchanged. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-6",
+   "office": "House",
+   "state": "FL",
+   "district": 6,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Eric Yonce",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus or insurgent endorsements found.",
+    "background": "Realtor",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Randy Fine",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent",
+     "extreme_statements",
+     "scandal"
+    ]
+   },
+   "result": {
+    "dem_pct": 39.93,
+    "rep_pct": 58.95,
+    "other_pct": 1.12,
+    "margin": -19.02,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.99,
+    "lines": "2024_same",
+    "house2024_margin": -33.0,
+    "prev_seat_margin": -13.99,
+    "prev_seat_year": 2025
+   },
+   "overperformance_vs_pres2024": 10.97,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2025_Florida%27s_6th_congressional_district_special_election"
+   ],
+   "notes": "Lines unchanged. prev_seat_margin = April 2025 special (Fine 56.68, Josh Weil 42.69). Wikipedia notes controversy over Fine's anti-Palestinian/Islamophobic comments and a primary-day mailbox video. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-7",
+   "office": "House",
+   "state": "FL",
+   "district": 7,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bale Dalton",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Blue Dog PAC, DCCC Red to Blue, VoteVets, 314 Action, DMFI; endorsed by Buttigieg, Bill Nelson, Stephanie Murphy, Mikie Sherrill; affordability/anti-tariff message.",
+    "background": "Navy helicopter pilot, ex-NASA chief of staff, ex-Bill Nelson staffer",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Marialana Kinter (Dem Progressive Caucus of FL, Track AIPAC) 45.5-35.6, Alan Grayson 18.9."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ryan Elijah",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 49.2,
+    "rep_pct": 49.73,
+    "other_pct": 1.07,
+    "margin": -0.52,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -12.42,
+    "lines": "2024_same",
+    "house2024_margin": -13.0,
+    "prev_seat_margin": -13.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.9,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Bale_Dalton"
+   ],
+   "notes": "Open in general: incumbent Cory Mills lost GOP primary to Elijah. Uncalled; Elijah leads by ~1,700 votes. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-8",
+   "office": "House",
+   "state": "FL",
+   "district": 8,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jennifer Jenkins",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Former school-board member who beat a Moms for Liberty co-founder; endorsed by Florida AFL-CIO, Vote Mama, Kathy Castor, Alex Vindman; education/affordability message.",
+    "background": "Educator; former Brevard County school board member",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Haridopolos",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.83,
+    "rep_pct": 53.17,
+    "other_pct": 0.0,
+    "margin": -6.35,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -16.14,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 9.79,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Jennifer_Jenkins"
+   ],
+   "notes": "Lines changed (Trump margin 22.24 old -> 16.14 new). Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-9",
+   "office": "House",
+   "state": "FL",
+   "district": 9,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Darren Soto",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Member of New Democrat Coalition, Congressional Progressive Caucus and Problem Solvers (Wikipedia); broad labor endorsements, AIPAC, DMFI, LCV.",
+    "background": "Four-term congressman; former state legislator",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Dan Green",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 50.26,
+    "rep_pct": 49.74,
+    "other_pct": 0.0,
+    "margin": 0.52,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -17.71,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.23,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Darren_Soto",
+    "https://en.wikipedia.org/wiki/Darren_Soto"
+   ],
+   "notes": "Redrawn from Harris +3.5 to Trump +17.71 (notional GOP gain). Uncalled; Soto leads by ~1,500 votes. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-10",
+   "office": "House",
+   "state": "FL",
+   "district": 10,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": true,
+   "dem": {
+    "name": "Maxwell Frost",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "establishment",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Progressive Caucus member (Wikipedia); endorsed CPC-backed Shevrin Jones in FL-24 primary. Re-elected without opposition.",
+    "background": "Two-term congressman; youngest member of Congress, gun-safety organizer",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed; primary and general cancelled under Florida law."
+   },
+   "alt_dem": null,
+   "rep": null,
+   "result": {
+    "dem_pct": null,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": null,
+    "called": "D",
+    "called_by": "NBC News (unopposed; not on ballot under Florida law)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 23.89,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/Maxwell_Frost"
+   ],
+   "notes": "Uncontested: all opponents failed to qualify, so the race was not on the ballot; NBC lists Frost as winner. No vote totals. Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting).",
+   "verified": true
+  },
+  {
+   "id": "FL-11",
+   "office": "House",
+   "state": "FL",
+   "district": 11,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "James Pericola",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Ex-Bob Graham staffer and Clinton-administration official; affordability/caregiving message; no caucus or insurgent endorsements found.",
+    "background": "Attorney; former Senate staffer and Clinton administration official",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 3-way primary 46.3%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joe Strada",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 45.98,
+    "rep_pct": 52.93,
+    "other_pct": 1.08,
+    "margin": -6.95,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -15.63,
+    "lines": "2026_new",
+    "house2024_margin": -20.8,
+    "prev_seat_margin": -20.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.68,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/James_Pericola"
+   ],
+   "notes": "Open: Daniel Webster withdrew. Minor line changes (Trump 16.20 old -> 15.63 new); house2024 from old lines. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-12",
+   "office": "House",
+   "state": "FL",
+   "district": 12,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kimberly Overman",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Self-described \"progressive leadership\"; endorsed by Democratic Progressive Caucus of Florida, Emgage, DNC chair Ken Martin, DCCC chair DelBene; former county commissioner.",
+    "background": "Former Hillsborough County commissioner; small business owner",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat VoteVets/Buttigieg-backed Darren McAuley 52.7-47.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Gus Bilirakis",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 45.94,
+    "rep_pct": 52.74,
+    "other_pct": 1.32,
+    "margin": -6.8,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -15.33,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 8.53,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Kimberly_Overman"
+   ],
+   "notes": "Heavily redrawn (Trump 34.46 old -> 15.33 new). Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-13",
+   "office": "House",
+   "state": "FL",
+   "district": 13,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Leela Gray",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Blue Dog PAC, DCCC Red to Blue, VoteVets, EMILYs List, Spanberger, Hoyer, Mark Kelly; food-stamps-to-general biography; attacks insurance monopolies and corporations.",
+    "background": "Retired Army brigadier general (30 years)",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 65.0%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Anna Paulina Luna",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.68,
+    "rep_pct": 49.48,
+    "other_pct": 1.84,
+    "margin": -0.8,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -13.26,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 12.46,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Leela_Gray"
+   ],
+   "notes": "Uncalled; Luna leads by ~2,500 votes. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-14",
+   "office": "House",
+   "state": "FL",
+   "district": 14,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kathy Castor",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Ten-term party-line Democrat; endorsed by AFL-CIO, UAW, EMILYs List, LCV, Sierra Club, AIPAC.",
+    "background": "Longtime congresswoman; former county commissioner",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Beltran",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 51.21,
+    "rep_pct": 45.88,
+    "other_pct": 2.91,
+    "margin": 5.33,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -10.47,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 15.8,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "notes": "Redrawn from Harris +7.64 to Trump +10.47 (notional GOP gain); Castor held it. Beltran backed by Trump, Freedom Caucus Fund, Club for Growth. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-15",
+   "office": "House",
+   "state": "FL",
+   "district": 15,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Robert People",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "low",
+    "style_evidence": "Endorsed by Democratic Progressive Caucus of Florida and Track AIPAC; no institutional/DCCC backing found.",
+    "background": "Retired Army veteran and writer",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Chris Irizarry 53.6-46.4."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Laurel Lee",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 45.7,
+    "rep_pct": 54.3,
+    "other_pct": 0.0,
+    "margin": -8.6,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -19.77,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 11.17,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "notes": "Redrawn (Trump 11.15 old -> 19.77 new). Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier: 'left' rests on thin evidence (Track AIPAC general-election endorsement per Wikipedia, plus Democratic Progressive Caucus of Florida); no DSA/Justice Democrats/WFP/Sanders endorsement located. Archetype 'progressive' kept at low confidence; could be mainstream_liberal. Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-16",
+   "office": "House",
+   "state": "FL",
+   "district": 16,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kelly Kirschner",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Calls economy a \"rigged game\"; attacks oil, utility and insurance companies and billionaire tax breaks; touts local campaign-finance reform. Endorsed by Florida AFL-CIO, UAW.",
+    "background": "Former Sarasota mayor; Peace Corps volunteer; nonprofit founder",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 5-way primary 43.0%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Sydney Gruters",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 46.96,
+    "rep_pct": 51.21,
+    "other_pct": 1.83,
+    "margin": -4.25,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -13.64,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 9.39,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Kelly_Kirschner"
+   ],
+   "notes": "Open: Vern Buchanan retired. Gruters endorsed by Trump, Turning Point Action. Lines changed modestly (Trump 15.40 -> 13.64). Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-17",
+   "office": "House",
+   "state": "FL",
+   "district": 17,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Matthew Montavon",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus or insurgent endorsements found.",
+    "background": "Retired United Nations official",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Greg Steube",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.14,
+    "rep_pct": 58.46,
+    "other_pct": 1.4,
+    "margin": -18.31,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -22.0,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 3.69,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "notes": "Trump +22.00 on new lines. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-18",
+   "office": "House",
+   "state": "FL",
+   "district": 18,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Curtis Gibson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Pitches \"an independent, working-class voice\"; former janitor, mail carrier, Amazon worker and pro wrestler; \"not a career politician\"; pro-labor, cost-of-living message.",
+    "background": "Former Lake Wales city commissioner; property manager",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Scott Franklin",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.68,
+    "rep_pct": 50.35,
+    "other_pct": 2.97,
+    "margin": -3.67,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -16.9,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 13.23,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Curtis_Gibson"
+   ],
+   "notes": "Heavily redrawn (Trump 29.31 old -> 16.90 new). Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-19",
+   "office": "House",
+   "state": "FL",
+   "district": 19,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Victor Arias",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Raised in NYC housing projects; church elder; no caucus or insurgent endorsements found.",
+    "background": "Attorney, Cape Coral law-firm owner",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Howard Sapp 45.5-41.1."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jim Schwartzel",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 37.64,
+    "rep_pct": 61.13,
+    "other_pct": 1.23,
+    "margin": -23.48,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -30.08,
+    "lines": "2026_new",
+    "house2024_margin": -32.6,
+    "prev_seat_margin": -32.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 6.6,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Victor_Arias"
+   ],
+   "notes": "Open: Byron Donalds ran for governor. Minor line change (Trump 29.04 -> 30.08). Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-20",
+   "office": "House",
+   "state": "FL",
+   "district": 20,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Debbie Wasserman Schultz",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "New Democrat Coalition member, ex-DNC chair; AIPAC, DMFI, AFL-CIO, Miami Herald and Sun Sentinel. Ran in the redrawn 20th after her 25th was dismantled.",
+    "background": "Longtime congresswoman (old FL-25), former DNC chair",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Won 45.3% over Dale Holness 23.1, progressive Elijah Manley (Our Revolution, Ro Khanna, Track AIPAC) 13.9, ex-Rep. Cherfilus-McCormick 9.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brent Andersen",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 74.36,
+    "rep_pct": 21.74,
+    "other_pct": 3.91,
+    "margin": 52.62,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 37.06,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 15.56,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz"
+   ],
+   "notes": "Seat was vacant (Cherfilus-McCormick left office); DWS is an incumbent member running in a new district. Lines changed. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-21",
+   "office": "House",
+   "state": "FL",
+   "district": 21,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "James Martin",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Endorsed by Kamala Harris and state Rep. Debra Tendrich; narrowly beat a Track AIPAC/Anti-Zionist America PAC-backed rival.",
+    "background": "Lieutenant commander, U.S. Coast Guard Reserve",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Bernard Taylor (Track AIPAC, Dem Progressive Caucus of FL) 50.4-49.6."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brian Mast",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 44.75,
+    "rep_pct": 53.95,
+    "other_pct": 1.31,
+    "margin": -9.2,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -16.17,
+    "lines": "2026_new",
+    "house2024_margin": -23.6,
+    "prev_seat_margin": -23.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 6.97,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "notes": "Minor line change (Trump 16.50 -> 16.17); house2024 from old lines. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-22",
+   "office": "House",
+   "state": "FL",
+   "district": 22,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Pia Dandiya",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "DCCC Red to Blue, EMILYs List, DFER, AFL-CIO, Ro Khanna, Arne Duncan; \"not a career politician\"; anti-insider, stock-trading ban, cost-of-living message.",
+    "background": "Educator; manager at Apple Strategic Innovations Group",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Kaysia Earley 68.6-31.4."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Casey Askar",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 51.89,
+    "rep_pct": 48.11,
+    "other_pct": 0.0,
+    "margin": 3.78,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -10.47,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 14.25,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Pia_Dandiya"
+   ],
+   "notes": "Open: Lois Frankel moved to FL-23. Redrawn from Harris +5.55 to Trump +10.47 (notional GOP gain); Democrats held. Askar backed by Trump, CPAC, Michael Flynn. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-23",
+   "office": "House",
+   "state": "FL",
+   "district": 23,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lois Frankel",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Congressional Progressive Caucus member (Wikipedia) but party-line institutionalist; AIPAC, DMFI, AFL-CIO, Planned Parenthood.",
+    "background": "Longtime congresswoman (old FL-22); ex-West Palm Beach mayor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Victoria Doyle 74.7-23.4."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Deborah Adeimy",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.65,
+    "rep_pct": 34.35,
+    "other_pct": 0.0,
+    "margin": 31.29,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 13.77,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 17.52,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/Lois_Frankel"
+   ],
+   "notes": "Moskowitz (old FL-23 incumbent) moved to FL-25; Frankel moved in. Redrawn (Harris +1.90 old -> Harris +13.77 new). Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-24",
+   "office": "House",
+   "state": "FL",
+   "district": 24,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Oliver Gilbert",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Endorsed by retiring Rep. Frederica Wilson, Miami-Dade Mayor Levine Cava, SEIU, firefighters; beat CPC-backed state Sen. Shevrin Jones.",
+    "background": "Miami-Dade County commissioner; former Miami Gardens mayor",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Won 34.3% over Shevrin Jones 32.0 (Congressional Progressive Caucus, Frost, Casar, Jayapal) and Kendrick Meek Jr. 17.3 (Pelosi, Clyburn)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mayonna Te Brown",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 80.65,
+    "rep_pct": 19.35,
+    "other_pct": 0.0,
+    "margin": 61.31,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 38.62,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 22.69,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "notes": "Open: Frederica Wilson retired. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-25",
+   "office": "House",
+   "state": "FL",
+   "district": 25,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jared Moskowitz",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition member (Wikipedia); campaign stresses \"bipartisan\" record (5 mentions) and \"independent voice\"; AIPAC, DMFI; beat DSA-endorsed challenger.",
+    "background": "Two-term congressman (old FL-23); ex-Florida emergency management director",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Oliver Larkin (DSA, Nina Turner, Jamaal Bowman, Track AIPAC) 63.5-36.5."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Scott Singer",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 51.26,
+    "rep_pct": 46.64,
+    "other_pct": 2.1,
+    "margin": 4.62,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -9.11,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 13.73,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Jared_Moskowitz",
+    "https://en.wikipedia.org/wiki/Jared_Moskowitz"
+   ],
+   "notes": "Redrawn from Harris +5.31 to Trump +9.11 (notional GOP gain); Moskowitz held it. Wikipedia: one of the most expensive 2026 House races (>$42.2M). Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-26",
+   "office": "House",
+   "state": "FL",
+   "district": 26,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Nicole Locklin",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Refuses corporate PAC money; says billionaires and corporations \"rig the rules\"; overturn Citizens United, guarantee healthcare. Endorsed by Progressive Victory, Track AIPAC, Dem Progressive Caucus of FL.",
+    "background": "Attorney (tech/health/privacy); first-generation college graduate from rural Oklahoma",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mario Diaz-Balart",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 49.1,
+    "rep_pct": 49.87,
+    "other_pct": 1.02,
+    "margin": -0.77,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -18.32,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 17.55,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Nicole_Locklin"
+   ],
+   "notes": "Heavily redrawn (Trump 34.86 old -> 18.32 new). Diaz-Balart endorsed by Florida AFL-CIO and UAW. Uncalled; Diaz-Balart leads by ~1,800 votes. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier: 'left' ideology rests on Progressive Victory, Track AIPAC and Dem Progressive Caucus of FL endorsements (confirmed on Wikipedia) plus no-corporate-PAC pledge; archetype left_populist is unchanged whether ideology is left or liberal. Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-27",
+   "office": "House",
+   "state": "FL",
+   "district": 27,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Eliott Rodriguez",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "DCCC Red to Blue, DMFI, J Street, MoveOn, SEIU, Miami Herald, Mayor Levine Cava; well-known TV anchor recruited for the seat.",
+    "background": "Longtime Miami television journalist",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Robin Peguero (CHC BOLD PAC, CBC PAC) 53.5-46.5."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Maria Elvira Salazar",
+    "incumbent": true,
+    "style": "moderate",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 49.77,
+    "rep_pct": 50.23,
+    "other_pct": 0.0,
+    "margin": -0.45,
+    "pct_expected_vote_counted": 99,
+    "called": null,
+    "called_by": null,
+    "flipped": null
+   },
+   "baseline": {
+    "pres2024_margin": -14.53,
+    "lines": "2026_new",
+    "house2024_margin": -20.8,
+    "prev_seat_margin": -20.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.08,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "notes": "Wikipedia lists Trump's endorsement of Salazar struck through. Minor line change (Trump 14.61 -> 14.53); house2024 from old lines. Uncalled; Salazar leads by ~1,100 votes. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "FL-28",
+   "office": "House",
+   "state": "FL",
+   "district": 28,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Phil Ehr",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Anti-corruption, fair-economy themes; endorsed by Jamie Raskin, ex-Defense Sec. William Perry, IBEW.",
+    "background": "Retired Navy commander; 2020 FL-1 and 2024 FL-28 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Carlos Gimenez",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 45.64,
+    "rep_pct": 52.9,
+    "other_pct": 1.46,
+    "margin": -7.25,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -25.39,
+    "lines": "2026_new",
+    "house2024_margin": -29.2,
+    "prev_seat_margin": -29.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.14,
+   "sources": [
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt",
+    "https://www.nbcnews.com/politics/2026-elections/florida-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_Florida_redistricting",
+    "https://davesredistricting.org/maps#viewmap::560765fd-df34-4264-ab24-ad04eb7a850d",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+    "https://ballotpedia.org/Phil_Ehr"
+   ],
+   "notes": "Minor line change (Trump 25.34 -> 25.39); house2024 from old lines. Unofficial counts: Florida DOS statewide file, all precincts reporting, last-modified 2026-11-04 16:03 UTC. pct_expected from NBC News (percentIn). Baseline = 2024 presidential result on the 2026 DeSantis map (Dave's Redistricting via Wikipedia 2026 Florida redistricting). Verifier re-pulled FL DOS file (last-modified 2026-11-04 16:18 UTC): district totals unchanged.",
+   "verified": true
+  },
+  {
+   "id": "GA-1",
+   "office": "House",
+   "state": "GA",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Amanda Hollowell",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Endorsed by Georgia Working Families Party, Ro Khanna, Kamala Harris; Color Of Change campaigns chief; racial/economic-justice organizer; priorities: higher wages, funded schools, climate.",
+    "background": "Political organizer; Color Of Change chief of campaigns",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Joyce Griggs in runoff 53.0-47.0 after placing second (24.7) in 7-way primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jim Kingston",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 48.58,
+    "rep_pct": 51.42,
+    "other_pct": 0.0,
+    "margin": -2.84,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -15.83,
+    "lines": "2024_same",
+    "house2024_margin": -24.0,
+    "prev_seat_margin": -24.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.99,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://ballotpedia.org/Amanda_Hollowell"
+   ],
+   "notes": "Open: Buddy Carter ran for Senate. Kingston endorsed by Trump and Kemp. Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-2",
+   "office": "House",
+   "state": "GA",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sanford Bishop",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Blue Dog Coalition member (Wikipedia: \"moderate faction\"); long-serving senior appropriator.",
+    "background": "Congressman since 1993",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Matt Day",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 60.87,
+    "rep_pct": 39.13,
+    "other_pct": 0.0,
+    "margin": 21.74,
+    "pct_expected_vote_counted": 98.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 7.62,
+    "lines": "2024_same",
+    "house2024_margin": 12.6,
+    "prev_seat_margin": 12.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.12,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/Sanford_Bishop"
+   ],
+   "notes": "Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-3",
+   "office": "House",
+   "state": "GA",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Maura Keller",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Georgia AFL-CIO endorsement; 2024 site backed \"progressive legislation\" on criminal justice.",
+    "background": "Salon owner; 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat George Johnson 60.8-39.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brian Jack",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 41.38,
+    "rep_pct": 58.62,
+    "other_pct": 0.0,
+    "margin": -17.24,
+    "pct_expected_vote_counted": 97.8,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.71,
+    "lines": "2024_same",
+    "house2024_margin": -32.6,
+    "prev_seat_margin": -32.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.47,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "notes": "Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-4",
+   "office": "House",
+   "state": "GA",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Hank Johnson",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Congressional Progressive Caucus member (Wikipedia), party-line veteran incumbent; AFL-CIO, Planned Parenthood.",
+    "background": "Congressman since 2007",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 79.3%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jim Duffie",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 82.64,
+    "rep_pct": 17.36,
+    "other_pct": 0.0,
+    "margin": 65.28,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 52.48,
+    "lines": "2024_same",
+    "house2024_margin": 51.2,
+    "prev_seat_margin": 51.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.8,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/Hank_Johnson"
+   ],
+   "notes": "Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-5",
+   "office": "House",
+   "state": "GA",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Nikema Williams",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Member of New Democrat Coalition and Progressive Caucus (Wikipedia); AFL-CIO, AIPAC, J Street.",
+    "background": "Congresswoman since 2021; former Georgia Democratic Party chair",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 88.0%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John Salvesen",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 90.19,
+    "rep_pct": 9.81,
+    "other_pct": 0.0,
+    "margin": 80.39,
+    "pct_expected_vote_counted": 98.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 71.58,
+    "lines": "2024_same",
+    "house2024_margin": 71.4,
+    "prev_seat_margin": 71.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.81,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/Nikema_Williams"
+   ],
+   "notes": "Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-6",
+   "office": "House",
+   "state": "GA",
+   "district": 6,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lucy McBath",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "New Democrat Coalition member (Wikipedia); gun-safety advocate; AIPAC, DMFI, NEA, DFER.",
+    "background": "Congresswoman since 2019; gun-safety activist",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kevin Martin",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 80.9,
+    "rep_pct": 19.1,
+    "other_pct": 0.0,
+    "margin": 61.8,
+    "pct_expected_vote_counted": 98.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 49.93,
+    "lines": "2024_same",
+    "house2024_margin": 49.4,
+    "prev_seat_margin": 49.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.87,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/Lucy_McBath"
+   ],
+   "notes": "Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn). Verifier: NBC percentIn 83.1 confirmed even though GA SOS shows all 4 counties reporting; NBC expects additional ballots.",
+   "verified": true
+  },
+  {
+   "id": "GA-7",
+   "office": "House",
+   "state": "GA",
+   "district": 7,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Tony Kozycki",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus or insurgent endorsements found; beat Track AIPAC-backed Casey Norton in runoff.",
+    "background": "Attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Casey Norton in runoff 67.7-32.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rich McCormick",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 43.81,
+    "rep_pct": 56.19,
+    "other_pct": 0.0,
+    "margin": -12.39,
+    "pct_expected_vote_counted": 98.4,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -22.02,
+    "lines": "2024_same",
+    "house2024_margin": -29.8,
+    "prev_seat_margin": -29.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.63,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "notes": "Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-8",
+   "office": "House",
+   "state": "GA",
+   "district": 8,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kelly Esti",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus or insurgent endorsements found.",
+    "background": "Businessman",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Justin Lucas 53.5-46.5."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Austin Scott",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 39.62,
+    "rep_pct": 60.38,
+    "other_pct": 0.0,
+    "margin": -20.76,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -30.63,
+    "lines": "2024_same",
+    "house2024_margin": -37.8,
+    "prev_seat_margin": -37.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.87,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "notes": "Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-9",
+   "office": "House",
+   "state": "GA",
+   "district": 9,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Caitlyn Gegen",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus or insurgent endorsements found.",
+    "background": "Community organizer",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Nick Alex 60.0-40.0."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Andrew Clyde",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.7,
+    "rep_pct": 59.3,
+    "other_pct": 0.0,
+    "margin": -18.6,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -34.07,
+    "lines": "2024_same",
+    "house2024_margin": -38.0,
+    "prev_seat_margin": -38.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.47,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "notes": "Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-10",
+   "office": "House",
+   "state": "GA",
+   "district": 10,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Pamela DeLancy",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus or insurgent endorsements found (National Women's Political Caucus only).",
+    "background": "Nurse",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat 2024 nominee Lexy Doherty 54.4-39.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Houston Gaines",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 46.41,
+    "rep_pct": 53.59,
+    "other_pct": 0.0,
+    "margin": -7.19,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -20.8,
+    "lines": "2024_same",
+    "house2024_margin": -26.2,
+    "prev_seat_margin": -26.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.61,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "notes": "Open: Mike Collins ran for Senate. Gaines endorsed by Trump, GOP leadership, Turning Point Action. Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-11",
+   "office": "House",
+   "state": "GA",
+   "district": 11,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chris Harden",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "No corporate PAC money pledge; working-class Rossville upbringing; \"Washington should work for working families—not special interests\"; higher minimum wage, stock-trading and lobbying bans.",
+    "background": "Family-law attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Barry Wolfert 74.8-25.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John Cowan",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 44.64,
+    "rep_pct": 55.36,
+    "other_pct": 0.0,
+    "margin": -10.73,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.3,
+    "lines": "2024_same",
+    "house2024_margin": -33.7,
+    "prev_seat_margin": -33.7,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.57,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://ballotpedia.org/Chris_Harden"
+   ],
+   "notes": "Open: Barry Loudermilk retired. house2024 margin uses Dem nominee only (a Dem write-in took 2.5%). Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-12",
+   "office": "House",
+   "state": "GA",
+   "district": 12,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ceretta Smith",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Army medic veteran and former AFGE national officer; endorsed by Georgia AFL-CIO and AFGE; labor-rooted, \"restore trust in government\" message.",
+    "background": "Army veteran, AFGE union leader, Grovetown city councilor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Traci George in runoff 55.8-44.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rick Allen",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 47.9,
+    "rep_pct": 52.1,
+    "other_pct": 0.0,
+    "margin": -4.2,
+    "pct_expected_vote_counted": 96.6,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -14.13,
+    "lines": "2024_same",
+    "house2024_margin": -20.6,
+    "prev_seat_margin": -20.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.93,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://ballotpedia.org/Ceretta_Smith"
+   ],
+   "notes": "Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-13",
+   "office": "House",
+   "state": "GA",
+   "district": 13,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jasmine Clark",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "MoveOn, Indivisible, 314 Action, J Street, AFGE; pledges no corporate PAC money; science/anti-DOGE message. Beat Our Revolution/Track AIPAC-backed Everton Blair.",
+    "background": "State representative; microbiologist (science PhD)",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Won primary 56.1% over Heavenly Kimes 21.5 and Everton Blair 11.6 (Our Revolution, Track AIPAC), who later won the Aug 2026 special."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jonathan Chavez",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 79.83,
+    "rep_pct": 20.17,
+    "other_pct": 0.0,
+    "margin": 59.66,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 42.26,
+    "lines": "2024_same",
+    "house2024_margin": 43.6,
+    "prev_seat_margin": 43.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.4,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://ballotpedia.org/Jasmine_Clark",
+    "https://en.wikipedia.org/wiki/2026_Georgia%27s_13th_congressional_district_special_election"
+   ],
+   "notes": "Open in effect: special-election winner Everton Blair (seated after David Scott died April 2026) had lost the regular primary. prev_seat_margin uses 2024 (Scott); the 2026 special runoff was D vs D. Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  },
+  {
+   "id": "GA-14",
+   "office": "House",
+   "state": "GA",
+   "district": 14,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Shawn Harris",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "Rural pitch: farm bill, SNAP, rural hospitals; backs gun rights plus background checks, border security, legal immigration for farmers; anti-Big Pharma price gouging. Endorsed by Buttigieg, Warnock, Common Defense.",
+    "background": "Cattleman; retired Army brigadier general; 2024 and 2026-special nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Clay Fuller",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 41.22,
+    "rep_pct": 58.78,
+    "other_pct": 0.0,
+    "margin": -17.56,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -36.79,
+    "lines": "2024_same",
+    "house2024_margin": -28.8,
+    "prev_seat_margin": -11.78,
+    "prev_seat_year": 2026
+   },
+   "overperformance_vs_pres2024": 19.23,
+   "sources": [
+    "https://results.sos.ga.gov/results/public/api/elections/Georgia/11032026GeneralAndSpecialElection/ballot-items",
+    "https://results.sos.ga.gov/results/public/Georgia/elections/11032026GeneralAndSpecialElection",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Georgia",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia",
+    "https://ballotpedia.org/Shawn_Harris_(Georgia)",
+    "https://en.wikipedia.org/wiki/2026_Georgia%27s_14th_congressional_district_special_election"
+   ],
+   "notes": "Tier 1 as a notable style case (rural veteran-farmer Democrat). prev_seat_margin = April 2026 special runoff (Fuller 55.89, Harris 44.11); MTG resigned Jan 2026. Unofficial counts: Georgia SOS results API, all counties reporting, as of 2026-11-04 09:19 UTC. pct_expected from NBC News (percentIn).",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T16:30:00Z",
+  "checked_items": 42,
+  "corrections": [],
+  "unresolved": [
+   "Race calls and pct_expected_vote_counted rest solely on NBC News (embedded page data re-checked 2026-11-04 ~16:20 UTC); AP, CNN and Politico result pages could not be fetched, and the web-search budget was exhausted, so no second call source.",
+   "FL-15 Robert People classified 'left'/progressive on thin evidence (Track AIPAC + state progressive caucus only); may be mainstream_liberal.",
+   "FL-26 Nicole Locklin 'left' ideology is borderline; archetype left_populist unaffected.",
+   "GA-6 NBC percentIn 83.1 despite all counties reporting at GA SOS; margin may shift slightly as remaining ballots are added.",
+   "Five FL races uncalled per NBC (FL-7, FL-9, FL-13, FL-26, FL-27); flipped left null."
+  ],
+  "method": "All 42 rows checked: FL vote shares recomputed from the Florida DOS statewide results file (re-fetched, last-modified 16:18 UTC) and GA from the GA SOS ballot-items API; both matched to 0.01 pt. Calls/percentIn compared to NBC embedded data. pres2024 baselines checked against Wikipedia wikitext (GA: 2024 presidential election in Georgia by-CD table; FL: 2026 Florida redistricting new-map column citing Dave's Redistricting). Margin and overperformance arithmetic checked for every row. GA-14 2026 special result checked on Wikipedia special-election page. Nominee names checked against Wikipedia 2026 House pages."
+ }
+}

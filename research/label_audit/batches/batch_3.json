@@ -1,0 +1,109 @@
+{
+ "batch": 3,
+ "races": [
+  {
+   "id": "SEN-TX",
+   "name": "James Talarico",
+   "state": "TX",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Ken Paxton"
+  },
+  {
+   "id": "TN-8",
+   "name": "Heidi Kuhn",
+   "state": "TN",
+   "district": 8,
+   "office": "House",
+   "opponent": "David Kustoff"
+  },
+  {
+   "id": "MT-1",
+   "name": "Sam Forstag",
+   "state": "MT",
+   "district": 1,
+   "office": "House",
+   "opponent": "Aaron Flint"
+  },
+  {
+   "id": "GA-2",
+   "name": "Sanford Bishop",
+   "state": "GA",
+   "district": 2,
+   "office": "House",
+   "opponent": "Matt Day"
+  },
+  {
+   "id": "OH-3",
+   "name": "Joyce Beatty",
+   "state": "OH",
+   "district": 3,
+   "office": "House",
+   "opponent": "Cleophus Dulaney"
+  },
+  {
+   "id": "WI-3",
+   "name": "Rebecca Cooke",
+   "state": "WI",
+   "district": 3,
+   "office": "House",
+   "opponent": "Derrick Van Orden"
+  },
+  {
+   "id": "TX-38",
+   "name": "Melissa McDonough",
+   "state": "TX",
+   "district": 38,
+   "office": "House",
+   "opponent": "Jon Bonck"
+  },
+  {
+   "id": "SEN-AR",
+   "name": "Hallie Shoffner",
+   "state": "AR",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Tom Cotton"
+  },
+  {
+   "id": "GA-11",
+   "name": "Chris Harden",
+   "state": "GA",
+   "district": 11,
+   "office": "House",
+   "opponent": "John Cowan"
+  },
+  {
+   "id": "AL-1",
+   "name": "Clyde Jones",
+   "state": "AL",
+   "district": 1,
+   "office": "House",
+   "opponent": "Jerry Carl"
+  },
+  {
+   "id": "GOV-KS",
+   "name": "Cindy Holscher",
+   "state": "KS",
+   "district": null,
+   "office": "Governor",
+   "opponent": "Ty Masterson"
+  },
+  {
+   "id": "VA-5",
+   "name": "Tom Perriello",
+   "state": "VA",
+   "district": 5,
+   "office": "House",
+   "opponent": "John McGuire"
+  },
+  {
+   "id": "OH-1",
+   "name": "Greg Landsman",
+   "state": "OH",
+   "district": 1,
+   "office": "House",
+   "opponent": "Eric Conroy"
+  }
+ ]
+}

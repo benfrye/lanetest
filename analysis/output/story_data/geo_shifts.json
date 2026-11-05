@@ -1,0 +1,660 @@
+{
+ "definition": "Swing = 2026 margin minus Harris's 2024 margin in the same place. Relative swing = that minus the statewide swing in the same race (House districts: minus the national House swing).",
+ "kinds": [
+  "Heavily Hispanic districts",
+  "Small-town and rural",
+  "College towns",
+  "Big-city counties",
+  "Suburbs",
+  "Black-majority counties"
+ ],
+ "summary": [
+  {
+   "kind": "Heavily Hispanic districts",
+   "n": 4,
+   "median_relative": 6.41
+  },
+  {
+   "kind": "Small-town and rural",
+   "n": 45,
+   "median_relative": -1.51
+  },
+  {
+   "kind": "College towns",
+   "n": 2,
+   "median_relative": 4.14
+  },
+  {
+   "kind": "Big-city counties",
+   "n": 2,
+   "median_relative": 3.31
+  },
+  {
+   "kind": "Suburbs",
+   "n": 3,
+   "median_relative": -0.42
+  },
+  {
+   "kind": "Black-majority counties",
+   "n": 5,
+   "median_relative": -8.76
+  }
+ ],
+ "places": [
+  {
+   "kind": "Big-city counties",
+   "place": "Allegheny Co., Pa. (Pittsburgh)",
+   "race": "Governor",
+   "shift": 23.35,
+   "reference_shift": 23.81,
+   "reference": "Pennsylvania",
+   "relative": -0.46,
+   "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results"
+  },
+  {
+   "kind": "Big-city counties",
+   "place": "Broward Co., Fla.",
+   "race": "Governor",
+   "shift": 15.11,
+   "reference_shift": 11.8,
+   "reference": "Florida",
+   "relative": 3.31,
+   "source": "https://www.nbcnews.com/politics/2026-elections/florida-governor-results"
+  },
+  {
+   "kind": "Suburbs",
+   "place": "Berks Co., Pa.",
+   "race": "Governor",
+   "shift": 24.58,
+   "reference_shift": 23.81,
+   "reference": "Pennsylvania",
+   "relative": 0.77,
+   "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results"
+  },
+  {
+   "kind": "Suburbs",
+   "place": "Oakland Co., Mich. (preliminary)",
+   "race": "Senate",
+   "shift": 3,
+   "reference_shift": 8.42,
+   "reference": "Michigan",
+   "relative": -5.42,
+   "source": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+  },
+  {
+   "kind": "Suburbs",
+   "place": "Kent Co., Mich. (Grand Rapids)",
+   "race": "Senate",
+   "shift": 8,
+   "reference_shift": 8.42,
+   "reference": "Michigan",
+   "relative": -0.42,
+   "source": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+  },
+  {
+   "kind": "College towns",
+   "place": "Athens Co., Ohio (Ohio University)",
+   "race": "Governor",
+   "shift": 23.28,
+   "reference_shift": 19.14,
+   "reference": "Ohio",
+   "relative": 4.14,
+   "source": "https://www.nbcnews.com/politics/2026-elections/ohio-governor-results"
+  },
+  {
+   "kind": "College towns",
+   "place": "Alachua Co., Fla. (Univ. of Florida)",
+   "race": "Governor",
+   "shift": 12.26,
+   "reference_shift": 11.8,
+   "reference": "Florida",
+   "relative": 0.46,
+   "source": "https://www.nbcnews.com/politics/2026-elections/florida-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Beaver Co., Pa.",
+   "race": "Governor",
+   "shift": 26.83,
+   "reference_shift": 23.81,
+   "reference": "Pennsylvania",
+   "relative": 3.02,
+   "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Adams Co., Pa.",
+   "race": "Governor",
+   "shift": 24.83,
+   "reference_shift": 23.81,
+   "reference": "Pennsylvania",
+   "relative": 1.02,
+   "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Armstrong Co., Pa.",
+   "race": "Governor",
+   "shift": 22.81,
+   "reference_shift": 23.81,
+   "reference": "Pennsylvania",
+   "relative": -1.0,
+   "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Bedford Co., Pa.",
+   "race": "Governor",
+   "shift": 18.32,
+   "reference_shift": 23.81,
+   "reference": "Pennsylvania",
+   "relative": -5.49,
+   "source": "https://www.nbcnews.com/politics/2026-elections/pennsylvania-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Adair Co., Iowa",
+   "race": "Senate",
+   "shift": 17.54,
+   "reference_shift": 17.32,
+   "reference": "Iowa",
+   "relative": 0.22,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Adams Co., Iowa",
+   "race": "Senate",
+   "shift": 15.57,
+   "reference_shift": 17.32,
+   "reference": "Iowa",
+   "relative": -1.75,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Allamakee Co., Iowa",
+   "race": "Senate",
+   "shift": 15.95,
+   "reference_shift": 17.32,
+   "reference": "Iowa",
+   "relative": -1.37,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Appanoose Co., Iowa",
+   "race": "Senate",
+   "shift": 22.72,
+   "reference_shift": 17.32,
+   "reference": "Iowa",
+   "relative": 5.4,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Audubon Co., Iowa",
+   "race": "Senate",
+   "shift": 16.9,
+   "reference_shift": 17.32,
+   "reference": "Iowa",
+   "relative": -0.42,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Benton Co., Iowa",
+   "race": "Senate",
+   "shift": 15.18,
+   "reference_shift": 17.32,
+   "reference": "Iowa",
+   "relative": -2.14,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Adair Co., Iowa (Sand)",
+   "race": "Governor",
+   "shift": 31.5,
+   "reference_shift": 24.19,
+   "reference": "Iowa",
+   "relative": 7.31,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Adams Co., Iowa (Sand)",
+   "race": "Governor",
+   "shift": 27.07,
+   "reference_shift": 24.19,
+   "reference": "Iowa",
+   "relative": 2.88,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Allamakee Co., Iowa (Sand)",
+   "race": "Governor",
+   "shift": 22.68,
+   "reference_shift": 24.19,
+   "reference": "Iowa",
+   "relative": -1.51,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Appanoose Co., Iowa (Sand)",
+   "race": "Governor",
+   "shift": 29.66,
+   "reference_shift": 24.19,
+   "reference": "Iowa",
+   "relative": 5.47,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Audubon Co., Iowa (Sand)",
+   "race": "Governor",
+   "shift": 25.64,
+   "reference_shift": 24.19,
+   "reference": "Iowa",
+   "relative": 1.45,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Benton Co., Iowa (Sand)",
+   "race": "Governor",
+   "shift": 24.95,
+   "reference_shift": 24.19,
+   "reference": "Iowa",
+   "relative": 0.76,
+   "source": "https://www.nbcnews.com/politics/2026-elections/iowa-governor-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Allen Co., Kan.",
+   "race": "Senate",
+   "shift": 23.11,
+   "reference_shift": 20.99,
+   "reference": "Kansas",
+   "relative": 2.12,
+   "source": "https://www.nbcnews.com/politics/2026-elections/kansas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Anderson Co., Kan.",
+   "race": "Senate",
+   "shift": 18.03,
+   "reference_shift": 20.99,
+   "reference": "Kansas",
+   "relative": -2.96,
+   "source": "https://www.nbcnews.com/politics/2026-elections/kansas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Atchison Co., Kan.",
+   "race": "Senate",
+   "shift": 23.38,
+   "reference_shift": 20.99,
+   "reference": "Kansas",
+   "relative": 2.39,
+   "source": "https://www.nbcnews.com/politics/2026-elections/kansas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Barber Co., Kan.",
+   "race": "Senate",
+   "shift": 12.74,
+   "reference_shift": 20.99,
+   "reference": "Kansas",
+   "relative": -8.25,
+   "source": "https://www.nbcnews.com/politics/2026-elections/kansas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Barton Co., Kan.",
+   "race": "Senate",
+   "shift": 18.6,
+   "reference_shift": 20.99,
+   "reference": "Kansas",
+   "relative": -2.39,
+   "source": "https://www.nbcnews.com/politics/2026-elections/kansas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Bourbon Co., Kan.",
+   "race": "Senate",
+   "shift": 19.4,
+   "reference_shift": 20.99,
+   "reference": "Kansas",
+   "relative": -1.59,
+   "source": "https://www.nbcnews.com/politics/2026-elections/kansas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Anderson Co., Texas",
+   "race": "Senate",
+   "shift": 16.24,
+   "reference_shift": 25.77,
+   "reference": "Texas",
+   "relative": -9.53,
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Andrews Co., Texas",
+   "race": "Senate",
+   "shift": 28.97,
+   "reference_shift": 25.77,
+   "reference": "Texas",
+   "relative": 3.2,
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Angelina Co., Texas",
+   "race": "Senate",
+   "shift": 21.59,
+   "reference_shift": 25.77,
+   "reference": "Texas",
+   "relative": -4.18,
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Aransas Co., Texas",
+   "race": "Senate",
+   "shift": 13.1,
+   "reference_shift": 25.77,
+   "reference": "Texas",
+   "relative": -12.67,
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Archer Co., Texas",
+   "race": "Senate",
+   "shift": 10.16,
+   "reference_shift": 25.77,
+   "reference": "Texas",
+   "relative": -15.61,
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Armstrong Co., Texas",
+   "race": "Senate",
+   "shift": 10.2,
+   "reference_shift": 25.77,
+   "reference": "Texas",
+   "relative": -15.57,
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Appling Co., Ga.",
+   "race": "Senate",
+   "shift": 12.54,
+   "reference_shift": 20.2,
+   "reference": "Georgia",
+   "relative": -7.66,
+   "source": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Atkinson Co., Ga.",
+   "race": "Senate",
+   "shift": 22.19,
+   "reference_shift": 20.2,
+   "reference": "Georgia",
+   "relative": 1.99,
+   "source": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Bacon Co., Ga.",
+   "race": "Senate",
+   "shift": 10.78,
+   "reference_shift": 20.2,
+   "reference": "Georgia",
+   "relative": -9.42,
+   "source": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Baker Co., Ga.",
+   "race": "Senate",
+   "shift": 10.54,
+   "reference_shift": 20.2,
+   "reference": "Georgia",
+   "relative": -9.66,
+   "source": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Baldwin Co., Ga.",
+   "race": "Senate",
+   "shift": 13.81,
+   "reference_shift": 20.2,
+   "reference": "Georgia",
+   "relative": -6.39,
+   "source": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Banks Co., Ga.",
+   "race": "Senate",
+   "shift": 14.66,
+   "reference_shift": 20.2,
+   "reference": "Georgia",
+   "relative": -5.54,
+   "source": "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Alexander Co., N.C.",
+   "race": "Senate",
+   "shift": 17.53,
+   "reference_shift": 22.84,
+   "reference": "North Carolina",
+   "relative": -5.31,
+   "source": "https://www.nbcnews.com/politics/2026-elections/north-carolina-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Alleghany Co., N.C.",
+   "race": "Senate",
+   "shift": 22.61,
+   "reference_shift": 22.84,
+   "reference": "North Carolina",
+   "relative": -0.23,
+   "source": "https://www.nbcnews.com/politics/2026-elections/north-carolina-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Ashe Co., N.C.",
+   "race": "Senate",
+   "shift": 23.16,
+   "reference_shift": 22.84,
+   "reference": "North Carolina",
+   "relative": 0.32,
+   "source": "https://www.nbcnews.com/politics/2026-elections/north-carolina-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Avery Co., N.C.",
+   "race": "Senate",
+   "shift": 18.58,
+   "reference_shift": 22.84,
+   "reference": "North Carolina",
+   "relative": -4.26,
+   "source": "https://www.nbcnews.com/politics/2026-elections/north-carolina-senate-results"
+  },
+  {
+   "kind": "Black-majority counties",
+   "place": "Bolivar Co., Miss.",
+   "race": "Senate",
+   "shift": 17.48,
+   "reference_shift": 22.89,
+   "reference": "Mississippi",
+   "relative": -5.41,
+   "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results"
+  },
+  {
+   "kind": "Black-majority counties",
+   "place": "Adams Co., Miss.",
+   "race": "Senate",
+   "shift": 14.13,
+   "reference_shift": 22.89,
+   "reference": "Mississippi",
+   "relative": -8.76,
+   "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Benton Co., Miss.",
+   "race": "Senate",
+   "shift": 23.01,
+   "reference_shift": 22.89,
+   "reference": "Mississippi",
+   "relative": 0.12,
+   "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Attala Co., Miss.",
+   "race": "Senate",
+   "shift": 20.67,
+   "reference_shift": 22.89,
+   "reference": "Mississippi",
+   "relative": -2.22,
+   "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Amite Co., Miss.",
+   "race": "Senate",
+   "shift": 14.77,
+   "reference_shift": 22.89,
+   "reference": "Mississippi",
+   "relative": -8.12,
+   "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Alcorn Co., Miss.",
+   "race": "Senate",
+   "shift": 15.25,
+   "reference_shift": 22.89,
+   "reference": "Mississippi",
+   "relative": -7.64,
+   "source": "https://www.nbcnews.com/politics/2026-elections/mississippi-senate-results"
+  },
+  {
+   "kind": "Black-majority counties",
+   "place": "Allendale Co., S.C.",
+   "race": "Senate",
+   "shift": 11.88,
+   "reference_shift": 22.34,
+   "reference": "South Carolina",
+   "relative": -10.46,
+   "source": "https://www.nbcnews.com/politics/2026-elections/south-carolina-senate-results"
+  },
+  {
+   "kind": "Black-majority counties",
+   "place": "Bamberg Co., S.C.",
+   "race": "Senate",
+   "shift": 16.98,
+   "reference_shift": 22.34,
+   "reference": "South Carolina",
+   "relative": -5.36,
+   "source": "https://www.nbcnews.com/politics/2026-elections/south-carolina-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Anderson Co., S.C.",
+   "race": "Senate",
+   "shift": 23.93,
+   "reference_shift": 22.34,
+   "reference": "South Carolina",
+   "relative": 1.59,
+   "source": "https://www.nbcnews.com/politics/2026-elections/south-carolina-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Abbeville Co., S.C.",
+   "race": "Senate",
+   "shift": 20.83,
+   "reference_shift": 22.34,
+   "reference": "South Carolina",
+   "relative": -1.51,
+   "source": "https://www.nbcnews.com/politics/2026-elections/south-carolina-senate-results"
+  },
+  {
+   "kind": "Small-town and rural",
+   "place": "Aiken Co., S.C.",
+   "race": "Senate",
+   "shift": 21.35,
+   "reference_shift": 22.34,
+   "reference": "South Carolina",
+   "relative": -0.99,
+   "source": "https://www.nbcnews.com/politics/2026-elections/south-carolina-senate-results"
+  },
+  {
+   "kind": "Black-majority counties",
+   "place": "Anson Co., N.C.",
+   "race": "Senate",
+   "shift": 13.79,
+   "reference_shift": 22.84,
+   "reference": "North Carolina",
+   "relative": -9.05,
+   "source": "https://www.nbcnews.com/politics/2026-elections/north-carolina-senate-results"
+  },
+  {
+   "kind": "Heavily Hispanic districts",
+   "place": "TX-15 (Rio Grande Valley)",
+   "race": "House",
+   "shift": 42.65,
+   "reference_shift": 15,
+   "reference": "national House vote",
+   "relative": 27.65,
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-15-results"
+  },
+  {
+   "kind": "Heavily Hispanic districts",
+   "place": "TX-35 (San Antonio-Austin)",
+   "race": "House",
+   "shift": 21.41,
+   "reference_shift": 15,
+   "reference": "national House vote",
+   "relative": 6.41,
+   "source": "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-35-results"
+  },
+  {
+   "kind": "Heavily Hispanic districts",
+   "place": "FL-27 (Miami)",
+   "race": "House",
+   "shift": 14.25,
+   "reference_shift": 15,
+   "reference": "national House vote",
+   "relative": -0.75,
+   "source": "https://www.nbcnews.com/politics/2026-elections/florida-us-house-district-27-results"
+  },
+  {
+   "kind": "Heavily Hispanic districts",
+   "place": "CO-8 (Denver suburbs, 78% counted)",
+   "race": "House",
+   "shift": 16.53,
+   "reference_shift": 15,
+   "reference": "national House vote",
+   "relative": 1.53,
+   "source": "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-8-results"
+  }
+ ],
+ "caveats": [
+  "A sample, not every county: results pages listed counties alphabetically and some were cut off, and western counts are incomplete.",
+  "Statewide races mix candidates; Shapiro (Pennsylvania) and Sand (Iowa) are strong statewide candidates.",
+  "Oakland and CO-8 were still counting."
+ ]
+}

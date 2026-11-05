@@ -1,0 +1,586 @@
+{
+ "cycle": 2018,
+ "coder": "batch_2018_1",
+ "labels": {
+  "AK-AL": {
+   "name": "Alyse Galvin",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Registered independent running in Dem primary as nonpartisan \"independent\" education advocate; DCCC Red to Blue; no left markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/Alyse_Galvin",
+   "verified_fetch": true
+  },
+  "AR-2": {
+   "name": "Clarke Tucker",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed (bluedogdems.com Oct 2018 snapshot); New Dem PAC watch list; DCCC Red to Blue; state rep",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "AZ-1": {
+   "name": "Tom O'Halleran",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member (listed on Blue Dog PAC site Oct 2018); New Dem member; ex-Republican",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "AZ-2": {
+   "name": "Ann Kirkpatrick",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Former Rep. and ex-Blue Dog (2009-11) running as party-favoured comeback candidate vs. more progressive Matt Heinz; DCCC Red to Blue",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Arizona&oldid=867296328",
+   "verified_fetch": false
+  },
+  "AZ-3": {
+   "name": "Raúl Grijalva",
+   "ideology": "left",
+   "posture": "establishment",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "CPC co-chair; Justice Democrats endorsed (JD wiki pre-election) and Our Revolution endorsed (OR candidates page Nov 2018)",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": true
+  },
+  "AZ-6": {
+   "name": "Anita Malik",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "First-time candidate, tech executive; no caucus/group markers found (searches exhausted)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Arizona&oldid=867296328",
+   "verified_fetch": false
+  },
+  "AZ-9": {
+   "name": "Greg Stanton",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former Phoenix mayor, unopposed in primary; campaign stressed problem-solving mayoral record; no left or Blue Dog markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/Greg_Stanton",
+   "verified_fetch": true
+  },
+  "CA-1": {
+   "name": "Audrey Denney",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + Our Revolution endorsed; Mar 2018: \"progressive Democrat\", \"not going to be a rubber-stamp Democrat\"; no-corporate-PAC grassroots campaign",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+   "verified_fetch": true
+  },
+  "CA-3": {
+   "name": "John Garamendi",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-time incumbent, conventional party-line Democrat; no CPC/Blue Dog markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/John_Garamendi",
+   "verified_fetch": false
+  },
+  "CA-4": {
+   "name": "Jessica Morse",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Ex-national-security official, DCCC Red to Blue; beat JD/BNC-backed Roza Calderon in primary (BNC marker is a false match for her opponent)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "verified_fetch": true
+  },
+  "CA-7": {
+   "name": "Ami Bera",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem member; perennial frontliner in Sacramento-suburban swing seat (2012-16 close races)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+   "verified_fetch": false
+  },
+  "CA-9": {
+   "name": "Jerry McNerney",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent, conventional party-line Democrat; no caucus markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/Jerry_McNerney",
+   "verified_fetch": false
+  },
+  "CA-10": {
+   "name": "Josh Harder",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue; campaigned for Medicare for All (KFF) with no Sanders/OR/JD backing; VC/Turlock native running as local outsider",
+   "label_source_url": "https://kffhealthnews.org/news/en-route-to-congress-california-democrats-hit-wall-on-medicare-for-all",
+   "verified_fetch": true
+  },
+  "CA-16": {
+   "name": "Jim Costa",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018); Blue Dog PAC co-chair",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "CA-17": {
+   "name": "Ro Khanna",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats member (first sitting JD member, JD wiki pre-election); CPC; won 2016 as insurgent vs. Honda",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+   "verified_fetch": true
+  },
+  "CA-21": {
+   "name": "TJ Cox",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue; Obama/Harris/Feinstein/SEIU endorsements; promoted public option rather than M4A (KFF)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "verified_fetch": true
+  },
+  "CA-22": {
+   "name": "Andrew Janz",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Fresno prosecutor vs. Nunes in Trump+10 seat; law-and-order, moderate profile; no left markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "verified_fetch": false
+  },
+  "CA-25": {
+   "name": "Katie Hill",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC PAC + EMILY's List + Warren endorsed (state page); campaigned on M4A (KFF); young nonprofit-exec newcomer; Our Revolution backed her primary rival",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "verified_fetch": true
+  },
+  "CA-36": {
+   "name": "Raul Ruiz",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent ER doctor, conventional party-line Democrat; no caucus markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/Raul_Ruiz_(politician)",
+   "verified_fetch": false
+  },
+  "CA-39": {
+   "name": "Gil Cisneros",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC-backed Navy vet/philanthropist; DCCC, BOLD PAC, LCV endorsements; public option not M4A (KFF)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "verified_fetch": true
+  },
+  "CA-42": {
+   "name": "Julia Peacock",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Long-shot challenger to Calvert; no markers or coverage found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "verified_fetch": false
+  },
+  "CA-45": {
+   "name": "Katie Porter",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "PCCC endorsed (\"fighting Wall Street and powerful interests\"); Warren protegee; Medicare for All central to campaign (KFF); also DCCC Red to Blue",
+   "label_source_url": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "verified_fetch": true
+  },
+  "CA-46": {
+   "name": "Lou Correa",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018); New Dem member",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "CA-48": {
+   "name": "Harley Rouda",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-Republican businessman, DCCC Red to Blue; backed Medicare for All and answered yes to PDA questionnaire, but not campaign-defining",
+   "label_source_url": "https://kffhealthnews.org/news/en-route-to-congress-california-democrats-hit-wall-on-medicare-for-all",
+   "verified_fetch": true
+  },
+  "CA-49": {
+   "name": "Mike Levin",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "PCCC endorsed (single left-group endorsement); clean-energy lawyer; DCCC Red to Blue; supported M4A per KFF but conventional campaign",
+   "label_source_url": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+   "verified_fetch": true
+  },
+  "CA-50": {
+   "name": "Ammar Campa-Najjar",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + Our Revolution + PCCC endorsed; ran as progressive backing M4A; also Obama-endorsed",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": true
+  },
+  "CA-53": {
+   "name": "Susan Davis",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Safe-seat New Dem incumbent; Our Revolution marker is a false match (Vermont candidate Susan Hatch Davis)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+   "verified_fetch": true
+  },
+  "CO-2": {
+   "name": "Joe Neguse",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC PAC + DFA endorsed alongside Biden, CBC, AFL-CIO; former state agency head; batch \"Bernie Sanders\" marker is only ex-Sanders staffers on his list",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Colorado&oldid=867082604",
+   "verified_fetch": true
+  },
+  "CO-3": {
+   "name": "Diane Mitsch Bush",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former state rep and county commissioner; won primary over Menconi/Hanlon; no left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/Diane_Mitsch_Bush",
+   "verified_fetch": true
+  },
+  "CO-5": {
+   "name": "Stephany Rose Spaulding",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Justice Democrats endorsed (JD wiki pre-election); professor/pastor newcomer; message \"putting people before politics\", conventional issue set",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+   "verified_fetch": true
+  },
+  "CO-6": {
+   "name": "Jason Crow",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Army Ranger, DCCC-backed over progressive Tillemann; refused corporate PAC money; no centrist branding found",
+   "label_source_url": "https://en.wikipedia.org/wiki/Jason_Crow",
+   "verified_fetch": true
+  },
+  "CO-7": {
+   "name": "Ed Perlmutter",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Safe-seat New Dem incumbent; conventional",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+   "verified_fetch": false
+  },
+  "CT-2": {
+   "name": "Joe Courtney",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem incumbent in safe-for-him seat; conventional, no centrist branding",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+   "verified_fetch": false
+  },
+  "CT-3": {
+   "name": "Rosa DeLauro",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member, senior appropriator, establishment",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "verified_fetch": false
+  },
+  "CT-5": {
+   "name": "Jahana Hayes",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Teacher of the Year newcomer from public housing; beat convention-endorsed Mary Glassman 62-38 in primary; WFP and CEA backed",
+   "label_source_url": "https://en.wikipedia.org/wiki/Jahana_Hayes",
+   "verified_fetch": true
+  },
+  "DE-AL": {
+   "name": "Lisa Blunt Rochester",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC + New Dem incumbent; CBC PAC/party endorsements",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "verified_fetch": false
+  },
+  "FL-3": {
+   "name": "Yvonne Hayes Hinson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Long-shot challenger, former Gainesville city commissioner; no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "verified_fetch": false
+  },
+  "FL-6": {
+   "name": "Nancy Soderberg",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former UN ambassador/NSC official, Biden-endorsed, DCCC Red to Blue; no explicit centrist or left markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/Nancy_Soderberg",
+   "verified_fetch": true
+  },
+  "FL-7": {
+   "name": "Stephanie Murphy",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site); New Dem; beat JD/BNC-backed Chardo Richardson (BNC marker is his)",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "FL-8": {
+   "name": "Sanjay Patel",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Justice Democrats + Our Revolution endorsed; platform of social, economic and environmental justice; Brevard Dem party official",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+   "verified_fetch": true
+  },
+  "FL-9": {
+   "name": "Darren Soto",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC + New Dem incumbent; conventional",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "verified_fetch": false
+  },
+  "FL-12": {
+   "name": "Chris Hunter",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed candidate (bluedogdems.com Oct 2018); former federal prosecutor/FBI",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "FL-13": {
+   "name": "Charlie Crist",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018); ex-Republican governor",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "FL-15": {
+   "name": "Kristen Carlson",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Attorney, ex-citrus-industry counsel in Trump+10 Polk seat; Red to Blue; recalled moderate branding, not verified",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "verified_fetch": false
+  },
+  "FL-16": {
+   "name": "David Shapiro",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Attorney, DCCC Red to Blue; no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "verified_fetch": false
+  },
+  "FL-17": {
+   "name": "Allen Ellison",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Long-shot nominee in Trump+28 open seat; no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "verified_fetch": false
+  },
+  "FL-18": {
+   "name": "Lauren Baer",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former State Dept official, DCCC Red to Blue; beat Pam Keith in primary; no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "verified_fetch": false
+  },
+  "FL-22": {
+   "name": "Ted Deutch",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Safe-seat incumbent, conventional party-line Democrat",
+   "label_source_url": "https://en.wikipedia.org/wiki/Ted_Deutch",
+   "verified_fetch": false
+  },
+  "FL-25": {
+   "name": "Mary Barzee Flores",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "EMILY's List, LCV, PDA endorsed; former judge; DCCC Red to Blue; single PDA endorsement with conventional profile",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "verified_fetch": true
+  },
+  "FL-26": {
+   "name": "Debbie Mucarsel-Powell",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "DCCC Red to Blue; nonprofit exec; no left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/Debbie_Mucarsel-Powell",
+   "verified_fetch": true
+  },
+  "FL-27": {
+   "name": "Donna Shalala",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Former HHS Secretary; publicly opposed single-payer Medicare for All (WFOR interview); beat progressive David Richardson; BNC marker belongs to rival Hepburn",
+   "label_source_url": "https://en.wikipedia.org/wiki/Donna_Shalala",
+   "verified_fetch": true
+  },
+  "GA-1": {
+   "name": "Lisa Ring",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Justice Democrats + Our Revolution endorsed community organizer; backs Medicare for All; message on struggling workers, labor protections, fair pay",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+   "verified_fetch": true
+  },
+  "GA-2": {
+   "name": "Sanford Bishop",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018)",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "GA-6": {
+   "name": "Lucy McBath",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Gun-safety activist, DCCC Red to Blue; favoured shoring up ACA/Medicare at 55 over Medicare for All (undated positions)",
+   "label_source_url": "https://en.wikipedia.org/wiki/Lucy_McBath",
+   "verified_fetch": true
+  },
+  "GA-7": {
+   "name": "Carolyn Bourdeaux",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Former state Senate budget director/professor; Obama-endorsed; pragmatic fiscal profile (later Blue Dog membership not used)",
+   "label_source_url": "https://en.wikipedia.org/wiki/Carolyn_Bourdeaux",
+   "verified_fetch": false
+  },
+  "GA-12": {
+   "name": "Francys Johnson",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former Georgia NAACP president, civil-rights lawyer/pastor; no left-group markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/Francys_Johnson",
+   "verified_fetch": true
+  },
+  "GA-13": {
+   "name": "David Scott",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018); New Dem",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "HI-1": {
+   "name": "Ed Case",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Former Blue Dog congressman, \"conservative Democrat by Hawaii standards\"; comeback win over Chin and JD-style Ing",
+   "label_source_url": "https://en.wikipedia.org/wiki/Ed_Case",
+   "verified_fetch": true
+  }
+ }
+}

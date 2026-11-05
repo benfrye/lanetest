@@ -1,0 +1,287 @@
+{
+ "seed": 20261184,
+ "n_candidate_pairs": 722,
+ "rule": "different archetypes, |dm24| <= 3, same incumbency status, same Rep style; seeded random draw without reuse",
+ "pairs": [
+  {
+   "a": {
+    "id": "IL-10",
+    "name": "Brad Schneider",
+    "district": "IL-10",
+    "office": "House",
+    "archetype": "moderate",
+    "y": 17.11,
+    "m24": 22.49,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Carl Lambrecht",
+    "pct_counted": 96.2
+   },
+   "b": {
+    "id": "HI-2",
+    "name": "Jill Tokuda",
+    "district": "HI-2",
+    "office": "House",
+    "archetype": "mainstream_liberal",
+    "y": 12.19,
+    "m24": 22.01,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Brenton Awa",
+    "pct_counted": 99.0
+   }
+  },
+  {
+   "a": {
+    "id": "TX-23",
+    "name": "Katy Padilla Stout",
+    "district": "TX-23",
+    "office": "House",
+    "archetype": "mainstream_liberal",
+    "y": 23.47,
+    "m24": -15.04,
+    "incumbency": "open",
+    "rep_style": "maga",
+    "rep_name": "Brandon Herrera",
+    "pct_counted": 98.9
+   },
+   "b": {
+    "id": "GOV-FL",
+    "name": "David Jolly",
+    "district": "GOV-FL",
+    "office": "Governor",
+    "archetype": "moderate",
+    "y": 11.91,
+    "m24": -13.22,
+    "incumbency": "open",
+    "rep_style": "maga",
+    "rep_name": "Byron Donalds",
+    "pct_counted": 99.0
+   }
+  },
+  {
+   "a": {
+    "id": "CT-5",
+    "name": "Jahana Hayes",
+    "district": "CT-5",
+    "office": "House",
+    "archetype": "mainstream_liberal",
+    "y": 10.51,
+    "m24": 5.69,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Chris Shea",
+    "pct_counted": 94.2
+   },
+   "b": {
+    "id": "OH-13",
+    "name": "Emilia Sykes",
+    "district": "OH-13",
+    "office": "House",
+    "archetype": "moderate",
+    "y": 18.88,
+    "m24": 3.03,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Carey Coleman",
+    "pct_counted": 98.0
+   }
+  },
+  {
+   "a": {
+    "id": "CT-4",
+    "name": "Jim Himes",
+    "district": "CT-4",
+    "office": "House",
+    "archetype": "mainstream_liberal",
+    "y": 9.77,
+    "m24": 23.77,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Michael Goldstein",
+    "pct_counted": 97.6
+   },
+   "b": {
+    "id": "TX-7",
+    "name": "Lizzie Fletcher",
+    "district": "TX-7",
+    "office": "House",
+    "archetype": "moderate",
+    "y": 20.29,
+    "m24": 23.76,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Alexander Hale",
+    "pct_counted": 99.0
+   }
+  },
+  {
+   "a": {
+    "id": "MI-3",
+    "name": "Hillary Scholten",
+    "district": "MI-3",
+    "office": "House",
+    "archetype": "moderate",
+    "y": 7.97,
+    "m24": 7.98,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Terri DeBoer",
+    "pct_counted": 98.2
+   },
+   "b": {
+    "id": "IL-14",
+    "name": "Lauren Underwood",
+    "district": "IL-14",
+    "office": "House",
+    "archetype": "mainstream_liberal",
+    "y": 19.95,
+    "m24": 5.11,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "James Marter",
+    "pct_counted": 93.2
+   }
+  },
+  {
+   "a": {
+    "id": "NJ-11",
+    "name": "Analilia Mejia",
+    "district": "NJ-11",
+    "office": "House",
+    "archetype": "progressive",
+    "y": 12.61,
+    "m24": 8.89,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Joe Hathaway",
+    "pct_counted": 92.4
+   },
+   "b": {
+    "id": "SEN-NM",
+    "name": "Ben Ray Luj\u00e1n",
+    "district": "SEN-NM",
+    "office": "Senate",
+    "archetype": "mainstream_liberal",
+    "y": 20.26,
+    "m24": 6.14,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Larry Marker",
+    "pct_counted": 98.0
+   }
+  },
+  {
+   "a": {
+    "id": "NY-20",
+    "name": "Paul Tonko",
+    "district": "NY-20",
+    "office": "House",
+    "archetype": "mainstream_liberal",
+    "y": 12.87,
+    "m24": 14.26,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Ralph Ambrosio",
+    "pct_counted": 96.0
+   },
+   "b": {
+    "id": "SEN-CO",
+    "name": "John Hickenlooper",
+    "district": "SEN-CO",
+    "office": "Senate",
+    "archetype": "moderate",
+    "y": 14.02,
+    "m24": 11.29,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Mark Baisley",
+    "pct_counted": 83.9
+   }
+  },
+  {
+   "a": {
+    "id": "FL-8",
+    "name": "Jennifer Jenkins",
+    "district": "FL-8",
+    "office": "House",
+    "archetype": "mainstream_liberal",
+    "y": 9.95,
+    "m24": -16.29,
+    "incumbency": "R_inc",
+    "rep_style": "traditional",
+    "rep_name": "Mike Haridopolos",
+    "pct_counted": 99.0
+   },
+   "b": {
+    "id": "NY-2",
+    "name": "Patrick Halpin",
+    "district": "NY-2",
+    "office": "House",
+    "archetype": "progressive",
+    "y": 10.84,
+    "m24": -14.04,
+    "incumbency": "R_inc",
+    "rep_style": "traditional",
+    "rep_name": "Andrew Garbarino",
+    "pct_counted": 97.1
+   }
+  },
+  {
+   "a": {
+    "id": "FL-15",
+    "name": "Robert People",
+    "district": "FL-15",
+    "office": "House",
+    "archetype": "progressive",
+    "y": 11.35,
+    "m24": -19.95,
+    "incumbency": "R_inc",
+    "rep_style": "traditional",
+    "rep_name": "Laurel Lee",
+    "pct_counted": 99.0
+   },
+   "b": {
+    "id": "WI-5",
+    "name": "Andrew Beck",
+    "district": "WI-5",
+    "office": "House",
+    "archetype": "mainstream_liberal",
+    "y": 4.46,
+    "m24": -22.46,
+    "incumbency": "R_inc",
+    "rep_style": "traditional",
+    "rep_name": "Scott Fitzgerald",
+    "pct_counted": 99.0
+   }
+  },
+  {
+   "a": {
+    "id": "PA-17",
+    "name": "Chris Deluzio",
+    "district": "PA-17",
+    "office": "House",
+    "archetype": "mainstream_liberal",
+    "y": 20.03,
+    "m24": 5.57,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Tony Guy",
+    "pct_counted": 99.0
+   },
+   "b": {
+    "id": "KS-3",
+    "name": "Sharice Davids",
+    "district": "KS-3",
+    "office": "House",
+    "archetype": "moderate",
+    "y": 17.46,
+    "m24": 4.18,
+    "incumbency": "D_inc",
+    "rep_style": "traditional",
+    "rep_name": "Eric Jenkins",
+    "pct_counted": 98.5
+   }
+  }
+ ]
+}

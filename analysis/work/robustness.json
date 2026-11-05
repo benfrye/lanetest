@@ -1,0 +1,1812 @@
+{
+ "runs": [
+  {
+   "label": "R1: margin scale (D-R points) with m24 spline",
+   "n": 403,
+   "note": null,
+   "beta_L": [
+    -0.95016,
+    -1.79293,
+    -0.11208
+   ],
+   "beta_P": [
+    1.52036,
+    0.45351,
+    2.59664
+   ],
+   "delta": {
+    "progressive": [
+     -0.60123,
+     -1.55434,
+     0.29643
+    ],
+    "left_populist": [
+     1.1793,
+     0.09328,
+     2.27563
+    ],
+    "center_populist": [
+     2.51295,
+     1.01592,
+     3.89958
+    ],
+    "moderate": [
+     1.02735,
+     0.28272,
+     1.75715
+    ]
+   }
+  },
+  {
+   "label": "R1: margin - house24 (House, unchanged lines)",
+   "n": 236,
+   "note": null,
+   "beta_L": [
+    -0.14734,
+    -1.13247,
+    0.8798
+   ],
+   "beta_P": [
+    1.80258,
+    0.45919,
+    3.15324
+   ],
+   "delta": {
+    "progressive": [
+     0.53692,
+     -0.58623,
+     1.63385
+    ],
+    "left_populist": [
+     1.75352,
+     0.40894,
+     3.16692
+    ],
+    "center_populist": [
+     1.9423,
+     0.20909,
+     3.70043
+    ],
+    "moderate": [
+     0.36648,
+     -0.52031,
+     1.27706
+    ]
+   }
+  },
+  {
+   "label": "R1: raw 2026 margin with m24 spline",
+   "n": 403,
+   "note": null,
+   "beta_L": [
+    -0.97715,
+    -1.74637,
+    -0.16077
+   ],
+   "beta_P": [
+    1.51938,
+    0.47454,
+    2.57178
+   ],
+   "delta": {
+    "progressive": [
+     -0.50523,
+     -1.44654,
+     0.30148
+    ],
+    "left_populist": [
+     1.16657,
+     0.10398,
+     2.25059
+    ],
+    "center_populist": [
+     2.48788,
+     1.10831,
+     3.83763
+    ],
+    "moderate": [
+     1.07603,
+     0.33068,
+     1.76251
+    ]
+   }
+  },
+  {
+   "label": "R2: leave out Maine",
+   "n": 399,
+   "note": null,
+   "beta_L": [
+    -1.16275,
+    -2.04074,
+    -0.26147
+   ],
+   "beta_P": [
+    1.72783,
+    0.60457,
+    2.93811
+   ],
+   "delta": {
+    "progressive": [
+     -0.69159,
+     -1.7425,
+     0.30295
+    ],
+    "left_populist": [
+     1.32069,
+     0.18085,
+     2.56191
+    ],
+    "center_populist": [
+     2.89859,
+     1.34951,
+     4.39236
+    ],
+    "moderate": [
+     1.26333,
+     0.44417,
+     2.05659
+    ]
+   }
+  },
+  {
+   "label": "R2: leave out California",
+   "n": 403,
+   "note": null,
+   "beta_L": [
+    -1.17028,
+    -2.04427,
+    -0.25067
+   ],
+   "beta_P": [
+    1.64796,
+    0.47399,
+    2.73293
+   ],
+   "delta": {
+    "progressive": [
+     -0.81865,
+     -1.90805,
+     0.10478
+    ],
+    "left_populist": [
+     1.2156,
+     0.03507,
+     2.34678
+    ],
+    "center_populist": [
+     2.81559,
+     1.28803,
+     4.32339
+    ],
+    "moderate": [
+     1.24761,
+     0.46163,
+     2.00494
+    ]
+   }
+  },
+  {
+   "label": "R2: leave out redistricted states",
+   "n": 277,
+   "note": "states: AL,CA,FL,LA,NC,OH,TN,TX,UT",
+   "beta_L": [
+    -0.82721,
+    -1.80086,
+    0.11411
+   ],
+   "beta_P": [
+    0.61205,
+    -0.71433,
+    1.99173
+   ],
+   "delta": {
+    "progressive": [
+     -0.69062,
+     -1.82512,
+     0.35924
+    ],
+    "left_populist": [
+     0.30772,
+     -1.04997,
+     1.72407
+    ],
+    "center_populist": [
+     1.44996,
+     -0.23691,
+     3.19076
+    ],
+    "moderate": [
+     0.80152,
+     -0.09293,
+     1.7264
+    ]
+   }
+  },
+  {
+   "label": "R2: drop each archetype's 3 highest-leverage races",
+   "n": 392,
+   "note": "GOV-VT,KY-6,MT-1,SEN-AR,SEN-LA,SEN-ME,SPECIAL-GA-14-2026-04,SPECIAL-NJ-11-2026-04,SPECIAL-TN-7-2025-12,WI-3,WY-AL",
+   "beta_L": [
+    -0.71265,
+    -1.60854,
+    0.18565
+   ],
+   "beta_P": [
+    1.72364,
+    0.62656,
+    2.83478
+   ],
+   "delta": {
+    "progressive": [
+     -0.19187,
+     -1.21387,
+     0.71035
+    ],
+    "left_populist": [
+     1.48077,
+     0.34316,
+     2.5783
+    ],
+    "center_populist": [
+     2.42939,
+     0.8703,
+     3.96509
+    ],
+    "moderate": [
+     0.9252,
+     0.11409,
+     1.70101
+    ]
+   }
+  },
+  {
+   "label": "R3: Set B (rule-based) labels only",
+   "n": 403,
+   "note": null,
+   "beta_L": [
+    0.15252,
+    -0.35704,
+    0.67625
+   ],
+   "beta_P": [
+    0.99234,
+    -0.31091,
+    2.30638
+   ],
+   "delta": {
+    "progressive": [
+     0.19694,
+     -0.31148,
+     0.7219
+    ],
+    "left_populist": [
+     1.04438,
+     -0.27663,
+     2.37278
+    ],
+    "center_populist": [
+     0.8608,
+     -0.60626,
+     2.26704
+    ],
+    "moderate": [
+     -0.14394,
+     -0.66721,
+     0.3674
+    ]
+   }
+  },
+  {
+   "label": "R3: high-confidence labels only",
+   "n": 65,
+   "note": null,
+   "beta_L": [
+    0.34384,
+    -1.4036,
+    2.2679
+   ],
+   "beta_P": [
+    0.42242,
+    -1.88928,
+    2.78084
+   ],
+   "delta": {
+    "progressive": [
+     0.56529,
+     -1.34047,
+     2.48116
+    ],
+    "left_populist": [
+     0.57122,
+     -1.8381,
+     2.88803
+    ],
+    "center_populist": [
+     0.03646,
+     -3.23343,
+     3.16028
+    ],
+    "moderate": [
+     -0.25645,
+     -2.29627,
+     1.55647
+    ]
+   }
+  },
+  {
+   "label": "R3: Set C soft labels",
+   "n": 403,
+   "note": null,
+   "beta_L": [
+    -0.61857,
+    -1.80472,
+    0.56829
+   ],
+   "beta_P": [
+    -0.73423,
+    -2.60009,
+    1.16683
+   ],
+   "delta": {
+    "progressive": [
+     -1.21163,
+     -2.69904,
+     0.16668
+    ],
+    "left_populist": [
+     -0.97951,
+     -2.80744,
+     0.9757
+    ],
+    "center_populist": [
+     -0.14009,
+     -2.49505,
+     2.31837
+    ],
+    "moderate": [
+     0.4157,
+     -0.85362,
+     1.66935
+    ]
+   }
+  },
+  {
+   "label": "R3: strict source-date audit (dated/primary-record only keep Set A)",
+   "n": 403,
+   "note": null,
+   "beta_L": [
+    -0.20169,
+    -0.75549,
+    0.31048
+   ],
+   "beta_P": [
+    0.68187,
+    -0.58662,
+    1.9727
+   ],
+   "delta": {
+    "progressive": [
+     -0.12173,
+     -0.6937,
+     0.39443
+    ],
+    "left_populist": [
+     0.62236,
+     -0.64856,
+     1.91962
+    ],
+    "center_populist": [
+     0.89268,
+     -0.47055,
+     2.28875
+    ],
+    "moderate": [
+     0.22929,
+     -0.29167,
+     0.79117
+    ]
+   }
+  },
+  {
+   "label": "R3: all archetype deviations u_a on (min-N ignored)",
+   "n": 403,
+   "note": null,
+   "beta_L": [
+    -1.16873,
+    -2.0312,
+    -0.28687
+   ],
+   "beta_P": [
+    1.67776,
+    0.5305,
+    2.82456
+   ],
+   "delta": {
+    "progressive": [
+     -0.71792,
+     -1.71347,
+     0.18252
+    ],
+    "left_populist": [
+     1.28894,
+     0.00213,
+     2.51131
+    ],
+    "center_populist": [
+     2.85432,
+     1.19364,
+     4.39633
+    ],
+    "moderate": [
+     1.26203,
+     0.51169,
+     2.01049
+    ]
+   }
+  },
+  {
+   "label": "R4: House only",
+   "n": 346,
+   "note": null,
+   "beta_L": [
+    -1.0344,
+    -1.98883,
+    -0.06247
+   ],
+   "beta_P": [
+    1.82245,
+    0.59113,
+    3.03701
+   ],
+   "delta": {
+    "progressive": [
+     -0.49704,
+     -1.5886,
+     0.54827
+    ],
+    "left_populist": [
+     1.45695,
+     0.19343,
+     2.68634
+    ],
+    "center_populist": [
+     2.88334,
+     1.22935,
+     4.44883
+    ],
+    "moderate": [
+     1.351,
+     0.48521,
+     2.27186
+    ]
+   }
+  },
+  {
+   "label": "R4: statewide only",
+   "n": 57,
+   "note": null,
+   "beta_L": [
+    -1.44455,
+    -3.36982,
+    0.50644
+   ],
+   "beta_P": [
+    -0.11936,
+    -2.34207,
+    2.14779
+   ],
+   "delta": {
+    "progressive": [
+     -1.60904,
+     -3.8559,
+     0.59667
+    ],
+    "left_populist": [
+     -0.59491,
+     -2.89392,
+     1.73087
+    ],
+    "center_populist": [
+     1.39104,
+     -1.74321,
+     4.44274
+    ],
+    "moderate": [
+     1.442,
+     -0.75288,
+     3.66938
+    ]
+   }
+  },
+  {
+   "label": "R4: Nov 2026 only (no specials)",
+   "n": 396,
+   "note": null,
+   "beta_L": [
+    -0.86059,
+    -1.76073,
+    -0.05001
+   ],
+   "beta_P": [
+    1.66889,
+    0.61777,
+    2.78256
+   ],
+   "delta": {
+    "progressive": [
+     -0.34118,
+     -1.37744,
+     0.5318
+    ],
+    "left_populist": [
+     1.36012,
+     0.29262,
+     2.46874
+    ],
+    "center_populist": [
+     2.57729,
+     1.08484,
+     4.04183
+    ],
+    "moderate": [
+     0.99484,
+     0.22093,
+     1.78546
+    ]
+   }
+  },
+  {
+   "label": "R4: extended sample (|pres2024| <= 30)",
+   "n": 296,
+   "note": null,
+   "beta_L": [
+    -1.04677,
+    -2.04834,
+    -0.1344
+   ],
+   "beta_P": [
+    1.97168,
+    0.68194,
+    3.11816
+   ],
+   "delta": {
+    "progressive": [
+     -0.82957,
+     -2.08425,
+     0.27363
+    ],
+    "left_populist": [
+     1.58588,
+     0.25137,
+     2.79847
+    ],
+    "center_populist": [
+     3.04289,
+     1.37755,
+     4.58327
+    ],
+    "moderate": [
+     1.243,
+     0.4447,
+     2.07617
+    ]
+   }
+  },
+  {
+   "label": "R4: competitive only (|pres2024| <= 20)",
+   "n": 211,
+   "note": "model scale (50 x delta-logit)",
+   "beta_L": [
+    -0.85895,
+    -1.90875,
+    0.20582
+   ],
+   "beta_P": [
+    1.28215,
+    -0.15886,
+    2.68476
+   ],
+   "delta": {
+    "progressive": [
+     -1.4562,
+     -3.14378,
+     -0.04398
+    ],
+    "left_populist": [
+     0.96469,
+     -0.48934,
+     2.38284
+    ],
+    "center_populist": [
+     2.1012,
+     0.22389,
+     4.01229
+    ],
+    "moderate": [
+     0.59138,
+     -0.44461,
+     1.52649
+    ]
+   }
+  },
+  {
+   "label": "R4: competitive only, margin scale (previous headline spec)",
+   "n": 211,
+   "note": null,
+   "beta_L": [
+    -0.87661,
+    -1.90998,
+    0.22024
+   ],
+   "beta_P": [
+    1.29128,
+    -0.07678,
+    2.72801
+   ],
+   "delta": {
+    "progressive": [
+     -1.3023,
+     -3.036,
+     0.01302
+    ],
+    "left_populist": [
+     0.98642,
+     -0.40471,
+     2.42444
+    ],
+    "center_populist": [
+     2.16394,
+     0.31784,
+     4.06781
+    ],
+    "moderate": [
+     0.67135,
+     -0.41842,
+     1.57975
+    ]
+   }
+  },
+  {
+   "label": "R4: provisional (p >= 0.5)",
+   "n": 475,
+   "note": "latent treatment extended to all p < 0.95",
+   "beta_L": [
+    -1.05405,
+    -1.86283,
+    -0.16386
+   ],
+   "beta_P": [
+    1.69385,
+    0.63264,
+    2.75534
+   ],
+   "delta": {
+    "progressive": [
+     -0.70504,
+     -1.73302,
+     0.28031
+    ],
+    "left_populist": [
+     1.32751,
+     0.27612,
+     2.40549
+    ],
+    "center_populist": [
+     2.72133,
+     1.27107,
+     4.20358
+    ],
+    "moderate": [
+     1.23414,
+     0.40065,
+     1.93561
+    ]
+   }
+  },
+  {
+   "label": "R5: tau_u fixed 0.5",
+   "n": 403,
+   "beta_L": [
+    -1.18112,
+    -1.99567,
+    -0.40401
+   ],
+   "beta_P": [
+    1.60636,
+    0.50229,
+    2.7096
+   ],
+   "delta": {
+    "progressive": [
+     -0.7167,
+     -1.68595,
+     0.16229
+    ],
+    "left_populist": [
+     1.20309,
+     0.08083,
+     2.30449
+    ],
+    "center_populist": [
+     2.82657,
+     1.34047,
+     4.25546
+    ],
+    "moderate": [
+     1.28538,
+     0.52586,
+     2.11501
+    ]
+   }
+  },
+  {
+   "label": "R5: tau_u fixed 2.0",
+   "n": 403,
+   "beta_L": [
+    -1.00302,
+    -2.36484,
+    0.28158
+   ],
+   "beta_P": [
+    1.73294,
+    0.56371,
+    2.91137
+   ],
+   "delta": {
+    "progressive": [
+     -1.22882,
+     -2.44485,
+     -0.05845
+    ],
+    "left_populist": [
+     1.36903,
+     0.14093,
+     2.61117
+    ],
+    "center_populist": [
+     2.75832,
+     0.8689,
+     4.52406
+    ],
+    "moderate": [
+     1.05321,
+     0.19679,
+     1.93007
+    ]
+   }
+  },
+  {
+   "label": "R5: preset agnostic",
+   "n": 403,
+   "beta_L": [
+    -1.15052,
+    -2.01939,
+    -0.27602
+   ],
+   "beta_P": [
+    1.65087,
+    0.54083,
+    2.78567
+   ],
+   "delta": {
+    "progressive": [
+     -0.78873,
+     -1.888,
+     0.1773
+    ],
+    "left_populist": [
+     1.24902,
+     0.10366,
+     2.39188
+    ],
+    "center_populist": [
+     2.77368,
+     1.3261,
+     4.30784
+    ],
+    "moderate": [
+     1.23107,
+     0.41779,
+     2.02274
+    ]
+   },
+   "exact_fit": true
+  },
+  {
+   "label": "R5: preset literature",
+   "n": 403,
+   "beta_L": [
+    -1.33234,
+    -2.21105,
+    -0.49748
+   ],
+   "beta_P": [
+    1.43398,
+    0.40073,
+    2.49164
+   ],
+   "delta": {
+    "progressive": [
+     -0.98245,
+     -2.02207,
+     -0.02967
+    ],
+    "left_populist": [
+     0.95824,
+     -0.11096,
+     2.04308
+    ],
+    "center_populist": [
+     2.79523,
+     1.36389,
+     4.18588
+    ],
+    "moderate": [
+     1.29704,
+     0.5157,
+     2.05567
+    ]
+   },
+   "exact_fit": true
+  },
+  {
+   "label": "R5: preset discount",
+   "n": 403,
+   "beta_L": [
+    -1.31424,
+    -2.49232,
+    -0.09846
+   ],
+   "beta_P": [
+    1.51021,
+    -0.12483,
+    3.13073
+   ],
+   "delta": {
+    "progressive": [
+     -0.86258,
+     -2.28521,
+     0.54539
+    ],
+    "left_populist": [
+     1.04502,
+     -0.60677,
+     2.70349
+    ],
+    "center_populist": [
+     2.82564,
+     0.67149,
+     4.9479
+    ],
+    "moderate": [
+     1.53732,
+     0.32748,
+     2.7072
+    ]
+   },
+   "exact_fit": true
+  },
+  {
+   "label": "R5: preset data_only",
+   "n": 403,
+   "beta_L": [
+    -1.32917,
+    -2.33041,
+    -0.38661
+   ],
+   "beta_P": [
+    2.0633,
+    0.82816,
+    3.31345
+   ],
+   "delta": {
+    "progressive": [
+     -0.78233,
+     -1.89444,
+     0.21496
+    ],
+    "left_populist": [
+     1.59318,
+     0.33638,
+     2.86266
+    ],
+    "center_populist": [
+     3.39844,
+     1.73939,
+     5.09884
+    ],
+    "moderate": [
+     1.38074,
+     0.55208,
+     2.19286
+    ]
+   },
+   "exact_fit": true
+  },
+  {
+   "label": "R5: Normal likelihood",
+   "n": 403,
+   "beta_L": [
+    -2.12881,
+    -3.0085,
+    -1.17952
+   ],
+   "beta_P": [
+    2.48041,
+    1.21854,
+    3.74718
+   ],
+   "delta": {
+    "progressive": [
+     -1.18197,
+     -2.23179,
+     -0.16507
+    ],
+    "left_populist": [
+     1.74688,
+     0.47368,
+     3.0396
+    ],
+    "center_populist": [
+     4.56488,
+     2.94753,
+     6.23164
+    ],
+    "moderate": [
+     2.35527,
+     1.49093,
+     3.17097
+    ]
+   }
+  },
+  {
+   "label": "R5: sigma_gamma = 1.0",
+   "skipped": "interactions gated off (fixed at 0); no effect"
+  },
+  {
+   "label": "R6: random effects without Mundlak terms (between-state)",
+   "n": 403,
+   "note": null,
+   "beta_L": [
+    -1.24882,
+    -2.08266,
+    -0.37393
+   ],
+   "beta_P": [
+    1.61244,
+    0.56866,
+    2.81016
+   ],
+   "delta": {
+    "progressive": [
+     -0.87039,
+     -1.91244,
+     0.09828
+    ],
+    "left_populist": [
+     1.17525,
+     0.11464,
+     2.36766
+    ],
+    "center_populist": [
+     2.9036,
+     1.4486,
+     4.34113
+    ],
+    "moderate": [
+     1.31107,
+     0.51915,
+     2.07191
+    ]
+   }
+  },
+  {
+   "label": "R7: with spending (post-treatment)",
+   "skipped": "no spending data in the race files"
+  }
+ ],
+ "loso": {
+  "AL": {
+   "progressive": -0.68195,
+   "left_populist": 1.41773,
+   "center_populist": 2.90383,
+   "moderate": 1.17311
+  },
+  "AR": {
+   "progressive": -0.8672,
+   "left_populist": 1.28014,
+   "center_populist": 2.90683,
+   "moderate": 1.24733
+  },
+  "AZ": {
+   "progressive": -0.75752,
+   "left_populist": 1.26361,
+   "center_populist": 2.88278,
+   "moderate": 1.25664
+  },
+  "CO": {
+   "progressive": -0.81742,
+   "left_populist": 1.23673,
+   "center_populist": 2.9929,
+   "moderate": 1.32731
+  },
+  "CT": {
+   "progressive": -0.76796,
+   "left_populist": 1.19531,
+   "center_populist": 2.8992,
+   "moderate": 1.32542
+  },
+  "DE": {
+   "progressive": -0.71741,
+   "left_populist": 1.275,
+   "center_populist": 2.80522,
+   "moderate": 1.17199
+  },
+  "FL": {
+   "progressive": -1.09049,
+   "left_populist": 0.9457,
+   "center_populist": 2.88074,
+   "moderate": 1.47524
+  },
+  "GA": {
+   "progressive": -0.69126,
+   "left_populist": 1.26051,
+   "center_populist": 2.60884,
+   "moderate": 1.00046
+  },
+  "HI": {
+   "progressive": -0.82491,
+   "left_populist": 1.32648,
+   "center_populist": 2.77867,
+   "moderate": 1.17332
+  },
+  "IA": {
+   "progressive": -0.85047,
+   "left_populist": 1.11201,
+   "center_populist": 2.65744,
+   "moderate": 1.19082
+  },
+  "ID": {
+   "progressive": -0.71591,
+   "left_populist": 1.28602,
+   "center_populist": 2.83664,
+   "moderate": 1.24432
+  },
+  "IL": {
+   "progressive": -0.66207,
+   "left_populist": 1.52274,
+   "center_populist": 2.86301,
+   "moderate": 1.10369
+  },
+  "IN": {
+   "progressive": -0.88369,
+   "left_populist": 1.20955,
+   "center_populist": 2.82594,
+   "moderate": 1.32088
+  },
+  "KS": {
+   "progressive": -0.78193,
+   "left_populist": 1.33452,
+   "center_populist": 2.96596,
+   "moderate": 1.22597
+  },
+  "KY": {
+   "progressive": -0.56518,
+   "left_populist": 1.36046,
+   "center_populist": 2.8327,
+   "moderate": 1.13627
+  },
+  "LA": {
+   "progressive": -0.60552,
+   "left_populist": 1.49744,
+   "center_populist": 2.73787,
+   "moderate": 1.16387
+  },
+  "MA": {
+   "progressive": -0.8085,
+   "left_populist": 1.1057,
+   "center_populist": 2.91549,
+   "moderate": 1.31368
+  },
+  "MD": {
+   "progressive": -0.80978,
+   "left_populist": 1.15821,
+   "center_populist": 2.78241,
+   "moderate": 1.25054
+  },
+  "ME": {
+   "progressive": -0.64871,
+   "left_populist": 1.31506,
+   "center_populist": 2.85615,
+   "moderate": 1.24751
+  },
+  "MI": {
+   "progressive": -0.76038,
+   "left_populist": 1.50303,
+   "center_populist": 3.181,
+   "moderate": 1.37686
+  },
+  "MN": {
+   "progressive": -0.43068,
+   "left_populist": 1.47541,
+   "center_populist": 2.83461,
+   "moderate": 1.10402
+  },
+  "MO": {
+   "progressive": -0.77513,
+   "left_populist": 1.25865,
+   "center_populist": 2.8787,
+   "moderate": 1.28834
+  },
+  "MS": {
+   "progressive": -0.82066,
+   "left_populist": 1.34792,
+   "center_populist": 2.96496,
+   "moderate": 1.22357
+  },
+  "MT": {
+   "progressive": -0.84645,
+   "left_populist": 0.99526,
+   "center_populist": 2.59922,
+   "moderate": 1.19272
+  },
+  "NC": {
+   "progressive": -0.72359,
+   "left_populist": 1.12827,
+   "center_populist": 2.46554,
+   "moderate": 1.0391
+  },
+  "ND": {
+   "progressive": -0.85498,
+   "left_populist": 1.13283,
+   "center_populist": 2.76614,
+   "moderate": 1.25532
+  },
+  "NE": {
+   "progressive": -0.75228,
+   "left_populist": 1.31343,
+   "center_populist": 2.77548,
+   "moderate": 1.33293
+  },
+  "NH": {
+   "progressive": -0.83763,
+   "left_populist": 1.27301,
+   "center_populist": 2.89795,
+   "moderate": 1.26371
+  },
+  "NJ": {
+   "progressive": -0.47947,
+   "left_populist": 1.31944,
+   "center_populist": 2.71413,
+   "moderate": 1.2084
+  },
+  "NM": {
+   "progressive": -0.79063,
+   "left_populist": 1.23543,
+   "center_populist": 2.81821,
+   "moderate": 1.21744
+  },
+  "NV": {
+   "progressive": -0.72469,
+   "left_populist": 1.23552,
+   "center_populist": 2.77341,
+   "moderate": 1.29367
+  },
+  "NY": {
+   "progressive": -1.35634,
+   "left_populist": 0.88728,
+   "center_populist": 2.8538,
+   "moderate": 1.40447
+  },
+  "OH": {
+   "progressive": -0.88681,
+   "left_populist": 1.1339,
+   "center_populist": 3.03784,
+   "moderate": 1.43552
+  },
+  "OK": {
+   "progressive": -0.80935,
+   "left_populist": 1.18082,
+   "center_populist": 2.8158,
+   "moderate": 1.28253
+  },
+  "OR": {
+   "progressive": -0.77987,
+   "left_populist": 1.22432,
+   "center_populist": 2.84752,
+   "moderate": 1.17512
+  },
+  "PA": {
+   "progressive": -0.8408,
+   "left_populist": 1.27211,
+   "center_populist": 3.18695,
+   "moderate": 1.54282
+  },
+  "RI": {
+   "progressive": -0.74946,
+   "left_populist": 1.17296,
+   "center_populist": 2.86718,
+   "moderate": 1.28751
+  },
+  "SC": {
+   "progressive": -0.68886,
+   "left_populist": 1.30385,
+   "center_populist": 2.9496,
+   "moderate": 1.34097
+  },
+  "SD": {
+   "progressive": -0.87878,
+   "left_populist": 1.14217,
+   "center_populist": 2.7222,
+   "moderate": 1.24737
+  },
+  "TN": {
+   "progressive": -0.71379,
+   "left_populist": 1.28117,
+   "center_populist": 2.79563,
+   "moderate": 1.26613
+  },
+  "TX": {
+   "progressive": -0.68356,
+   "left_populist": 0.68664,
+   "center_populist": 1.74643,
+   "moderate": 0.75043
+  },
+  "VA": {
+   "progressive": -0.69241,
+   "left_populist": 1.23371,
+   "center_populist": 2.69706,
+   "moderate": 1.11864
+  },
+  "VT": {
+   "progressive": -0.72322,
+   "left_populist": 1.43902,
+   "center_populist": 3.25059,
+   "moderate": 1.44496
+  },
+  "WI": {
+   "progressive": -0.78141,
+   "left_populist": 1.19534,
+   "center_populist": 2.79787,
+   "moderate": 1.27363
+  },
+  "WV": {
+   "progressive": -0.64387,
+   "left_populist": 1.26644,
+   "center_populist": 2.70821,
+   "moderate": 1.26934
+  },
+  "WY": {
+   "progressive": -0.62535,
+   "left_populist": 1.23764,
+   "center_populist": 2.60594,
+   "moderate": 1.07045
+  }
+ },
+ "loso_range": {
+  "progressive": {
+   "min": -1.35634,
+   "max": -0.43068,
+   "argmin": "NY",
+   "argmax": "MN"
+  },
+  "left_populist": {
+   "min": 0.68664,
+   "max": 1.52274,
+   "argmin": "TX",
+   "argmax": "IL"
+  },
+  "center_populist": {
+   "min": 1.74643,
+   "max": 3.25059,
+   "argmin": "TX",
+   "argmax": "VT"
+  },
+  "moderate": {
+   "min": 0.75043,
+   "max": 1.54282,
+   "argmin": "TX",
+   "argmax": "PA"
+  }
+ },
+ "dfbeta_statewide": [
+  {
+   "id": "GOV-VT",
+   "dbeta_L": -0.06816,
+   "dbeta_P": 0.38539
+  },
+  {
+   "id": "SEN-SC",
+   "dbeta_L": -0.0283,
+   "dbeta_P": 0.19687
+  },
+  {
+   "id": "GOV-OK",
+   "dbeta_L": 0.00069,
+   "dbeta_P": -0.14918
+  },
+  {
+   "id": "GOV-IA",
+   "dbeta_L": 0.0322,
+   "dbeta_P": -0.11301
+  },
+  {
+   "id": "GOV-CT",
+   "dbeta_L": -0.08363,
+   "dbeta_P": 0.03929
+  },
+  {
+   "id": "GOV-ME",
+   "dbeta_L": 0.02645,
+   "dbeta_P": 0.08344
+  },
+  {
+   "id": "SEN-GA",
+   "dbeta_L": -0.03445,
+   "dbeta_P": 0.05832
+  },
+  {
+   "id": "SEN-WY",
+   "dbeta_L": 0.04243,
+   "dbeta_P": -0.04318
+  },
+  {
+   "id": "GOV-MI",
+   "dbeta_L": -0.01556,
+   "dbeta_P": 0.06966
+  },
+  {
+   "id": "SEN-KS",
+   "dbeta_L": 0.05317,
+   "dbeta_P": -0.03146
+  },
+  {
+   "id": "GOV-FL",
+   "dbeta_L": -0.04763,
+   "dbeta_P": -0.03375
+  },
+  {
+   "id": "GOV-SC",
+   "dbeta_L": 0.02123,
+   "dbeta_P": 0.05518
+  },
+  {
+   "id": "GOV-GA",
+   "dbeta_L": 0.02547,
+   "dbeta_P": -0.04816
+  },
+  {
+   "id": "SEN-OK",
+   "dbeta_L": -0.00239,
+   "dbeta_P": -0.06753
+  },
+  {
+   "id": "SEN-NM",
+   "dbeta_L": 0.01418,
+   "dbeta_P": 0.05203
+  },
+  {
+   "id": "GOV-HI",
+   "dbeta_L": -0.04599,
+   "dbeta_P": 0.0185
+  },
+  {
+   "id": "SEN-AL",
+   "dbeta_L": 0.00534,
+   "dbeta_P": -0.05045
+  },
+  {
+   "id": "SEN-NC",
+   "dbeta_L": 0.01626,
+   "dbeta_P": 0.03865
+  },
+  {
+   "id": "SEN-MN",
+   "dbeta_L": 0.04175,
+   "dbeta_P": 0.01049
+  },
+  {
+   "id": "GOV-KS",
+   "dbeta_L": 0.0045,
+   "dbeta_P": 0.04624
+  },
+  {
+   "id": "SEN-MI",
+   "dbeta_L": 0.01625,
+   "dbeta_P": 0.03419
+  },
+  {
+   "id": "SEN-IA",
+   "dbeta_L": -0.01877,
+   "dbeta_P": 0.02777
+  },
+  {
+   "id": "GOV-TX",
+   "dbeta_L": 0.00149,
+   "dbeta_P": -0.04476
+  },
+  {
+   "id": "SEN-ME",
+   "dbeta_L": 0.00422,
+   "dbeta_P": 0.04132
+  },
+  {
+   "id": "GOV-AL",
+   "dbeta_L": 0.02574,
+   "dbeta_P": 0.01861
+  },
+  {
+   "id": "GOV-NH",
+   "dbeta_L": 0.01228,
+   "dbeta_P": 0.032
+  },
+  {
+   "id": "SEN-MA",
+   "dbeta_L": 0.02348,
+   "dbeta_P": -0.02076
+  },
+  {
+   "id": "GOV-NM",
+   "dbeta_L": -0.01502,
+   "dbeta_P": -0.02525
+  },
+  {
+   "id": "GOV-WI",
+   "dbeta_L": -0.0153,
+   "dbeta_P": -0.02207
+  },
+  {
+   "id": "GOV-NE",
+   "dbeta_L": -0.02311,
+   "dbeta_P": 0.0141
+  },
+  {
+   "id": "SEN-KY",
+   "dbeta_L": 0.02231,
+   "dbeta_P": 0.01455
+  },
+  {
+   "id": "SEN-CO",
+   "dbeta_L": -0.02712,
+   "dbeta_P": 0.00562
+  },
+  {
+   "id": "GOV-CO",
+   "dbeta_L": -0.0188,
+   "dbeta_P": 0.01203
+  },
+  {
+   "id": "SEN-LA",
+   "dbeta_L": -0.0118,
+   "dbeta_P": 0.01806
+  },
+  {
+   "id": "GOV-AR",
+   "dbeta_L": -0.00812,
+   "dbeta_P": 0.0206
+  },
+  {
+   "id": "GOV-MA",
+   "dbeta_L": -0.00885,
+   "dbeta_P": 0.01877
+  },
+  {
+   "id": "SEN-FL-special",
+   "dbeta_L": 0.01553,
+   "dbeta_P": 0.00285
+  },
+  {
+   "id": "SEN-TX",
+   "dbeta_L": -0.00132,
+   "dbeta_P": 0.01685
+  },
+  {
+   "id": "GOV-OH",
+   "dbeta_L": -0.01648,
+   "dbeta_P": 0.00105
+  },
+  {
+   "id": "SEN-AR",
+   "dbeta_L": -0.00544,
+   "dbeta_P": 0.01149
+  },
+  {
+   "id": "SEN-OH-special",
+   "dbeta_L": -0.00034,
+   "dbeta_P": 0.01644
+  },
+  {
+   "id": "SEN-MS",
+   "dbeta_L": 0.00952,
+   "dbeta_P": -0.00611
+  },
+  {
+   "id": "SEN-WV",
+   "dbeta_L": -0.00504,
+   "dbeta_P": -0.01005
+  },
+  {
+   "id": "SEN-NH",
+   "dbeta_L": 0.01031,
+   "dbeta_P": 0.00398
+  },
+  {
+   "id": "SEN-RI",
+   "dbeta_L": 0.00087,
+   "dbeta_P": 0.01316
+  },
+  {
+   "id": "GOV-NY",
+   "dbeta_L": -0.00116,
+   "dbeta_P": 0.01106
+  },
+  {
+   "id": "SEN-TN",
+   "dbeta_L": -0.01,
+   "dbeta_P": -0.00214
+  },
+  {
+   "id": "GOV-NV",
+   "dbeta_L": 9e-05,
+   "dbeta_P": -0.01091
+  },
+  {
+   "id": "GOV-IL",
+   "dbeta_L": -0.00472,
+   "dbeta_P": 0.00509
+  },
+  {
+   "id": "SEN-DE",
+   "dbeta_L": -0.00114,
+   "dbeta_P": 0.00746
+  },
+  {
+   "id": "GOV-SD",
+   "dbeta_L": 8e-05,
+   "dbeta_P": -0.00609
+  },
+  {
+   "id": "SEN-IL",
+   "dbeta_L": 0.00072,
+   "dbeta_P": 0.00488
+  },
+  {
+   "id": "GOV-PA",
+   "dbeta_L": 0.00409,
+   "dbeta_P": -0.00118
+  },
+  {
+   "id": "GOV-AZ",
+   "dbeta_L": -0.00318,
+   "dbeta_P": -0.00113
+  },
+  {
+   "id": "SEN-VA",
+   "dbeta_L": 0.00087,
+   "dbeta_P": -0.00139
+  },
+  {
+   "id": "GOV-MN",
+   "dbeta_L": -0.00011,
+   "dbeta_P": 0.00134
+  },
+  {
+   "id": "SEN-NJ",
+   "dbeta_L": 2e-05,
+   "dbeta_P": -0.00036
+  }
+ ],
+ "label_flip": {
+  "A": [
+   0.52584,
+   0.42226
+  ],
+  "beta_ols": [
+   -2.36404,
+   3.46376
+  ],
+  "rate": 0.15,
+  "n_sims": 500,
+  "flip_mean": [
+   -1.24311,
+   1.46262
+  ]
+ },
+ "simex": {
+  "q": 0.13176,
+  "lambdas": [
+   0.0,
+   0.5,
+   1.0,
+   1.5,
+   2.0
+  ],
+  "means": [
+   [
+    -2.36404,
+    3.46376
+   ],
+   [
+    -1.73626,
+    2.29862
+   ],
+   [
+    -1.30055,
+    1.6729
+   ],
+   [
+    -0.98237,
+    1.3514
+   ],
+   [
+    -0.80304,
+    1.00169
+   ]
+  ],
+  "corrected": [
+   -4.00206,
+   6.24129
+  ],
+  "note": "misclassification rate q = 1 - sqrt(proxy second-coder agreement); OLS-FE structural; robustness row only"
+ },
+ "direction_depends_on_prior": {
+  "progressive": false,
+  "left_populist": false,
+  "center_populist": false,
+  "moderate": false
+ },
+ "selection_report": {
+  "progressive": {
+   "eligible": 30,
+   "excluded_p_lt_80": 4,
+   "share": 0.13333,
+   "ids": [
+    "CA-17",
+    "NY-13",
+    "MI-13",
+    "WA-7"
+   ]
+  },
+  "left_populist": {
+   "eligible": 16,
+   "excluded_p_lt_80": 2,
+   "share": 0.125,
+   "ids": [
+    "CA-22",
+    "CO-1"
+   ]
+  },
+  "center_populist": {
+   "eligible": 3,
+   "excluded_p_lt_80": 1,
+   "share": 0.33333,
+   "ids": [
+    "WA-3"
+   ]
+  },
+  "mainstream_liberal": {
+   "eligible": 350,
+   "excluded_p_lt_80": 58,
+   "share": 0.16571,
+   "ids": [
+    "CA-1",
+    "CA-2",
+    "CA-3",
+    "CA-5",
+    "CA-6",
+    "CA-8",
+    "CA-10",
+    "CA-15",
+    "CA-18",
+    "CA-20",
+    "CA-23",
+    "CA-25",
+    "CA-26",
+    "CA-27",
+    "CA-28",
+    "CA-30",
+    "CA-31",
+    "CA-32",
+    "CA-33",
+    "CA-35",
+    "CA-36",
+    "CA-38",
+    "CA-39",
+    "CA-41",
+    "CA-42",
+    "CA-43",
+    "CA-44",
+    "CA-45",
+    "CA-47",
+    "CA-48",
+    "CA-49",
+    "CA-51",
+    "CA-52",
+    "MD-2",
+    "MD-4",
+    "MD-7",
+    "MD-8",
+    "IL-7",
+    "CO-2",
+    "CO-6",
+    "UT-2",
+    "UT-3",
+    "UT-4",
+    "WA-1",
+    "WA-2",
+    "WA-4",
+    "WA-5",
+    "WA-6",
+    "WA-8",
+    "WA-9",
+    "WA-10",
+    "OR-1",
+    "OR-3",
+    "OR-6",
+    "SEN-OR",
+    "GOV-CA",
+    "GOV-MD",
+    "GOV-OR"
+   ]
+  },
+  "moderate": {
+   "eligible": 81,
+   "excluded_p_lt_80": 12,
+   "share": 0.14815,
+   "ids": [
+    "CA-9",
+    "CA-13",
+    "CA-16",
+    "CA-19",
+    "CA-21",
+    "CA-24",
+    "CA-46",
+    "CA-50",
+    "NY-16",
+    "IL-8",
+    "UT-1",
+    "SEN-AK"
+   ]
+  }
+ },
+ "provisional_archetypes": [
+  "center_populist"
+ ],
+ "provisional_refit": {
+  "label": "R4: provisional (p >= 0.5)",
+  "n": 475,
+  "note": "latent treatment extended to all p < 0.95",
+  "beta_L": [
+   -1.05405,
+   -1.86283,
+   -0.16386
+  ],
+  "beta_P": [
+   1.69385,
+   0.63264,
+   2.75534
+  ],
+  "delta": {
+   "progressive": [
+    -0.70504,
+    -1.73302,
+    0.28031
+   ],
+   "left_populist": [
+    1.32751,
+    0.27612,
+    2.40549
+   ],
+   "center_populist": [
+    2.72133,
+    1.27107,
+    4.20358
+   ],
+   "moderate": [
+    1.23414,
+    0.40065,
+    1.93561
+   ]
+  }
+ }
+}

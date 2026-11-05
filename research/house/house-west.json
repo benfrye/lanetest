@@ -1,0 +1,3106 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "scope": "Arizona (9), Nevada (4), Colorado (8), New Mexico (3), Utah (4) - note the court-ordered 2026 map; Idaho (2), Montana (2), Wyoming (1), Washington (10, top-two), Oregon (6), Alaska (1), Hawaii (2)",
+ "expected_rows": 52,
+ "races": [
+  {
+   "id": "AZ-1",
+   "office": "House",
+   "state": "AZ",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Amish Shah",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "DCCC Red to Blue, AZ AFL-CIO, HRC, J Street, LCV; Reps. Krishnamoorthi and Subramanyam; 2024 nominee; won primary 39.4% over Galan-Woods (EMILY's List, Kelly).",
+    "background": "Former Arizona state representative (2019-2024); 2024 nominee for this seat.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Four-way primary (Shah 39.4, Galan-Woods 34.4); not primarily ideological."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jay Feely",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed",
+     "first_time_candidate",
+     "celebrity"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.5,
+    "rep_pct": 45.5,
+    "other_pct": 2.1,
+    "margin": 7.0,
+    "pct_expected_vote_counted": 86.4,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -3.11,
+    "lines": "2024_same",
+    "house2024_margin": -3.82,
+    "prev_seat_margin": -3.82,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.31,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "notes": "Open: Schweikert (R) ran for governor. Shah leads; Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled. Other = Monica Alponte (L).",
+   "verified": true
+  },
+  {
+   "id": "AZ-2",
+   "office": "House",
+   "state": "AZ",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jonathan Nez",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Endorsed by NewDem Action Fund, DCCC Red to Blue, Gallego, Kelly, Stanton, Haaland; 2024 nominee; unopposed primary.",
+    "background": "Former Navajo Nation president (2019-2023); 2024 nominee.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Eli Crane",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.7,
+    "rep_pct": 49.5,
+    "other_pct": 1.7,
+    "margin": -0.8,
+    "pct_expected_vote_counted": 86.4,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -14.97,
+    "lines": "2024_same",
+    "house2024_margin": -8.97,
+    "prev_seat_margin": -8.97,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.07,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "notes": "Nez leads by 0.1 pt; Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled. Crane backed by Trump, Club for Growth, Turning Point Action. NewDem Action Fund endorsement could argue 'moderate'.",
+   "verified": true
+  },
+  {
+   "id": "AZ-3",
+   "office": "House",
+   "state": "AZ",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Yassamin Ansari",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Incumbent, unopposed primary; endorsed by NEA, AAPI Victory Fund, JDCA, Planned Parenthood.",
+    "background": "Incumbent since 2025; former Phoenix vice mayor.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": null,
+   "result": {
+    "dem_pct": 87.4,
+    "rep_pct": null,
+    "other_pct": 11.5,
+    "margin": null,
+    "pct_expected_vote_counted": 87.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 39.75,
+    "lines": "2024_same",
+    "house2024_margin": 44.36,
+    "prev_seat_margin": 44.36,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "notes": "No Republican on ballot (Jacob Parkman R write-in). Other = Alan Aversa (No Labels) 6.1 + David Redkey (Green) 5.4. Margin left null because no R ballot line. Background 'former Phoenix vice mayor' not re-verified in fetched sources.",
+   "verified": true
+  },
+  {
+   "id": "AZ-4",
+   "office": "House",
+   "state": "AZ",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Greg Stanton",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; AIPAC, DMFI, JDCA backing; beat Our Revolution/PDA-backed progressive organizer Kai Newkirk 62.3-37.7 in primary.",
+    "background": "Incumbent; former Phoenix mayor.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Stanton 62.3 vs progressive Kai Newkirk (Our Revolution, PDA) 37.7."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Zuhdi Jasser",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.3,
+    "rep_pct": 35.5,
+    "other_pct": 2.2,
+    "margin": 26.8,
+    "pct_expected_vote_counted": 86.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 6.67,
+    "lines": "2024_same",
+    "house2024_margin": 7.29,
+    "prev_seat_margin": 7.29,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 20.33,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "notes": "Other = Tisha Benoit (No Labels).",
+   "verified": true
+  },
+  {
+   "id": "AZ-5",
+   "office": "House",
+   "state": "AZ",
+   "district": 5,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Elizabeth Lee",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Won primary 66.0%; endorsed by AZ AFL-CIO and National Women's Political Caucus; little other style evidence found.",
+    "background": "Democratic nominee; background not captured in fetched sources.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mark Lamb",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.8,
+    "rep_pct": 51.2,
+    "other_pct": 0.0,
+    "margin": -2.4,
+    "pct_expected_vote_counted": 86.1,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -19.98,
+    "lines": "2024_same",
+    "house2024_margin": -20.78,
+    "prev_seat_margin": -20.78,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.78,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "notes": "Open: Biggs (R) ran for governor. Lamb (former Pinal County sheriff) backed by Trump, Club for Growth, Freedom Caucus Fund. Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled. Near-tie in a Trump +20 seat.",
+   "verified": true
+  },
+  {
+   "id": "AZ-6",
+   "office": "House",
+   "state": "AZ",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "JoAnna Mendoza",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Blue Dog PAC, DCCC Red to Blue, AZ AFL-CIO, UAW, Gallego, Kelly; former Republican turned Democrat 2018; 'Hell Cats' women-veteran slate; out-raised Ciscomani $11.2M-$7.6M.",
+    "background": "Marine Corps gunnery sergeant (Iraq, Afghanistan); ex-O'Halleran staffer.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Juan Ciscomani",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 53,
+    "rep_pct": 44.9,
+    "other_pct": 2.1,
+    "margin": 8.1,
+    "pct_expected_vote_counted": 83.6,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -0.75,
+    "lines": "2024_same",
+    "house2024_margin": -2.51,
+    "prev_seat_margin": -2.51,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.75,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/JoAnna_Mendoza"
+   ],
+   "notes": "Mendoza leads; NBC shows no projection as of 11:04 AM ET, though Wikipedia's Mendoza article already lists her as winner/member-elect (caller not stated). Other = Jereme Peters (L) 1.2.",
+   "verified": true
+  },
+  {
+   "id": "AZ-7",
+   "office": "House",
+   "state": "AZ",
+   "district": 7,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Adelita Grijalva",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Incumbent (2025 special); unopposed primary; endorsed by AZ AFL-CIO and NWPC. Not reclassified as 'left' because no 2026 insurgent evidence fetched.",
+    "background": "Incumbent since 2025 special election.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Daniel Butierez",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 71.6,
+    "rep_pct": 28.4,
+    "other_pct": 0.0,
+    "margin": 43.2,
+    "pct_expected_vote_counted": 82.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 22.13,
+    "lines": "2024_same",
+    "house2024_margin": 26.9,
+    "prev_seat_margin": 26.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 20.87,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-7-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "notes": "prev_seat_margin uses 2024 general (Raul Grijalva); 2025 special won by Adelita Grijalva with 68.9%.",
+   "verified": true
+  },
+  {
+   "id": "AZ-8",
+   "office": "House",
+   "state": "AZ",
+   "district": 8,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bernadette Greene-Placentia",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "low",
+    "style_evidence": "Campaign site: 'Mother - Trucker - Democrat', 'NOT AN INSIDER', 'working-class campaign', 'powered by people, not corporate interests', against 'party bosses, wealthy donors'; AZ AFL-CIO, NWPC; ~$237K raised; no Medicare for All.",
+    "background": "Truck driver; first-time nominee.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Abraham Hamadeh",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.6,
+    "rep_pct": 51.4,
+    "other_pct": 0.0,
+    "margin": -2.8,
+    "pct_expected_vote_counted": 86.4,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -16.33,
+    "lines": "2024_same",
+    "house2024_margin": -13.0,
+    "prev_seat_margin": -13.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.13,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-8-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://www.bgp4az.com/"
+   ],
+   "notes": "Hamadeh (Trump-aligned, Turning Point Action, AIPAC). Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled. Near-tie in Trump +16 seat despite 6:1 money gap. Verifier: populist posture confirmed from campaign website framing; ideology liberal (platform: strengthen Medicare, lower drug costs).",
+   "verified": true
+  },
+  {
+   "id": "AZ-9",
+   "office": "House",
+   "state": "AZ",
+   "district": 9,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Danielle Sterbinsky",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "Navy veteran; also backed by the centrist Forward Party; unopposed primary.",
+    "background": "Navy veteran.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Paul Gosar",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 42.3,
+    "rep_pct": 57.7,
+    "other_pct": 0.0,
+    "margin": -15.4,
+    "pct_expected_vote_counted": 84.3,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -31.08,
+    "lines": "2024_same",
+    "house2024_margin": -30.6,
+    "prev_seat_margin": -30.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.48,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arizona-us-house-district-9-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Arizona",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "notes": "Gosar endorsed by Freedom Caucus Fund and Turning Point Action. Call inferred: NBC Arizona tally showed 1 R seat called; Gosar has the only clear R lead.",
+   "verified": true
+  },
+  {
+   "id": "NV-1",
+   "office": "House",
+   "state": "NV",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dina Titus",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; NEA, AIPAC, EMILY's List, LCV, Planned Parenthood; beat PLAN Action-backed Joy Hoover 75.9-13.1.",
+    "background": "Incumbent since 2013; former UNLV professor.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Token progressive challenge: Joy Hoover (Progressive Leadership Alliance of Nevada Action) 13.1%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Carrie Buck",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 59,
+    "rep_pct": 38,
+    "other_pct": 3.0,
+    "margin": 21,
+    "pct_expected_vote_counted": 85,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 2.26,
+    "lines": "2024_same",
+    "house2024_margin": 7.5,
+    "prev_seat_margin": 7.5,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.74,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/nevada-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Nevada",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Nevada"
+   ],
+   "notes": "Called inferred from NBC Nevada tally (3 D called, 1 uncalled; NV-2 is the only close race). Buck is a state senator.",
+   "verified": true
+  },
+  {
+   "id": "NV-2",
+   "office": "House",
+   "state": "NV",
+   "district": 2,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Teresa Benitez-Thompson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Former Assembly majority leader; endorsed by New Democrats, DCCC Red to Blue, CHC BOLD PAC, J Street, LCV; beat Greg Kidd 45.6-22.5.",
+    "background": "Former Nevada Assembly Democratic leader.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Kidd (2024 independent candidate) ran on affordability; not clearly ideological."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "David Flippo",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "first_time_candidate"
+    ]
+   },
+   "result": {
+    "dem_pct": 50.3,
+    "rep_pct": 44.4,
+    "other_pct": 5.3,
+    "margin": 5.9,
+    "pct_expected_vote_counted": 92.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -13.93,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 20.53,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/nevada-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Nevada",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Nevada"
+   ],
+   "notes": "Open: Amodei (R) retired. Flippo endorsed by Freedom Caucus Fund and U.S. Chamber; Trump endorsement unconfirmed. Other = Lynn Chapman (IAP). 2024 had no Democrat (house2024_margin null). New Dem endorsement could argue 'moderate'. Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled.",
+   "verified": true
+  },
+  {
+   "id": "NV-3",
+   "office": "House",
+   "state": "NV",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Susie Lee",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "New Democrat Coalition member, Problem Solvers Caucus vice chair; signed anti-socialist 'Promise to America' (June 2026); Laken Riley Act yes vote; U.S. Chamber endorsement; won primary 69.2%.",
+    "background": "Incumbent since 2019.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Marty O'Donnell",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 59.1,
+    "rep_pct": 38.6,
+    "other_pct": 2.3,
+    "margin": 20.5,
+    "pct_expected_vote_counted": 85,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -0.73,
+    "lines": "2024_same",
+    "house2024_margin": 2.74,
+    "prev_seat_margin": 2.74,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 21.23,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/nevada-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Nevada",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Nevada",
+    "https://en.wikipedia.org/wiki/Susie_Lee"
+   ],
+   "notes": "Verifier: moderate tag now rests on caucus memberships and 2026 record per Wikipedia Susie Lee article (previously Chamber endorsement only).",
+   "verified": true
+  },
+  {
+   "id": "NV-4",
+   "office": "House",
+   "state": "NV",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Steven Horsford",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; conventional party-line Democrat; no ideological primary noted.",
+    "background": "Incumbent; former state Senate majority leader.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Cody Whipple",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 60.5,
+    "rep_pct": 37.7,
+    "other_pct": 1.9,
+    "margin": 22.8,
+    "pct_expected_vote_counted": 84,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 2.32,
+    "lines": "2024_same",
+    "house2024_margin": 8.09,
+    "prev_seat_margin": 8.09,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 20.48,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/nevada-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Nevada",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Nevada"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "CO-1",
+   "office": "House",
+   "state": "CO",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Melat Kiros",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "high",
+    "style_evidence": "DSA member; primary backing from Sanders, Justice Democrats, DSA, WFP; refuses corporate PAC money and attacked DeGette's pharma/fossil PAC money; Medicare for All, abolish ICE, rent control; CPC PAC endorsed her only post-primary.",
+    "background": "Attorney fired by Sidley Austin over Gaza essay; PhD student, barista.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Kiros 53.2, Rep. Diana DeGette 39.8, Wanda James 7.0; CPC PAC backed DeGette in the primary; three super PACs spent $1.3M attacking Kiros in the final two months; Israel-Gaza the main policy split."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Christy Peterson",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "weak_fundraising"
+    ]
+   },
+   "result": {
+    "dem_pct": 78.3,
+    "rep_pct": 14,
+    "other_pct": 7.8,
+    "margin": 64.3,
+    "pct_expected_vote_counted": 74.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 55.94,
+    "lines": "2024_same",
+    "house2024_margin": 54.95,
+    "prev_seat_margin": 54.95,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.46,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/colorado-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/Melat_Kiros"
+   ],
+   "notes": "Open in general: incumbent DeGette lost June 30 primary. Called inferred from NBC Colorado tally (5 D called: CO-1,2,6,7,8). Other = Shimon Blau (I) 5.9 (plus minor). D margin 64.4 vs Harris +55.9. Verifier: Wikipedia Kiros article (Nov 4) states she was elected with 78.3%, consistent with the inferred call. CPC PAC endorsement corrected to post-primary (it backed DeGette in the primary).",
+   "verified": true
+  },
+  {
+   "id": "CO-2",
+   "office": "House",
+   "state": "CO",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Joe Neguse",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent House Democratic leadership member; unopposed primary; Giffords, AIPAC, J Street, Planned Parenthood.",
+    "background": "Incumbent since 2019.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kelley Dennison",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 74.6,
+    "rep_pct": 23.7,
+    "other_pct": 1.7,
+    "margin": 50.9,
+    "pct_expected_vote_counted": 79.3,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 39.76,
+    "lines": "2024_same",
+    "house2024_margin": 39.42,
+    "prev_seat_margin": 39.42,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.64,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/colorado-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "CO-3",
+   "office": "House",
+   "state": "CO",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dwayne Romero",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Blue Dog PAC, DCCC Red to Blue, DelBene, Adam Gray, AFGE, NEA; business CEO and Army officer; beat Alex Kelloff 54.8-45.2.",
+    "background": "Real estate company CEO; Army officer.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jeff Hurd",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 47.6,
+    "rep_pct": 49.2,
+    "other_pct": 3.2,
+    "margin": -1.6,
+    "pct_expected_vote_counted": 91.1,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -9.73,
+    "lines": "2024_same",
+    "house2024_margin": -4.98,
+    "prev_seat_margin": -4.98,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.33,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/colorado-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "notes": "Hurd beat MAGA challenger Ron Hanks 66.4-33.6 in primary. Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled.",
+   "verified": true
+  },
+  {
+   "id": "CO-4",
+   "office": "House",
+   "state": "CO",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Eileen Laubacher",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Blue Dog PAC, VoteVets, Crow, Pettersen, Perlmutter, AFGE; national-security biography; unopposed primary.",
+    "background": "Retired Navy rear admiral; former National Security Council director.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Lauren Boebert",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent",
+     "extreme_statements"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.9,
+    "rep_pct": 47.9,
+    "other_pct": 3.2,
+    "margin": 1.0,
+    "pct_expected_vote_counted": 87.6,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -18.24,
+    "lines": "2024_same",
+    "house2024_margin": -11.6,
+    "prev_seat_margin": -11.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 19.74,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/colorado-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "notes": "Laubacher leads in a Trump +18 seat. Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled. Boebert 'extreme_statements' flag is a reputational descriptor, not a 2026-sourced finding.",
+   "verified": true
+  },
+  {
+   "id": "CO-5",
+   "office": "House",
+   "state": "CO",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jessica Killin",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "DCCC Red to Blue, New Democrat Coalition Action Fund, EMILY's List, Bennet, Hickenlooper; beat Joe Reagan 61.2-38.8.",
+    "background": "Former chief of staff to Second Gentleman Doug Emhoff.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jeff Crank",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 50.6,
+    "rep_pct": 46,
+    "other_pct": 3.5,
+    "margin": 4.6,
+    "pct_expected_vote_counted": 83.4,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -9.08,
+    "lines": "2024_same",
+    "house2024_margin": -13.79,
+    "prev_seat_margin": -13.79,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.38,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "notes": "Killin leads in a Trump +9 Colorado Springs seat. Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled. New Dem endorsement could argue 'moderate'.",
+   "verified": true
+  },
+  {
+   "id": "CO-6",
+   "office": "House",
+   "state": "CO",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jason Crow",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; unopposed primary; Giffords, J Street, JDCA, End Citizens United.",
+    "background": "Incumbent since 2019; Army veteran.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jason Clark",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.8,
+    "rep_pct": 31.5,
+    "other_pct": 2.7,
+    "margin": 34.3,
+    "pct_expected_vote_counted": 75.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 19.76,
+    "lines": "2024_same",
+    "house2024_margin": 20.52,
+    "prev_seat_margin": 20.52,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.74,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "CO-7",
+   "office": "House",
+   "state": "CO",
+   "district": 7,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Brittany Pettersen",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; unopposed primary; AIPAC, Giffords, J Street, LCV, Vote Mama.",
+    "background": "Incumbent since 2023; former state senator.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tim Bennett",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 60.7,
+    "rep_pct": 36.3,
+    "other_pct": 2.8,
+    "margin": 24.4,
+    "pct_expected_vote_counted": 87.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 14.92,
+    "lines": "2024_same",
+    "house2024_margin": 14.18,
+    "prev_seat_margin": 14.18,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.48,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-7-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "CO-8",
+   "office": "House",
+   "state": "CO",
+   "district": 8,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Manny Rutinel",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "DCCC Red to Blue, CHC BOLD, Booker, End Citizens United, LCV; anti-Trump/tariff, billionaire tax, public option, stock-trading ban; beat Blue Dog/WelcomePAC/NewDem-backed Shannon Bird 62.8-32.5.",
+    "background": "Attorney (Earthjustice), climate nonprofit CEO, former state representative.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Moderate lane (Bird: Blue Dog PAC, WelcomePAC, NewDem, DMFI, EMILY's List) lost to Rutinel 62.8-32.5."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Gabe Evans",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 55,
+    "rep_pct": 41.2,
+    "other_pct": 3.8,
+    "margin": 13.8,
+    "pct_expected_vote_counted": 82.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -1.83,
+    "lines": "2024_same",
+    "house2024_margin": -0.73,
+    "prev_seat_margin": -0.73,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.53,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-8-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://www.nbcnews.com/politics/2026-elections/house-results",
+    "https://en.wikipedia.org/wiki/Manny_Rutinel"
+   ],
+   "notes": "FLIP D. Other = Dave Wood (I) 3.7.",
+   "verified": true
+  },
+  {
+   "id": "NM-1",
+   "office": "House",
+   "state": "NM",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Melanie Stansbury",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; unopposed primary; AFGE, 314 Action, J Street, LCV, Planned Parenthood.",
+    "background": "Incumbent since 2021 special.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ndidiamaka (Didi) Okpareke",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 63.5,
+    "rep_pct": 36.5,
+    "other_pct": null,
+    "margin": 27.0,
+    "pct_expected_vote_counted": 97.9,
+    "called": "D",
+    "called_by": "NBC News (state seat tally: 3 D, 0 R, 0 uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 12.67,
+    "lines": "2024_same",
+    "house2024_margin": 12.74,
+    "prev_seat_margin": 12.74,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.33,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-mexico-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_New_Mexico",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Mexico"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "NM-2",
+   "office": "House",
+   "state": "NM",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Gabe Vasquez",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; unopposed primary; AFGE, Giffords, JDCA, J Street, Latino Victory.",
+    "background": "Incumbent since 2023.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Greg Cunningham",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 58.7,
+    "rep_pct": 41.3,
+    "other_pct": null,
+    "margin": 17.4,
+    "pct_expected_vote_counted": 98.0,
+    "called": "D",
+    "called_by": "NBC News (state seat tally: 3 D, 0 R, 0 uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -1.81,
+    "lines": "2024_same",
+    "house2024_margin": 4.16,
+    "prev_seat_margin": 4.16,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 19.21,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-mexico-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_New_Mexico",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Mexico"
+   ],
+   "notes": "Cunningham is a retired police officer endorsed by Trump and Speaker Johnson. Swing seat (Trump +1.8) won by ~17 pts.",
+   "verified": true
+  },
+  {
+   "id": "NM-3",
+   "office": "House",
+   "state": "NM",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Teresa Leger Fernandez",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; unopposed primary; AFGE, J Street, JDCA, Planned Parenthood, Reproductive Freedom for All.",
+    "background": "Incumbent since 2021.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Martin Zamora",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 61.5,
+    "rep_pct": 38.5,
+    "other_pct": null,
+    "margin": 23.0,
+    "pct_expected_vote_counted": 98.0,
+    "called": "D",
+    "called_by": "NBC News (state seat tally: 3 D, 0 R, 0 uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 5.2,
+    "lines": "2024_same",
+    "house2024_margin": 12.58,
+    "prev_seat_margin": 12.58,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.8,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-mexico-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_New_Mexico",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Mexico"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "UT-1",
+   "office": "House",
+   "state": "UT",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": null,
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ben McAdams",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Former congressman; NewDem Action Fund, Haaland, O'Malley; beat Sanders/CPC/Our Revolution-backed state Sen. Nate Blouin 51.9-27.5 (Omar-backed Liban Mohamed 16.7).",
+    "background": "Former U.S. representative (UT-4, 2019-2021) and Salt Lake County mayor.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Moderate McAdams 51.9 vs Sanders/CPC/Our Revolution-backed Nate Blouin 27.5 and Omar-backed Liban Mohamed 16.7."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Riley Owen",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "weak_fundraising"
+    ]
+   },
+   "result": {
+    "dem_pct": 71.9,
+    "rep_pct": 24.9,
+    "other_pct": 2.0,
+    "margin": 47.0,
+    "pct_expected_vote_counted": 60.0,
+    "called": "D",
+    "called_by": "NBC News (state tally 1 D; district tagged '+ flip')",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": 24.0,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 23.0,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/utah-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Utah"
+   ],
+   "notes": "New Salt Lake-centered Democratic seat under court-ordered map (Judge Gibson, Nov 2025); no incumbent. pres2024_margin is Wikipedia's rounded figure (Harris +24) on new lines; exact Harris/Trump % not found. NBC tags flip. Owen is a former White House policy analyst; 'maga' style is low-confidence.",
+   "verified": true
+  },
+  {
+   "id": "UT-2",
+   "office": "House",
+   "state": "UT",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Peter Crosby",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Won convention 76.6%; little style evidence available.",
+    "background": "Project manager.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Blake Moore",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 42.8,
+    "rep_pct": 50.1,
+    "other_pct": 7.1,
+    "margin": -7.3,
+    "pct_expected_vote_counted": 76.7,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -29.0,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 22.4,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/utah-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Utah"
+   ],
+   "notes": "New lines; Moore (previously UT-1) beat Turning Point-backed Karianne Lisonbee 56.7-43.3 in primary after losing convention. pres2024_margin Trump +29 (Wikipedia, rounded). NBC Utah tally: 2 R, 1 D, 1 uncalled; could not determine whether UT-2 or UT-4 is the uncalled seat, so called left null. Other = Carlton Bowen (IAP).",
+   "verified": true
+  },
+  {
+   "id": "UT-3",
+   "office": "House",
+   "state": "UT",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kent Udell",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Endorsed by United Mine Workers COMPAC; minimal fundraising ($14K by June).",
+    "background": "Engineer.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Celeste Maloy",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 34.9,
+    "rep_pct": 58.2,
+    "other_pct": 6.9,
+    "margin": -23.3,
+    "pct_expected_vote_counted": 63.3,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -41.0,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.5,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/utah-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Utah"
+   ],
+   "notes": "New lines; Maloy beat Phil Lyman 65.7-34.3 in primary. pres2024_margin Trump +41 (Wikipedia, rounded).",
+   "verified": true
+  },
+  {
+   "id": "UT-4",
+   "office": "House",
+   "state": "UT",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jonny Larsen",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Won convention 94.9%; endorsed by Center for Freethought Equality; little style evidence.",
+    "background": "U.S. Marine Corps veteran.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Kennedy",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.7,
+    "rep_pct": 52.6,
+    "other_pct": 6.7,
+    "margin": -11.9,
+    "pct_expected_vote_counted": 62,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -32.0,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 21.7,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/utah-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Utah"
+   ],
+   "notes": "New lines; Burgess Owens retired; Kennedy (previously UT-3) is nominee. pres2024_margin Trump +32 (Wikipedia, rounded). Call status ambiguous (see UT-2 note). Other = Steven Burt (I) 3.8.",
+   "verified": true
+  },
+  {
+   "id": "ID-1",
+   "office": "House",
+   "state": "ID",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kaylee Peterson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Three-time nominee; NEA, NWPC, NOW endorsements.",
+    "background": "Artisan jeweler; 2022 and 2024 nominee.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Russ Fulcher",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 28.6,
+    "rep_pct": 64.5,
+    "other_pct": 6.0,
+    "margin": -35.9,
+    "pct_expected_vote_counted": 96.2,
+    "called": "R",
+    "called_by": "NBC News (state seat tally: 2 R, 0 D)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -45.05,
+    "lines": "2024_same",
+    "house2024_margin": -45.56,
+    "prev_seat_margin": -45.56,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.15,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/idaho-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Idaho",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "notes": "Fulcher endorsed by Trump, Freedom Caucus Fund. Other = Sarah Zabel (I, Forward Party) 6.0.",
+   "verified": true
+  },
+  {
+   "id": "ID-2",
+   "office": "House",
+   "state": "ID",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ellie Gilbreath",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Won primary 72.5%; no ideological signals found.",
+    "background": "Lawyer.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Simpson",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.3,
+    "rep_pct": 51.7,
+    "other_pct": 8.1,
+    "margin": -11.4,
+    "pct_expected_vote_counted": 98.8,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -26.72,
+    "lines": "2024_same",
+    "house2024_margin": -30.4,
+    "prev_seat_margin": -30.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.82,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/idaho-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Idaho",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "notes": "Other = Tripp Hutchinson (I) 3.5 (plus minor).",
+   "verified": true
+  },
+  {
+   "id": "MT-1",
+   "office": "House",
+   "state": "MT",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sam Forstag",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Smokejumper and union leader (NFFE Local 60); primary backing from Sanders, AOC, Casar, Jayapal, CPC PAC, Our Revolution; public lands and affordability message; later Tester, Blue Dog PAC, Red to Blue.",
+    "background": "Former smokejumper; Forest Service union leader; ex-ACLU staffer.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Forstag 37.3 (Sanders/AOC/CPC) vs Ryan Busse 33.1 (Gallego-backed), Cleveland 21.7, Rains 7.9."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Aaron Flint",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 50,
+    "rep_pct": 47.2,
+    "other_pct": 2.9,
+    "margin": 2.8,
+    "pct_expected_vote_counted": 94.5,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -11.56,
+    "lines": "2024_same",
+    "house2024_margin": -7.67,
+    "prev_seat_margin": -7.67,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.66,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/montana-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Montana",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Montana",
+    "https://en.wikipedia.org/wiki/Sam_Forstag"
+   ],
+   "notes": "Open: Zinke (R) retired March 2026. Flint is a veteran and radio host endorsed by Trump and Gianforte. Populist posture rests on biography and union identity; no anti-corporate framing or corporate-PAC pledge documented. Ideology could be read as 'left' given Sanders/AOC/CPC backing. Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled. Verifier: NBC still uncalled at 11:24 AM ET (seat tally R1, uncalled 1); Wikipedia Sam Forstag article already lists him as Representative-elect (term from Jan 3, 2027), with no named caller, so called left null. Post-primary endorsers also included Blue Dog PAC, DCCC Red to Blue, MoveOn, Peace Action.",
+   "verified": true
+  },
+  {
+   "id": "MT-2",
+   "office": "House",
+   "state": "MT",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Brian Miller",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Minimal campaign (~$31K raised); Tester and Montana AFL-CIO instead endorsed independent Michael Eisenhauer.",
+    "background": "Attorney.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Troy Downing",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 32.2,
+    "rep_pct": 58.2,
+    "other_pct": 7.8,
+    "margin": -26.0,
+    "pct_expected_vote_counted": 96.8,
+    "called": "R",
+    "called_by": "NBC News (inferred from NBC state seat tally; district page showed no explicit projection label)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -29.54,
+    "lines": "2024_same",
+    "house2024_margin": -31.86,
+    "prev_seat_margin": -31.86,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 3.54,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/montana-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Montana",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Montana"
+   ],
+   "notes": "Other = Michael Eisenhauer (I, cardiologist; endorsed by Tester, MT AFL-CIO, Forward Party) 7.8. Dem-aligned support split between Miller and Eisenhauer.",
+   "verified": true
+  },
+  {
+   "id": "WY-AL",
+   "office": "House",
+   "state": "WY",
+   "district": null,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lisa Kinney",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "Former Wyoming Senate minority leader; endorsed by ex-Gov. Mike Sullivan, Rep. Pettersen and three former Republican legislators; ~$99K raised.",
+    "background": "Former Wyoming Senate Democratic minority leader.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chuck Gray",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 33.7,
+    "rep_pct": 54.5,
+    "other_pct": 7.5,
+    "margin": -20.8,
+    "pct_expected_vote_counted": 96.6,
+    "called": "R",
+    "called_by": "NBC News (state seat tally: 1 R)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -45.76,
+    "lines": "2024_same",
+    "house2024_margin": -47.37,
+    "prev_seat_margin": -47.37,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 24.96,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/wyoming-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Wyoming",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Wyoming",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_election_in_Wyoming"
+   ],
+   "notes": "Open: Hageman (R) ran for Senate. Gray is Secretary of State; Club for Growth, Wyoming Freedom Caucus, Trump (post-primary); won primary with only 25.4%. Other = Shawn Johnson (L) 7.5. Verifier: Jeffrey Haggit is also on the general ballot (Wikipedia); his share (about 4.3% by residual) is not in other_pct.",
+   "verified": true
+  },
+  {
+   "id": "WA-1",
+   "office": "House",
+   "state": "WA",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Suzan DelBene",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent, former DCCC chair; AIPAC, J Street, WA State Labor Council; 53.0% in top-two primary.",
+    "background": "Incumbent since 2012; former Microsoft executive.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mary Silva",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 67.8,
+    "rep_pct": 31.9,
+    "other_pct": 0.3,
+    "margin": 35.9,
+    "pct_expected_vote_counted": 64,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 28.47,
+    "lines": "2024_same",
+    "house2024_margin": 26.3,
+    "prev_seat_margin": 26.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 7.63,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "WA-2",
+   "office": "House",
+   "state": "WA",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rick Larsen",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; U.S. Chamber, WA State Labor Council, Sierra Club; 42.3% in primary vs DSA-backed Tomas Scheel 13.9%.",
+    "background": "Incumbent since 2001.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Top-two: Larsen 42.3, Feller (R) 32.8, Tomas Scheel (D; Whatcom DSA, CAIR Action) 13.9, Hermanson (D) 10.9."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Edwin Feller",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 67.6,
+    "rep_pct": 32,
+    "other_pct": 0.4,
+    "margin": 35.6,
+    "pct_expected_vote_counted": 73.3,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 23.51,
+    "lines": "2024_same",
+    "house2024_margin": 27.9,
+    "prev_seat_margin": 27.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.69,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "WA-3",
+   "office": "House",
+   "state": "WA",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Marie Gluesenkamp Perez",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "populist",
+    "archetype": "center_populist",
+    "style_confidence": "high",
+    "style_evidence": "Blue-collar centrist; WelcomePAC, DMFI, AIPAC; backed SAVE Act, voted to fund DHS/ICE (Jan 2026); left challenger Brent Hennrich took 16.7%.",
+    "background": "Incumbent; auto-repair shop co-owner.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Top-two: Braun (R) 39.7, MGP 36.4, Brent Hennrich (D; WA State Labor Council, Track AIPAC, Indivisible chapters) 16.7."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John Braun",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 54.2,
+    "rep_pct": 44.9,
+    "other_pct": 0.9,
+    "margin": 9.3,
+    "pct_expected_vote_counted": 74.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -3.28,
+    "lines": "2024_same",
+    "house2024_margin": 3.8,
+    "prev_seat_margin": 3.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.08,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington",
+    "https://www.nbcnews.com/politics/2026-elections/house-results"
+   ],
+   "notes": "Braun is WA Senate Republican leader, Trump-endorsed. 'Auto-repair shop co-owner' background not re-verified in fetched sources.",
+   "verified": true
+  },
+  {
+   "id": "WA-4",
+   "office": "House",
+   "state": "WA",
+   "district": 4,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "John Duresky",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "WA State Labor Council, WEA, CAIR Action, Track AIPAC, county parties; ~$82K raised by June.",
+    "background": "Retired Air Force major.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Amanda McKinney",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 45.4,
+    "rep_pct": 54.5,
+    "other_pct": 0.2,
+    "margin": -9.1,
+    "pct_expected_vote_counted": 63.2,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -20.55,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 12.15,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "notes": "Open: Newhouse (R) retired. 2024 general was R vs R (house2024_margin null). McKinney (Yakima County commissioner) backed by Trump, Turning Point Action. Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled.",
+   "verified": true
+  },
+  {
+   "id": "WA-5",
+   "office": "House",
+   "state": "WA",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Carmela Conroy",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Former Spokane County Democratic chair; WA State Labor Council, firefighters, building trades, LCV, End Citizens United; 2024 nominee.",
+    "background": "Former Spokane County Democratic Party chair; 2024 nominee.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michael Baumgartner",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 49.2,
+    "rep_pct": 50.5,
+    "other_pct": 0.3,
+    "margin": -1.3,
+    "pct_expected_vote_counted": 61.7,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -10.71,
+    "lines": "2024_same",
+    "house2024_margin": -21.3,
+    "prev_seat_margin": -21.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.71,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "notes": "Rematch of 2024 (Baumgartner +21.3). Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled. ~143K votes remain.",
+   "verified": true
+  },
+  {
+   "id": "WA-6",
+   "office": "House",
+   "state": "WA",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Emily Randall",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; WA State Labor Council, Giffords, HRC, J Street, LCV, Planned Parenthood; 58.8% in primary.",
+    "background": "Incumbent since 2025; former state senator.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Teresa Fox",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 64.4,
+    "rep_pct": 35.4,
+    "other_pct": 0.2,
+    "margin": 29.0,
+    "pct_expected_vote_counted": 71.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 19.16,
+    "lines": "2024_same",
+    "house2024_margin": 13.6,
+    "prev_seat_margin": 13.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.34,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "WA-7",
+   "office": "House",
+   "state": "WA",
+   "district": 7,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Pramila Jayapal",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "establishment",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent, former Congressional Progressive Caucus chair; PDA, Peace Action, Track AIPAC, CAIR Action endorsements; 84.4% in primary.",
+    "background": "Incumbent since 2017.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Nirav Sheth",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "weak_fundraising"
+    ]
+   },
+   "result": {
+    "dem_pct": 87.6,
+    "rep_pct": 12,
+    "other_pct": 0.4,
+    "margin": 75.6,
+    "pct_expected_vote_counted": 60.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 74.54,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 0.86,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-7-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "notes": "2024 House margin not retrieved (Wikipedia page truncated).",
+   "verified": true
+  },
+  {
+   "id": "WA-8",
+   "office": "House",
+   "state": "WA",
+   "district": 8,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kim Schrier",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; AIPAC, DMFI, J Street, JDCA, Planned Parenthood; 53.7% in primary.",
+    "background": "Incumbent since 2019; pediatrician.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Spencer Meline",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "weak_fundraising"
+    ]
+   },
+   "result": {
+    "dem_pct": 56.9,
+    "rep_pct": 42.9,
+    "other_pct": 0.2,
+    "margin": 14.0,
+    "pct_expected_vote_counted": 67,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 5.73,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 9.47,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-8-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "notes": "2024 House margin not retrieved.",
+   "verified": true
+  },
+  {
+   "id": "WA-9",
+   "office": "House",
+   "state": "WA",
+   "district": 9,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Adam Smith",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; IUOE, WA State Labor Council, J Street, AIPAC (fundraising suspended); 47.1% in primary vs socialist Kshama Sawant (I) 17.3%.",
+    "background": "Incumbent since 1997.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Top-two: Smith 47.1, Basler (R) 21.8, Kshama Sawant (independent socialist) 17.3, Melissa Chaudhry (D) 12.5."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Doug Basler",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 75.2,
+    "rep_pct": 24.1,
+    "other_pct": 0.7,
+    "margin": 51.1,
+    "pct_expected_vote_counted": 61.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 40.95,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 9.95,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-9-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "notes": "2024 House margin not retrieved."
+  },
+  {
+   "id": "WA-10",
+   "office": "House",
+   "state": "WA",
+   "district": 10,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Marilyn Strickland",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; U.S. Chamber, AIPAC, DMFI, WA State Labor Council; 47.3% in primary.",
+    "background": "Incumbent since 2021; former Tacoma mayor.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chris Chung",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 63.9,
+    "rep_pct": 35.6,
+    "other_pct": 0.6,
+    "margin": 28.3,
+    "pct_expected_vote_counted": 71,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 17.9,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 11.4,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-10-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Washington_(state)",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "notes": "Chung is a pharmacist who ran as a Democrat for insurance commissioner in 2024. 2024 House margin not retrieved.",
+   "verified": true
+  },
+  {
+   "id": "OR-1",
+   "office": "House",
+   "state": "OR",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Suzanne Bonamici",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; Oregon AFL-CIO, J Street, LCV, Planned Parenthood; beat Jamil Ahmad 86.6-12.8.",
+    "background": "Incumbent since 2012.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Barbara Kahl",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 69.9,
+    "rep_pct": 30,
+    "other_pct": 0.1,
+    "margin": 39.9,
+    "pct_expected_vote_counted": 73.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 37.51,
+    "lines": "2024_same",
+    "house2024_margin": 40.53,
+    "prev_seat_margin": 40.53,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 1.79,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/oregon-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oregon"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "OR-2",
+   "office": "House",
+   "state": "OR",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chris Beck",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Won crowded primary with 34.4%; WFP-backed Dawn Rasmussen finished fourth (14.8%).",
+    "background": "Former Oregon state representative (1997-2003).",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Cliff Bentz",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 38.3,
+    "rep_pct": 61.5,
+    "other_pct": 0.1,
+    "margin": -23.2,
+    "pct_expected_vote_counted": 92.6,
+    "called": "R",
+    "called_by": "NBC News (state seat tally: 5 D, 1 R, 0 uncalled)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -27.0,
+    "lines": "2024_same",
+    "house2024_margin": -31.09,
+    "prev_seat_margin": -31.09,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 3.8,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/oregon-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oregon"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "OR-3",
+   "office": "House",
+   "state": "OR",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Maxine Dexter",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; Oregon AFL-CIO, 314 Action, LCV, Planned Parenthood; 89.1% in primary.",
+    "background": "Incumbent since 2025; physician.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Loran Ayles",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "weak_fundraising"
+    ]
+   },
+   "result": {
+    "dem_pct": 76.1,
+    "rep_pct": 23.7,
+    "other_pct": 0.2,
+    "margin": 52.4,
+    "pct_expected_vote_counted": 70.8,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 45.63,
+    "lines": "2024_same",
+    "house2024_margin": 42.49,
+    "prev_seat_margin": 42.49,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 6.77,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/oregon-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oregon"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "OR-4",
+   "office": "House",
+   "state": "OR",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Val Hoyle",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent backed by Sanders, Working Families Party, unions, J Street, CHC BOLD; beat PDA/Oregon WFP-backed Melissa Bird 75.2-21.7.",
+    "background": "Incumbent since 2023; former Oregon labor commissioner.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Hoyle 75.2 vs Melissa Bird (PDA, Progressive Victory, Oregon WFP, Track AIPAC) 21.7."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Monique DeSpain",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 54,
+    "rep_pct": 42.9,
+    "other_pct": 3.1,
+    "margin": 11.1,
+    "pct_expected_vote_counted": 83.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 11.98,
+    "lines": "2024_same",
+    "house2024_margin": 7.77,
+    "prev_seat_margin": 7.77,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": -0.88,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/oregon-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oregon"
+   ],
+   "notes": "Only West seat where the Democrat is running behind Harris 2024 margin (partial count). Other = Justin Filip 3.0.",
+   "verified": true
+  },
+  {
+   "id": "OR-5",
+   "office": "House",
+   "state": "OR",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Janelle Bynum",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; EMILY's List, CHC BOLD, 314 Action, End Citizens United, Giffords; 82.0% in primary.",
+    "background": "Incumbent since 2025; former state representative, restaurateur.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Patti Adair",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 53.8,
+    "rep_pct": 44.1,
+    "other_pct": 2.2,
+    "margin": 9.7,
+    "pct_expected_vote_counted": 84.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 8.49,
+    "lines": "2024_same",
+    "house2024_margin": 2.73,
+    "prev_seat_margin": 2.73,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 1.81,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/oregon-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oregon"
+   ],
+   "notes": "Called inferred from NBC Oregon tally (all 6 seats called).",
+   "verified": true
+  },
+  {
+   "id": "OR-6",
+   "office": "House",
+   "state": "OR",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Andrea Salinas",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; Oregon AFL-CIO, DMFI, J Street, LCV, UAW; 98.7% in primary.",
+    "background": "Incumbent since 2023.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "David Russ",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "weak_fundraising"
+    ]
+   },
+   "result": {
+    "dem_pct": 57.6,
+    "rep_pct": 42.3,
+    "other_pct": 0.1,
+    "margin": 15.3,
+    "pct_expected_vote_counted": 72,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 11.3,
+    "lines": "2024_same",
+    "house2024_margin": 6.85,
+    "prev_seat_margin": 6.85,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 4.6,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/oregon-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Oregon",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oregon"
+   ],
+   "notes": "Called inferred from NBC Oregon tally (all 6 seats called).",
+   "verified": true
+  },
+  {
+   "id": "AK-AL",
+   "office": "House",
+   "state": "AK",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bill Hill",
+    "incumbent": false,
+    "party_label": "I (Dem-backed)",
+    "ideology": "moderate",
+    "posture": "populist",
+    "archetype": "center_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Nonpartisan independent; commercial fisherman; endorsed by Alaska Democratic Party (post-primary), Dan Osborn, Blue Dog PAC, DCCC Red to Blue, Alaska AFL-CIO; Democrats withdrew to clear field.",
+    "background": "Commercial fisherman; former Bristol Bay Borough schools superintendent.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Nick Begich",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.4,
+    "rep_pct": 49.6,
+    "other_pct": 10.0,
+    "margin": -9.2,
+    "pct_expected_vote_counted": 75.4,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -13.13,
+    "lines": "2024_same",
+    "house2024_margin": -2.44,
+    "prev_seat_margin": -2.44,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 3.93,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/alaska-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Alaska",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Alaska",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_election_in_Alaska",
+    "https://en.wikipedia.org/wiki/Bill_Hill_(Alaska_politician)"
+   ],
+   "notes": "First-choice results under ranked-choice voting; Begich below 50% so RCV tabulation likely. other_pct = Eric Hafner (nominal D, federal prisoner) 7.3 per NBC; Libertarian Jim McDermott (2.7% in Wikipedia's earlier snapshot) not shown on NBC. Ideology inferred from Blue Dog/Osborn backing; platform not documented. prev_seat_margin uses 2024 final RCV round (Peltola 48.78 vs Begich 51.22). Results as of NBC page last update 11:04 AM ET Nov 4, 2026; partial count, race uncalled. Verifier: NBC (212,455 votes, 11:24 AM ET) retained over the Wikipedia infobox snapshot (Begich 102,147 / 50.0%, Hill 81,945 / 40.1%, Hafner 14,711 / 7.2%), which reflects fewer votes counted.",
+   "verified": true
+  },
+  {
+   "id": "HI-1",
+   "office": "House",
+   "state": "HI",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ed Case",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Media-labeled 'moderate Democrat'; AIPAC, AFGE, ex-Gov. Ige; beat progressive state Sen. Jarrett Keohokalole 58.5-37.4.",
+    "background": "Incumbent since 2019; earlier served 2002-2007.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Case 58.5 vs progressive state Sen. Jarrett Keohokalole 37.4 (NYT: 'Moderate Democrat ... Defeats Progressive House Challenger')."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Adriel Lam",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 72.9,
+    "rep_pct": 22.1,
+    "other_pct": 5.0,
+    "margin": 50.8,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 24.73,
+    "lines": "2024_same",
+    "house2024_margin": 43.68,
+    "prev_seat_margin": 43.68,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 28.17,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/hawaii-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Hawaii",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Hawaii",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Hawaii",
+    "https://elections.hawaii.gov/wp-content/results/2026%20General/summary.txt"
+   ],
+   "notes": "Tier 1 because the primary was fought over ideology. Other = Jordan Conley 3.4. Verifier: Hawaii Office of Elections Report 2 (printed 9:02 PM HST Nov 3) matches independently: Case 100,096, Lam 28,685, Conley 4,528, Berning (N) 1,780 (1.3%, not included in other_pct).",
+   "verified": true
+  },
+  {
+   "id": "HI-2",
+   "office": "House",
+   "state": "HI",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jill Tokuda",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; NEA, End Citizens United, J Street, NWPC; 91.5% in primary.",
+    "background": "Incumbent since 2023; former state senator.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brenton Awa",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 67.1,
+    "rep_pct": 32.9,
+    "other_pct": 0.0,
+    "margin": 34.2,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 21.59,
+    "lines": "2024_same",
+    "house2024_margin": 36.29,
+    "prev_seat_margin": 36.29,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.81,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/hawaii-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Hawaii",
+    "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Hawaii",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Hawaii",
+    "https://elections.hawaii.gov/wp-content/results/2026%20General/summary.txt"
+   ],
+   "notes": "Awa is Hawaii Senate Republican leader. Verifier: Hawaii Office of Elections Report 2 (9:02 PM HST Nov 3) shows Tokuda 108,369 / Awa 48,764 (69.0/31.0, 157,133 votes); NBC (173,331 votes) reflects a later count and is retained.",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T16:29:00Z",
+  "checked_items": 51,
+  "method": "All 52 pres2024 baselines re-derived from Wikipedia 2024 presidential by-district tables (Utah new lines from the Wikipedia 2026 Utah page, which cites Inside Elections); margin and overperformance arithmetic and archetype derivation recomputed for all rows; NBC results pages re-fetched 11:21-11:27 AM ET Nov 4 for 51 rows (counts unchanged from the file); styles checked against Wikipedia 2026 race and candidate pages and campaign sites. CNN, AP, Politico, WaPo, CBS, ABC and most state results sites could not be fetched, and web search quota was exhausted, so vote shares rely mainly on NBC except Hawaii (state file).",
+  "corrections": [
+   "NV-3 Susie Lee: moderate style evidence strengthened (New Dem, Problem Solvers vice chair, Promise to America); confidence low->high",
+   "AZ-8 Greene-Placentia: left_populist kept but style evidence replaced with sourced campaign-site framing (was biography only)",
+   "CO-1 Kiros: CPC PAC listed as her primary endorser, but it backed DeGette in the primary and Kiros only post-primary; \"$1.3M super PAC spending for DeGette\" corrected to $1.3M spent attacking Kiros",
+   "MT-1: added note that Wikipedia lists Forstag as Rep.-elect while NBC is uncalled; call left null",
+   "AK-AL: noted that Wikipedia has an older count (Begich 50.0%); kept NBC figures",
+   "HI-1/HI-2: independently confirmed against the Hawaii Office of Elections results file; HI-1 other_pct leaves out Berning (1.3%)",
+   "WY-AL: noted a 4th ballot candidate (Haggit) is missing from other_pct"
+  ],
+  "unresolved": [
+   "Vote shares for all states except Hawaii were confirmed only against NBC (same outlet as cited): AP, CNN, Politico, WaPo, DDHQ and state results sites were blocked or JS-only.",
+   "Calls marked 'inferred from NBC state seat tally' (AZ-3, AZ-4, AZ-7, AZ-9, NV-1/3/4, CO-1/2/6/7, UT-3, MT-2, WA-1/2/6/7/8/9/10) are not explicit district-level projections.",
+   "UT-2 vs UT-4: NBC shows one uncalled Utah seat but does not say which; both left uncalled.",
+   "Utah pres2024 baselines are Inside Elections' rounded figures (Harris +24, Trump +29/+41/+32); unrounded new-line figures not found.",
+   "WA-9 not re-fetched from NBC (baseline and arithmetic checked only).",
+   "MT-1 posture (populist vs mixed) is debatable: Sanders/AOC primary backing plus Blue Dog PAC general endorsement; kept left_populist.",
+   "other_pct is inconsistent across rows (often only the named third candidate shown by NBC, e.g. HI-1, WY-AL, AK-AL)."
+  ]
+ }
+}

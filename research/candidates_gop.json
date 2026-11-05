@@ -1,0 +1,1828 @@
+{
+ "as_of": "2026-11-04T11:20:00-05:00",
+ "conventions": {
+  "margin": "Dem minus Rep, in percentage points (a Republican winning by 10 is -10).",
+  "home_state_pres2024_margin": "Computed from Wikipedia 2024 presidential state results (project file pres_parsed.json, source https://en.wikipedia.org/wiki/2024_United_States_presidential_election).",
+  "overperformance_vs_baseline_pts": "Computed = baseline_margin minus result_margin (both Dem minus Rep). Positive = the Republican ran AHEAD of the baseline (did better than the party's presidential showing in that state); negative = ran behind. Baseline is the most recent prior presidential margin in the state (same-day presidential margin for 2024 races). These are derived values, not reported figures.",
+  "age_in_2028": "Age on Election Day, Nov 7, 2028, computed from birth dates in each person's Wikipedia biography (biographical, not a 2026 outcome; bios not re-fetched this session).",
+  "market_prob": "Implied probability of winning the 2028 GOP NOMINATION, Kalshi and Polymarket quotes as aggregated by DeFi Rate, snapshot Nov 4 2026 10:09 AM ET (quotes observed 6:38-10:09 AM ET), unless noted."
+ },
+ "candidates": [
+  {
+   "name": "JD Vance",
+   "current_role": "Vice President of the United States; RNC finance chair",
+   "age_in_2028": 44,
+   "home_state": "Ohio",
+   "home_state_pres2024_margin": -11.21,
+   "style": "maga_heir",
+   "style_evidence": "Trump's sitting VP and presumptive successor; Turning Point's Erika Kirk publicly pledged to elect him in 2028; chanted 'JD 48' at the September 2026 Republican convention in Dallas; ally of Tucker Carlson's America First wing; has said he expects Trump to endorse him if he runs. Also carries economic-populist branding, but his claim is primarily as heir to Trump's movement.",
+   "track_record": [
+    {
+     "year": 2022,
+     "office": "U.S. Senate OH",
+     "rep_pct": 53.03,
+     "dem_pct": 46.92,
+     "margin": -6.11,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": -8.03,
+     "opponent": "Tim Ryan",
+     "source": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Ohio",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Ohio",
+     "note": "Open seat",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2024,
+     "office": "Vice President (Trump ticket)",
+     "result": "won",
+     "note": "Ticket result; no separate personal margin."
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "RNC finance chair (donor network-building) and lead administration surrogate; held a closing Ohio rally on Nov 2, 2026. His home state was a rout: Trump/Vance-backed Vivek Ramaswamy lost the governorship to Amy Acton (Acton 52.3, Ramaswamy 44.4 per NBC at 98% expected vote, 11:13 AM ET Nov 4), and Democrats flipped Vance's former Senate seat (NBC lists Ohio among seven Democratic Senate flips; Sherrod Brown over appointed Sen. Jon Husted). Ohio exit poll: Vance favorability flipped to 44 fav / 53 unfav. Vance had no social media activity in the hours after results (CNBC via search).",
+   "favorability": {
+    "national": [
+     {
+      "pollster": "Civiqs (tracking)",
+      "date": "through 2026-10-28",
+      "favorable": 38,
+      "unfavorable": 56,
+      "source": "https://civiqs.com/results/favorable_jd_vance?uncertainty=true&zoomIn=true&annotations=true"
+     },
+     {
+      "pollster": "Navigator Research",
+      "date": "2026-06-04 to 06-08 (released 2026-06-16)",
+      "favorable": 40,
+      "unfavorable": 52,
+      "net": -12,
+      "source": "https://navigatorresearch.org/what-americans-think-about-vp-vance/",
+      "sample": "1,000 RV"
+     },
+     {
+      "pollster": "Harvard CAPS/Harris",
+      "date": "2026-09-26 to 09-28",
+      "favorable": null,
+      "unfavorable": null,
+      "source": "https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/",
+      "note": "Verifier: the cited Denver Gazette article contains no Harvard CAPS/Harris favorability data; the 41/44 figures could not be traced to any source, so set to null. harvardharrispoll.com lists a September 2026 poll but its topline was not retrieved."
+     }
+    ],
+    "home_state": {
+     "pollster": "NBC News exit poll, Ohio",
+     "date": "2026-11-03",
+     "favorable": 44,
+     "unfavorable": 53,
+     "note": "Compared with ~50% favorable in 2024 per NBC.",
+     "source": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+    }
+   },
+   "primary_polling": [
+    {
+     "pollster": "RealClearPolling average",
+     "date": "2026-11-03",
+     "share": 38.6,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12 to 10-19",
+     "sample": "850 likely GOP primary voters",
+     "share": 33,
+     "note": "Poll included Donald Trump (8%); 26% undecided.",
+     "source": "https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/"
+    },
+    {
+     "pollster": "Clarity Campaign Labs",
+     "date": "2026-10-15 to 10-21",
+     "sample": "413 LV",
+     "share": 40,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15 to 10-19",
+     "sample": "417 LV",
+     "share": 38,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Noble Predictive/Center Square",
+     "date": "2026-10-05 to 10-07",
+     "sample": "1,137 RV",
+     "share": 44,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "University of New Hampshire (NH primary)",
+     "date": "2026-07 release (Fox News article; fieldwork dates not given)",
+     "share": 36,
+     "note": "Down from 53% in UNH's February 2026 poll. Verifier: this is a summer (July) release, not fall; New Hampshire likely GOP primary voters.",
+     "source": "https://www.foxnews.com/politics/poll-complicates-vance-status-trump-likely-2028-heir-apparent"
+    }
+   ],
+   "head_to_heads": [
+    {
+     "pollster": "UMass Lowell/YouGov",
+     "date": "2026-10-02 to 10-04",
+     "sample": "1,000 LV",
+     "opponent": "Gavin Newsom",
+     "rep_pct": 42,
+     "dem_pct": 46,
+     "margin": 4,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "UMass Lowell/YouGov",
+     "date": "2026-10-02 to 10-04",
+     "sample": "1,000 LV",
+     "opponent": "Alexandria Ocasio-Cortez",
+     "rep_pct": 42,
+     "dem_pct": 45,
+     "margin": 3,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Bulwark/YouGov",
+     "date": "2026-10-10 to 10-14",
+     "sample": "1,417 adults",
+     "opponent": "Gavin Newsom",
+     "rep_pct": 36,
+     "dem_pct": 41,
+     "margin": 5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Bulwark/YouGov",
+     "date": "2026-10-10 to 10-14",
+     "sample": "1,417 adults",
+     "opponent": "Alexandria Ocasio-Cortez",
+     "rep_pct": 38,
+     "dem_pct": 40,
+     "margin": 2,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Bulwark/YouGov",
+     "date": "2026-10-10 to 10-14",
+     "sample": "1,417 adults",
+     "opponent": "Pete Buttigieg",
+     "rep_pct": 36,
+     "dem_pct": 38,
+     "margin": 2,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Quantus Insights",
+     "date": "2026-08-26 to 08-28",
+     "sample": "1,200 LV",
+     "opponent": "Alexandria Ocasio-Cortez",
+     "rep_pct": 45,
+     "dem_pct": 42,
+     "margin": -3,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Emerson College",
+     "date": "2026-08-16 to 08-17",
+     "sample": "1,000 LV",
+     "opponent": "Gavin Newsom",
+     "rep_pct": 44,
+     "dem_pct": 49,
+     "margin": 5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Emerson College",
+     "date": "2026-08-16 to 08-17",
+     "sample": "1,000 LV",
+     "opponent": "Jon Ossoff",
+     "rep_pct": 44,
+     "dem_pct": 49,
+     "margin": 5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Emerson College",
+     "date": "2026-08-16 to 08-17",
+     "sample": "1,000 LV",
+     "opponent": "Pete Buttigieg",
+     "rep_pct": 44,
+     "dem_pct": 49,
+     "margin": 5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Emerson College",
+     "date": "2026-08-16 to 08-17",
+     "sample": "1,000 LV",
+     "opponent": "Alexandria Ocasio-Cortez",
+     "rep_pct": 46,
+     "dem_pct": 44,
+     "margin": -2,
+     "note": "Added by verifier (omitted in original); Vance leads AOC in this poll.",
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Emerson College",
+     "date": "2026-08-16 to 08-17",
+     "sample": "1,000 LV",
+     "opponent": "Kamala Harris",
+     "rep_pct": 45,
+     "dem_pct": 49,
+     "margin": 4,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    }
+   ],
+   "market_prob": {
+    "kalshi": 28,
+    "polymarket": 31.4,
+    "avg": 29,
+    "snapshot": "2026-11-04 10:09 ET",
+    "movement": "Polymarket nomination price fell from 36% (Nov 2, 11:18 PM ET) to 28% (Nov 3, 11:19 PM ET); his 2028 presidency price fell 19% -> 12%. Mediaite reported Kalshi 35% -> 27%.",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/",
+     "https://rg.org/news/prediction-markets/polymarket-daily-sweden-prime-minister-ossoff-2028-bills-super-bowl-november-4-2026",
+     "https://www.mediaite.com/media/news/jd-vances-presidential-odds-plummet-after-gop-wipeout-while-ron-desantis-surges/"
+    ]
+   },
+   "strengths": "Clear front-runner in every 2028 GOP primary poll (RCP avg 38.6); institutional position (VP, RNC finance chair, donor network); Turning Point / MAGA-base backing; expects Trump endorsement.",
+   "weaknesses": "Nationally underwater (Civiqs 38/56); trails Newsom, AOC, Buttigieg, Ossoff in most Aug-Oct head-to-heads (exception: Emerson Aug and Quantus Aug show him ahead of AOC); home state Ohio repudiated his ticket in 2026 and his own Ohio favorability is now negative; tied to an administration with 62% exit-poll disapproval; underran Trump's 2020 Ohio margin in his only solo race (2022); markets cut his odds ~8 pts overnight; has said there is 'of course' a chance he won't run.",
+   "coalition_notes": "Built on the Trump coalition (non-college whites, Turning Point youth activists, Carlson-wing anti-interventionists). The 2026 result tests whether that coalition transfers without Trump on the ballot; Ohio, the clearest test of Vance's personal pull, swung roughly 19 pts against the GOP gubernatorial nominee relative to 2024.",
+   "sources": [
+    "https://newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election",
+    "https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/",
+    "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+    "https://www.nbcnews.com/politics/2026-elections/ohio-governor-results",
+    "https://civiqs.com/results/favorable_jd_vance?uncertainty=true&zoomIn=true&annotations=true",
+    "https://navigatorresearch.org/what-americans-think-about-vp-vance/",
+    "https://defirate.com/odds/republican-nominee/",
+    "https://rg.org/news/prediction-markets/polymarket-daily-sweden-prime-minister-ossoff-2028-bills-super-bowl-november-4-2026",
+    "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+    "https://wlos.com/news/nation-world/vance-on-2028-presidential-race-i-think-if-i-run-the-president-will-endorse-me-trump-air-force-two-marco-rubio-midterm-elections-republicans",
+    "https://www.foxnews.com/politics/poll-complicates-vance-status-trump-likely-2028-heir-apparent",
+    "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Ohio"
+   ],
+   "notes": "Verifier: Navigator favorability is from June 2026 fieldwork, not an October release.",
+   "verified": true
+  },
+  {
+   "name": "Marco Rubio",
+   "current_role": "U.S. Secretary of State",
+   "age_in_2028": 57,
+   "home_state": "Florida",
+   "home_state_pres2024_margin": -13.1,
+   "style": "traditional_conservative",
+   "style_evidence": "Long-time movement/hawkish conservative (2016 establishment candidate) who has accommodated MAGA as Trump's Secretary of State; his brand rests on foreign-policy stature rather than populist economics. Has said he would not challenge Vance and would back him; Trump repeatedly floats a Vance-Rubio ticket.",
+   "track_record": [
+    {
+     "year": 2010,
+     "office": "U.S. Senate FL",
+     "rep_pct": 48.89,
+     "dem_pct": 20.2,
+     "other_pct": 29.71,
+     "margin": -28.69,
+     "pres_baseline_year": 2008,
+     "pres_baseline_margin": 2.81,
+     "opponent": "Kendrick Meek (D); Charlie Crist (I)",
+     "source": "https://en.wikipedia.org/wiki/2010_United_States_Senate_election_in_Florida",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election_in_Florida",
+     "note": "Three-way race: independent Charlie Crist (sitting governor) finished 2nd with 29.71%; the Democrat was 3rd",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2016,
+     "office": "U.S. Senate FL",
+     "rep_pct": 51.98,
+     "dem_pct": 44.31,
+     "margin": -7.67,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -1.2,
+     "opponent": "Patrick Murphy",
+     "source": "https://en.wikipedia.org/wiki/2016_United_States_Senate_election_in_Florida",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_Florida",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2022,
+     "office": "U.S. Senate FL",
+     "rep_pct": 57.68,
+     "dem_pct": 41.27,
+     "margin": -16.41,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": -3.36,
+     "opponent": "Val Demings",
+     "source": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Florida",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Florida",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Limited visible campaign role; skipped the Republican midterm convention in Dallas (Vance appeared) citing business elsewhere; spoke at G20 foreign ministers meeting in Atlanta Oct 31. No source found describing campaign stops or endorsement outcomes.",
+   "favorability": {
+    "national": [
+     {
+      "pollster": "Navigator Research",
+      "date": "2026-06-04 to 06-08 (released 2026-06-16)",
+      "favorable": 35,
+      "unfavorable": 40,
+      "net": -5,
+      "source": "https://navigatorresearch.org/what-americans-think-about-vp-vance/",
+      "sample": "1,000 RV"
+     }
+    ]
+   },
+   "primary_polling": [
+    {
+     "pollster": "RealClearPolling average",
+     "date": "2026-11-03",
+     "share": 26.4,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12 to 10-19",
+     "sample": "850 likely GOP primary voters",
+     "share": 23,
+     "source": "https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/"
+    },
+    {
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15 to 10-19",
+     "sample": "417 LV",
+     "share": 20,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Clarity Campaign Labs",
+     "date": "2026-10-15 to 10-21",
+     "sample": "413 LV",
+     "share": 17,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Focaldata/Financial Times",
+     "date": "2026-10-02 to 10-05",
+     "sample": "803 LV",
+     "share": 24,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "University of New Hampshire (NH primary)",
+     "date": "2026-07 release (Fox News article; fieldwork dates not given)",
+     "share": 26,
+     "note": "Up from 7% in February 2026.",
+     "source": "https://www.foxnews.com/politics/poll-complicates-vance-status-trump-likely-2028-heir-apparent"
+    }
+   ],
+   "head_to_heads": [
+    {
+     "pollster": "UMass Lowell/YouGov",
+     "date": "2026-10-02 to 10-04",
+     "sample": "1,000 LV",
+     "opponent": "Gavin Newsom",
+     "rep_pct": 42,
+     "dem_pct": 44,
+     "margin": 2,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "UMass Lowell/YouGov",
+     "date": "2026-10-02 to 10-04",
+     "sample": "1,000 LV",
+     "opponent": "Alexandria Ocasio-Cortez",
+     "rep_pct": 43,
+     "dem_pct": 43,
+     "margin": 0,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Emerson College",
+     "date": "2026-08-16 to 08-17",
+     "sample": "1,000 LV",
+     "opponent": "Kamala Harris",
+     "rep_pct": 48,
+     "dem_pct": 43,
+     "margin": -5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Emerson College",
+     "date": "2026-08-16 to 08-17",
+     "sample": "1,000 LV",
+     "opponent": "Gavin Newsom",
+     "rep_pct": 46,
+     "dem_pct": 48,
+     "margin": 2,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Emerson College",
+     "date": "2026-08-16 to 08-17",
+     "sample": "1,000 LV",
+     "opponent": "Alexandria Ocasio-Cortez",
+     "rep_pct": 48,
+     "dem_pct": 43,
+     "margin": -5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    },
+    {
+     "pollster": "Emerson College",
+     "date": "2026-08-16 to 08-17",
+     "sample": "1,000 LV",
+     "opponent": "Jon Ossoff",
+     "rep_pct": 44,
+     "dem_pct": 47,
+     "margin": 3,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    }
+   ],
+   "market_prob": {
+    "kalshi": 23,
+    "polymarket": 19.4,
+    "avg": 21,
+    "snapshot": "2026-11-04 10:09 ET",
+    "note": "CNBC reported Kalshi had Rubio near 30% (vs Vance 33%) on 2026-06-01.",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/",
+     "https://www.cnbc.com/2026/06/01/rubio-odds-for-gop-2028-nominee-close-to-overtaking-vance-on-kalshi.html"
+    ]
+   },
+   "strengths": "Least-disliked of the top tier (net -5 vs Vance -12, Navigator, June 2026); consistently runs a few points better than Vance against Democrats (ties AOC, beats Harris/AOC in Emerson); strong 2022 overperformance (+13 vs 2020 baseline); insulated from midterm blame by a foreign-policy portfolio; momentum in NH (7 -> 26).",
+   "weaknesses": "Has publicly said he would back Vance rather than run against him; tied to an unpopular administration's Iran war (which DeSantis attacked); lost to Trump in 2016 primary; primary support still ~12 pts behind Vance; market odds have slipped from ~30% in June.",
+   "coalition_notes": "Appeals to hawks, donors and Cuban/Latino Florida Republicans; the electability profile of a traditional conservative with MAGA cover. Some reporting (Washington Examiner, anonymous sources) says he views 2028 as unwinnable for the GOP.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election",
+    "https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/",
+    "https://navigatorresearch.org/what-americans-think-about-vp-vance/",
+    "https://defirate.com/odds/republican-nominee/",
+    "https://www.cnbc.com/2026/06/01/rubio-odds-for-gop-2028-nominee-close-to-overtaking-vance-on-kalshi.html",
+    "https://www.washingtonexaminer.com/in_focus/4768119/is-rubio-running-without-running/",
+    "http://www.washingtonexaminer.com/news/washington-secrets/4716412/marco-rubio-wont-run-2028-election-unwinnable/",
+    "https://newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://www.foxnews.com/politics/poll-complicates-vance-status-trump-likely-2028-heir-apparent",
+    "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_Florida"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Ron DeSantis",
+   "current_role": "Governor of Florida (term-limited; leaves office January 2027)",
+   "age_in_2028": 50,
+   "home_state": "Florida",
+   "home_state_pres2024_margin": -13.1,
+   "style": "traditional_conservative",
+   "style_evidence": "Hard-right culture-war governor who ran in 2024 as 'MAGA without Trump'; repaired relations with Trump and campaigned for Republicans in 2026, but on Nov 2, 2026 (podcast with Stephen A. Smith) broke with Trump over the Iran war, gas prices and immigration enforcement, positioning as a post-Trump conservative alternative rather than an heir. Classification is a judgment call: he is a non-Trump-family movement conservative, not a moderate.",
+   "track_record": [
+    {
+     "year": 2012,
+     "office": "U.S. House FL-6",
+     "rep_pct": 57.22,
+     "dem_pct": 42.78,
+     "margin": -14.44,
+     "pres_baseline_year": 2012,
+     "pres_baseline_margin": -16.3,
+     "opponent": "Heather Beaven",
+     "source": "https://en.wikipedia.org/wiki/2012_United_States_House_of_Representatives_elections_in_Florida",
+     "pres_baseline_source": "https://docs.google.com/spreadsheets/d/1xn6nCNM97oFDZ4M-HQgoUT3X4paOiSDsRMSuxbaOBdg/edit#gid=0",
+     "note": "Open seat. Baseline: Obama 41.4 - Romney 57.7 on 2012-14 lines",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2014,
+     "office": "U.S. House FL-6",
+     "rep_pct": 62.54,
+     "dem_pct": 37.46,
+     "margin": -25.08,
+     "pres_baseline_year": 2012,
+     "pres_baseline_margin": -16.3,
+     "opponent": "David Cox",
+     "source": "https://en.wikipedia.org/wiki/2014_United_States_House_of_Representatives_elections_in_Florida",
+     "pres_baseline_source": "https://docs.google.com/spreadsheets/d/1xn6nCNM97oFDZ4M-HQgoUT3X4paOiSDsRMSuxbaOBdg/edit#gid=0",
+     "note": "Incumbent. Same lines as 2012",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2016,
+     "office": "U.S. House FL-6",
+     "rep_pct": 58.57,
+     "dem_pct": 41.43,
+     "margin": -17.14,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -17.0,
+     "opponent": "Bill McCullough",
+     "source": "https://en.wikipedia.org/wiki/2016_United_States_House_of_Representatives_elections_in_Florida",
+     "pres_baseline_source": "https://docs.google.com/spreadsheets/d/1VfkHtzBTP5gf4jAu8tcVQgsBJ1IDvXEHjuMqYlOgYbA/edit#gid=0",
+     "note": "Incumbent; court-redrawn 2016 lines. Baseline: Clinton 39.9 - Trump 56.9",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2018,
+     "office": "Governor FL",
+     "rep_pct": 49.59,
+     "dem_pct": 49.19,
+     "margin": -0.4,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -1.2,
+     "opponent": "Andrew Gillum",
+     "source": "https://en.wikipedia.org/wiki/2018_Florida_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_Florida",
+     "note": "Open seat; went to a recount",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2022,
+     "office": "Governor FL",
+     "rep_pct": 59.37,
+     "dem_pct": 39.97,
+     "margin": -19.4,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": -3.36,
+     "opponent": "Charlie Crist",
+     "source": "https://en.wikipedia.org/wiki/2022_Florida_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Florida",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2024,
+     "office": "Republican presidential primary",
+     "result": "withdrew after Iowa caucuses (lost to Trump)",
+     "note": "Newsweek: must persuade voters to reconsider a candidate they rejected in 2024."
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Campaigned for Republicans this cycle (The Hill); day before the election publicly criticized Trump's Iran war and gas prices as dragging down the GOP; on election night posted on X that Republicans are unlikely to retake Congress in 2028 and may not contend for the Senate until 2032 (HuffPost). His successor contest: Trump-endorsed Byron Donalds held Florida by only ~1.3 pts (NBC, 99% expected) in a Trump +13.1 state. No source found on whether DeSantis endorsed Donalds.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pollster": "RealClearPolling average",
+     "date": "2026-11-03",
+     "share": 7.5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12 to 10-19",
+     "sample": "850 likely GOP primary voters",
+     "share": 3,
+     "source": "https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/"
+    },
+    {
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15 to 10-19",
+     "sample": "417 LV",
+     "share": 12,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Clarity Campaign Labs",
+     "date": "2026-10-15 to 10-21",
+     "sample": "413 LV",
+     "share": 9,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Focaldata/Financial Times",
+     "date": "2026-10-02 to 10-05",
+     "sample": "803 LV",
+     "share": 9,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "University of New Hampshire (NH primary)",
+     "date": "2026-07 release (Fox News article; fieldwork dates not given)",
+     "share": 6,
+     "source": "https://www.foxnews.com/politics/poll-complicates-vance-status-trump-likely-2028-heir-apparent"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 19,
+    "polymarket": 16.1,
+    "avg": 17,
+    "snapshot": "2026-11-04 10:09 ET",
+    "movement": "Polymarket nomination price rose from 4% (Nov 2, 11:18 PM ET) to 12% (Nov 3, 11:19 PM ET); Mediaite reported Kalshi 5% -> 17%. Largest GOP gainer of election night.",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/",
+     "https://rg.org/news/prediction-markets/polymarket-daily-sweden-prime-minister-ossoff-2028-bills-super-bowl-november-4-2026",
+     "https://www.mediaite.com/media/news/jd-vances-presidential-odds-plummet-after-gop-wipeout-while-ron-desantis-surges/"
+    ]
+   },
+   "strengths": "Best Republican statewide overperformance record in the field (+16 vs 2020 baseline in 2022); pre-positioned as the Republican who warned about the wipeout; markets' biggest post-midterm gainer; free of office from Jan 2027.",
+   "weaknesses": "Primary polling is single digits (RCP 7.5; NYT/Siena 3); lost badly to Trump in 2024; break with Trump invites MAGA backlash; Florida margin collapsed in 2026 (Donalds +1.3 vs DeSantis +19.4 in 2022). No 2026 head-to-heads vs Democrats found.",
+   "coalition_notes": "Pitch is to Republicans who want a conservative governor without Trump's war/tariff baggage; his 2022 landslide included gains with Hispanic Floridians. Market surge reflects anticipated anti-Trump-heir lane rather than measured voter support.",
+   "sources": [
+    "https://www.newsweek.com/desantis-breaks-with-trump-day-before-midterm-as-democrats-surge-12657233",
+    "https://thehill.com/homenews/campaign/6193617-desantis-iran-war-gop-midterms/",
+    "https://www.huffpost.com/entry/election-day-2026-live-updates_n_6ae88015e4b0b1f508d55edd",
+    "https://www.yahoo.com/news/politics/articles/desantis-hits-trump-iran-gop-190619714.html",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+    "https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/",
+    "https://defirate.com/odds/republican-nominee/",
+    "https://rg.org/news/prediction-markets/polymarket-daily-sweden-prime-minister-ossoff-2028-bills-super-bowl-november-4-2026",
+    "https://www.nbcnews.com/politics/2026-elections/florida-governor-results",
+    "https://newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://en.wikipedia.org/wiki/2022_Florida_gubernatorial_election",
+    "https://www.foxnews.com/politics/poll-complicates-vance-status-trump-likely-2028-heir-apparent"
+   ],
+   "notes": "Verifier: DeSantis criticism of Trump confirmed via Newsweek (Stephen A. Smith 'Straight Shooter' podcast, eve of election: Iran war a 'big, big drag', gas prices, called Noem's DHS appointment 'a mistake'). The HuffPost election-night X-post claim (GOP unlikely to retake Congress in 2028, Senate not until 2032) could not be confirmed: only the headline 'DeSantis Warns GOP' was retrievable.",
+   "verified": true
+  },
+  {
+   "name": "Donald Trump Jr.",
+   "current_role": "Private citizen; political activist/media figure",
+   "age_in_2028": 50,
+   "home_state": "Florida",
+   "home_state_pres2024_margin": -13.1,
+   "style": "maga_heir",
+   "style_evidence": "Literal family heir to the Trump brand; Mediaite (March 7, 2025) reported him seriously considering a run, which he denied the same day in a profanity-laden post while praising Vance ('my buddy JD'). Pushed for Vance as 2024 running mate.",
+   "track_record": [],
+   "result_2026": null,
+   "midterm_role_2026": "No 2026 midterm role found in sources reviewed (Newsweek's post-midterm ranking notes none).",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pollster": "RealClearPolling average",
+     "date": "2026-11-03",
+     "share": 9.8,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Clarity Campaign Labs",
+     "date": "2026-10-15 to 10-21",
+     "sample": "413 LV",
+     "share": 17,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15 to 10-19",
+     "sample": "417 LV",
+     "share": 7,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Harvard CAPS/Harris",
+     "date": "2026-09-26 to 09-28",
+     "sample": "RV",
+     "share": 24,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "NYT/Siena",
+     "date": "2026-10-12 to 10-19",
+     "share": null,
+     "note": "Reported only as 1% or less (exact figure not given in source).",
+     "source": "https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/"
+    },
+    {
+     "pollster": "Focaldata/Financial Times",
+     "date": "2026-10-02 to 10-05",
+     "sample": "803 LV",
+     "share": 7,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    }
+   ],
+   "head_to_heads": [
+    {
+     "pollster": "UMass Lowell/YouGov",
+     "date": "2026-10-02 to 10-04",
+     "sample": "1,000 LV",
+     "opponent": "Hunter Biden",
+     "rep_pct": 36,
+     "dem_pct": 37,
+     "margin": 1,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election"
+    }
+   ],
+   "market_prob": {
+    "kalshi": 2.8,
+    "polymarket": 1.6,
+    "avg": 2.6,
+    "snapshot": "2026-11-04 10:09 ET",
+    "note": "Polymarket figure is last-traded price.",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Name ID and direct claim on the Trump base; double-digit primary support in some polls (Harvard Harris 24, Clarity 17).",
+   "weaknesses": "No electoral record; denies interest; markets price him near 2%; poll share very sensitive to whether Trump himself is offered (NYT/Siena <=1%).",
+   "coalition_notes": "Pure Trump-loyalist base play; his candidacy would be read as dissatisfaction with Vance (National Review).",
+   "sources": [
+    "https://www.mediaite.com/politics/donald-trump-jr-considering-a-run-for-president-in-2028-sources/",
+    "https://www.yahoo.com/news/donald-trump-jr-denies-presidential-211449156.html",
+    "https://www.nationalreview.com/corner/why-is-there-any-donald-trump-jr-2028-buzz/amp/",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_United_States_presidential_election",
+    "https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/",
+    "https://defirate.com/odds/republican-nominee/",
+    "https://newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Tucker Carlson",
+   "current_role": "Media host (Tucker Carlson Network); has broken with the Republican Party per 2026 coverage",
+   "age_in_2028": 59,
+   "home_state": "Maine / Florida (residences; not verified this session)",
+   "home_state_pres2024_margin": null,
+   "style": "maga_populist",
+   "style_evidence": "Anti-interventionist, economic-nationalist America First voice; feuded with Ted Cruz over foreign policy and hosting Nick Fuentes; 2026 coverage describes him leaving the GOP, a MAGA-dissident movement urging a third-party bid with him as top name, and a manifesto released without a formal launch (Political Wire, Aug 2026).",
+   "track_record": [],
+   "result_2026": null,
+   "midterm_role_2026": "Not a party surrogate; described as having broken with the Republican Party. No campaign role found.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pollster": "US Polling Data average",
+     "date": "updated 2026-11-04",
+     "share": 2.7,
+     "note": "Ranked 7th of 13.",
+     "source": "https://uspollingdata.com/candidates/tucker-carlson/"
+    },
+    {
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15 to 10-19",
+     "sample": "417 LV",
+     "share": 1,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Focaldata/Financial Times",
+     "date": "2026-10-02 to 10-05",
+     "sample": "803 LV",
+     "share": 1,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Harvard CAPS/Harris",
+     "date": "2026-09-26 to 09-28",
+     "sample": "RV",
+     "share": 5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 3.4,
+    "polymarket": 3.1,
+    "avg": 3.2,
+    "snapshot": "2026-11-04 10:09 ET",
+    "note": "Peaked near 7% in May 2026 per Kenya Times report.",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/",
+     "https://thekenyatimes.com/americas/tucker-carlson-hits-record-7-odds-for-2028-gop-nomination-as-he-teases-potential-run/"
+    ]
+   },
+   "strengths": "Fourth in nomination markets; large media platform; owns the anti-war populist lane that the Iran war may enlarge.",
+   "weaknesses": "No electoral record; ~3% in primary polls; may run outside the GOP; controversies (Fuentes interview) alienate hawks and Jewish Republicans.",
+   "coalition_notes": "Anti-establishment, anti-interventionist right; overlaps with Vance's base, so a Carlson run (in or out of the party) would split the heir/populist vote.",
+   "sources": [
+    "https://www.mediaite.com/media/podcasts/tucker-carlson-shoots-down-presidential-run-as-he-teases-2028-plans-after-breaking-with-republican-party/",
+    "https://www.audacy.com/national/news/tucker-carlson-no-longer-gop",
+    "https://politicalwire.com/topics/2028-campaign/",
+    "https://uspollingdata.com/candidates/tucker-carlson/",
+    "https://defirate.com/odds/republican-nominee/",
+    "https://thekenyatimes.com/americas/tucker-carlson-hits-record-7-odds-for-2028-gop-nomination-as-he-teases-potential-run/",
+    "https://www.axios.com/2025/11/17/ted-cruz-tucker-carlson-president-2028",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+   ],
+   "notes": "Verifier: Kenya Times page (7% peak) returned HTTP 403; peak figure not re-confirmed.",
+   "verified": true
+  },
+  {
+   "name": "Ted Cruz",
+   "current_role": "U.S. Senator, Texas",
+   "age_in_2028": 57,
+   "home_state": "Texas",
+   "home_state_pres2024_margin": -13.68,
+   "style": "traditional_conservative",
+   "style_evidence": "Hawkish, pro-Israel movement conservative; laid 2028 groundwork by attacking Tucker Carlson's anti-interventionism (Axios, Nov 2025), positioning against the Carlson/Vance wing. Washington Post (Dec 2025) reported he was 'seriously' considering a run.",
+   "track_record": [
+    {
+     "year": 2012,
+     "office": "U.S. Senate TX",
+     "rep_pct": 56.46,
+     "dem_pct": 40.62,
+     "margin": -15.84,
+     "pres_baseline_year": 2012,
+     "pres_baseline_margin": -15.79,
+     "opponent": "Paul Sadler",
+     "source": "https://en.wikipedia.org/wiki/2012_United_States_Senate_election_in_Texas",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election_in_Texas",
+     "note": "Open seat",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2018,
+     "office": "U.S. Senate TX",
+     "rep_pct": 50.89,
+     "dem_pct": 48.33,
+     "margin": -2.56,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -8.99,
+     "opponent": "Beto O'Rourke",
+     "source": "https://en.wikipedia.org/wiki/2018_United_States_Senate_election_in_Texas",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_Texas",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2024,
+     "office": "U.S. Senate TX",
+     "rep_pct": 53.05,
+     "dem_pct": 44.56,
+     "margin": -8.49,
+     "pres_baseline_year": 2024,
+     "pres_baseline_margin": -13.68,
+     "opponent": "Colin Allred",
+     "source": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Texas",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Texas",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2016,
+     "office": "Republican presidential primary",
+     "result": "runner-up to Trump"
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot. Role not found. Home state was a GOP disaster: Democrat James Talarico beat Trump-endorsed Ken Paxton for Senate (55.1-43.0, NBC, 97.4% expected; AP call ~10:04 PM) and Gina Hinojosa unseated Gov. Greg Abbott (52.8-45.7, margin 7.1, NBC 97.5% expected at 11:14 AM ET Nov 4; AP call 10:17 PM per KUT; Abbott conceded).",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pollster": "RealClearPolling average",
+     "date": "2026-11-03",
+     "share": 2.5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15 to 10-19",
+     "sample": "417 LV",
+     "share": 4,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Noble Predictive/Center Square",
+     "date": "2026-10-05 to 10-07",
+     "sample": "1,137 RV",
+     "share": 5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 2.6,
+    "polymarket": 2.6,
+    "avg": 2.5,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "National fundraising and organization from 2016 runner-up campaign; distinct hawkish lane as GOP foreign-policy split widens.",
+   "weaknesses": "Ran 5 pts behind Trump in Texas in 2024; Texas just elected Democrats for Senate and governor; low primary support (2-5%).",
+   "coalition_notes": "Evangelical and hawkish/pro-Israel conservatives; antagonist to the Carlson anti-war wing.",
+   "sources": [
+    "https://www.axios.com/2025/11/17/ted-cruz-tucker-carlson-president-2028",
+    "https://www.yahoo.com/news/articles/ted-cruz-weighs-2028-presidency-084839301.html",
+    "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-senate-results",
+    "https://www.texastribune.org/2026/11/03/texas-ken-paxton-james-talarico-us-senate-elections-2026/",
+    "https://www.kut.org/politics/2026-11-03/texas-governor-election-2026-hinojosa-early-results",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+    "https://defirate.com/odds/republican-nominee/",
+    "https://www.nbcnews.com/politics/2026-elections/texas-governor-results"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Glenn Youngkin",
+   "current_role": "Former Governor of Virginia (left office January 2026); founder of a national education/school-choice policy group",
+   "age_in_2028": 61,
+   "home_state": "Virginia",
+   "home_state_pres2024_margin": 5.78,
+   "style": "traditional_conservative",
+   "style_evidence": "Business-conservative, suburban-friendly governor who won a Biden +10 state focusing on schools/parents; endorsed Vance for 2028 in Jan 2026 but said in Aug 2026 he does not anticipate being on a debate stage, without ruling it out. Washington Post (Jan 2026) framed him as the Republican to watch 'if Vance and MAGA falter'.",
+   "track_record": [
+    {
+     "year": 2021,
+     "office": "Governor VA",
+     "rep_pct": 50.58,
+     "dem_pct": 48.64,
+     "margin": -1.94,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": 10.11,
+     "opponent": "Terry McAuliffe",
+     "source": "https://en.wikipedia.org/wiki/2021_Virginia_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Virginia",
+     "note": "Open seat",
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Campaigned across Virginia for GOP House candidates (e.g., Oct 24 rally for Rep. John McGuire, VA-5). Outcomes of the races he stumped for not retrieved (search budget exhausted).",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15 to 10-19",
+     "sample": "417 LV",
+     "share": 0,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Noble Predictive/Center Square",
+     "date": "2026-10-05 to 10-07",
+     "sample": "1,137 RV",
+     "share": 2,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "McLaughlin & Associates",
+     "date": "2026-09-16 to 09-22",
+     "sample": "430 LV",
+     "share": 0,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 2.3,
+    "polymarket": 1.3,
+    "avg": 2.2,
+    "snapshot": "2026-11-04 10:09 ET",
+    "note": "Polymarket figure is last-traded price.",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Second-largest overperformance in the field (+12 vs 2020 baseline) in a blue-leaning state; suburban/education message; fits a post-wipeout 'electability' narrative.",
+   "weaknesses": "Polls 0-2% in national primary polls that include him (Echelon Oct 0%, Noble Oct 2%, McLaughlin Sep 0%); endorsed Vance (Fox News Sunday, Jan 11 2026); out of office with no platform.",
+   "coalition_notes": "College-educated suburban Republicans and swing voters; parental-rights framing.",
+   "sources": [
+    "https://www.dailysignal.com/2026/10/27/glenn-youngkin-stumps-virginias-5th/",
+    "https://www.bloomberg.com/news/videos/2026-08-05/former-gov-glenn-youngkin-discusses-2028-prospects-video",
+    "https://www.washingtonexaminer.com/news/campaigns/presidential/4414224/youngkin-backs-vance-2028-silent-on-own-future/",
+    "https://www.washingtonpost.com/ripple/2026/01/23/youngkin-gop-presidential-future/",
+    "https://www.nbcnews.com/politics/politics-news/glenn-youngkin-empowering-americas-parents-school-choice-program-rcna590860",
+    "https://en.wikipedia.org/wiki/2021_Virginia_gubernatorial_election",
+    "https://defirate.com/odds/republican-nominee/",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+   ],
+   "notes": "Verifier: Daily Signal (rally) returned HTTP 403; Oct 24 McGuire rally not re-confirmed.",
+   "verified": true
+  },
+  {
+   "name": "Brian Kemp",
+   "current_role": "Governor of Georgia (term-limited; leaves office January 2027)",
+   "age_in_2028": 65,
+   "home_state": "Georgia",
+   "home_state_pres2024_margin": -2.19,
+   "style": "traditional_conservative",
+   "style_evidence": "Conventional conservative governor who defied Trump over the 2020 result yet won big in 2022; Christie and Carville both name him a top 2028 threat. Has not ruled out 2028.",
+   "track_record": [
+    {
+     "year": 2010,
+     "office": "Secretary of State GA",
+     "rep_pct": 56.42,
+     "dem_pct": 39.43,
+     "margin": -16.99,
+     "pres_baseline_year": 2008,
+     "pres_baseline_margin": -5.21,
+     "opponent": "Georganna Sinkfield",
+     "source": "https://en.wikipedia.org/wiki/2010_Georgia_state_elections",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election_in_Georgia",
+     "note": "Appointed incumbent (Jan 2010). Libertarian David Chastain 4.2%",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2014,
+     "office": "Secretary of State GA",
+     "rep_pct": 57.47,
+     "dem_pct": 42.53,
+     "margin": -14.94,
+     "pres_baseline_year": 2012,
+     "pres_baseline_margin": -7.82,
+     "opponent": "Doreen Carter",
+     "source": "https://en.wikipedia.org/wiki/2014_Georgia_state_elections",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election_in_Georgia",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2018,
+     "office": "Governor GA",
+     "rep_pct": 50.22,
+     "dem_pct": 48.83,
+     "margin": -1.39,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -5.09,
+     "opponent": "Stacey Abrams",
+     "source": "https://en.wikipedia.org/wiki/2018_Georgia_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_Georgia",
+     "note": "Open seat",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2022,
+     "office": "Governor GA",
+     "rep_pct": 53.41,
+     "dem_pct": 45.88,
+     "margin": -7.53,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": 0.23,
+     "opponent": "Stacey Abrams",
+     "source": "https://en.wikipedia.org/wiki/2022_Georgia_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Georgia",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Backed Derek Dooley for Senate; Dooley lost the June GOP runoff to Trump-endorsed Rep. Mike Collins. Kemp endorsed Collins Sept 14; Collins lost to Sen. Jon Ossoff 59.0-41.0 (Newsweek; NBC 98.7% expected). Georgia governorship flipped: Democrat Keisha Lance Bottoms beat Republican Rick Jackson 54.3-45.7 (Wikipedia, 99% reported; NBC 98.6% expected, 11:16 AM ET). AJC poll (fieldwork Oct 7-15, reported Oct 23, 2026): 77% of likely GA Republicans favor a Kemp 2028 run, 20% oppose; 94% of Republicans approve of his job.",
+   "favorability": {
+    "home_state": {
+     "pollster": "AJC poll",
+     "date": "2026-10-07 to 10-15 (reported 2026-10-23)",
+     "job_approval_among_GA_republicans": 94,
+     "favor_2028_run_among_likely_GA_republicans": 77,
+     "source": "https://www.fox5atlanta.com/news/ajc-poll-finds-mixed-views-georgia-politicians-2028-bids"
+    }
+   },
+   "primary_polling": [],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 2.8,
+    "polymarket": 1.4,
+    "avg": 1.9,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Proven swing-state winner (+7.8 vs 2020 baseline); independent of Trump; high GOP approval at home.",
+   "weaknesses": "Not in national primary polls found; his Senate pick lost the primary to Trump's; his state just elected a Democratic governor and re-elected Ossoff by ~18.",
+   "coalition_notes": "Suburban and rural Georgia Republicans plus swing voters; the 'governing conservative' electability model.",
+   "sources": [
+    "https://www.fox5atlanta.com/news/ajc-poll-finds-mixed-views-georgia-politicians-2028-bids",
+    "https://www.mediaite.com/media/tv/james-carville-stuns-newsmax-host-when-asked-which-republican-would-be-biggest-threat-to-democrats-in-2028/",
+    "https://www.yahoo.com/news/articles/christie-2028-gop-nominee-rubio-210913704.html",
+    "https://www.pbs.org/newshour/politics/georgia-republicans-choose-collins-for-senate-and-jackson-for-governor-a-mixed-result-for-trump",
+    "https://www.wrdw.com/2026/09/14/gov-kemp-endorses-rep-mike-collins-us-senate-bid/",
+    "https://newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2022_Georgia_gubernatorial_election",
+    "https://defirate.com/odds/republican-nominee/",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-senate-results",
+    "https://www.nbcnews.com/politics/2026-elections/georgia-governor-results"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Vivek Ramaswamy",
+   "current_role": "Defeated 2026 Republican nominee for Governor of Ohio; businessman",
+   "age_in_2028": 43,
+   "home_state": "Ohio",
+   "home_state_pres2024_margin": -11.21,
+   "style": "maga_heir",
+   "style_evidence": "2024 primary candidate who ran as Trump's most loyal rival then endorsed him; Trump-endorsed for Ohio governor; Vance held a closing Ohio rally Nov 2.",
+   "track_record": [
+    {
+     "year": 2024,
+     "office": "Republican presidential primary",
+     "result": "withdrew after Iowa, endorsed Trump"
+    }
+   ],
+   "result_2026": {
+    "office": "Governor, Ohio",
+    "result": "lost",
+    "rep_pct": 44.38,
+    "dem_pct": 52.31,
+    "other_pct": 3.3,
+    "margin": 7.93,
+    "opponent": "Amy Acton (D)",
+    "expected_vote_counted_pct": 99,
+    "called_by": "NBC News and ABC News projections confirmed; AP call reported by original researcher but not re-confirmed (Axios returned 403)",
+    "baseline": "2024 pres Ohio",
+    "baseline_margin": -11.21,
+    "overperformance_vs_baseline_pts": -19.14,
+    "note": "Wikipedia infobox 99% reporting as of 8:50 AM EST Nov 4; NBC at 98% expected (11:13 AM ET Nov 4) shows 52.3/44.4/3.3 (Kissick, I). Pre-election RealClearPolling average (7 polls) Acton +4.7, 49.6-44.9, as reported by MultiState, so he also underran polls. Ramaswamy and allies spent ~$101M on ads vs Acton by mid-October (incl. $36M of his own), about 3x Acton's side (MultiState).",
+    "sources": [
+     "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
+     "https://www.nbcnews.com/politics/2026-elections/ohio-governor-results",
+     "https://www.axios.com/2026/11/04/ohio-governor-results-acton-ramaswamy",
+     "https://www.multistate.us/elections/governor-race/ohio-2026"
+    ]
+   },
+   "midterm_role_2026": "Own candidacy (lost). First Democratic Ohio governor win in ~16 years.",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pollster": "Echelon Insights",
+     "date": "2026-10-15 to 10-19",
+     "sample": "417 LV",
+     "share": 0,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Noble Predictive/Center Square",
+     "date": "2026-10-05 to 10-07",
+     "sample": "1,137 RV",
+     "share": 2,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Focaldata/Financial Times",
+     "date": "2026-10-02 to 10-05",
+     "sample": "803 LV",
+     "share": 1,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 0.3,
+    "polymarket": 0.1,
+    "avg": 0.2,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Youth, money, media fluency.",
+   "weaknesses": "Lost a Trump +11 state by ~8 (about 19 pts behind the 2024 baseline) despite outspending; effectively removed from 2028 contention.",
+   "coalition_notes": "The cleanest 2026 test of a non-Trump MAGA-heir candidate on a statewide ballot in a Rust Belt state; result was a large swing away.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
+    "https://www.nbcnews.com/politics/2026-elections/ohio-governor-results",
+    "https://www.axios.com/2026/11/04/ohio-governor-results-acton-ramaswamy",
+    "https://www.multistate.us/elections/governor-race/ohio-2026",
+    "https://abcnews.com/Politics/ohio-2026-live-midterm-election-results/story?id=136761684",
+    "https://newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+    "https://defirate.com/odds/republican-nominee/"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Byron Donalds",
+   "current_role": "U.S. Representative (FL-19); Governor-elect of Florida (takes office January 2027)",
+   "age_in_2028": 50,
+   "home_state": "Florida",
+   "home_state_pres2024_margin": -13.1,
+   "style": "maga_heir",
+   "style_evidence": "Trump-endorsed for governor (Trump backed him early, 2025); Freedom Caucus MAGA loyalist.",
+   "track_record": [
+    {
+     "year": 2020,
+     "office": "U.S. House FL-19",
+     "rep_pct": 61.27,
+     "dem_pct": 38.72,
+     "margin": -22.55,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": -20.1,
+     "opponent": "Cindy Banyai",
+     "source": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Florida",
+     "pres_baseline_source": "https://docs.google.com/spreadsheets/d/1XbUXnI9OyfAuhP5P3vWtMuGc5UJlrhXbzZo3AwMuHtk/edit#gid=0",
+     "note": "Open seat",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2022,
+     "office": "U.S. House FL-19",
+     "rep_pct": 68.0,
+     "dem_pct": 31.99,
+     "margin": -36.01,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": -21.0,
+     "opponent": "Cindy Banyai",
+     "source": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_Florida",
+     "pres_baseline_source": "https://docs.google.com/spreadsheets/d/1CKngqOp8fzU22JOlypoxNsxL6KSAH920Whc-rd7ebuM/edit#gid=1871835782",
+     "note": "Incumbent; new 2022 lines",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2024,
+     "office": "U.S. House FL-19",
+     "rep_pct": 66.32,
+     "dem_pct": 33.68,
+     "margin": -32.64,
+     "pres_baseline_year": 2024,
+     "pres_baseline_margin": -30.22,
+     "opponent": "Kari Lerner",
+     "source": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida",
+     "pres_baseline_source": "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": {
+    "office": "Governor, Florida",
+    "result": "won",
+    "rep_pct": 50.0,
+    "dem_pct": 48.7,
+    "other_pct": 0.5,
+    "margin": -1.3,
+    "opponent": "David Jolly (D)",
+    "expected_vote_counted_pct": 99,
+    "called_by": "NBC News and CBS News projections confirmed; AP call reported by original researcher but not re-confirmed (NPR timed out)",
+    "baseline": "2024 pres Florida",
+    "baseline_margin": -13.1,
+    "overperformance_vs_baseline_pts": -11.8,
+    "note": "NBC News page at 99% expected (8,261,594 total votes; ~44,000 remaining; 11:14 AM ET Nov 4). Wikipedia at 97% showed 49.77/48.97 (margin -0.8). Pre-election RCP average Donalds +4.0 (48.3-44.3, six polls, per MultiState), so he underran polls. CBS: would become the first Black Republican elected governor in U.S. history.",
+    "sources": [
+     "https://www.nbcnews.com/politics/2026-elections/florida-governor-results",
+     "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
+     "https://www.cbsnews.com/miami/news/florida-governor-election-2026-results-byron-donalds-david-jolly/",
+     "https://www.npr.org/2026/11/03/g-s1-151260/florida-governor-donalds-jolly"
+    ]
+   },
+   "midterm_role_2026": "Own candidacy (narrow win).",
+   "favorability": null,
+   "primary_polling": [],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 1.3,
+    "polymarket": 0.9,
+    "avg": 1.1,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Survived the wave; historic first; will hold a large-state governorship.",
+   "weaknesses": "Nearly lost a Trump +13 state (about 12 pts behind 2024 baseline, 18 pts behind DeSantis 2022); new governor unlikely to run in 2028.",
+   "coalition_notes": "Shows the MAGA-heir brand eroding even in the GOP's strongest large state.",
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/florida-governor-results",
+    "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
+    "https://www.cbsnews.com/miami/news/florida-governor-election-2026-results-byron-donalds-david-jolly/",
+    "https://www.multistate.us/elections/governor-race/florida-2026",
+    "https://defirate.com/odds/republican-nominee/"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Josh Hawley",
+   "current_role": "U.S. Senator, Missouri",
+   "age_in_2028": 48,
+   "home_state": "Missouri",
+   "home_state_pres2024_margin": -18.41,
+   "style": "maga_populist",
+   "style_evidence": "Leading economic-populist voice (pro-labor, anti-corporate); NBC (Aug 2025) reported Republicans assume he is weighing a run; Axios (Jan 2026) reported he broke with the White House on abortion and war powers, angering Trump. He told the Washington Examiner (Sept 15, 2026) 'No, I have no intention of doing so, period.'",
+   "track_record": [
+    {
+     "year": 2016,
+     "office": "Attorney General MO",
+     "rep_pct": 58.5,
+     "dem_pct": 41.5,
+     "margin": -17.0,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -18.51,
+     "opponent": "Teresa Hensley",
+     "source": "https://en.wikipedia.org/wiki/2016_Missouri_Attorney_General_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_Missouri",
+     "note": "Open seat",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2018,
+     "office": "U.S. Senate MO",
+     "rep_pct": 51.38,
+     "dem_pct": 45.57,
+     "margin": -5.81,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -18.51,
+     "opponent": "Claire McCaskill",
+     "source": "https://en.wikipedia.org/wiki/2018_United_States_Senate_election_in_Missouri",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_Missouri",
+     "note": "Beat Democratic incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2024,
+     "office": "U.S. Senate MO",
+     "rep_pct": 55.57,
+     "dem_pct": 41.84,
+     "margin": -13.73,
+     "pres_baseline_year": 2024,
+     "pres_baseline_margin": -18.41,
+     "opponent": "Lucas Kunce",
+     "source": "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Missouri",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election_in_Missouri",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Not on ballot; no 2026 campaign role found.",
+   "favorability": null,
+   "primary_polling": [],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 0.9,
+    "polymarket": 0.4,
+    "avg": 0.5,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Owns the pro-worker populist policy lane; willingness to break with Trump could age well post-wipeout.",
+   "weaknesses": "Ran ~5 pts behind Trump in Missouri in 2024; no primary polling presence; Trump hostility; disavows a run.",
+   "coalition_notes": "Working-class economic populism; competes with Vance for the same voters.",
+   "sources": [
+    "https://www.nbcnews.com/politics/congress/sen-josh-hawley-irks-republicans-tries-carve-out-lane-rcna222025",
+    "https://www.axios.com/2026/01/27/josh-hawley-trump-2028",
+    "https://wjla.com/news/nation-world/sen-josh-hawley-dismisses-2028-presidential-run-speculation-i-have-no-intention-jd-vance-marco-rubio-ted-cruz-rand-paul",
+    "https://en.wikipedia.org/wiki/2024_United_States_Senate_election_in_Missouri",
+    "https://defirate.com/odds/republican-nominee/"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Sarah Huckabee Sanders",
+   "current_role": "Governor of Arkansas (re-elected Nov 3, 2026)",
+   "age_in_2028": 46,
+   "home_state": "Arkansas",
+   "home_state_pres2024_margin": -30.64,
+   "style": "maga_heir",
+   "style_evidence": "Trump's former White House press secretary; governs as a MAGA loyalist.",
+   "track_record": [
+    {
+     "year": 2022,
+     "office": "Governor AR",
+     "rep_pct": 62.96,
+     "dem_pct": 35.2,
+     "margin": -27.76,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": -27.62,
+     "opponent": "Chris Jones",
+     "source": "https://en.wikipedia.org/wiki/2022_Arkansas_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_Arkansas",
+     "note": "Open seat",
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": {
+    "office": "Governor, Arkansas",
+    "result": "won",
+    "rep_pct": 53.9,
+    "dem_pct": 38.6,
+    "other_pct": 7.6,
+    "margin": -15.3,
+    "opponent": "Fred Love (D); Colt Shelby (Lib)",
+    "expected_vote_counted_pct": 99,
+    "called_by": "AP (9:40 PM ET per Breitbart report)",
+    "baseline": "2024 pres Arkansas",
+    "baseline_margin": -30.64,
+    "overperformance_vs_baseline_pts": -15.34,
+    "note": "NBC News page, 99% expected, 885,540 total votes; NBC table did not mark a projected winner but AP/Arkansas Democrat-Gazette report her win. Verifier: AP call at 9:40 PM ET confirmed in Breitbart (Sanders 54.0 at 84% counted). Arkansas Democrat-Gazette (AP totals, ~97% counted): Sanders 474,742, Love 340,738, Shelby 66,373; it identifies Shelby as Libertarian and spells the first name 'Cole' (Breitbart: 'Colt'); NBC labels him 'I'.",
+    "sources": [
+     "https://www.nbcnews.com/politics/2026-elections/arkansas-governor-results",
+     "https://www.arkansasonline.com/news/2026/nov/03/sanders-wins-reelection-defeating-love-and-shelby/",
+     "https://www.breitbart.com/politics/2026/11/03/republican-sarah-huckabee-sanders-wins-second-term-arkansas-governor/"
+    ]
+   },
+   "midterm_role_2026": "Own re-election (won by a much-reduced margin).",
+   "favorability": null,
+   "primary_polling": [],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 0.6,
+    "polymarket": 0.3,
+    "avg": 0.4,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Trump-world credentials; won re-election.",
+   "weaknesses": "Margin fell from ~28 (2022) to ~15 in a Trump +31 state; not polled nationally; markets <1%.",
+   "coalition_notes": "Rural evangelical MAGA base; even here the 2026 swing was ~15 pts.",
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/arkansas-governor-results",
+    "https://www.arkansasonline.com/news/2026/nov/03/sanders-wins-reelection-defeating-love-and-shelby/",
+    "https://www.breitbart.com/politics/2026/11/03/republican-sarah-huckabee-sanders-wins-second-term-arkansas-governor/",
+    "https://en.wikipedia.org/wiki/2022_Arkansas_gubernatorial_election",
+    "https://defirate.com/odds/republican-nominee/"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Nikki Haley",
+   "current_role": "Former UN Ambassador and South Carolina governor; private sector",
+   "age_in_2028": 56,
+   "home_state": "South Carolina",
+   "home_state_pres2024_margin": -17.87,
+   "style": "moderate",
+   "style_evidence": "Relative moderate within the GOP: 2024's last anti-Trump primary alternative, strongest with college-educated and independent primary voters; in 2026 criticized Trump's economy and warned of midterm losses. Said 'I will not' run in 2028 (CNN, Apr 12, 2026). 'Moderate' is relative to the GOP field, not the electorate.",
+   "track_record": [
+    {
+     "year": 2010,
+     "office": "Governor SC",
+     "rep_pct": 51.37,
+     "dem_pct": 46.91,
+     "margin": -4.46,
+     "pres_baseline_year": 2008,
+     "pres_baseline_margin": -8.97,
+     "opponent": "Vincent Sheheen",
+     "source": "https://en.wikipedia.org/wiki/2010_South_Carolina_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election_in_South_Carolina",
+     "note": "Open seat",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2014,
+     "office": "Governor SC",
+     "rep_pct": 55.9,
+     "dem_pct": 41.42,
+     "margin": -14.48,
+     "pres_baseline_year": 2012,
+     "pres_baseline_margin": -10.47,
+     "opponent": "Vincent Sheheen",
+     "source": "https://en.wikipedia.org/wiki/2014_South_Carolina_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election_in_South_Carolina",
+     "note": "Incumbent; rematch",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2024,
+     "office": "Republican presidential primary",
+     "result": "runner-up to Trump; withdrew March 2024"
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "Commentator; warned in April 2026 that the GOP 'will lose' without economic hope, citing Trump's disapproval. NBC lists South Carolina among the seven Democratic Senate flips (Annie Andrews).",
+   "favorability": null,
+   "primary_polling": [
+    {
+     "pollster": "Noble Predictive/Center Square",
+     "date": "2026-10-05 to 10-07",
+     "sample": "1,137 RV",
+     "share": 3,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "Harvard CAPS/Harris",
+     "date": "2026-09-26 to 09-28",
+     "sample": "RV",
+     "share": 5,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    },
+    {
+     "pollster": "University of New Hampshire (NH primary)",
+     "date": "2026-07 release (Fox News article; fieldwork dates not given)",
+     "share": 8,
+     "note": "Tied for third with Rand Paul (8%).",
+     "source": "https://www.foxnews.com/politics/poll-complicates-vance-status-trump-likely-2028-heir-apparent"
+    },
+    {
+     "pollster": "McLaughlin & Associates",
+     "date": "2026-09-16 to 09-22",
+     "sample": "430 LV",
+     "share": 3,
+     "source": "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries"
+    }
+   ],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 1.2,
+    "polymarket": 0.3,
+    "avg": 0.7,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Proven appeal to moderates/independents in 2024 primaries; prescient midterm warning.",
+   "weaknesses": "Has ruled out 2028; 3-5% in national primary polls (8% in UNH New Hampshire poll); distrusted by MAGA base.",
+   "coalition_notes": "College-educated, suburban, independent-leaning Republicans: the smallest of the GOP primary lanes.",
+   "sources": [
+    "https://www.washingtontimes.com/news/2026/apr/12/nikki-haley-ex-un-ambassador-2028-presidential-run-not/",
+    "https://www.mediaite.com/media/tv/nikki-haley-trashes-trump-economy-warns-we-will-lose-if-americans-dont-start-to-feel-some-hope/",
+    "https://en.wikipedia.org/wiki/2014_South_Carolina_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/Nationwide_opinion_polling_for_the_2028_Republican_Party_presidential_primaries",
+    "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+    "https://defirate.com/odds/republican-nominee/",
+    "https://www.foxnews.com/politics/poll-complicates-vance-status-trump-likely-2028-heir-apparent"
+   ],
+   "notes": "Verifier: Washington Times source for the 'I will not' run statement returned HTTP 403; URL slug is consistent but quote/date (CNN, Apr 12, 2026) not re-confirmed.",
+   "verified": true
+  },
+  {
+   "name": "Tim Scott",
+   "current_role": "U.S. Senator, South Carolina; NRSC chair for 2026 cycle",
+   "age_in_2028": 63,
+   "home_state": "South Carolina",
+   "home_state_pres2024_margin": -17.87,
+   "style": "traditional_conservative",
+   "style_evidence": "Optimistic Reagan-style conservative (2024 primary candidate) turned loyal Trump ally; ran the Senate GOP campaign arm in 2026.",
+   "track_record": [
+    {
+     "year": 2010,
+     "office": "U.S. House SC-1",
+     "rep_pct": 65.37,
+     "dem_pct": 28.67,
+     "margin": -36.7,
+     "pres_baseline_year": 2008,
+     "pres_baseline_margin": -15,
+     "opponent": "Ben Frasier",
+     "source": "https://en.wikipedia.org/wiki/2010_United_States_House_of_Representatives_elections_in_South_Carolina",
+     "pres_baseline_source": "https://docs.google.com/spreadsheets/d/1l7W130tPRF6dQ4JoqlQJSJexnEg4rZct-7kwDXqgoLE/edit#gid=429358610",
+     "note": "Open seat. Baseline McCain 57 - Obama 42 (whole numbers only)",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2012,
+     "office": "U.S. House SC-1",
+     "rep_pct": 62.03,
+     "dem_pct": 35.71,
+     "margin": -26.32,
+     "pres_baseline_year": 2012,
+     "pres_baseline_margin": -18.1,
+     "opponent": "Bobbie G. Rose",
+     "source": "https://en.wikipedia.org/wiki/2012_United_States_House_of_Representatives_elections_in_South_Carolina",
+     "pres_baseline_source": "https://docs.google.com/spreadsheets/d/1xn6nCNM97oFDZ4M-HQgoUT3X4paOiSDsRMSuxbaOBdg/edit#gid=0",
+     "note": "Incumbent; new 2012 lines",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2014,
+     "office": "U.S. Senate SC (special)",
+     "rep_pct": 61.12,
+     "dem_pct": 37.09,
+     "margin": -24.03,
+     "pres_baseline_year": 2012,
+     "pres_baseline_margin": -10.47,
+     "opponent": "Joyce Dickerson",
+     "source": "https://en.wikipedia.org/wiki/2014_United_States_Senate_special_election_in_South_Carolina",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election_in_South_Carolina",
+     "note": "Appointed incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2016,
+     "office": "U.S. Senate SC",
+     "rep_pct": 60.57,
+     "dem_pct": 36.93,
+     "margin": -23.64,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -14.27,
+     "opponent": "Thomas Dixon",
+     "source": "https://en.wikipedia.org/wiki/2016_United_States_Senate_election_in_South_Carolina",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_South_Carolina",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2022,
+     "office": "U.S. Senate SC",
+     "rep_pct": 62.88,
+     "dem_pct": 37.01,
+     "margin": -25.87,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": -11.68,
+     "opponent": "Krystle Matthews",
+     "source": "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_South_Carolina",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_South_Carolina",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "NRSC chair. Predicted Republicans would keep a Senate majority and win Maine (Collins), Iowa (Hinson), Kansas, Nebraska and South Carolina (Breitbart, Nov 1). Neither Breitbart nor Semafor reports a 55-seat goal. Result: NBC lists Democratic flips in Iowa, Kansas, Ohio, Maine, North Carolina, South Carolina and Texas (Alaska, Mississippi uncalled at time of read); Newsweek reports Democrats at 54 seats, net +7.",
+   "favorability": null,
+   "primary_polling": [],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 0.3,
+    "polymarket": 0.3,
+    "avg": 0.3,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Strong 2022 overperformance; broad likability.",
+   "weaknesses": "Presided over a ~7-seat Senate loss as NRSC chair, including his home state's other seat; negligible 2028 support.",
+   "coalition_notes": "Establishment/evangelical conservatives.",
+   "sources": [
+    "https://www.breitbart.com/politics/2026/11/01/exclusive-nrsc-chairman-tim-scott-gives-race-by-race-predictions-ahead-of-2026-midterms/",
+    "https://www.semafor.com/article/09/23/2026/tim-scott-to-senate-republicans-were-still-in-this",
+    "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+    "https://newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+    "https://en.wikipedia.org/wiki/2022_United_States_Senate_election_in_South_Carolina",
+    "https://defirate.com/odds/republican-nominee/"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Kristi Noem",
+   "current_role": "Former Secretary of Homeland Security (removed March 2026); briefly Special Envoy for the Shield of the Americas (Mar-Sep 2026 per Wikipedia)",
+   "age_in_2028": 56,
+   "home_state": "South Dakota",
+   "home_state_pres2024_margin": -29.19,
+   "style": "maga_heir",
+   "style_evidence": "Ran DHS deportation push as a Trump loyalist; ousted by Trump in March 2026 after congressional testimony and criticism of the deportation operation (replaced by Sen. Markwayne Mullin).",
+   "track_record": [
+    {
+     "year": 2010,
+     "office": "U.S. House SD-AL",
+     "rep_pct": 48.12,
+     "dem_pct": 45.89,
+     "other_pct": 5.99,
+     "margin": -2.23,
+     "pres_baseline_year": 2008,
+     "pres_baseline_margin": -8.41,
+     "opponent": "Stephanie Herseth Sandlin",
+     "source": "https://en.wikipedia.org/wiki/2010_United_States_House_of_Representatives_election_in_South_Dakota",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election_in_South_Dakota",
+     "note": "Beat Democratic incumbent; independent 5.99%",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2012,
+     "office": "U.S. House SD-AL",
+     "rep_pct": 57.45,
+     "dem_pct": 42.55,
+     "margin": -14.9,
+     "pres_baseline_year": 2012,
+     "pres_baseline_margin": -18.02,
+     "opponent": "Matt Varilek",
+     "source": "https://en.wikipedia.org/wiki/2012_United_States_House_of_Representatives_election_in_South_Dakota",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election_in_South_Dakota",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2014,
+     "office": "U.S. House SD-AL",
+     "rep_pct": 66.53,
+     "dem_pct": 33.47,
+     "margin": -33.06,
+     "pres_baseline_year": 2012,
+     "pres_baseline_margin": -18.02,
+     "opponent": "Corinna Robinson",
+     "source": "https://en.wikipedia.org/wiki/2014_United_States_House_of_Representatives_election_in_South_Dakota",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2012_United_States_presidential_election_in_South_Dakota",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2016,
+     "office": "U.S. House SD-AL",
+     "rep_pct": 64.1,
+     "dem_pct": 35.9,
+     "margin": -28.2,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -29.79,
+     "opponent": "Paula Hawks",
+     "source": "https://en.wikipedia.org/wiki/2016_United_States_House_of_Representatives_election_in_South_Dakota",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_South_Dakota",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2018,
+     "office": "Governor SD",
+     "rep_pct": 50.97,
+     "dem_pct": 47.6,
+     "margin": -3.37,
+     "pres_baseline_year": 2016,
+     "pres_baseline_margin": -29.79,
+     "opponent": "Billie Sutton",
+     "source": "https://en.wikipedia.org/wiki/2018_South_Dakota_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2016_United_States_presidential_election_in_South_Dakota",
+     "note": "Open seat",
+     "verified_by_fetch_this_session": true
+    },
+    {
+     "year": 2022,
+     "office": "Governor SD",
+     "rep_pct": 61.98,
+     "dem_pct": 35.17,
+     "margin": -26.81,
+     "pres_baseline_year": 2020,
+     "pres_baseline_margin": -26.16,
+     "opponent": "Jamie Smith",
+     "source": "https://en.wikipedia.org/wiki/2022_South_Dakota_gubernatorial_election",
+     "pres_baseline_source": "https://en.wikipedia.org/wiki/2020_United_States_presidential_election_in_South_Dakota",
+     "note": "Incumbent",
+     "verified_by_fetch_this_session": true
+    }
+   ],
+   "result_2026": null,
+   "midterm_role_2026": "None found; out of the administration.",
+   "favorability": null,
+   "primary_polling": [],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 0.1,
+    "polymarket": 0.1,
+    "avg": 0.1,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Former governor with base name ID.",
+   "weaknesses": "Fired by Trump; associated with an unpopular immigration-enforcement operation; markets ~0.1%.",
+   "coalition_notes": "Effectively out of contention.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kristi_Noem",
+    "https://www.sdpb.org/politics/2026-03-05/noem-out-as-dhs-secretary",
+    "https://www.washingtonexaminer.com/?p=4482026",
+    "https://en.wikipedia.org/wiki/2022_South_Dakota_gubernatorial_election",
+    "https://defirate.com/odds/republican-nominee/"
+   ],
+   "notes": "Verifier: SDPB (Mar 5, 2026) confirms Trump removed her after two days of congressional questioning, Sen. Markwayne Mullin named replacement, and a new 'special envoy for the Shield of the Americas' role.",
+   "verified": true
+  },
+  {
+   "name": "Steve Bannon",
+   "current_role": "Media host (War Room); MAGA strategist",
+   "age_in_2028": 74,
+   "home_state": null,
+   "home_state_pres2024_margin": null,
+   "style": "maga_populist",
+   "style_evidence": "Nationalist-populist; chief promoter of a Trump third term ('going to be President in 2028'); in Feb 2026 urged deploying ICE agents and troops at polling sites.",
+   "track_record": [],
+   "result_2026": null,
+   "midterm_role_2026": "Media agitator; no formal role found.",
+   "favorability": null,
+   "primary_polling": [],
+   "head_to_heads": [],
+   "market_prob": {
+    "kalshi": 0.2,
+    "polymarket": 0.2,
+    "avg": 0.2,
+    "snapshot": "2026-11-04 10:09 ET",
+    "sources": [
+     "https://defirate.com/odds/republican-nominee/"
+    ]
+   },
+   "strengths": "Influence over the populist base's agenda.",
+   "weaknesses": "Not a credible candidate; markets ~0.2%.",
+   "coalition_notes": "Relevant mainly as the voice of the third-term push and the anti-establishment populist faction.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Donald_Trump_third_term_proposal",
+    "https://floridapolitics.com/archives/751923-steve-bannon-seen-as-better-presidential-bet-than-ron-desantis-on-polymarket/",
+    "https://defirate.com/odds/republican-nominee/"
+   ],
+   "verified": true
+  }
+ ],
+ "third_term_talk": "Trump has repeatedly teased a third term through 2026 (joked about 'eight or nine years' in May; wore a 'Trump 2028' hat and spoke of a 'fourth term' at the July 24 WHCD; said Aug 12 the 'law is very strong'). At an Oct 22, 2026 Sioux City, Iowa rally he said he believed the law bars a third term ('quite concise') but claimed a right to run because 'they cheated us'; on Nov 1 (Pod Force One) he said 'I'd love to run again, if I had the chance... But the language is very exacting.' Constitutional status: the 22nd Amendment bars anyone from being elected president more than twice; scholars say the 12th Amendment also blocks a VP-succession route (a person ineligible to be president is ineligible to be VP). Any change needs a constitutional amendment (two-thirds of each chamber or a convention, plus ratification by three-quarters of states); Speaker Mike Johnson said there is 'no path.' After the Nov 3 Democratic House and Senate takeover, an amendment is even less plausible. Rep. Andy Ogles, who proposed a 22nd Amendment change in Jan 2025, lost renomination in 2026. Markets: 'Donald Trump' for the 2028 GOP nomination at ~1.8-1.9% (Kalshi/Polymarket, Nov 4). NYT/Siena (Oct 12-19) still found 8% of likely GOP primary voters choosing Trump when offered. Sources: https://en.wikipedia.org/wiki/Donald_Trump_third_term_proposal ; https://www.washingtontimes.com/news/2026/nov/1/trump-2028-president-says-would-love-run/ ; https://www.euronews.com/video/2026/10/23/trump-says-he-has-the-right-to-seek-a-third-presidential-term ; https://news.northeastern.edu/2025/03/31/trump-third-term/ ; https://www.foxnews.com/politics/johnson-pressed-trump-2028-points-constitution-no-path-third-term-presidency.amp ; https://defirate.com/odds/republican-nominee/ ; https://www.denvergazette.com/2026/10/27/vance-leads-rubio-by-double-digits-in-early-2028-republican-poll/",
+ "notes": [
+  "Context (all as of morning Nov 4, counts incomplete): Democrats won the House (NBC projects at least 258 seats) and the Senate (NBC: flips in IA, KS, OH, ME, NC, SC, TX; AK and MS uncalled; Newsweek reports 54 D seats, net +7). National exit poll (NBC): Trump disapproval 62%; party favorability net -18 GOP vs -6 Dem. Trump-endorsed statewide nominees lost in TX (Paxton, Senate, -12.1 at 97.4%), GA (Collins, Senate, 59-41 per Newsweek), OH (Ramaswamy). Abbott lost TX governor to Hinojosa (52.8-45.7, NBC 97.5% expected, 11:14 AM ET) and Trump blamed him for becoming a 'RINO' (Texas Tribune headline). Others considered but not profiled: Greg Abbott (lost; <1% markets), Thomas Massie (lost May 19, 2026 primary to Trump-backed Ed Gallrein 54.9-45.1 per Wikipedia 2026 KY House elections page; filed for 2028 office unspecified; ~2% markets), Joe Kent (~2% avg, driven by Kalshi 3.7), Marjorie Taylor Greene (~1.5%), RFK Jr. (2-9% in some primary polls). Market numbers are from the DeFi Rate aggregation of Kalshi/Polymarket at 10:09 AM ET Nov 4; the Polymarket event page fetched the same morning showed Vance 31, Rubio 19, DeSantis 15, Carlson 3, Cruz 3. Kalshi direct page returned HTTP 429. Overperformance figures are computed (see conventions), not reported. Florida governor margin differs by source/time (NBC 99%: -1.3; Wikipedia 97%: -0.8). Web search budget was exhausted before Georgia/Youngkin-endorsee/Hawley-Cruz midterm-role details and DeSantis-Donalds endorsement status could be verified. Verifier: also not profiled but in nomination markets at >=0.5%: Ivanka Trump (1%), Elon Musk (0.8%), Pete Hegseth, Rand Paul (8% in UNH NH poll), Tom Cotton (each 0.5%) per DeFi Rate Nov 4 10:09 AM ET.",
+  "2026-11-04: track_record filled with every general election since 2010 (Senate, governor, statewide, House), verified from fetched Wikipedia / Downballot pages, so Republicans are treated like the Democratic file. 2026 races stay in result_2026."
+ ],
+ "sources_general": [
+  "https://newsweek.com/presidential-power-ranking-2028-frontrunners-assessed-midterms-12661279",
+  "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763",
+  "https://defirate.com/odds/republican-nominee/",
+  "https://polymarket.com/event/republican-presidential-nominee-2028",
+  "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+  "https://www.texastribune.org/2026/11/03/texas-governor-greg-abbott-gina-hinojosa-election/",
+  "https://news.ballotpedia.org/2026/05/20/ed-gallrein-defeated-incumbent-rep-thomas-massie-in-the-republican-primary-for-kentuckys-4th-congressional-district-on-may-19-2026/",
+  "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+  "https://www.nbcnews.com/politics/2026-elections/texas-governor-results"
+ ],
+ "verification": {
+  "as_of": "2026-11-04T11:20:00-05:00",
+  "checked_items": 132,
+  "method": "Recomputed all margins/overperformance from stated shares (Dem minus Rep; all signs correct); checked ages from birth dates; re-fetched DeFi Rate and polymarket.com market quotes, Wikipedia primary and general-election polling pages, NYT/Siena via Denver Gazette, Navigator, Civiqs, UNH via Fox News, NBC results pages (OH/FL/AR gov, TX Sen/gov, GA Sen/gov), Wikipedia OH/FL gov, ABC, CBS, Breitbart, Arkansas Democrat-Gazette, MultiState, Newsweek, Mediaite, rg.org, CNBC, AJC/Fox5, PBS, WRDW, SDPB, WJLA, Washington Examiner, Yahoo, Ballotpedia/Wikipedia KY-4. Web search budget was exhausted, so checks used direct fetches only.",
+  "corrections": [
+   "Vance/Rubio Navigator favorability dated '2026-10-21 release' -> actually fieldwork Jun 4-8, released Jun 16, 2026",
+   "Vance Harvard CAPS/Harris favorability 41/44 not in cited source -> set to null",
+   "Vance UNH NH-primary poll dated 'fall release' -> July 2026 release (also Rubio)",
+   "Vance head-to-heads: added omitted Emerson Aug results (vs AOC 46-44 R, margin -2; vs Buttigieg 44-49, margin +5)",
+   "Ohio governor count updated to NBC 98% expected (11:13 AM ET)",
+   "Trump Jr.: Mediaite 'considering a run' report dated mid-2026 -> actually March 7, 2025",
+   "Texas governor (Cruz record + notes): Hinojosa ~52.5%, ~6.5-pt margin -> 52.8-45.7, margin 7.1 (NBC 97.5%)",
+   "Youngkin: primary_polling was empty and text said not in polls -> he is in Echelon (0%), Noble (2%), McLaughlin (0%)",
+   "Kemp AJC poll dated Oct 23 (article date) -> fieldwork Oct 7-15, 2026",
+   "Ramaswamy: polling-average attribution clarified (RCP via MultiState); called_by AP not confirmable, NBC/ABC confirmed",
+   "Tim Scott: unsupported '55+ seat goal' removed (not in Breitbart or Semafor sources)"
+  ],
+  "unresolved": [
+   "Rubio: Washington Examiner claims (skipped Dallas convention; views 2028 as unwinnable) not independently re-verified",
+   "DeSantis election-night X post (2028/2032 claim) attributed to HuffPost live blog: only headline retrievable, body not confirmed",
+   "Carlson 7% May 2026 market peak (Kenya Times) not re-confirmed: HTTP 403",
+   "AP race calls for Ohio and Florida governor not independently confirmed (Axios 403, NPR timeout); NBC/ABC/CBS projections confirmed",
+   "Haley 'I will not' run quote (CNN Apr 12 2026) not re-confirmed: Washington Times 403",
+   "Vance 'JD 48' chant at Sept 2026 Dallas convention and Erika Kirk pledge not re-verified (search budget exhausted)",
+   "Missing contenders not profiled: Rand Paul, Tom Cotton, Pete Hegseth, Ivanka Trump, Elon Musk, Joe Kent, Massie, MTG (noted only)",
+   "Kalshi direct page returned HTTP 429; Kalshi figures rely on DeFi Rate aggregation only (Polymarket figures cross-checked on polymarket.com)"
+  ]
+ }
+}

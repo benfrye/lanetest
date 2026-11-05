@@ -1,0 +1,2789 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "scope": "Texas (38) - note the mid-decade 2025 GOP map; Oklahoma (5), Arkansas (4)",
+ "expected_rows": 47,
+ "races": [
+  {
+   "id": "TX-1",
+   "office": "House",
+   "state": "TX",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Yolanda Prince",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Little-known challenger",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Nathaniel Moran",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 31.0,
+    "rep_pct": 69.0,
+    "other_pct": 0.0,
+    "margin": -38.0,
+    "pct_expected_vote_counted": 97.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -49.54,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 11.54,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-1-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "TX-2",
+   "office": "House",
+   "state": "TX",
+   "district": 2,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Shaun Finnie",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Investment banker; Texas AFL-CIO endorsement; unopposed in primary; no insurgent or centrist-group branding found.",
+    "background": "Investment banker",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Steve Toth",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 49,
+    "rep_pct": 51,
+    "other_pct": 0.0,
+    "margin": -2,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -22.84,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 20.84,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-2-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/Steve_Toth"
+   ],
+   "notes": "Open: incumbent Dan Crenshaw lost March primary 41-56 to state Rep. Steve Toth, who attacked Crenshaw's insufficient MAGA loyalty, plans to join the Freedom Caucus, and was endorsed by Cruz and (for the general) Trump. Uncalled; Toth leads with an estimated 6,500 votes left (NBC). Toth won Montgomery Co.; Finnie won the Harris Co. portion (NBC).",
+   "verified": true
+  },
+  {
+   "id": "TX-3",
+   "office": "House",
+   "state": "TX",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Evan Hunt",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Retired Air Force lieutenant colonel; unopposed in primary; no caucus or insurgent endorsements listed.",
+    "background": "Retired Air Force lieutenant colonel",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Keith Self",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 47.3,
+    "rep_pct": 52.7,
+    "other_pct": 0.0,
+    "margin": -5.4,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.43,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.03,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-3-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "TX-4",
+   "office": "House",
+   "state": "TX",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jason Pearce",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Little-known challenger",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Pat Fallon",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 43.9,
+    "rep_pct": 56.1,
+    "other_pct": 0.0,
+    "margin": -12.2,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -24.71,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 12.51,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-4-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "TX-5",
+   "office": "House",
+   "state": "TX",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chelsey Hockett",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Stay-at-home mom; Texas AFL-CIO endorsement; beat 2024 nominee Ruth Torres 53-47 in runoff; no ideological branding found.",
+    "background": "Stay-at-home mom; first-time candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Lance Gooden",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.5,
+    "rep_pct": 51.5,
+    "other_pct": 0.0,
+    "margin": -3.0,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -21.62,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.62,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-5-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Tier 1 added because result within 3 pts in a Trump +21.6 seat. Uncalled at 95.3% expected; NBC says Hockett needs 79.6% of the remaining vote.",
+   "verified": true
+  },
+  {
+   "id": "TX-6",
+   "office": "House",
+   "state": "TX",
+   "district": 6,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Danny Minton",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Sales representative; unopposed in primary; no caucus or insurgent endorsements listed.",
+    "background": "Sales representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jake Ellzey",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 47.8,
+    "rep_pct": 52.2,
+    "other_pct": 0.0,
+    "margin": -4.4,
+    "pct_expected_vote_counted": 98.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -22.93,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.53,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-6-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null
+  },
+  {
+   "id": "TX-7",
+   "office": "House",
+   "state": "TX",
+   "district": 7,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lizzie Fletcher",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; New Democrat Coalition member (Wikipedia NDC list), which the rubric maps to moderate; not Blue Dog; otherwise conventional suburban Houston Democrat with no populist branding.",
+    "background": "Incumbent since 2019; attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Alexander Hale",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 70.8,
+    "rep_pct": 27.5,
+    "other_pct": 1.6,
+    "margin": 43.3,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 23.43,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 19.87,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-7-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "TX-8",
+   "office": "House",
+   "state": "TX",
+   "district": 8,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Laura Jones",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former San Jacinto County Democratic chair; 2022 and 2024 nominee; Houston LGBTQ+ Political Caucus and Houston Chronicle endorsements.",
+    "background": "Former county Democratic chair; two-time nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jessica Hart Steinmann",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 46.8,
+    "rep_pct": 53.2,
+    "other_pct": 0.0,
+    "margin": -6.4,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -27.64,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 21.24,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-8-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Open: Morgan Luttrell retired. Steinmann had Trump's endorsement in the primary per Wikipedia.",
+   "verified": true
+  },
+  {
+   "id": "TX-9",
+   "office": "House",
+   "state": "TX",
+   "district": 9,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Leticia Gutierrez",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Environmental-justice community organizer (Air Alliance Houston); won 6-way primary with 53.6% over Kinzinger-endorsed ex-astronaut Terry Virts and AFL-CIO-backed physician; no caucus or insurgent-group endorsements listed.",
+    "background": "Environmental justice organizer, Air Alliance Houston",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Alex Mealer",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 57.6,
+    "rep_pct": 42.4,
+    "other_pct": 0.0,
+    "margin": 15.2,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -19.79,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 34.99,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-9-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/Leticia_Gutierrez",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Seat redrawn by 2025 GOP map from Al Green's D seat into a Trump +19.8 east-Houston Hispanic-majority seat meant as a GOP pickup; Wikipedia lists it as a new seat with no incumbent, so incumbent_party D refers to the previous holder of the number. Only 83.8% of expected vote counted (NBC). Wikipedia lists Gutierrez as winner/member-elect; the organization that called it is not identified. Verifier: Mealer concession per FOX 26 Houston as cited on Wikipedia.",
+   "verified": true
+  },
+  {
+   "id": "TX-10",
+   "office": "House",
+   "state": "TX",
+   "district": 10,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Caitlin Rourk",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Army Guard/Reserve intelligence officer; endorsed by Texas AFL-CIO, Texas AFT, National Women's Political Caucus, Texas Forward Party and League of Independent Voters; Young DSA backed a rival.",
+    "background": "Former Army intelligence officer",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chris Gober",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 46.2,
+    "rep_pct": 53.8,
+    "other_pct": 0.0,
+    "margin": -7.6,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -22.64,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 15.04,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-10-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Open: Michael McCaul retired. Gober is ex-chief lawyer of Elon Musk's America PAC and reportedly helped draw the 2025 map; Trump-endorsed.",
+   "verified": true
+  },
+  {
+   "id": "TX-11",
+   "office": "House",
+   "state": "TX",
+   "district": 11,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Claire Reynolds",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Little-known challenger",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "August Pfluger",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.5,
+    "rep_pct": 59.5,
+    "other_pct": 0.0,
+    "margin": -19.0,
+    "pct_expected_vote_counted": 98.6,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -34.39,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 15.39,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-11-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null
+  },
+  {
+   "id": "TX-12",
+   "office": "House",
+   "state": "TX",
+   "district": 12,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Angela Rodriguez Prilliman",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Entrepreneur; beat veteran Kenneth Morgan-Aguilera 60-40 in primary; no caucus or insurgent endorsements listed.",
+    "background": "Entrepreneur",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Craig Goldman",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.9,
+    "rep_pct": 53.1,
+    "other_pct": 0.0,
+    "margin": -6.2,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.88,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 17.68,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-12-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null
+  },
+  {
+   "id": "TX-13",
+   "office": "House",
+   "state": "TX",
+   "district": 13,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mark Nair",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Little-known challenger",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ronny Jackson",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 34.7,
+    "rep_pct": 65.3,
+    "other_pct": 0.0,
+    "margin": -30.6,
+    "pct_expected_vote_counted": 98.9,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -46.2,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 15.6,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-13-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "TX-14",
+   "office": "House",
+   "state": "TX",
+   "district": 14,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Thurman Bartie",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Former Port Arthur mayor; won runoff 51-49; no caucus or insurgent endorsements listed.",
+    "background": "Former mayor of Port Arthur",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Randy Weber",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.0,
+    "rep_pct": 54.0,
+    "other_pct": 0.0,
+    "margin": -8.0,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -24.3,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 16.3,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-14-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "NBC county-level figures looked inconsistent with the district total when fetched; headline total used."
+  },
+  {
+   "id": "TX-15",
+   "office": "House",
+   "state": "TX",
+   "district": 15,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bobby Pulido",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Tejano music star and political outsider who ran as a self-described conservative 'Blue Dog Democrat' to win back Hispanic voters; endorsed by Blue Dog PAC, WelcomePAC, Bold PAC, DMFI, Ruben Gallego, Talarico.",
+    "background": "Tejano singer; first-time candidate",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Crockett-endorsed physician Ada Cuellar 67.5-32.5; Texas AFL-CIO declined to endorse."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Monica De La Cruz",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 62.3,
+    "rep_pct": 37.7,
+    "other_pct": 0.0,
+    "margin": 24.6,
+    "pct_expected_vote_counted": 95.1,
+    "called": "D",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -17.87,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 42.47,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-15-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/Bobby_Pulido",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Democratic flip (incumbent lost; Wikipedia national page). Biggest Texas swing: NBC says the race moved 42.65 pts toward Democrats vs 2024 president. Called status taken from Wikipedia winner marks; caller not identified. Verifier: Pulido's Wikipedia page confirms the self-described conservative 'Blue Dog Democrat' branding and the win (member-elect) but lists no endorsements; endorsement list not independently confirmed.",
+   "verified": true
+  },
+  {
+   "id": "TX-16",
+   "office": "House",
+   "state": "TX",
+   "district": 16,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Veronica Escobar",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Incumbent; member of both the Congressional Progressive Caucus and New Democrat Coalition (Wikipedia caucus lists); AFL-CIO, J Street, Planned Parenthood endorsements; unopposed primary.",
+    "background": "Incumbent since 2019; former El Paso County judge",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Adam Bauman",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 70.8,
+    "rep_pct": 29.2,
+    "other_pct": 0.0,
+    "margin": 41.6,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 16.43,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 25.17,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-16-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "TX-17",
+   "office": "House",
+   "state": "TX",
+   "district": 17,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Casey Shepard",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Attorney; beat AFL-CIO-backed Milah Flores 60-40 in runoff; Austin American-Statesman endorsement.",
+    "background": "Attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Pete Sessions",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.4,
+    "rep_pct": 53.6,
+    "other_pct": 0.0,
+    "margin": -7.2,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -21.66,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 14.46,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-17-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null
+  },
+  {
+   "id": "TX-18",
+   "office": "House",
+   "state": "TX",
+   "district": 18,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Christian Menefee",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Young ex-Harris County attorney who won 2026 special; CPC member; beat fellow Rep. Al Green (backed by CBC elders, Gene Wu, Lina Hidalgo) 69-31 in runoff with Crockett and PCCC support; generational rather than ideological contest.",
+    "background": "Former Harris County attorney; won Jan. 2026 special election",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Member-vs-member primary after redistricting: Menefee beat Rep. Al Green 46.0-44.2 then 69.3-30.7 in runoff; framed by endorsements as generational change rather than left vs center."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ronald Whitfield",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 86,
+    "rep_pct": 14,
+    "other_pct": 0.0,
+    "margin": 72,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 54.97,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 17.03,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-18-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus"
+   ],
+   "notes": "Tier 1 as a notable primary case (incumbent-vs-incumbent).",
+   "verified": true
+  },
+  {
+   "id": "TX-19",
+   "office": "House",
+   "state": "TX",
+   "district": 19,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kyle Rable",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Little-known challenger",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tom Sell",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 30.5,
+    "rep_pct": 69.5,
+    "other_pct": 0.0,
+    "margin": -39.0,
+    "pct_expected_vote_counted": 97.6,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -51.69,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 12.69,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-19-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Open: Jodey Arrington retired. Tier 1 by open-seat rule but safe R (Trump +51.7); light coverage.",
+   "verified": true
+  },
+  {
+   "id": "TX-20",
+   "office": "House",
+   "state": "TX",
+   "district": 20,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Joaquin Castro",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Incumbent; member of both the Congressional Progressive Caucus and New Democrat Coalition (Wikipedia caucus lists); conventional party figure.",
+    "background": "Incumbent since 2013",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Edgardo Baez",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 77.6,
+    "rep_pct": 22.4,
+    "other_pct": 0.0,
+    "margin": 55.2,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 28.53,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 26.67,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-20-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition"
+   ],
+   "notes": null
+  },
+  {
+   "id": "TX-21",
+   "office": "House",
+   "state": "TX",
+   "district": 21,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kristin Hook",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Scientist and 2024 nominee; endorsed by Texas AFL-CIO, Austin Chronicle, San Antonio Express-News; no caucus or insurgent branding found.",
+    "background": "Scientist; 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mark Teixeira",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 45.5,
+    "rep_pct": 54.5,
+    "other_pct": 0.0,
+    "margin": -9.0,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -21.84,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 12.84,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-21-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Open: Chip Roy ran for attorney general (lost primary). Teixeira is a Trump-endorsed former MLB player. NBC page last updated 10:56 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "TX-22",
+   "office": "House",
+   "state": "TX",
+   "district": 22,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Marquette Greene-Scott",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Iowa Colony city councilor, 2024 nominee; Texas AFL-CIO and Houston Chronicle endorsements; won primary with 54.6%.",
+    "background": "Iowa Colony city councilor; 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Trever Nehls",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 48.2,
+    "rep_pct": 51.8,
+    "other_pct": 0.0,
+    "margin": -3.6,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -22.27,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.67,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-22-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Open: Troy Nehls retired; his twin brother Trever (ex-constable) is the Trump-endorsed nominee. Uncalled; NBC says Greene-Scott needs 99% of the remaining vote.",
+   "verified": true
+  },
+  {
+   "id": "TX-23",
+   "office": "House",
+   "state": "TX",
+   "district": 23,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Katy Padilla Stout",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Ex-teacher turned foster-care children's attorney; endorsed by Texas AFL-CIO, ex-Rep. Charlie Gonzalez, Express-News; ran on working families, rural and border issues; heavy ads on Herrera's gun-video record.",
+    "background": "Former teacher; child-welfare attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 4-way primary with 52.1% over 2024 nominee Santos Limon."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brandon Herrera",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "extreme_statements"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.1,
+    "rep_pct": 44.0,
+    "other_pct": 3.9,
+    "margin": 8.1,
+    "pct_expected_vote_counted": 98.9,
+    "called": "D",
+    "called_by": "NBC News (projected-winner marker for Padilla Stout on NBC results page, 11:03 AM ET Nov 4); Wikipedia also lists her as member-elect",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -14.83,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 22.93,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-23-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/Katy_Padilla_Stout",
+    "https://en.wikipedia.org/wiki/Brandon_Herrera",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/Tony_Gonzales"
+   ],
+   "notes": "Democratic flip of a vacant R seat: Rep. Tony Gonzales dropped his campaign after admitting an affair with an aide and announced his resignation April 13, 2026, effective April 14 (Wikipedia: Tony_Gonzales). Herrera is a gun YouTuber and firearms maker (Trump-endorsed); the Dem campaign attacked a video he made at a Uvalde County range (Wikipedia). Wikipedia infobox shows Padilla Stout winning; caller not identified. Verifier: Gonzales ended his campaign March 5, 2026 after admitting the affair March 4 (Wikipedia).",
+   "verified": true
+  },
+  {
+   "id": "TX-24",
+   "office": "House",
+   "state": "TX",
+   "district": 24,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kevin Burge",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "IT security specialist; Texas AFL-CIO endorsement; won runoff 78-22; Rep. Julie Johnson declined to run here.",
+    "background": "IT security specialist",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Beth Van Duyne",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.6,
+    "rep_pct": 53.4,
+    "other_pct": 0.0,
+    "margin": -6.8,
+    "pct_expected_vote_counted": 96.5,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -16.13,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 9.33,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-24-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Within 20 pts of 2024 presidential margin, hence tier 1. Smallest Texas swing toward Democrats among R-held seats (NBC: 9.53 pts).",
+   "verified": true
+  },
+  {
+   "id": "TX-25",
+   "office": "House",
+   "state": "TX",
+   "district": 25,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dione Sims",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Nonprofit founder",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Roger Williams",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.3,
+    "rep_pct": 53.7,
+    "other_pct": 0.0,
+    "margin": -7.4,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -24.08,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 16.68,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-25-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Two incumbents drawn in (Williams R, Marc Veasey D); Veasey did not run."
+  },
+  {
+   "id": "TX-26",
+   "office": "House",
+   "state": "TX",
+   "district": 26,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Steven Shook",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Little-known challenger",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brandon Gill",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 44.2,
+    "rep_pct": 54.5,
+    "other_pct": 1.3,
+    "margin": -10.3,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "NBC News results page lists Gill in projected-winner position (11:20 AM ET Nov 4); Wikipedia winner mark",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.83,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 13.53,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-26-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "TX-27",
+   "office": "House",
+   "state": "TX",
+   "district": 27,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Tanya Lloyd",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Teacher and 2024 nominee; endorsed by Texas AFL-CIO, Track AIPAC (progressive anti-AIPAC group), Austin Chronicle and Statesman.",
+    "background": "Teacher; 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michael Cloud",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.8,
+    "rep_pct": 51.2,
+    "other_pct": 0.0,
+    "margin": -2.4,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -21.23,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.83,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-27-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Tier 1 added because result within 3 pts in a Trump +21.2 seat. Uncalled on Wikipedia; NBC says Lloyd would need 100% of the remaining vote.",
+   "verified": true
+  },
+  {
+   "id": "TX-28",
+   "office": "House",
+   "state": "TX",
+   "district": 28,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Henry Cuellar",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "conservative",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Incumbent; Blue Dog Coalition, New Democrat Coalition and Problem Solvers Caucus member (Wikipedia caucus lists); AIPAC and DMFI endorsements; long-time conservative Democrat on abortion and border.",
+    "background": "Incumbent since 2005; Laredo attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat physician Ricardo Villarreal 58.1-37.0; ideological framing of that primary not established."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tano Tijerina",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.8,
+    "rep_pct": 29.6,
+    "other_pct": 4.6,
+    "margin": 36.2,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -10.38,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 46.58,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-28-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus"
+   ],
+   "notes": "Seat redrawn to Trump +10.4 as a GOP target; Cuellar ran 46.59 pts ahead of the 2024 presidential margin (NBC), the largest overperformance in this file.",
+   "verified": true
+  },
+  {
+   "id": "TX-29",
+   "office": "House",
+   "state": "TX",
+   "district": 29,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sylvia Garcia",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; mainstream party-line Democrat; not on the CPC or New Dem member lists checked.",
+    "background": "Incumbent since 2019",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Martha Fierro",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 79.9,
+    "rep_pct": 20.1,
+    "other_pct": 0.0,
+    "margin": 59.8,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 30.45,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 29.35,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-29-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "TX-30",
+   "office": "House",
+   "state": "TX",
+   "district": 30,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Frederick Haynes III",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Pastor, ex-Rainbow/PUSH CEO; endorsed by Justice Democrats, Our Revolution, CPC PAC, Jayapal, Casar, Frost, Crockett, plus Texas AFL-CIO, AFT and Dallas Morning News.",
+    "background": "Dallas pastor; former Rainbow/PUSH president",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 72.6% over perennial candidate Barbara Mallory Caraway."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Everett Jackson",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 82.6,
+    "rep_pct": 17.4,
+    "other_pct": 0.0,
+    "margin": 65.2,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 47.17,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.03,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-30-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Open: Jasmine Crockett ran for Senate. Wikipedia treats this as a new seat ('Democratic gain' is a numbering artifact); D-held number before and after.",
+   "verified": true
+  },
+  {
+   "id": "TX-31",
+   "office": "House",
+   "state": "TX",
+   "district": 31,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Justin Early",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Little-known challenger",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John Carter",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 44.8,
+    "rep_pct": 53.8,
+    "other_pct": 1.4,
+    "margin": -9.0,
+    "pct_expected_vote_counted": 98.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -21.88,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 12.88,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-31-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "TX-32",
+   "office": "House",
+   "state": "TX",
+   "district": 32,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dan Barrios",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Richardson city councilor; endorsed by Colin Allred, Rep. Julie Johnson and Dallas Morning News; conventional local-officeholder profile.",
+    "background": "Richardson city councilor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat EMT Anthony Bridges 60.4-39.6."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jace Yarbrough",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 48.5,
+    "rep_pct": 51.5,
+    "other_pct": 0.0,
+    "margin": -3.0,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": true,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -17.79,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 14.79,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-32-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "GOP-map target: number previously held by Democrat Julie Johnson; redrawn to Trump +17.8. Wikipedia lists it as a new seat, so incumbent_party D refers to the prior holder. Uncalled; Yarbrough leads, NBC says Barrios needs 77.3% of the remaining ~15,000 votes. A Yarbrough win would be the GOP's only Texas gain from the map.",
+   "verified": true
+  },
+  {
+   "id": "TX-33",
+   "office": "House",
+   "state": "TX",
+   "district": 33,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Colin Allred",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Former Rep. and 2024 Senate nominee; endorsed by Crockett, Dallas Morning News, J Street; beat Rep. Julie Johnson (backed by Jeffries, AOC and dozens of House Dems) 54-46 in runoff.",
+    "background": "Former congressman; 2024 U.S. Senate nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Allred vs. Rep. Julie Johnson runoff 54.0-46.0; establishment vs establishment rather than an ideological fight. Sunrise/PDA-backed Zeeshan Hafeez eliminated in round one."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Patrick Gillespie",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 78.6,
+    "rep_pct": 21.4,
+    "other_pct": 0.0,
+    "margin": 57.2,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 32.75,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 24.45,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-33-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Open: Crockett, redistricted here, ran for Senate.",
+   "verified": true
+  },
+  {
+   "id": "TX-34",
+   "office": "House",
+   "state": "TX",
+   "district": 34,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Vicente Gonzalez",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Incumbent; Blue Dog Coalition co-chair and New Democrat/Problem Solvers member (Wikipedia caucus pages); AIPAC, DMFI, NEA, Latino Victory endorsements; beat DSA-endorsed challenger.",
+    "background": "Incumbent since 2017; attorney",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat DSA Rio Grande Valley-endorsed Etienne Rosas 62.7-37.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Eric Flores",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 55.6,
+    "rep_pct": 39.8,
+    "other_pct": 4.6,
+    "margin": 15.8,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -10.14,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 25.94,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-34-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://en.wikipedia.org/wiki/Problem_Solvers_Caucus"
+   ],
+   "notes": "Redrawn to Trump +10.1 as a GOP target. NBC showed 3 of 4 candidates (Eddie Espinoza, labeled I by NBC, 2.3%; a further candidate is on the ballot); other_pct = 100 - D - R. Verifier: earlier note called the 2.3% candidate 'Green'; party not confirmed (NBC labels most third-party candidates 'I').",
+   "verified": true
+  },
+  {
+   "id": "TX-35",
+   "office": "House",
+   "state": "TX",
+   "district": 35,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Johnny Garcia",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Bexar County sheriff's deputy; endorsed by Blue Dog PAC, DCCC Red to Blue, DMFI, Buttigieg, and (after Galindo's antisemitic remarks) AOC, Casar, Castro, Talarico, Hinojosa.",
+    "background": "Bexar County sheriff's deputy",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Runoff 63.8-36.2 over Maureen Galindo, who led round one but was condemned by Democrats for antisemitic remarks (pledged 'prison for American Zionists'); left vs center plus a fringe-candidate problem."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Carlos De La Cruz",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 55.4,
+    "rep_pct": 44.6,
+    "other_pct": 0.0,
+    "margin": 10.8,
+    "pct_expected_vote_counted": 97.2,
+    "called": "D",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -10.46,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 21.26,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-35-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/Johnny_Garcia_(politician)",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Seat redrawn from Greg Casar's district to Trump +10.5 as a GOP target; Wikipedia treats it as a new seat (incumbent_party D = prior holder). Wikipedia lists Garcia as winner; caller not identified. GOP nominee is Rep. Monica De La Cruz's brother.",
+   "verified": true
+  },
+  {
+   "id": "TX-36",
+   "office": "House",
+   "state": "TX",
+   "district": 36,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rhonda Hart",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "2024 TX-14 nominee; beat AFL-CIO-backed accountant 64-36; no caucus or insurgent endorsements listed.",
+    "background": "Homemaker; 2024 TX-14 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brian Babin",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.4,
+    "rep_pct": 53.6,
+    "other_pct": 0.0,
+    "margin": -7.2,
+    "pct_expected_vote_counted": 98.8,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -24.99,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 17.79,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-36-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null
+  },
+  {
+   "id": "TX-37",
+   "office": "House",
+   "state": "TX",
+   "district": 37,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Greg Casar",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "establishment",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Chair of the Congressional Progressive Caucus; Justice Democrats and PDA endorsements; also backed by AFL-CIO, NEA, Statesman, Talarico, Mayor Kirk Watson; Lloyd Doggett retired so Casar could run here.",
+    "background": "Incumbent (TX-35) since 2023; CPC chair; ex-Austin councilmember",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Moved from TX-35 after redistricting; Doggett withdrew. Beat Esther Fleharty 80.7-19.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Lauren Peña",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 83.8,
+    "rep_pct": 16.2,
+    "other_pct": 0.0,
+    "margin": 67.6,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 56.61,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 10.99,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-37-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus"
+   ],
+   "notes": "Tier 1 as a notable left (CPC chair, Justice Democrats) case. Wikipedia's 'Democratic loss' label for this row reflects Doggett retiring; Casar holds it. Smallest Dem swing in TX (NBC: 9.83 pts), ceiling effect in a Harris +56.6 seat.",
+   "verified": true
+  },
+  {
+   "id": "TX-38",
+   "office": "House",
+   "state": "TX",
+   "district": 38,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Melissa McDonough",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Realtor and 2024 nominee; Houston Chronicle endorsement; beat AFL-CIO and Sylvia Garcia-backed ex-mayoral chief of staff Marvalette Hunter.",
+    "background": "Realtor; 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jon Bonck",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 47.3,
+    "rep_pct": 51.5,
+    "other_pct": 1.1,
+    "margin": -4.2,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -20.92,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 16.72,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://www.nbcnews.com/politics/2026-elections/texas-us-house-district-38-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Open: Wesley Hunt ran for Senate. Bonck is Trump-endorsed per Wikipedia. Uncalled; NBC says McDonough needs 100% of the remaining vote.",
+   "verified": true
+  },
+  {
+   "id": "OK-1",
+   "office": "House",
+   "state": "OK",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "John Croisant",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Tulsa school board member; unopposed after rival withdrew; no caucus or insurgent endorsements listed.",
+    "background": "Tulsa school board member",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mark Tedford",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 47.68,
+    "rep_pct": 52.32,
+    "other_pct": 0.0,
+    "margin": -4.64,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -21.53,
+    "lines": "2024_same",
+    "house2024_margin": -25.9,
+    "prev_seat_margin": -25.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.89,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://www.nbcnews.com/politics/2026-elections/oklahoma-us-house-district-1-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://en.wikipedia.org/wiki/Mark_Tedford"
+   ],
+   "notes": "Open: Kevin Hern ran for Senate. Tedford (state rep) became nominee when Lahmeyer quit the runoff; Trump endorsed Lahmeyer then revoked it, and Tedford is now Trump-endorsed (Wikipedia). Percentages from Wikipedia certified-style table (vote counts 121,260-110,521), matching NBC 52.3/47.7.",
+   "verified": true
+  },
+  {
+   "id": "OK-2",
+   "office": "House",
+   "state": "OK",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Brandon Wade",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Machinery assembler and repeat nominee (2022 Senate candidate, 2024 nominee); working-class background but no populist or insurgent branding found.",
+    "background": "Machinery assembler; 2024 nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Josh Brecheen",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 28.97,
+    "rep_pct": 67.96,
+    "other_pct": 3.07,
+    "margin": -38.99,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -55.62,
+    "lines": "2024_same",
+    "house2024_margin": -52.74,
+    "prev_seat_margin": -52.74,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.63,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://www.nbcnews.com/politics/2026-elections/oklahoma-us-house-district-2-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "OK-3",
+   "office": "House",
+   "state": "OK",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Suzie Byrd",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Enid newspaper reporter",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Frank Lucas",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 36.03,
+    "rep_pct": 63.97,
+    "other_pct": 0.0,
+    "margin": -27.94,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -45.54,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 17.6,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://www.nbcnews.com/politics/2026-elections/oklahoma-us-house-district-3-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Lucas was unopposed in 2024, so house2024/prev_seat margins are null.",
+   "verified": true
+  },
+  {
+   "id": "OK-4",
+   "office": "House",
+   "state": "OK",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mitchell Jacob",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "2024 state house nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tom Cole",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 39.2,
+    "rep_pct": 57.9,
+    "other_pct": 2.9,
+    "margin": -18.7,
+    "pct_expected_vote_counted": 95.7,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -33.24,
+    "lines": "2024_same",
+    "house2024_margin": -36.98,
+    "prev_seat_margin": -36.98,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.54,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://www.nbcnews.com/politics/2026-elections/oklahoma-us-house-district-4-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "OK-5",
+   "office": "House",
+   "state": "OK",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jena Nelson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "2020 Oklahoma Teacher of the Year and 2022 nominee for state schools superintendent; National Women's Political Caucus endorsement; beat the Sanders/Our Revolution-backed ironworkers' union president.",
+    "background": "Teacher; 2022 superintendent nominee",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Ironworkers Local 48 president Trey Martin (endorsed by Bernie Sanders and Our Revolution) 56.7-43.3: a labor-populist insurgent lost to a mainstream education candidate."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Stephanie Bice",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.2,
+    "rep_pct": 49.5,
+    "other_pct": 2.3,
+    "margin": -1.3,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -17.72,
+    "lines": "2024_same",
+    "house2024_margin": -21.38,
+    "prev_seat_margin": -21.38,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.45,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://www.nbcnews.com/politics/2026-elections/oklahoma-us-house-district-5-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Oklahoma"
+   ],
+   "notes": "Uncalled on Wikipedia (Bice renominated, no winner mark) though Bice leads by about 3,400 votes at 99% (Wikipedia: 130,972-127,608). Tier 1: within 20 pts of 2024 presidential margin.",
+   "verified": true
+  },
+  {
+   "id": "AR-1",
+   "office": "House",
+   "state": "AR",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Terri Yarbrough Green",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Retired pathologist",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rick Crawford",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 31.0,
+    "rep_pct": 65.5,
+    "other_pct": 3.6,
+    "margin": -34.5,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -45.29,
+    "lines": "2024_same",
+    "house2024_margin": -48.9,
+    "prev_seat_margin": -48.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.79,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas",
+    "https://www.nbcnews.com/politics/2026-elections/arkansas-us-house-district-1-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arkansas",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "AR-2",
+   "office": "House",
+   "state": "AR",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chris Jones",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Nuclear engineer, minister's son, 2022 governor nominee; endorsed by Pete Buttigieg and Kamala Harris; DCCC Red to Blue; no caucus or insurgent branding.",
+    "background": "Nuclear engineer; 2022 governor nominee",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won primary 92.6% over educator Zack Huffman."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "French Hill",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 49.1,
+    "rep_pct": 50.9,
+    "other_pct": 0.0,
+    "margin": -1.8,
+    "pct_expected_vote_counted": 99,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -15.53,
+    "lines": "2024_same",
+    "house2024_margin": -17.8,
+    "prev_seat_margin": -17.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.73,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas",
+    "https://www.nbcnews.com/politics/2026-elections/arkansas-us-house-district-2-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arkansas",
+    "https://en.wikipedia.org/wiki/Chris_Jones_(Arkansas_politician)"
+   ],
+   "notes": "Uncalled on Wikipedia; Hill leads 50.9-49.1 at 99% (NBC).",
+   "verified": true
+  },
+  {
+   "id": "AR-3",
+   "office": "House",
+   "state": "AR",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Robb Ryerse",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Pastor and former Republican (ran in 2018 GOP primary for this seat); endorsed by Vote Common Good and Track AIPAC.",
+    "background": "Pastor; former Republican candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Steve Womack",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 41.5,
+    "rep_pct": 54.9,
+    "other_pct": 3.6,
+    "margin": -13.4,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -24.89,
+    "lines": "2024_same",
+    "house2024_margin": -32.0,
+    "prev_seat_margin": -32.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.49,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas",
+    "https://www.nbcnews.com/politics/2026-elections/arkansas-us-house-district-3-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arkansas",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null,
+   "verified": true
+  },
+  {
+   "id": "AR-4",
+   "office": "House",
+   "state": "AR",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "James Russell",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little-known nominee; Wikipedia primary listing shows no caucus, insurgent-group or centrist-group endorsements; classified as party-line by default.",
+    "background": "Mental health advocate; 2022 governor candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Bruce Westerman",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 34.5,
+    "rep_pct": 65.5,
+    "other_pct": 0.0,
+    "margin": -31.0,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "Not identified: Wikipedia lists the winner (seat-change list or check mark); NBC pages showed no projection label at ~11:04 AM ET Nov 4",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -39.91,
+    "lines": "2024_same",
+    "house2024_margin": -45.8,
+    "prev_seat_margin": -45.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 8.91,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas",
+    "https://www.nbcnews.com/politics/2026-elections/arkansas-us-house-district-4-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arkansas",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": null
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T16:22:00Z",
+  "checked_items": 38,
+  "method": "All 25 tier-1 rows and 13 tier-2 rows re-read against NBC results pages (11:03-11:20 AM ET); OK-1/2/3 and OK-5 vote counts cross-checked against Wikipedia OK page totals; all 47 pres2024 baselines matched exactly to The Downballot CSV export; margin and overperformance arithmetic recomputed for all 47 rows (no errors); 47 unique rows confirmed; archetypes re-derived from ideology/posture (all consistent); caucus claims checked against Wikipedia CPC, NDC and Blue Dog lists; TX-2, TX-15, TX-18, TX-23, TX-9 narrative claims checked on candidate Wikipedia pages.",
+  "corrections": [
+   "TX-7: style_evidence contradicted the moderate classification; rewritten to cite NDC membership as rubric basis (archetype unchanged)",
+   "TX-23: called_by updated to NBC projected-winner marker; resignation date clarified (announced Apr 13, effective Apr 14)",
+   "TX-9: called_by updated to Mealer concession (FOX 26 via Wikipedia)",
+   "TX-26: called_by updated to NBC projected-winner position",
+   "TX-34: third-party candidate named (Eddie Espinoza); unconfirmed 'Green' party label removed",
+   "Added NBC district result URLs to sources of all 38 verified rows"
+  ],
+  "unresolved": [
+   "Calls for most races rest on Wikipedia winner marks; AP/DDHQ calls could not be independently confirmed (apnews.com, politico.com unfetchable, CNN 451, web-search budget exhausted)",
+   "NBC-stated shifts vs 2024 differ from computed overperformance by up to ~0.8 pt (OK-4 15.33 vs 14.54; OK-1 17.37 vs 16.89); Downballot baselines kept since they are verified, NBC baseline method unknown",
+   "No newer counts than ~11:20 AM ET found; uncalled TX-2, TX-5, TX-22, TX-27, TX-32, TX-38, OK-5, AR-2 remain uncalled",
+   "Per-candidate raw vote counts not shown on NBC pages; Texas/Arkansas shares are NBC rounded percentages",
+   "TX-15 Pulido and TX-23 Padilla Stout endorsement lists not confirmed by their Wikipedia pages",
+   "9 tier-2 rows (TX-6, 11, 12, 14, 17, 20, 25, 36, AR-4) not re-checked for vote share beyond baseline and arithmetic"
+  ]
+ }
+}

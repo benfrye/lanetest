@@ -1,0 +1,3138 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "scope": "California (52) - note the Prop 50 map adopted Nov 2025 for 2026; top-two system can produce D-vs-D generals",
+ "expected_rows": 52,
+ "races": [
+  {
+   "id": "CA-1",
+   "office": "House",
+   "state": "CA",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mike McGuire",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Former state Senate president pro tem; endorsed by Newsom, Pelosi, Padilla, Schiff, CA Democratic Party, CA Labor Federation, SEIU, National Nurses United. Conventional party-recruited candidate; lost June 2026 special on old lines.",
+    "background": "Former California Senate president pro tem; North Coast state senator since 2014",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Top-two primary: Gallagher (R) 42.2, McGuire 41.8, Audrey Denney (D; Our Revolution, PDA, Progressive Victory-endorsed) 14.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "James Gallagher",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 57.0,
+    "rep_pct": 43.0,
+    "other_pct": 0.0,
+    "margin": 14.0,
+    "pct_expected_vote_counted": 50.1,
+    "called": "D",
+    "called_by": "NBC News Decision Desk",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": 12.22,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 1.8,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/1",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_1",
+    "https://en.wikipedia.org/wiki/Mike_McGuire_(politician)",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://en.wikipedia.org/wiki/2026_California%27s_1st_congressional_district_special_election"
+   ],
+   "notes": "Seat won by Gallagher (R) in June 2, 2026 special on pre-Prop 50 lines after LaMalfa death; McGuire flips it on new Harris+12 lines. NBC flags as Dem gain. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (788 of 788) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (50.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: LaMalfa death and Trump endorsement of Gallagher in special confirmed via Wikipedia special-election article.",
+   "verified": true
+  },
+  {
+   "id": "CA-2",
+   "office": "House",
+   "state": "CA",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jared Huffman",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Progressive Caucus member; endorsed by CA Democratic Party, CA Labor Federation, Sierra Club, LCV. Party-line incumbent.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Robin Littau",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 66.4,
+    "rep_pct": 33.6,
+    "other_pct": 0.0,
+    "margin": 32.8,
+    "pct_expected_vote_counted": 50.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 24.64,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 9.2,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/2",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_2",
+    "https://en.wikipedia.org/wiki/Jared_Huffman",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "SOS and NBC vote totals differ slightly (NBC: Huffman 105,910, Littau 50,258); SOS used. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (96.1% (572 of 595) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (48.5%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-3",
+   "office": "House",
+   "state": "CA",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ami Bera",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition member (vice chair of outreach); CA Democratic Party endorsement; conventional incumbent message. New Dem membership alone does not meet moderate (centrist-branding) bar.",
+    "background": "Incumbent U.S. representative, physician",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Primary: Bera 34.3, Tucker (R) 29.9, Heidi Hall (D) 12.8; DSA/PDA-backed Chris Bennett also ran."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Robb Tucker",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 57.1,
+    "rep_pct": 42.9,
+    "other_pct": 0.0,
+    "margin": 14.2,
+    "pct_expected_vote_counted": 49.4,
+    "called": "D",
+    "called_by": "NBC News Decision Desk",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 10.16,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 4.0,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/3",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_3",
+    "https://en.wikipedia.org/wiki/Ami_Bera",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Bera moved from old CA-6 to new CA-3 (Harris+10). Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (531 of 531) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (49.4%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-4",
+   "office": "House",
+   "state": "CA",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": true,
+   "uncontested": false,
+   "dem": {
+    "name": "Eric Jones",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "medium",
+    "style_evidence": "Calls himself \"the anti-establishment candidate\"; pledged no corporate PAC/lobbyist money; anti-corruption and term-limits message; pressed Thompson from left on health care and defense spending but rejects Sanders-AOC wing. Our Revolution, Khanna endorsed.",
+    "background": "Venture capital investor/business owner, 35, Napa; heavily self-funded ($5.16M of $8.13M raised through May 2026 per FEC via Wikipedia)",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Primary: Thompson 41.0, Jones 22.2, Riehle (R) 20.7; Riehle later endorsed Jones."
+   },
+   "alt_dem": {
+    "name": "Mike Thompson",
+    "archetype": "moderate",
+    "pct": 48.5
+   },
+   "rep": null,
+   "result": {
+    "dem_pct": 51.5,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 40.8,
+    "called": "D",
+    "called_by": "implied: same-party top-two general (NBC has no candidate projection)",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 14.5,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/4",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_4",
+    "https://en.wikipedia.org/wiki/Mike_Thompson",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057",
+    "https://ourrevolution.com/eric-jones-for-ca-4/",
+    "https://www.pressdemocrat.com/2026/08/17/surprising-congressional-endorsement-for-eric-jones-republican-ray-riehle-who-he-beat-in-june/"
+   ],
+   "notes": "D-vs-D general. Challenger Jones leads Blue Dog incumbent Mike Thompson 51.5-48.5 (uncalled), likely with Republican voters (no R on ballot). Thompson: Blue Dog Coalition; endorsed by Jeffries, Pelosi, Newsom, 55 House members. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (500 of 500) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (40.7%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: style reclassified from placeholder mainstream_liberal to left_populist (Press Democrat: self-described anti-establishment candidate; Our Revolution page: no corporate PAC pledge). NBC shows Jones 61,929 (51.8%) vs SOS 61,299 (51.5%) with identical Thompson total; SOS figure kept, NBC figure may be a transposition or later update. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-5",
+   "office": "House",
+   "state": "CA",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Michael Masuda",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Engineer; endorsed by CA Democratic Party, CA Labor Federation, Progressive Democrats of America, Sen. Andy Kim. Little campaign coverage found.",
+    "background": "Engineer",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tom McClintock",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 44,
+    "rep_pct": 56,
+    "other_pct": 0.0,
+    "margin": -12,
+    "pct_expected_vote_counted": 62.3,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -20.7,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 8.3,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/5",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_5",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Trump+20.7 on new lines (just outside tier-1 cutoff); Masuda held McClintock to ~12.4. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (399 of 399) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (61.2%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-6",
+   "office": "House",
+   "state": "CA",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Richard Pan",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Pediatrician and former state senator (vaccine-mandate author); endorsed by Kamala Harris, Xavier Becerra, CA Democratic Party, Sacramento Bee. Conventional establishment candidate.",
+    "background": "Pediatrician; former state senator (2014-2022)",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Primary: Kiley (NPP) 24.3, Pan 23.2, Stansfield (R) 20.1, Lauren Babb Tomlinson (D) 12.3; Blue Dog PAC backed DA Thien Ho."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kevin Kiley",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "ran_as_no_party_preference"
+    ]
+   },
+   "result": {
+    "dem_pct": 57.5,
+    "rep_pct": 42.5,
+    "other_pct": 0.0,
+    "margin": 15.0,
+    "pct_expected_vote_counted": 50.1,
+    "called": "D",
+    "called_by": "NBC News Decision Desk",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": 8.4,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 6.6,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/6",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_6",
+    "https://en.wikipedia.org/wiki/Richard_Pan",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Opponent Kevin Kiley is not a Republican nominee: incumbent (elected as R in 2024) re-registered No Party Preference and ran as such; caucuses with House Republicans. rep_pct is Kiley share. NBC flags Dem gain. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (309 of 309) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (50.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: Wikipedia lists Kiley as Independent (NPP) who continues to caucus with House Republicans; incumbent_party left as R (party under which seat was won in 2024); NBC isGain=true.",
+   "verified": true
+  },
+  {
+   "id": "CA-7",
+   "office": "House",
+   "state": "CA",
+   "district": 7,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": true,
+   "uncontested": false,
+   "dem": {
+    "name": "Doris Matsui",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Longtime incumbent; endorsed by Pelosi, Newsom, Padilla, Schiff, CA Democratic Party, CA Labor Federation, LCV, Planned Parenthood.",
+    "background": "Incumbent U.S. representative since 2005",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Primary: DSA/Justice Democrats-backed Mai Vang 31.2 finished first, Matsui 29.1."
+   },
+   "alt_dem": {
+    "name": "Mai Vang",
+    "archetype": "progressive",
+    "pct": 42.6
+   },
+   "rep": null,
+   "result": {
+    "dem_pct": 57.4,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 41.1,
+    "called": "D",
+    "called_by": "Seat certain D (D-vs-D top-two general); candidate race not yet called by NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 12.81,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/7",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_7",
+    "https://en.wikipedia.org/wiki/Doris_Matsui",
+    "https://en.wikipedia.org/wiki/Mai_Vang",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "D-vs-D general (uncalled). Mai Vang: Sacramento councilmember endorsed by Sacramento DSA, Justice Democrats, Working Families, Sunrise, Sanders, Ro Khanna, SEIU California. Vang led primary but trails Matsui 42.6-57.4. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (414 of 414) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (41.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-8",
+   "office": "House",
+   "state": "CA",
+   "district": 8,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "John Garamendi",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Progressive Caucus member; CA Democratic Party endorsement; veteran officeholder.",
+    "background": "Incumbent U.S. representative, former lieutenant governor",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rudy Recile",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 71.9,
+    "rep_pct": 28.1,
+    "other_pct": 0.0,
+    "margin": 43.8,
+    "pct_expected_vote_counted": 72.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 34.06,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 10.5,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/8",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_8",
+    "https://en.wikipedia.org/wiki/John_Garamendi",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (396 of 396) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (64.5%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-9",
+   "office": "House",
+   "state": "CA",
+   "district": 9,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Josh Harder",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition and Problem Solvers Caucus member; endorsed by CA Democratic Party, Democratic Majority for Israel.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John McBride",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.8,
+    "rep_pct": 34.2,
+    "other_pct": 0.0,
+    "margin": 31.6,
+    "pct_expected_vote_counted": 55.6,
+    "called": "D",
+    "called_by": "NBC News Decision Desk",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 11.42,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 20.2,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/9",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_9",
+    "https://en.wikipedia.org/wiki/Josh_Harder",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (322 of 322) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (55.6%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-10",
+   "office": "House",
+   "state": "CA",
+   "district": 10,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mark DeSaulnier",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus member per bio citations; endorsed by Pelosi, CA Democratic Party.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jeff Frese",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 69.1,
+    "rep_pct": 30.9,
+    "other_pct": 0.0,
+    "margin": 38.2,
+    "pct_expected_vote_counted": 62.1,
+    "called": "D",
+    "called_by": "NBC News Decision Desk",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 33.55,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 4.7,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/10",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_10",
+    "https://en.wikipedia.org/wiki/Mark_DeSaulnier",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (728 of 728) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (62.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-11",
+   "office": "House",
+   "state": "CA",
+   "district": 11,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": true,
+   "uncontested": false,
+   "dem": {
+    "name": "Scott Wiener",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "YIMBY/abundance state senator; endorsed by Reps. Bera, Garcia, Nadler, Katie Porter, Tom Steyer, Public First Action. Ran against left flank (Chakrabarti, Chan).",
+    "background": "State senator since 2016; housing-supply (YIMBY) champion",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Primary: Wiener 40.7, Connie Chan 29.7, Saikat Chakrabarti (Justice Democrats, Sunrise) 17.9."
+   },
+   "alt_dem": {
+    "name": "Connie Chan",
+    "archetype": "progressive",
+    "pct": 44.6
+   },
+   "rep": null,
+   "result": {
+    "dem_pct": 55.4,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 57.4,
+    "called": "D",
+    "called_by": "implied: same-party top-two general (NBC has no candidate projection)",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 67.72,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/11",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_11",
+    "https://en.wikipedia.org/wiki/Scott_Wiener",
+    "https://en.wikipedia.org/wiki/Connie_Chan_(politician)",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Open seat (Pelosi retired). D-vs-D general, uncalled; Wiener leads 55.4-44.6. Chan: progressive SF supervisor endorsed by Jayapal, Khanna, Our Revolution, Indivisible SF, Track AIPAC and Pelosi. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (453 of 453) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (51.4%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-12",
+   "office": "House",
+   "state": "CA",
+   "district": 12,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": true,
+   "uncontested": false,
+   "dem": {
+    "name": "Lateefah Simon",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "establishment",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus vice chair; endorsed by California Working Families Party, Our Revolution, PDA, Track AIPAC plus CA Democratic Party and labor; backs Living Wage for All Act.",
+    "background": "Incumbent U.S. representative; civil-rights advocate",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": {
+    "name": "Jamie Joyce",
+    "archetype": "mainstream_liberal",
+    "pct": 20.2
+   },
+   "rep": null,
+   "result": {
+    "dem_pct": 79.8,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 52,
+    "called": "D",
+    "called_by": "NBC News Decision Desk projected Lateefah Simon (D-vs-D; seat certain D)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 73.89,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/12",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_12",
+    "https://en.wikipedia.org/wiki/Lateefah_Simon",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "D-vs-D general; NBC projected Simon. Joyce (nonprofit executive director) style not documented in sources; alt classified mainstream_liberal at low confidence. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (190 of 190) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (52%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-13",
+   "office": "House",
+   "state": "CA",
+   "district": 13,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Adam Gray",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Blue Dog Coalition whip; founded Problem Solvers caucus in Assembly; frequently votes with GOP (FY27 NDAA); launched anti-socialist Promise to America with Tom Suozzi; MoveOn rescinded endorsement.",
+    "background": "Incumbent; former state assemblymember, Central Valley water/agriculture focus",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kevin Lincoln",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 61.3,
+    "rep_pct": 38.7,
+    "other_pct": 0.0,
+    "margin": 22.6,
+    "pct_expected_vote_counted": 57.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 0.37,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 22.2,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/13",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_13",
+    "https://en.wikipedia.org/wiki/Adam_Gray",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Narrowest Harris seat (Harris+0.4); Gray leads by ~23 (uncalled). Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (974 of 974) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (57.2%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-14",
+   "office": "House",
+   "state": "CA",
+   "district": 14,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": true,
+   "uncontested": false,
+   "dem": {
+    "name": "Aisha Wahab",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Endorsed by Bernie Sanders, Newsom, Indivisible; Medicare for All supporter compared to AOC; calls YIMBY bills developer giveaways. Won Aug 2026 special to replace Swalwell.",
+    "background": "Incumbent since Sept 2026 special; ex-state senator; first Afghan American in Congress",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Primary: Wahab 38.3, Melissa Hernandez (New Dem Action Fund, CHC BOLD PAC) 17.2."
+   },
+   "alt_dem": {
+    "name": "Melissa Hernandez",
+    "archetype": "moderate",
+    "pct": 43.5
+   },
+   "rep": null,
+   "result": {
+    "dem_pct": 56.5,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 52.5,
+    "called": "D",
+    "called_by": "Seat certain D (D-vs-D top-two general); candidate race not yet called by NBC News",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 34.76,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/14",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_14",
+    "https://en.wikipedia.org/wiki/Aisha_Wahab",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "D-vs-D general (uncalled); Wahab leads 56.5-43.5. Swalwell resigned April 2026; Wahab won special. Hernandez endorsed by New Democrat Coalition Action Fund, Brad Schneider, Linda Sanchez. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (351 of 351) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (52.5%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-15",
+   "office": "House",
+   "state": "CA",
+   "district": 15,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kevin Mullin",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of both Progressive Caucus and New Democrat Coalition; CA Democratic Party endorsement.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Charles Hoelter",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 77.5,
+    "rep_pct": 22.5,
+    "other_pct": 0.0,
+    "margin": 55.0,
+    "pct_expected_vote_counted": 51.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 47.89,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 6.9,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/15",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_15",
+    "https://en.wikipedia.org/wiki/Kevin_Mullin",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (299 of 299) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (51.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-16",
+   "office": "House",
+   "state": "CA",
+   "district": 16,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sam Liccardo",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition and Problem Solvers Caucus member; former San Jose mayor with centrist reputation.",
+    "background": "Incumbent; former San Jose mayor",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Peter Sundin Soule",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 76,
+    "rep_pct": 24,
+    "other_pct": 0.0,
+    "margin": 52,
+    "pct_expected_vote_counted": 48.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 48.11,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 3.7,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/16",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_16",
+    "https://en.wikipedia.org/wiki/Sam_Liccardo",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (337 of 337) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (46.9%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-17",
+   "office": "House",
+   "state": "CA",
+   "district": 17,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ro Khanna",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus; endorsed by Justice Democrats, Working Families, PDA, Progressive Victory, Track AIPAC plus unions (NNU, Teamsters, UAW); prominent endorser of 2026 insurgents (Vang, Chan, Eric Jones).",
+    "background": "Incumbent U.S. representative; prominent progressive surrogate",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ritesh Tandon",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 70.6,
+    "rep_pct": 29.4,
+    "other_pct": 0.0,
+    "margin": 41.2,
+    "pct_expected_vote_counted": 48.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 38.97,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 2.0,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/17",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_17",
+    "https://en.wikipedia.org/wiki/Ro_Khanna",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Tier 1 as notable style case (Justice Democrats-endorsed). Safe seat (Harris+39). Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (241 of 241) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (46.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-18",
+   "office": "House",
+   "state": "CA",
+   "district": 18,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Zoe Lofgren",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Longtime incumbent; CA Democratic Party endorsement; bio cites Progressive Caucus activity.",
+    "background": "Incumbent U.S. representative since 1995",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Shane Lewis",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 71.7,
+    "rep_pct": 28.3,
+    "other_pct": 0.0,
+    "margin": 43.4,
+    "pct_expected_vote_counted": 55.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 28.45,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 14.9,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/18",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_18",
+    "https://en.wikipedia.org/wiki/Zoe_Lofgren",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (376 of 376) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (54.4%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-19",
+   "office": "House",
+   "state": "CA",
+   "district": 19,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jimmy Panetta",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "Listed in New Democrat Coalition, Problem Solvers Caucus and Progressive Caucus; endorsed by Democratic Majority for Israel, VoteVets, Ro Khanna.",
+    "background": "Incumbent; former Navy intelligence officer and prosecutor",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Peter Coe Verbica",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 71.9,
+    "rep_pct": 28.1,
+    "other_pct": 0.0,
+    "margin": 43.8,
+    "pct_expected_vote_counted": 57.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 34.41,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 9.6,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/19",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_19",
+    "https://en.wikipedia.org/wiki/Jimmy_Panetta",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (428 of 428) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (56.6%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-20",
+   "office": "House",
+   "state": "CA",
+   "district": 20,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sandra Van Scotter",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Community activist; no notable endorsements or ideological branding found in sources.",
+    "background": "Community activist",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Vince Fong",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 37.4,
+    "rep_pct": 62.6,
+    "other_pct": 0.0,
+    "margin": -25.2,
+    "pct_expected_vote_counted": 57.1,
+    "called": "R",
+    "called_by": "NBC News Decision Desk",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -32.23,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 7.0,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/20",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_20",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (764 of 764) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (57.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-21",
+   "office": "House",
+   "state": "CA",
+   "district": 21,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jim Costa",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Former Blue Dog Coalition chair; also New Democrat and Problem Solvers member; endorsed by Newsom, CA Democratic Party.",
+    "background": "Incumbent; longtime Central Valley officeholder",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kyle Kirkland",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.2,
+    "rep_pct": 37.8,
+    "other_pct": 0.0,
+    "margin": 24.4,
+    "pct_expected_vote_counted": 53.5,
+    "called": "D",
+    "called_by": "NBC News Decision Desk",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 5.97,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 18.4,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/21",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_21",
+    "https://en.wikipedia.org/wiki/Jim_Costa",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (323 of 323) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (53.5%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-22",
+   "office": "House",
+   "state": "CA",
+   "district": 22,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Randy Villegas",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "populist",
+    "archetype": "left_populist",
+    "style_confidence": "high",
+    "style_evidence": "Wikipedia: campaigned as \"progressive and left-wing economic populist\" (AP: populist); Medicare for All central; Sanders, AOC, CPC, WFP backing; beat DCCC-backed Bains despite $2.2M against him; DCCC endorsed him in September.",
+    "background": "Visalia school board trustee and college professor",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Primary: Valadao 40.7, Villegas 32.4, Jasmeet Bains (DCCC, Blue Dog, WelcomePAC, DMFI) 26.9; DCCC endorsed Villegas in September."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "David Valadao",
+    "incumbent": true,
+    "style": "moderate",
+    "quality_flags": [
+     "incumbent",
+     "voted_to_impeach_trump"
+    ]
+   },
+   "result": {
+    "dem_pct": 66.4,
+    "rep_pct": 33.6,
+    "other_pct": 0.0,
+    "margin": 32.8,
+    "pct_expected_vote_counted": 57.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -1.85,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 34.6,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/22",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_22",
+    "https://en.wikipedia.org/wiki/Randy_Villegas",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Uncalled at 57% expected vote despite Villegas +32.8 lead; flip pending call. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (575 of 575) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (57.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: archetype left_populist confirmed against Wikipedia (Randy Villegas article); posture kept populist despite post-primary DCCC endorsement. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-23",
+   "office": "House",
+   "state": "CA",
+   "district": 23,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Tessa Lynn Hodge",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Clinical social worker; endorsed by CA Democratic Party, Progressive Victory, Track AIPAC, Center for Biological Diversity. No populist or centrist branding found.",
+    "background": "Clinical social worker",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jay Obernolte",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.6,
+    "rep_pct": 51.4,
+    "other_pct": 0.0,
+    "margin": -2.8,
+    "pct_expected_vote_counted": 57.4,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -19.4,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 16.8,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/23",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_23",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Trump+19.4 seat; Obernolte leads only 51.3-48.7 (uncalled). Large Dem overperformance. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (1,324 of 1,324) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (57%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-24",
+   "office": "House",
+   "state": "CA",
+   "district": 24,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Salud Carbajal",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "New Democrat Coalition and Problem Solvers Caucus member; CA Democratic Party endorsement.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Bob Smith",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.8,
+    "rep_pct": 34.2,
+    "other_pct": 0.0,
+    "margin": 31.6,
+    "pct_expected_vote_counted": 59.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 24.94,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 6.7,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/24",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_24",
+    "https://en.wikipedia.org/wiki/Salud_Carbajal",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "SOS and NBC totals differ slightly (NBC: 108,231-56,044); SOS used. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (627 of 627) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (59.4%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-25",
+   "office": "House",
+   "state": "CA",
+   "district": 25,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Raul Ruiz",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Physician incumbent; endorsed by CA Democratic Party, DMFI, J Street; conventional message. No caucus data retrieved.",
+    "background": "Incumbent; emergency physician",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joe Males",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 64.7,
+    "rep_pct": 35.3,
+    "other_pct": 0.0,
+    "margin": 29.4,
+    "pct_expected_vote_counted": 50.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 5.81,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 23.0,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/25",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_25",
+    "https://en.wikipedia.org/wiki/Raul_Ruiz_(politician)",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (656 of 656) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (45.7%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-26",
+   "office": "House",
+   "state": "CA",
+   "district": 26,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jacqui Irwin",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Assemblymember endorsed by Newsom, Padilla, Schiff, outgoing Rep. Brownley, ~17 CA House members, CA Labor Federation, SEIU, CA Democratic Party.",
+    "background": "State assemblymember since 2014",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Primary: Irwin 41.3, Gallucci (R) 20.9, Chris Espinosa (D; PDA, Indivisible) 10.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Sam Gallucci",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 61.7,
+    "rep_pct": 38.3,
+    "other_pct": 0.0,
+    "margin": 23.4,
+    "pct_expected_vote_counted": 75.8,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 15.28,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 7.9,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/26",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)#District_26",
+    "https://en.wikipedia.org/wiki/Jacqui_Irwin",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Open seat (Brownley retired). SOS and NBC totals differ (NBC: 103,007-64,050); SOS used. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (1,087 of 1,087) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (70.7%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-27",
+   "office": "House",
+   "state": "CA",
+   "district": 27,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "George Whitesides",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition member; endorsed by CA Democratic Party, LCV, Planned Parenthood, AIPAC, End Citizens United. Former Virgin Galactic CEO.",
+    "background": "Incumbent; former Virgin Galactic CEO and NASA chief of staff",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jason Gibbs",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.1,
+    "rep_pct": 37.9,
+    "other_pct": 0.0,
+    "margin": 24.2,
+    "pct_expected_vote_counted": 72,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 9.73,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 13.7,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/27",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_27",
+    "https://en.wikipedia.org/wiki/George_T._Whitesides",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (378 of 378) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (68.7%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-28",
+   "office": "House",
+   "state": "CA",
+   "district": 28,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Judy Chu",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus vice chair, CAPAC chair; endorsed by Pelosi, Newsom, CA Democratic Party, PDA.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "April Verlato",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 69,
+    "rep_pct": 31,
+    "other_pct": 0.0,
+    "margin": 38,
+    "pct_expected_vote_counted": 68.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 25.28,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 11.5,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/28",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_28",
+    "https://en.wikipedia.org/wiki/Judy_Chu",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (391 of 391) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (62.6%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-29",
+   "office": "House",
+   "state": "CA",
+   "district": 29,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": true,
+   "uncontested": false,
+   "dem": {
+    "name": "Luz Rivas",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus and Hispanic Caucus member; endorsements include Jewish Democratic Council; conventional incumbent.",
+    "background": "Incumbent; engineer, former assemblymember",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Primary: Rivas 51.0, Angelica Maria Duenas (Feel the Bern SFV, Knock LA, Track AIPAC) 24.9."
+   },
+   "alt_dem": {
+    "name": "Angelica Maria Duenas",
+    "archetype": "progressive",
+    "pct": 39.8
+   },
+   "rep": null,
+   "result": {
+    "dem_pct": 60.2,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 72,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 33.64,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/29",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_29",
+    "https://en.wikipedia.org/wiki/Luz_Rivas",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "D-vs-D general; NBC projected Rivas 60.2-39.8. Duenas: perennial progressive insurgent, Sanders-aligned local groups. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (115 of 115) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (64.3%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-30",
+   "office": "House",
+   "state": "CA",
+   "district": 30,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Laura Friedman",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus member; endorsed by CA Democratic Party, DMFI, Elect Democratic Women.",
+    "background": "Incumbent; former assemblymember",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Scott Alan Meyers",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 75.9,
+    "rep_pct": 24.1,
+    "other_pct": 0.0,
+    "margin": 51.8,
+    "pct_expected_vote_counted": 72,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 40.02,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 11.0,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/30",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_30",
+    "https://en.wikipedia.org/wiki/Laura_Friedman",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (193 of 193) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (64.3%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-31",
+   "office": "House",
+   "state": "CA",
+   "district": 31,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Gil Cisneros",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of both New Democrat Coalition and Progressive Caucus; endorsed by CA Democratic Party, AIPAC, J Street.",
+    "background": "Incumbent; Navy veteran",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Eric Ching",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 64.2,
+    "rep_pct": 35.8,
+    "other_pct": 0.0,
+    "margin": 28.4,
+    "pct_expected_vote_counted": 70.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 12.23,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 15.4,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/31",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_31",
+    "https://en.wikipedia.org/wiki/Gil_Cisneros",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (360 of 360) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (69.5%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-32",
+   "office": "House",
+   "state": "CA",
+   "district": 32,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Brad Sherman",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus listed in bio; endorsed by Pelosi, Newsom, CA Democratic Party, AIPAC, DMFI.",
+    "background": "Incumbent U.S. representative since 1997",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Primary: Sherman 36.8, Thompson (R) 32.7, Jake Levine (D; Our Revolution) 15.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Larry Thompson",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 66.4,
+    "rep_pct": 33.6,
+    "other_pct": 0.0,
+    "margin": 32.8,
+    "pct_expected_vote_counted": 71.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 25.0,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 6.6,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/32",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_32",
+    "https://en.wikipedia.org/wiki/Brad_Sherman",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "SOS and NBC totals differ (NBC: 122,950-62,742); SOS used. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (268 of 268) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (64.5%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-33",
+   "office": "House",
+   "state": "CA",
+   "district": 33,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Pete Aguilar",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "House Democratic Caucus chair (leadership); New Democrat Coalition member; endorsed by CA Democratic Party, AIPAC, J Street.",
+    "background": "Incumbent; House Democratic Caucus chair",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Stephanie M. Vargas",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 67.6,
+    "rep_pct": 32.4,
+    "other_pct": 0.0,
+    "margin": 35.2,
+    "pct_expected_vote_counted": 58.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 9.78,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 25.6,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/33",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_33",
+    "https://en.wikipedia.org/wiki/Pete_Aguilar",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (491 of 491) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (58.5%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-34",
+   "office": "House",
+   "state": "CA",
+   "district": 34,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": true,
+   "uncontested": false,
+   "dem": {
+    "name": "Angela Gonzales-Torres",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "DSA member, self-described democratic socialist; endorsed by Justice Democrats, LA DSA, Our Revolution, California Working Families, Track AIPAC; attacked Gomez over crypto/AIPAC money and misconduct allegations.",
+    "background": "Former Highland Park neighborhood councilor",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Primary: Gomez 46.0, Gonzales-Torres 30.7."
+   },
+   "alt_dem": {
+    "name": "Jimmy Gomez",
+    "archetype": "mainstream_liberal",
+    "pct": 41.3
+   },
+   "rep": null,
+   "result": {
+    "dem_pct": 58.7,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 72,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 50.64,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/34",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_34",
+    "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres",
+    "https://en.wikipedia.org/wiki/Jimmy_Gomez",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "D-vs-D general (uncalled); DSA challenger leads incumbent Gomez 58.7-41.3. Gomez (Progressive Caucus) under House Ethics sexual-misconduct inquiry since June 2026. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (116 of 116) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (73.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-35",
+   "office": "House",
+   "state": "CA",
+   "district": 35,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Norma Torres",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition and Hispanic Caucus member; endorsed by CA Democratic Party, AIPAC, DMFI.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Cargile",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.4,
+    "rep_pct": 34.6,
+    "other_pct": 0.0,
+    "margin": 30.8,
+    "pct_expected_vote_counted": 58.8,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 7.8,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 23.4,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/35",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_35",
+    "https://en.wikipedia.org/wiki/Norma_Torres",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (272 of 272) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (56.5%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-36",
+   "office": "House",
+   "state": "CA",
+   "district": 36,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ted Lieu",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus member; vice chair of House Democratic Caucus; CA Democratic Party endorsement.",
+    "background": "Incumbent; House Democratic Caucus vice chair",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Houston Brignano",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 71.3,
+    "rep_pct": 28.7,
+    "other_pct": 0.0,
+    "margin": 42.6,
+    "pct_expected_vote_counted": 72,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 39.11,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 2.3,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/36",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_36",
+    "https://en.wikipedia.org/wiki/Ted_Lieu",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (156 of 156) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (61.2%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-37",
+   "office": "House",
+   "state": "CA",
+   "district": 37,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": true,
+   "uncontested": false,
+   "dem": {
+    "name": "Sydney Kamlager-Dove",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus and Black Caucus member; endorsed by CA Democratic Party, J Street.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Primary: Kamlager-Dove 55.2, Samantha Mota 11.7."
+   },
+   "alt_dem": {
+    "name": "Samantha Mota",
+    "archetype": "progressive",
+    "pct": 38.0
+   },
+   "rep": null,
+   "result": {
+    "dem_pct": 62.0,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 72,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 60.39,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/37",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_37",
+    "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "D-vs-D general; NBC projected Kamlager-Dove 62.0-38.0. Mota: community activist backed by Feel the Bern SFV, Knock LA, Progressive Voters Network (low confidence). Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (140 of 140) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (67.2%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-38",
+   "office": "House",
+   "state": "CA",
+   "district": 38,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": null,
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Hilda Solis",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "LA County supervisor, ex-Labor Secretary, former Progressive Caucus member; endorsed by Pelosi, Pramila Jayapal, Congressional Progressive Caucus, CA Democratic Party.",
+    "background": "LA County supervisor; former U.S. Labor Secretary and congresswoman",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Primary: Solis 47.6, Casas (R) 35.8, Monica Sanchez (D) 13.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Pedro Antonio Casas",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.5,
+    "rep_pct": 34.5,
+    "other_pct": 0.0,
+    "margin": 31.0,
+    "pct_expected_vote_counted": 71,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 12.32,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 17.7,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/38",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_38",
+    "https://en.wikipedia.org/wiki/Hilda_Solis",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Wikipedia lists as new seat (no incumbent); Linda Sanchez, previous CA-38 member, ran in CA-41. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (415 of 415) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (69.4%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-39",
+   "office": "House",
+   "state": "CA",
+   "district": 39,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mark Takano",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus member; Equality Caucus chair; CA Democratic Party endorsement.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Steve Manos",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.9,
+    "rep_pct": 34.1,
+    "other_pct": 0.0,
+    "margin": 31.8,
+    "pct_expected_vote_counted": 49.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 9.48,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 21.1,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/39",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_39",
+    "https://en.wikipedia.org/wiki/Mark_Takano",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (210 of 210) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (44%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-40",
+   "office": "House",
+   "state": "CA",
+   "district": 40,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": true,
+   "uncontested": false,
+   "dem": null,
+   "alt_dem": null,
+   "rep": {
+    "name": "Ken Calvert",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": null,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": 45.2,
+    "called": "R",
+    "called_by": "implied: same-party top-two general (NBC has no candidate projection)",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -12.23,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/40",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_40",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "R-vs-R general between incumbents Ken Calvert (54.5) and Young Kim (45.5), uncalled; no Democrat on ballot (Esther Kim Varet 16.6 and Lisa Ramirez 14.0 split the primary Dem vote). Seat stays R. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (558 of 558) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (41.8%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-41",
+   "office": "House",
+   "state": "CA",
+   "district": 41,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Linda Sanchez",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Longtime incumbent; endorsed by CA Democratic Party, J Street. Moved from old CA-38.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Primary: Sanchez 37.5, Clemmons (R) 35.8, Hector De La Torre (D) 13.9."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mitch Clemmons",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.5,
+    "rep_pct": 34.5,
+    "other_pct": 0.0,
+    "margin": 31.0,
+    "pct_expected_vote_counted": 73.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 14.2,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 15.6,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/41",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_41",
+    "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Downballot lists CA-41 number as Calvert (R) seat on old lines; Wikipedia treats Sanchez as incumbent; NBC does not flag as gain. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (281 of 281) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (69.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-42",
+   "office": "House",
+   "state": "CA",
+   "district": 42,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Robert Garcia",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Incumbent; endorsed by CA Democratic Party, J Street. No caucus data retrieved; conventional party-line profile.",
+    "background": "Incumbent; former Long Beach mayor",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brian Burley",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 59.9,
+    "rep_pct": 40.1,
+    "other_pct": 0.0,
+    "margin": 19.8,
+    "pct_expected_vote_counted": 69.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 13.13,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 6.1,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/42",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_42",
+    "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (402 of 402) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (61.2%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-43",
+   "office": "House",
+   "state": "CA",
+   "district": 43,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Maxine Waters",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus and Black Caucus member; CA Democratic Party endorsement.",
+    "background": "Incumbent U.S. representative since 1991",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Cristian Morales",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 81.6,
+    "rep_pct": 18.4,
+    "other_pct": 0.0,
+    "margin": 63.2,
+    "pct_expected_vote_counted": 72,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 48.96,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 13.4,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/43",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_43",
+    "https://en.wikipedia.org/wiki/Maxine_Waters",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (193 of 193) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (75.5%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-44",
+   "office": "House",
+   "state": "CA",
+   "district": 44,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Nanette Barragan",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Hispanic Caucus chair; Progressive Caucus member; CA Democratic Party endorsement.",
+    "background": "Incumbent; Congressional Hispanic Caucus chair",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Genevieve Angel",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 80.3,
+    "rep_pct": 19.7,
+    "other_pct": 0.0,
+    "margin": 60.6,
+    "pct_expected_vote_counted": 72,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 35.17,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 24.4,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/44",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_44",
+    "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (179 of 179) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (73.9%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-45",
+   "office": "House",
+   "state": "CA",
+   "district": 45,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Derek Tran",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition member; endorsed by CA Democratic Party, labor, LCV, J Street; co-led No Getting Rich in Congress (stock-trading ban) Act.",
+    "background": "Incumbent; consumer attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chuong V. Vo",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 59,
+    "rep_pct": 41,
+    "other_pct": 0.0,
+    "margin": 18,
+    "pct_expected_vote_counted": 68.6,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 3.94,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 13.5,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/45",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_45",
+    "https://en.wikipedia.org/wiki/Derek_Tran",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (424 of 424) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (62.4%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-46",
+   "office": "House",
+   "state": "CA",
+   "district": 46,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lou Correa",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Listed as Blue Dog Coalition and New Democrat Coalition member; former Problem Solvers member.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "David Pan",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 68.5,
+    "rep_pct": 31.5,
+    "other_pct": 0.0,
+    "margin": 37.0,
+    "pct_expected_vote_counted": 71.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 16.16,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 20.0,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/46",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_46",
+    "https://en.wikipedia.org/wiki/Lou_Correa",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (423 of 423) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (66%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-47",
+   "office": "House",
+   "state": "CA",
+   "district": 47,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dave Min",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Progressive Caucus member; endorsed by CA Democratic Party, LCV, DMFI, J Street, End Citizens United; voted against Israel military aid in 2026.",
+    "background": "Incumbent; law professor, former state senator",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jenny Rae Le Roux",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 56.9,
+    "rep_pct": 43.1,
+    "other_pct": 0.0,
+    "margin": 13.8,
+    "pct_expected_vote_counted": 62.3,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 10.08,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 3.3,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/47",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_47",
+    "https://en.wikipedia.org/wiki/Dave_Min",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Uncalled; Min leads 56.7-43.3. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (561 of 561) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (59.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-48",
+   "office": "House",
+   "state": "CA",
+   "district": 48,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Marni von Wilpert",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Post-primary New Dem Action Fund, Buttigieg, JDCA endorsements; primary backers EMILYs List, CTA, SEIU-UHW, Equality PAC, J Street. No explicit centrist branding or notable party breaks documented; New Dem endorsement alone fails moderate bar.",
+    "background": "San Diego city councilmember; former deputy city attorney",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Primary: Desmond (R) 38.9, von Wilpert 20.8, Ammar Campa-Najjar (CPC PAC, Jayapal, VoteVets) 10.6."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jim Desmond",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": [
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 59.5,
+    "rep_pct": 40.5,
+    "other_pct": 0.0,
+    "margin": 19.0,
+    "pct_expected_vote_counted": 53.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 3.39,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 15.8,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/48",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_48",
+    "https://en.wikipedia.org/wiki/Marni_von_Wilpert",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Open seat (Issa retired March 2026). Uncalled; von Wilpert leads 59.6-40.4; flip pending call. Results: CA SOS as of November 4, 2026, 6:27 a.m. PT (100% (692 of 692) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (52.2%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines. VERIFY: reclassified moderate -> mainstream_liberal (low) for consistency with rubric and with CA-3 Bera treatment; revisit if centrist campaign branding is documented. VERIFY: still uncalled on NBC as of 2026-11-04T16:17Z (NBC tally: 39 D, 2 R, 11 uncalled).",
+   "verified": true
+  },
+  {
+   "id": "CA-49",
+   "office": "House",
+   "state": "CA",
+   "district": 49,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mike Levin",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of both New Democrat Coalition and Progressive Caucus; conventional incumbent.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Armen Kurdian",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 57.4,
+    "rep_pct": 42.6,
+    "other_pct": 0.0,
+    "margin": 14.8,
+    "pct_expected_vote_counted": 59.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 12.1,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 2.9,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/49",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_49",
+    "https://en.wikipedia.org/wiki/Mike_Levin",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 8:08 a.m. PT (re-checked; shares unchanged from 6:27 a.m.) (100% (699 of 699) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (59.3%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-50",
+   "office": "House",
+   "state": "CA",
+   "district": 50,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Scott Peters",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition and Problem Solvers Caucus member; endorsed by CA Democratic Party, AIPAC, J Street.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Steve Cohen",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 61.0,
+    "rep_pct": 39.0,
+    "other_pct": 0.0,
+    "margin": 22.0,
+    "pct_expected_vote_counted": 60.1,
+    "called": "D",
+    "called_by": "NBC News Decision Desk",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 18.25,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 3.8,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/50",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_50",
+    "https://en.wikipedia.org/wiki/Scott_Peters_(politician)",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 8:08 a.m. PT (re-checked; shares unchanged from 6:27 a.m.) (100% (713 of 713) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (60.1%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-51",
+   "office": "House",
+   "state": "CA",
+   "district": 51,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sara Jacobs",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of both New Democrat Coalition and Progressive Caucus; CA Democratic Party endorsement.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ricardo Cabrera",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 63.1,
+    "rep_pct": 36.9,
+    "other_pct": 0.0,
+    "margin": 26.2,
+    "pct_expected_vote_counted": 60.2,
+    "called": "D",
+    "called_by": "NBC News Decision Desk",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 18.26,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 7.9,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/51",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_51",
+    "https://en.wikipedia.org/wiki/Sara_Jacobs",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 8:08 a.m. PT (re-checked; shares unchanged from 6:27 a.m.) (100% (663 of 663) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (60.2%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  },
+  {
+   "id": "CA-52",
+   "office": "House",
+   "state": "CA",
+   "district": 52,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Juan Vargas",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of both New Democrat Coalition and Progressive Caucus; endorsed by CA Democratic Party, AIPAC, DMFI.",
+    "background": "Incumbent U.S. representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jeff Belle",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 68.9,
+    "rep_pct": 31.1,
+    "other_pct": 0.0,
+    "margin": 37.8,
+    "pct_expected_vote_counted": 63.7,
+    "called": "D",
+    "called_by": "NBC News Decision Desk",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 17.57,
+    "lines": "2026_new",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": null
+   },
+   "overperformance_vs_pres2024": 20.2,
+   "sources": [
+    "https://api.sos.ca.gov/returns/us-rep/district/52",
+    "https://www.nbcnews.com/politics/2026-elections/california-house-results",
+    "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27%E2%80%9352)#District_52",
+    "https://en.wikipedia.org/wiki/Juan_Vargas",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit#gid=1491069057"
+   ],
+   "notes": "Results: CA SOS as of November 4, 2026, 8:08 a.m. PT (re-checked; shares unchanged from 6:27 a.m.) (100% (580 of 580) precincts reporting; precinct share, not expected-vote share). pct_expected_vote_counted is NBC/AP estimate (63.7%); CA counts mail ballots for weeks. Lines redrawn by Prop 50 (Nov 2025); pres2024 recomputed on new lines by The Downballot; prev_seat_margin null because no prior election on these lines.",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T16:20:00Z",
+  "checked_items": 245,
+  "corrections": [
+   "All 52 rows: cited Downballot post is dated Apr 2025 (pre-Prop 50); added the Downballot sheet tab with new-line 2024 pres results as source (all 52 pres2024 margins match it exactly)",
+   "Normalized 11 other_pct values of -0.0 to 0.0",
+   "CA-4 Eric Jones: archetype mainstream_liberal (placeholder, low) -> left_populist (liberal/populist, medium); added Our Revolution + Press Democrat sources; noted NBC/SOS vote discrepancy",
+   "CA-48 von Wilpert: moderate -> mainstream_liberal (low confidence); New Dem endorsement without documented centrist branding fails rubric (consistent with CA-3 Bera)",
+   "CA-49..52: SOS report time updated to 8:08 a.m. PT (shares unchanged)"
+  ],
+  "unresolved": [
+   "D-vs-D (CA-4,7,11,14,34) and R-vs-R (CA-40) rows carry called='D'/'R' as seat-party certainty although NBC has not projected the candidate race; downstream seat counts should treat these as seat-certain, not called",
+   "CA-6: incumbent Kiley is NPP/Independent (caucuses R); incumbent_party kept 'R' and flipped=true per NBC gain flag - schema decision for orchestrator",
+   "trump_endorsed flags for Lincoln (CA-13), Desmond (CA-48), McClintock (CA-5), Obernolte (CA-23) not confirmable (Wikipedia silent, Ballotpedia blocked, search budget exhausted); Gallagher (CA-1) and Fong (CA-20) confirmed",
+   "CA-48 style reclassification is judgment-based; centrist branding not found but search budget was exhausted",
+   "Vote shares from CA SOS 6:27/8:08 a.m. PT; NBC lastModified 16:16Z shows identical shares; only ~40-75% of expected vote counted, margins will move"
+  ]
+ }
+}

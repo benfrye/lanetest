@@ -1,0 +1,536 @@
+{
+ "cycle": 2020,
+ "coder": "batch_2020_1",
+ "labels": {
+  "AL-1": {
+   "name": "James Averhart",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Marine veteran long-shot nominee for open seat; no left, centrist or populist markers in primary listing",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Alabama#District_1",
+   "verified_fetch": true
+  },
+  "AL-2": {
+   "name": "Phyllis Harvey-Hall",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Retired teacher/education consultant who beat ex-state rep Nathan Mathis; no ideological markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Alabama#District_2",
+   "verified_fetch": true
+  },
+  "AR-2": {
+   "name": "Joyce Elliott",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator backed by DCCC, EMILY's List, CBC, Obama/Biden, Peace Action, LCV; no M4A/left-group or Blue Dog/NewDem markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Arkansas#District_2",
+   "verified_fetch": true
+  },
+  "AZ-5": {
+   "name": "Joan Greene",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Businesswoman, 2018 nominee; no endorsement or ideological markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Arizona#District_5",
+   "verified_fetch": true
+  },
+  "AZ-6": {
+   "name": "Hiral Tipirneni",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund (Frontier) + EMILY's List + DCCC-style coalition; ER doctor with \"data-driven\" pitch, public option not M4A, affirms 2nd Amendment rights",
+   "label_source_url": "http://web.archive.org/web/20201111031515/http://newdemactionfund.com/frontier",
+   "verified_fetch": true
+  },
+  "AZ-8": {
+   "name": "Michael Muscato",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Gym owner; Sierra Club, AFSCME and CWA endorsements; no ideological markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Arizona#District_8",
+   "verified_fetch": true
+  },
+  "CA-4": {
+   "name": "Brynne Kennedy",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Endorsed by Blue Dog Coalition/Blue Dog PAC (bluedogdems.com Oct 2020 snapshot) and NewDem Action Fund Frontier; also Meg Whitman and Humanity Forward",
+   "label_source_url": "http://web.archive.org/web/20201025100217/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "CA-8": {
+   "name": "Christine Bubser",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Engineer/biotech advisor; EMILY's List, CA Labor Fed, Katie Porter/Ted Lieu, Demand Universal Healthcare; no clear left-group or centrist marker",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_California#District_8",
+   "verified_fetch": true
+  },
+  "CA-21": {
+   "name": "T.J. Cox",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent on NewDem Action Fund \"Vanguard\" frontliner list (Sept 2020 snapshot); New Dem swing-seat member; endorsed by New Democrat Coalition, End Citizens United, UFW",
+   "label_source_url": "http://web.archive.org/web/20200913080636/http://newdemactionfund.com/vanguard",
+   "verified_fetch": true
+  },
+  "CA-22": {
+   "name": "Phil Arballo",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Financial adviser challenging Nunes; only CA LCV and CTA endorsements listed; no ideological markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_California#District_22",
+   "verified_fetch": true
+  },
+  "CA-23": {
+   "name": "Kim Mangone",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Air Force veteran/systems engineer challenging McCarthy; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_California#District_23",
+   "verified_fetch": true
+  },
+  "CA-25": {
+   "name": "Christy Smith",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund Frontier + DCCC + EMILY's List; party-backed assemblywoman who beat left insurgent Cenk Uygur in primary; centrist branding not verified this run (2022 coder found bipartisan branding)",
+   "label_source_url": "http://web.archive.org/web/20201111031515/http://newdemactionfund.com/frontier",
+   "verified_fetch": true
+  },
+  "CA-42": {
+   "name": "Liam O'Mara",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Historian/college professor challenging Calvert; no endorsements or markers found in fetched sources",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_California#District_42",
+   "verified_fetch": true
+  },
+  "CO-4": {
+   "name": "Ike McCorkle",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former Marine officer, unopposed primary; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Colorado#District_4",
+   "verified_fetch": true
+  },
+  "CO-5": {
+   "name": "Jillian Freeland",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Businesswoman; AFL-CIO Colorado and Indivisible endorsements; no ideological markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Colorado#District_5",
+   "verified_fetch": true
+  },
+  "FL-3": {
+   "name": "Adam Christensen",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Businessman endorsed by Andrew Yang and Marianne Williamson (outsider-candidate endorsers); no left-group or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Florida#District_3",
+   "verified_fetch": true
+  },
+  "FL-6": {
+   "name": "Clint Curtis",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "low",
+   "style_evidence": "Lawyer/vote-rigging whistleblower and perennial candidate (2010 CA-4 nominee); anti-establishment gadfly profile, thin evidence",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Florida#District_6",
+   "verified_fetch": true
+  },
+  "FL-8": {
+   "name": "Jim Kennedy",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Electrical engineer; Sierra Club endorsement only",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Florida#District_8",
+   "verified_fetch": true
+  },
+  "FL-12": {
+   "name": "Kimberly Walker",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Air Force veteran/businesswoman; LPAC endorsement only",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Florida#District_12",
+   "verified_fetch": true
+  },
+  "FL-14": {
+   "name": "Kathy Castor",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-time incumbent, chair of House Select Committee on the Climate Crisis; conventional party-line Democrat (from memory)",
+   "label_source_url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+   "verified_fetch": false
+  },
+  "FL-15": {
+   "name": "Alan Cohn",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Journalist backed by Obama, Bob Graham, Crist, Frankel, Soto, labour unions; also Young Turks/Cenk Uygur/Randy Bryce nods but no left-group or centrist marker",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Florida#District_15",
+   "verified_fetch": true
+  },
+  "FL-16": {
+   "name": "Margaret Good",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed (bluedogdems.com Oct 2020 snapshot) and NewDem Action Fund Frontier; state rep with EMILY's List/Obama backing",
+   "label_source_url": "http://web.archive.org/web/20201025100217/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "FL-18": {
+   "name": "Pam Keith",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Justice Democrats-endorsed in 2018 run for this seat; 2020 endorsements from Warren, Cori Bush, EMILY's List, VoteVets; beat Murphy-backed Oz Vazquez",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Florida#District_18",
+   "verified_fetch": true
+  },
+  "FL-19": {
+   "name": "Cindy Banyai",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "FGCU political-science professor; beat 2018 nominee David Holden; no endorsements or markers listed",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Florida#District_19",
+   "verified_fetch": true
+  },
+  "FL-21": {
+   "name": "Lois Frankel",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-time incumbent (CPC member at the time); Planned Parenthood, Sierra Club; conventional party-line Democrat",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Florida#District_21",
+   "verified_fetch": true
+  },
+  "GA-1": {
+   "name": "Joyce Griggs",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Retired Army lieutenant colonel/businesswoman; beat 2018 Justice Democrats nominee Lisa Ring in runoff; no markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Georgia#District_1",
+   "verified_fetch": true
+  },
+  "GA-5": {
+   "name": "Nikema Williams",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator and Georgia Democratic Party chair picked by party committee to replace John Lewis; institutional candidate",
+   "label_source_url": "https://en.wikipedia.org/wiki/Nikema_Williams",
+   "verified_fetch": true
+  },
+  "GA-9": {
+   "name": "Devin Pandy",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former Army warrant officer; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Georgia#District_9",
+   "verified_fetch": true
+  },
+  "GA-11": {
+   "name": "Dana Barrett",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Radio talk-show host/businesswoman; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Georgia#District_11",
+   "verified_fetch": true
+  },
+  "GA-12": {
+   "name": "Liz Johnson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Retired insurance professional (listed as Elizabeth Johnson); no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Georgia#District_12",
+   "verified_fetch": true
+  },
+  "GA-14": {
+   "name": "Kevin Van Ausdal",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Fintech professional; suspended campaign Sept 2020 (remained on ballot); no markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Georgia#District_14",
+   "verified_fetch": true
+  },
+  "HI-2": {
+   "name": "Kai Kahele",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senate majority floor leader; CPC endorsed (plain CPC = liberal) alongside Serve America PAC, Moulton, Sherrill, Jeffries, CAP's Tanden, LCV",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Hawaii#District_2",
+   "verified_fetch": true
+  },
+  "IA-2": {
+   "name": "Rita Hart",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Former state senator/farmer; DCCC, EMILY's List, Obama; released list of 20 Republican supporters (bipartisan pitch); no Blue Dog/NewDem endorsement found",
+   "label_source_url": "https://en.wikipedia.org/wiki/Rita_Hart",
+   "verified_fetch": true
+  },
+  "IA-4": {
+   "name": "J. D. Scholten",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Rural populist rematch candidate (ex-baseball player touring in RV), refused corporate PAC money; described as populist-wing Democrat; only LCV/Sierra Club listed (from fetched page + memory)",
+   "label_source_url": "https://en.wikipedia.org/wiki/J._D._Scholten",
+   "verified_fetch": true
+  },
+  "IL-3": {
+   "name": "Marie Newman",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats, Sanders, AOC, PCCC, Sunrise, Our Revolution chapter, PDA; left insurgent who ousted Blue Dog Lipinski, but also EMILY's List, Lightfoot, Sun-Times",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Illinois#District_3",
+   "verified_fetch": true
+  },
+  "IL-12": {
+   "name": "Raymond Lenzi",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former SIU chancellor; Indivisible and Sierra Club endorsements only",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Illinois#District_12",
+   "verified_fetch": true
+  },
+  "IL-15": {
+   "name": "Erika Weaver",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Mattoon school board member; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Illinois#District_15",
+   "verified_fetch": true
+  },
+  "IL-16": {
+   "name": "Dani Brzozowski",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Activist and LaSalle County party chair; Durbin, Duckworth, AFL-CIO, CBC PAC plus local Our Revolution and Sunrise chapters; no M4A-centred left campaign found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Illinois#District_16",
+   "verified_fetch": true
+  },
+  "IN-1": {
+   "name": "Frank J. Mrvan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "North Township trustee endorsed by retiring Rep. Visclosky and United Steelworkers; machine/party successor, no ideological markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Indiana#District_1",
+   "verified_fetch": true
+  },
+  "IN-5": {
+   "name": "Christina Hale",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed (bluedogdems.com Oct 2020 snapshot); New Democrat Coalition/NewDem Frontier, Serve America PAC, DCCC, EMILY's List",
+   "label_source_url": "http://web.archive.org/web/20201025100217/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "KS-1": {
+   "name": "Kali Barnett",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Teacher/author in safe-R open seat; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Kansas#District_1",
+   "verified_fetch": true
+  },
+  "KS-2": {
+   "name": "Michelle De La Isla",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Topeka mayor; EMILY's List, BOLD PAC, End Citizens United, Obama, Buttigieg; no left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Kansas#District_2",
+   "verified_fetch": true
+  },
+  "KY-6": {
+   "name": "Josh Hicks",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed (bluedogdems.com Oct 2020 snapshot); Marine veteran/ex-police officer attorney; VoteVets",
+   "label_source_url": "http://web.archive.org/web/20201025100217/https://bluedogdems.com/",
+   "verified_fetch": true
+  },
+  "MA-4": {
+   "name": "Jake Auchincloss",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Former Republican Newton councilor who modeled himself on Charlie Baker and ran as a moderate; criticised from the left in primary; Serve America, VoteVets, Boston Globe",
+   "label_source_url": "https://en.wikipedia.org/wiki/Jake_Auchincloss",
+   "verified_fetch": true
+  },
+  "MI-1": {
+   "name": "Dana Ferguson",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "low",
+   "style_evidence": "Construction worker challenging Bergman; working-class nominee, thin evidence beyond occupation",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Michigan#District_1",
+   "verified_fetch": true
+  },
+  "MI-2": {
+   "name": "Bryan Berghoef",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "United Church of Christ pastor; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Michigan#District_2",
+   "verified_fetch": true
+  },
+  "MI-3": {
+   "name": "Hillary Scholten",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Immigration attorney; NewDem Action Fund Frontier, EMILY's List, Obama, Biden, Warren; no centrist branding found",
+   "label_source_url": "http://web.archive.org/web/20201111031515/http://newdemactionfund.com/frontier",
+   "verified_fetch": true
+  },
+  "MI-6": {
+   "name": "Jon Hoadley",
+   "ideology": "left",
+   "posture": "establishment",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Ran on Green New Deal and single-payer; Brand New Congress, PCCC, CPC PAC, Jayapal, El-Sayed; also Biden/Whitmer/Obama and state rep",
+   "label_source_url": "https://en.wikipedia.org/wiki/Jon_Hoadley",
+   "verified_fetch": true
+  },
+  "MI-10": {
+   "name": "Kimberly Bizon",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "2018 nominee; Sierra Club endorsement only",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Michigan#District_10",
+   "verified_fetch": true
+  },
+  "MN-8": {
+   "name": "Quinn Nystrom",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Insulin-price/diabetes advocate and ex-city councilwoman; Rick Nolan endorsement; anti-drug-price message but conventional campaign",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Minnesota#District_8",
+   "verified_fetch": true
+  },
+  "MO-1": {
+   "name": "Cori Bush",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats, DSA, Sanders, Brand New Congress, Our Revolution, Sunrise STL; Ferguson activist/nurse who ousted incumbent Lacy Clay",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_Missouri#District_1",
+   "verified_fetch": true
+  },
+  "MO-2": {
+   "name": "Jill Schupp",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator; NewDem Action Fund Frontier, EMILY's List, Obama, Biden, End Citizens United; no centrist branding found",
+   "label_source_url": "http://web.archive.org/web/20201111031515/http://newdemactionfund.com/frontier",
+   "verified_fetch": true
+  },
+  "MT-AL": {
+   "name": "Kathleen Williams",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund (Frontier list + state page); Montana Sportsmen Alliance; 2018 campaign: Medicare buy-in at 55 not M4A, bipartisan/civility pitch, toured state by RV",
+   "label_source_url": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_election_in_Montana",
+   "verified_fetch": true
+  }
+ }
+}

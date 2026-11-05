@@ -1,0 +1,109 @@
+{
+ "batch": 4,
+ "races": [
+  {
+   "id": "TX-27",
+   "name": "Tanya Lloyd",
+   "state": "TX",
+   "district": 27,
+   "office": "House",
+   "opponent": "Michael Cloud"
+  },
+  {
+   "id": "MO-5",
+   "name": "Emanuel Cleaver",
+   "state": "MO",
+   "district": 5,
+   "office": "House",
+   "opponent": "Rick Brattin"
+  },
+  {
+   "id": "SEN-KY",
+   "name": "Charles Booker",
+   "state": "KY",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Andy Barr"
+  },
+  {
+   "id": "TN-3",
+   "name": "Anna Golladay",
+   "state": "TN",
+   "district": 3,
+   "office": "House",
+   "opponent": "Chuck Fleischmann"
+  },
+  {
+   "id": "TX-6",
+   "name": "Danny Minton",
+   "state": "TX",
+   "district": 6,
+   "office": "House",
+   "opponent": "Jake Ellzey"
+  },
+  {
+   "id": "NJ-5",
+   "name": "Josh Gottheimer",
+   "state": "NJ",
+   "district": 5,
+   "office": "House",
+   "opponent": "Sean Kirrane"
+  },
+  {
+   "id": "IL-5",
+   "name": "Mike Quigley",
+   "state": "IL",
+   "district": 5,
+   "office": "House",
+   "opponent": "Tommy Hanson"
+  },
+  {
+   "id": "NY-12",
+   "name": "Micah Lasher",
+   "state": "NY",
+   "district": 12,
+   "office": "House",
+   "opponent": "Caroline Shinkle"
+  },
+  {
+   "id": "AR-1",
+   "name": "Terri Yarbrough Green",
+   "state": "AR",
+   "district": 1,
+   "office": "House",
+   "opponent": "Rick Crawford"
+  },
+  {
+   "id": "TX-9",
+   "name": "Leticia Gutierrez",
+   "state": "TX",
+   "district": 9,
+   "office": "House",
+   "opponent": "Alex Mealer"
+  },
+  {
+   "id": "TX-14",
+   "name": "Thurman Bartie",
+   "state": "TX",
+   "district": 14,
+   "office": "House",
+   "opponent": "Randy Weber"
+  },
+  {
+   "id": "IL-2",
+   "name": "Donna Miller",
+   "state": "IL",
+   "district": 2,
+   "office": "House",
+   "opponent": "Michael Noack"
+  },
+  {
+   "id": "NC-13",
+   "name": "Paul Barringer",
+   "state": "NC",
+   "district": 13,
+   "office": "House",
+   "opponent": "Brad Knott"
+  }
+ ]
+}

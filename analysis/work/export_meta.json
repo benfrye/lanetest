@@ -1,0 +1,164 @@
+{
+ "fit_level": 3,
+ "levels": [
+  {
+   "level": 1,
+   "trigger": "archetypes below minimum N: left_populist, center_populist",
+   "action": "u_a = 0 for those archetypes (structural prediction only); cells greyed"
+  },
+  {
+   "level": 2,
+   "trigger": "interactions below minimum N (no district composition)",
+   "action": "gamma = 0; tilt disabled"
+  },
+  {
+   "level": 3,
+   "trigger": "district demographics missing for 100% of rows (> 25%)",
+   "action": "ES_re and ES_age dropped; rely on the m24 spline and the state effects/Mundlak terms. Banner: the wave's demographic shape is only partly controlled. (State-level ES would be collinear with alpha_s.)"
+  }
+ ],
+ "publish_blocked": false,
+ "publish_blocked_raw": true,
+ "models_disagree": {
+  "progressive": false,
+  "left_populist": false,
+  "center_populist": false,
+  "moderate": true
+ },
+ "overrides": [],
+ "V15": {
+  "agnostic": {
+   "dial_mean": [
+    -1.12344,
+    1.65995
+   ],
+   "exact_mean": [
+    -1.15463,
+    1.73107
+   ],
+   "dial_sd": [
+    0.76143,
+    0.86353
+   ],
+   "exact_sd": [
+    0.70184,
+    0.88384
+   ],
+   "mean_ok": true,
+   "sd_ok": true
+  },
+  "literature": {
+   "dial_mean": [
+    -1.33991,
+    1.47326
+   ],
+   "exact_mean": [
+    -1.35897,
+    1.45758
+   ],
+   "dial_sd": [
+    0.72141,
+    0.80664
+   ],
+   "exact_sd": [
+    0.70233,
+    0.78771
+   ],
+   "mean_ok": true,
+   "sd_ok": true
+  },
+  "discount": {
+   "dial_mean": [
+    -0.96115,
+    1.38569
+   ],
+   "exact_mean": [
+    -1.31283,
+    1.4449
+   ],
+   "dial_sd": [
+    1.00566,
+    1.12057
+   ],
+   "exact_sd": [
+    0.96744,
+    1.32016
+   ],
+   "mean_ok": false,
+   "sd_ok": false
+  },
+  "data_only": {
+   "dial_mean": [
+    -1.35396,
+    2.06789
+   ],
+   "exact_mean": [
+    -1.35396,
+    2.06789
+   ],
+   "dial_sd": [
+    0.82456,
+    0.95838
+   ],
+   "exact_sd": [
+    0.82415,
+    0.9579
+   ],
+   "mean_ok": true,
+   "sd_ok": true
+  }
+ },
+ "dial_enabled": false,
+ "ksweep": {
+  "0.5": {
+   "beta_L": -0.74691,
+   "beta_P": 1.04075
+  },
+  "1": {
+   "beta_L": -1.12344,
+   "beta_P": 1.65995
+  },
+  "2": {
+   "beta_L": -1.28763,
+   "beta_P": 1.94837
+  },
+  "4": {
+   "beta_L": -1.33672,
+   "beta_P": 2.03667
+  }
+ },
+ "statewide_house_ratio": [
+  1.7286,
+  0.79406,
+  3.82558
+ ],
+ "copy_flags": {
+  "no_detectable_effect": false,
+  "no_predictive_gain": true,
+  "lead_with_overlap": false,
+  "publish_blocked": false,
+  "placebo_flag": {
+   "progressive": true,
+   "left_populist": false,
+   "center_populist": false,
+   "moderate": false
+  },
+  "direction_depends_on_prior": {
+   "progressive": false,
+   "left_populist": false,
+   "center_populist": false,
+   "moderate": false
+  },
+  "provisional_archetypes": [
+   "center_populist"
+  ],
+  "maine_explained_by_incumbent": true,
+  "models_disagree": {
+   "progressive": false,
+   "left_populist": false,
+   "center_populist": false,
+   "moderate": true
+  },
+  "label_reliability": "low_posture"
+ }
+}

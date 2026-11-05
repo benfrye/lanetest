@@ -1,0 +1,227 @@
+{
+ "label_sets_available": {
+  "A_agent": true,
+  "B_rule_based": "implemented from label evidence text (style_evidence/background, plus primaries.json key_endorsements where matched); not from raw pre-election campaign text, which is not on disk",
+  "C_soft": "constructed from style_confidence and A/B disagreement (no independent probability coding exists)",
+  "second_coder_blind_20pct": false,
+  "second_coder_proxy": "primaries.json nominee labels (independent research pass; not blind to results; not a random sample)"
+ },
+ "audit_counts_all": {
+  "endorsement_cited_undated": 370,
+  "dated_pre_election_source": 31,
+  "primary_record": 53,
+  "post_hoc": 52,
+  "pre_election_contest": 9
+ },
+ "audit_counts_main": {
+  "endorsement_cited_undated": 293,
+  "post_hoc": 37,
+  "primary_record": 42,
+  "dated_pre_election_source": 25,
+  "pre_election_contest": 6
+ },
+ "label_source_main": {
+  "A": 366,
+  "B": 37
+ },
+ "strict_label_source_main": {
+  "B": 330,
+  "A": 73
+ },
+ "B_rule_fired_share_main": 0.5136476426799007,
+ "kappa_agent_vs_rules": {
+  "archetype": {
+   "kappa": 0.38550934547210153,
+   "n": 515,
+   "agree": 0.6640776699029126
+  },
+  "ideology": {
+   "kappa": 0.39471106758080304,
+   "n": 515,
+   "agree": 0.6854368932038835
+  },
+  "posture": {
+   "kappa": 0.2244541060455176,
+   "n": 515,
+   "agree": 0.7592233009708738
+  }
+ },
+ "kappa_agent_vs_rules_main": {
+  "archetype": {
+   "kappa": 0.4085567022413205,
+   "n": 403,
+   "agree": 0.6898263027295285
+  },
+  "ideology": {
+   "kappa": 0.4080979823502322,
+   "n": 403,
+   "agree": 0.707196029776675
+  },
+  "posture": {
+   "kappa": 0.19454710008296228,
+   "n": 403,
+   "agree": 0.7369727047146402
+  }
+ },
+ "kappa_agent_vs_second_coder_proxy": {
+  "archetype": {
+   "kappa": 0.6658097686375322,
+   "n": 65,
+   "agree": 0.7538461538461538
+  },
+  "ideology": {
+   "kappa": 0.8604151753758053,
+   "n": 65,
+   "agree": 0.9076923076923077
+  },
+  "posture": {
+   "kappa": 0.5118577075098815,
+   "n": 65,
+   "agree": 0.7076923076923077
+  }
+ },
+ "second_coder_disagreements": [
+  {
+   "id": "CA-22",
+   "name": "Randy Villegas",
+   "agent": "left_populist",
+   "proxy": "progressive"
+  },
+  {
+   "id": "TN-9",
+   "name": "Justin J. Pearson",
+   "agent": "progressive",
+   "proxy": "left_populist"
+  },
+  {
+   "id": "PA-7",
+   "name": "Bob Brooks",
+   "agent": "mainstream_liberal",
+   "proxy": "left_populist"
+  },
+  {
+   "id": "MA-1",
+   "name": "Richard Neal",
+   "agent": "mainstream_liberal",
+   "proxy": "moderate"
+  },
+  {
+   "id": "CT-1",
+   "name": "Luke Bronin",
+   "agent": "mainstream_liberal",
+   "proxy": "moderate"
+  },
+  {
+   "id": "ME-2",
+   "name": "Matthew Dunlap",
+   "agent": "progressive",
+   "proxy": "mainstream_liberal"
+  },
+  {
+   "id": "NY-13",
+   "name": "Darializa Avila Chevalier",
+   "agent": "progressive",
+   "proxy": "left_populist"
+  },
+  {
+   "id": "NJ-12",
+   "name": "Adam Hamawy",
+   "agent": "progressive",
+   "proxy": "left_populist"
+  },
+  {
+   "id": "MI-7",
+   "name": "William Lawrence",
+   "agent": "progressive",
+   "proxy": "left_populist"
+  },
+  {
+   "id": "MI-13",
+   "name": "Donavan McKinney",
+   "agent": "progressive",
+   "proxy": "left_populist"
+  },
+  {
+   "id": "MN-2",
+   "name": "Matt Little",
+   "agent": "progressive",
+   "proxy": "mainstream_liberal"
+  },
+  {
+   "id": "AZ-4",
+   "name": "Greg Stanton",
+   "agent": "mainstream_liberal",
+   "proxy": "moderate"
+  },
+  {
+   "id": "SEN-FL-special",
+   "name": "Angie Nixon",
+   "agent": "progressive",
+   "proxy": "left_populist"
+  },
+  {
+   "id": "SEN-KY",
+   "name": "Charles Booker",
+   "agent": "progressive",
+   "proxy": "left_populist"
+  },
+  {
+   "id": "SEN-NH",
+   "name": "Chris Pappas",
+   "agent": "moderate",
+   "proxy": "mainstream_liberal"
+  },
+  {
+   "id": "SEN-TX",
+   "name": "James Talarico",
+   "agent": "left_populist",
+   "proxy": "mainstream_liberal"
+  }
+ ],
+ "lexicon": {
+  "left": [
+   "Justice Democrats",
+   "Progressive Caucus",
+   "\\bCPC\\b",
+   "\\bSanders\\b",
+   "\\bBernie\\b",
+   "Our Revolution",
+   "Working Families",
+   "\\bWFP\\b"
+  ],
+  "moderate": [
+   "Blue Dog",
+   "New Democrat"
+  ],
+  "populist": [
+   "populis",
+   "billionaire",
+   "anti-corporate",
+   "corporate PAC",
+   "corporate money",
+   "rigged",
+   "working[- ]class",
+   "Wall Street",
+   "oligarch",
+   "anti-establishment",
+   "insurgent",
+   "cost[- ]of[- ]living",
+   "affordability"
+  ],
+  "institutional": [
+   "\\bDCCC\\b",
+   "Red to Blue",
+   "Problem Solvers",
+   "leadership",
+   "establishment-backed",
+   "bipartisan",
+   "\\bDSCC\\b",
+   "\\bDGA\\b",
+   "Jeffries",
+   "Pelosi",
+   "Schumer"
+  ],
+  "populist_threshold": 2
+ },
+ "n_main_labeled": 403
+}

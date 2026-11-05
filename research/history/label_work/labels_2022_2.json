@@ -1,0 +1,566 @@
+{
+ "cycle": 2022,
+ "coder": "batch_2022_2",
+ "labels": {
+  "FL-22": {
+   "name": "Lois Frankel",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent; plain CPC member; conventional EMILY/PP/SEIU endorsements, no left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "FL-23": {
+   "name": "Jared Moskowitz",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Open-seat Broward commissioner; NewDem Action Fund, Jeffries/Clinton/Deutch backing; ex-DeSantis appointee but no explicit centrist self-branding found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?oldid=1108856363",
+   "verified_fetch": true
+  },
+  "FL-26": {
+   "name": "Christine Olivo",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Long-shot challenger; pitched \"real solutions for the working class\", to \"challenge the establishment\"; Marianne Williamson endorsement",
+   "label_source_url": "https://mutcomm.com/?p=2120",
+   "verified_fetch": true
+  },
+  "FL-27": {
+   "name": "Annette Taddeo",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator; DCCC Red to Blue, NewDem Action Fund, EMILY's List, Hoyer/party endorsements; no explicit centrist branding",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "FL-28": {
+   "name": "Robert Asencio",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former state rep/school police captain; workforce-focused, anti-Big Lie message; Miami Herald, BOLD PAC, AFSCME; no ideological labels",
+   "label_source_url": "https://www.wlrn.org/politics/2022-11-02/gimenez-looks-ahead-in-floridas-new-28th-district-but-asencio-hopes-to-marshal-dem-potential",
+   "verified_fetch": true
+  },
+  "GA-1": {
+   "name": "Wade Herring",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Savannah attorney running on anti-Carter/Jan. 6 platform; well-funded conventional campaign; no left or centrist markers",
+   "label_source_url": "https://thecurrentga.org/2022/10/17/carter-herring-debate-nights-arrive/",
+   "verified_fetch": false
+  },
+  "GA-2": {
+   "name": "Sanford Bishop",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent Blue Dog member and Blue Dog PAC endorsed",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "GA-5": {
+   "name": "Nikema Williams",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent, Georgia Dem party chair; CPC + New Dem member, WFP/DFA endorsements; conventional safe-seat profile",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "GA-6": {
+   "name": "Bob Christian",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Army vet/home-bakery owner, \"regular everyday voice\", \"never thought I would add politician\"; conventional platform (codify Roe, VRA); AFL-CIO",
+   "label_source_url": "https://www.gwinnettforum.com/wp-content/uploads/2022/10/Congess_6th-District_Bob-Christian.docx.pdf",
+   "verified_fetch": true
+  },
+  "GA-10": {
+   "name": "Tabitha Johnson-Green",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Rural registered nurse, third run; \"strong supporter of universal health care and Medicare for all\", tuition-free college; grassroots underdog; no Sanders/OR backing found",
+   "label_source_url": "https://gradynewsource.uga.edu/georgias-district-10-u-s-house-election-johnson-green-taking-her-chances-to-flip-district",
+   "verified_fetch": false
+  },
+  "GA-11": {
+   "name": "Antonio Daza",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Venezuelan-refugee business owner; health care as a right, income inequality focus; thin evidence",
+   "label_source_url": "https://votedaza.com",
+   "verified_fetch": false
+  },
+  "GA-12": {
+   "name": "Liz Johnson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Retired insurance professional, repeat nominee; anti-Allen messaging only; no platform found",
+   "label_source_url": "https://ballotpedia.org/Liz_Johnson_(Georgia)",
+   "verified_fetch": false
+  },
+  "GA-13": {
+   "name": "David Scott",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent Blue Dog + New Dem member, Blue Dog PAC endorsed",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "HI-1": {
+   "name": "Ed Case",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent Blue Dog, New Dem and Problem Solvers member; Blue Dog PAC endorsed",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "HI-2": {
+   "name": "Jill Tokuda",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Ran as progressive backing Medicare for All; CPC PAC + Medicare for All PAC spent for her vs crypto/BOLD-funded Branco; former state senator",
+   "label_source_url": "https://www.rollcall.com/2022/08/14/progressive-jill-tokuda-nominated-for-hawaiis-open-2nd-district-seat/",
+   "verified_fetch": false
+  },
+  "IA-1": {
+   "name": "Christina Bohannan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State rep/law professor; Red to Blue, NewDem Action Fund, EMILY's List; anti-'extremism' message but no centrist self-branding",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "IA-2": {
+   "name": "Liz Mathis",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator/ex-TV anchor; Red to Blue, NewDem Action Fund, EMILY's List; abortion-focused conventional campaign",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "IA-3": {
+   "name": "Cindy Axne",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem in toss-up seat running as swing-seat pragmatist (calibration: Davids/Craig-type frontliner)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "IL-1": {
+   "name": "Jonathan Jackson",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Endorsed by Bernie Sanders (was his 2020 IL co-chair) and Our Revolution Illinois; Medicare for All, student debt cancellation; dynastic name not outsider",
+   "label_source_url": "https://www.commondreams.org/news/2022/06/18/bernie-sanders-backs-us-house-hopefuls-jonathan-jackson-and-delia-ramirez",
+   "verified_fetch": false
+  },
+  "IL-3": {
+   "name": "Delia Ramirez",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Endorsed by Sanders, Our Revolution IL, United Working Families, PCCC, WFP; IL House Progressive Caucus member",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?oldid=1117165872",
+   "verified_fetch": true
+  },
+  "IL-6": {
+   "name": "Sean Casten",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem in D+11 seat; beat progressive Marie Newman in member-vs-member primary; conventional",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "IL-8": {
+   "name": "Raja Krishnamoorthi",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem member, safe seat",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "IL-10": {
+   "name": "Brad Schneider",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent Blue Dog, New Dem and Problem Solvers member; Blue Dog PAC endorsed",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "IL-11": {
+   "name": "Bill Foster",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem member, safe-ish seat; conventional",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "IL-13": {
+   "name": "Nikki Budzinski",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Labor organizer/Biden-Pritzker aide; Illinois AFL-CIO + DCCC Red to Blue + NewDem Action Fund; beat more progressive David Palmer",
+   "label_source_url": "https://ballotpedia.org/Illinois%27_13th_Congressional_District_election,_2022",
+   "verified_fetch": false
+  },
+  "IL-14": {
+   "name": "Lauren Underwood",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent, nurse/health-care focus, no caucus markers; conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/Lauren_Underwood",
+   "verified_fetch": false
+  },
+  "IL-17": {
+   "name": "Eric Sorensen",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "First-time candidate, TV meteorologist (non-politician framing); Red to Blue + NewDem Action Fund; no explicit centrist or left branding found",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "IN-1": {
+   "name": "Frank J. Mrvan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Incumbent New Dem member in D+8.5 seat; labor-friendly conventional profile; no explicit centrist branding found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "IN-2": {
+   "name": "Paul Steury",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "High-school science teacher; NEA/AFL-CIO; \"grassroots campaign\" reaching \"factory workers, farmers\"; climate and good jobs",
+   "label_source_url": "https://www.wvpe.org/wvpe-news/2022-11-03/indianas-2nd-congressional-district-democrat-paul-steury",
+   "verified_fetch": true
+  },
+  "IN-5": {
+   "name": "Jeannine Lee Lake",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Journalist, third run; reported platform of Medicaid/Medicare for All-type coverage, tuition-free college; \"Christian Democrat\"; thin sourcing",
+   "label_source_url": "https://www.wfyi.org/news/articles/meet-the-candidates-for-us-house-district-5",
+   "verified_fetch": false
+  },
+  "IN-9": {
+   "name": "Matthew Fyfe",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Teacher/union leader; \"I don't take big money\", not a career politician, stock-trading ban, \"working really hard but not getting ahead\"",
+   "label_source_url": "https://www.ipm.org/2022-10-20/indianas-9th-district-a-conversation-with-democrat-matt-fyfe",
+   "verified_fetch": true
+  },
+  "KS-2": {
+   "name": "Patrick Schmidt",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former Navy intelligence officer motivated by Jan. 6; Sebelius endorsement; conventional tax/health-care critique",
+   "label_source_url": "https://www2.ljworld.com/news/state-region/2021/jul/06/former-u-s-navy-intelligence-officer-running-for-congress-in-kansas-2nd-district-hes-the-first-democrat-to-file/",
+   "verified_fetch": false
+  },
+  "KS-3": {
+   "name": "Sharice Davids",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent New Dem frontliner in swing seat; EMILY's List/DMFI/AIPAC (calibration: Sharice Davids = moderate)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "KY-3": {
+   "name": "Morgan McGarvey",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "KY Senate Minority Leader; Yarmuth + AFL-CIO + NewDem Action Fund; beat progressive Attica Scott in primary",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "KY-6": {
+   "name": "Geoff Young",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "low",
+   "style_evidence": "Perennial anti-establishment gadfly repudiated by state party (sued party alleging rigged primaries); anti-war (\"never vote to send weapons\"); ideology thinly sourced",
+   "label_source_url": "https://www.weku.org/politics/2022-05-20/kentucky-democratic-party-beshear-wont-back-congressional-nominee-geoff-young",
+   "verified_fetch": true
+  },
+  "MA-7": {
+   "name": "Ayanna Pressley",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Squad member; Justice Democrats, WFP, Sunrise, Sanders, Warren, PDA endorsements",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582",
+   "verified_fetch": false
+  },
+  "MA-9": {
+   "name": "Bill Keating",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem member, safe seat; conventional",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "MD-1": {
+   "name": "Heather Mizeur",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-delegate, 2014 progressive gov candidate; CPC PAC + New Dem + EMILY's List + Hoyer/Van Hollen; pledged to 'turn down the partisanship' in rural seat",
+   "label_source_url": "https://www.wypr.org/wypr-news/2022-10-24/congressman-andy-harriss-democratic-challenger-says-she-will-turn-down-the-partisanship",
+   "verified_fetch": false
+  },
+  "MD-4": {
+   "name": "Glenn Ivey",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former PG County State's Attorney; NewDem Action Fund, AIPAC/DMFI; Wikipedia notes he supports Medicare for All but no left-group backing",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?oldid=1119838447",
+   "verified_fetch": true
+  },
+  "MD-6": {
+   "name": "David Trone",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem member, self-funder; conventional",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "MD-8": {
+   "name": "Jamie Raskin",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent CPC member with PCCC/PDA backing but conventional leadership profile (calibration: Raskin = mainstream_liberal)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "ME-2": {
+   "name": "Jared Golden",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog + Problem Solvers member; kept pledge to vote against Pelosi; FOP endorsement; working-class Marine-veteran brand but incumbent with institutional backing",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?oldid=1113569216",
+   "verified_fetch": true
+  },
+  "MI-3": {
+   "name": "Hillary Scholten",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Immigration attorney, 2020 nominee; DCCC Red to Blue + NewDem Action Fund; no explicit centrist branding found",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": false
+  },
+  "MI-4": {
+   "name": "Joseph Alfonso",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Marine vet/electrician, write-in nominee; \"doesn't have a background in politics\", \"claw tooth and nail\"; pro-choice but wants to cut \"wasteful\" spending",
+   "label_source_url": "https://fox17online.com/news/election-2022/for-joseph-alfonso-the-political-playbook-is-out-the-window-as-he-tries-to-upset-huizenga",
+   "verified_fetch": true
+  },
+  "MI-6": {
+   "name": "Debbie Dingell",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent CPC member (also Problem Solvers); labor-aligned conventional safe-seat profile",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "MI-7": {
+   "name": "Elissa Slotkin",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent New Dem + Problem Solvers frontliner (calibration: Spanberger-type)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "MI-8": {
+   "name": "Dan Kildee",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent CPC member (caucus leadership), conventional",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "MI-10": {
+   "name": "Carl Marlinga",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former judge/prosecutor; NewDem Action Fund, LCV; stressed pro-choice stance; conventional",
+   "label_source_url": "https://www.wxyz.com/news/democracy-2022/meet-carl-marlinga-john-james-previewing-mis-10th-congressional-district-race",
+   "verified_fetch": false
+  },
+  "MI-11": {
+   "name": "Haley Stevens",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem + Problem Solvers member (calibration: Houlahan-type)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "MI-12": {
+   "name": "Rashida Tlaib",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Squad member; Justice Democrats, DSA, Sanders, Brand New Congress, PCCC endorsements",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582",
+   "verified_fetch": false
+  },
+  "MI-13": {
+   "name": "Shri Thanedar",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Self-funding businessman/state rep; supports single-payer and anti-poverty agenda; NewDem Action Fund; no left-group backing",
+   "label_source_url": "https://bridgemi.com/michigan-government/michigans-race-congress-shri-thanedar-heavy-favorite-13th-district",
+   "verified_fetch": true
+  },
+  "MN-1": {
+   "name": "Jeff Ettinger",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Ex-Hormel CEO, first-time candidate; campaign built on \"willingness to be more moderate\", \"mainstream values\"",
+   "label_source_url": "https://www.startribune.com/former-hormel-ceo-hopes-to-win-minnesotas-first-district-with-willingness-to-be-more-moderate/600192537",
+   "verified_fetch": false
+  },
+  "MN-2": {
+   "name": "Angie Craig",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem frontliner in swing seat; EMILY's List/DMFI/AIPAC",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "MN-3": {
+   "name": "Dean Phillips",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Incumbent New Dem + Problem Solvers member branded as bipartisan problem-solver",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "MN-5": {
+   "name": "Ilhan Omar",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Squad member; Justice Democrats, WFP, Sunrise, Warren, PCCC endorsements",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582",
+   "verified_fetch": false
+  },
+  "MN-6": {
+   "name": "Jeanne Hendricks",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Semi-retired nurse anesthetist, first run; codify Roe, living-wage jobs; thin evidence",
+   "label_source_url": "https://www.mprnews.org/story/2022/10/06/voter-guide-see-6th-district-candidates-stances-on-guns-abortion-more",
+   "verified_fetch": false
+  }
+ }
+}

@@ -1,0 +1,30 @@
+main sample n=403
+empirical centroids (L, P, n): {'progressive': (2.0, 0.38461538461538464, 26), 'left_populist': (1.3571428571428572, 1.0, 14), 'center_populist': (0.0, 1.0, 2), 'mainstream_liberal': (1.0, 0.09417808219178082, 292), 'moderate': (-0.014492753623188406, 0.12318840579710146, 69)}
+min-N status: {'progressive': {'n': 26, 'n_states': 15, 'n_close': 6, 'ok': True}, 'left_populist': {'n': 14, 'n_states': 12, 'n_close': 2, 'ok': False}, 'center_populist': {'n': 2, 'n_states': 2, 'n_close': 1, 'ok': False}, 'mainstream_liberal': {'n': 292, 'n_states': 46, 'n_close': 43, 'ok': True}, 'moderate': {'n': 69, 'n_states': 31, 'n_close': 31, 'ok': True}}
+u_a active: ['progressive', 'moderate']
+statewide contested races in main sample: 57 -> d active: True
+Level-4 check: n_main=403 (need >= 80), archetype kappa proxy=0.666, agent-vs-rules=0.409 -> triggered=False
+likelihood trial nu=inf: in-sample 80% coverage 0.903
+likelihood trial nu=10.0: in-sample 80% coverage 0.891
+likelihood trial nu=5.0: in-sample 80% coverage 0.891
+likelihood: no likelihood reached 0.75-0.85 coverage; t5 kept and V7 is non-blocking (intervals conservative)
+agnostic: 3.3s  beta_L=[-1.1505177804289852, -2.019386991477578, -0.2760229442747976] beta_P=[1.6508721936700443, 0.5408263423303048, 2.7856747985478627]  max Rhat=1.0010 min ESS=4865
+    delta[progressive] = [-0.788728329407816, -1.887995517757192, 0.17730364117000225]
+    delta[left_populist] = [1.2490244534572295, 0.10365504614398689, 2.391877588899269]
+    delta[center_populist] = [2.773675299049518, 1.3260989828302459, 4.307844843973952]
+    delta[moderate] = [1.231071135285003, 0.41779228957621395, 2.022738889893386]
+literature: 2.7s  beta_L=[-1.3323448014408301, -2.2110502266971057, -0.4974776014507644] beta_P=[1.4339755043513527, 0.40072744098937535, 2.491641034990764]  max Rhat=1.0005 min ESS=5002
+    delta[progressive] = [-0.9824506258714927, -2.0220698720622097, -0.029671850395404747]
+    delta[left_populist] = [0.9582431809982941, -0.11096265588110026, 2.043083918810247]
+    delta[center_populist] = [2.7952263101520867, 1.36389043669565, 4.185881442326677]
+    delta[moderate] = [1.2970363466130583, 0.5157009657640073, 2.055673830981228]
+discount: 2.7s  beta_L=[-1.314240051076753, -2.4923229281565207, -0.09845820657316529] beta_P=[1.5102119843423072, -0.1248269228055829, 3.1307253670266117]  max Rhat=1.0007 min ESS=7216
+    delta[progressive] = [-0.8625805585894772, -2.285213228504994, 0.5453859388988138]
+    delta[left_populist] = [1.045024094849367, -0.6067661214556244, 2.7034932725025653]
+    delta[center_populist] = [2.825636624460834, 0.6714926759198028, 4.947901515886482]
+    delta[moderate] = [1.5373160629041003, 0.3274844913487898, 2.707201745072053]
+data_only: 2.8s  beta_L=[-1.3291699798046612, -2.330412920441528, -0.38660561736656995] beta_P=[2.0633006797295037, 0.8281632524994214, 3.3134534577447776]  max Rhat=1.0005 min ESS=4372
+    delta[progressive] = [-0.7823312734335304, -1.8944403269192598, 0.2149633792933846]
+    delta[left_populist] = [1.5931791045726316, 0.3363754526586311, 2.8626582961155385]
+    delta[center_populist] = [3.398440090835674, 1.7393891512412087, 5.098844949931229]
+    delta[moderate] = [1.3807438275009027, 0.5520788559927456, 2.192860887671759]

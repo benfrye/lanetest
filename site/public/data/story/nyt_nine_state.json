@@ -1,0 +1,917 @@
+{
+ "tidy": [
+  {
+   "state": "AK",
+   "group": "Male",
+   "shift": 20
+  },
+  {
+   "state": "AK",
+   "group": "Female",
+   "shift": 17
+  },
+  {
+   "state": "AK",
+   "group": "White",
+   "shift": 16
+  },
+  {
+   "state": "AK",
+   "group": "Nonwhite",
+   "shift": 23
+  },
+  {
+   "state": "AK",
+   "group": "18-29",
+   "shift": 34
+  },
+  {
+   "state": "AK",
+   "group": "30-44",
+   "shift": 30
+  },
+  {
+   "state": "AK",
+   "group": "45-64",
+   "shift": 16
+  },
+  {
+   "state": "AK",
+   "group": "65+",
+   "shift": 3
+  },
+  {
+   "state": "AK",
+   "group": "High school",
+   "shift": 21
+  },
+  {
+   "state": "AK",
+   "group": "Some college",
+   "shift": 20
+  },
+  {
+   "state": "AK",
+   "group": "College degree",
+   "shift": 13
+  },
+  {
+   "state": "AK",
+   "group": "Postgraduate",
+   "shift": 14
+  },
+  {
+   "state": "AK",
+   "group": "White college",
+   "shift": 14
+  },
+  {
+   "state": "AK",
+   "group": "White non-college",
+   "shift": 17
+  },
+  {
+   "state": "AK",
+   "group": "Nonwhite college",
+   "shift": 14
+  },
+  {
+   "state": "AK",
+   "group": "Nonwhite non-college",
+   "shift": 26
+  },
+  {
+   "state": "AK",
+   "group": "White men",
+   "shift": 17
+  },
+  {
+   "state": "IA",
+   "group": "Male",
+   "shift": 21
+  },
+  {
+   "state": "IA",
+   "group": "Female",
+   "shift": 15
+  },
+  {
+   "state": "IA",
+   "group": "White",
+   "shift": 16
+  },
+  {
+   "state": "IA",
+   "group": "Nonwhite",
+   "shift": 29
+  },
+  {
+   "state": "IA",
+   "group": "18-29",
+   "shift": 36
+  },
+  {
+   "state": "IA",
+   "group": "30-44",
+   "shift": 22
+  },
+  {
+   "state": "IA",
+   "group": "45-64",
+   "shift": 15
+  },
+  {
+   "state": "IA",
+   "group": "65+",
+   "shift": 9
+  },
+  {
+   "state": "IA",
+   "group": "High school",
+   "shift": 23
+  },
+  {
+   "state": "IA",
+   "group": "Some college",
+   "shift": 18
+  },
+  {
+   "state": "IA",
+   "group": "College degree",
+   "shift": 12
+  },
+  {
+   "state": "IA",
+   "group": "Postgraduate",
+   "shift": 11
+  },
+  {
+   "state": "IA",
+   "group": "White college",
+   "shift": 11
+  },
+  {
+   "state": "IA",
+   "group": "White non-college",
+   "shift": 19
+  },
+  {
+   "state": "IA",
+   "group": "Nonwhite college",
+   "shift": 23
+  },
+  {
+   "state": "IA",
+   "group": "Nonwhite non-college",
+   "shift": 32
+  },
+  {
+   "state": "IA",
+   "group": "White men",
+   "shift": 19
+  },
+  {
+   "state": "KS",
+   "group": "Male",
+   "shift": 23
+  },
+  {
+   "state": "KS",
+   "group": "Female",
+   "shift": 18
+  },
+  {
+   "state": "KS",
+   "group": "White",
+   "shift": 19
+  },
+  {
+   "state": "KS",
+   "group": "Nonwhite",
+   "shift": 29
+  },
+  {
+   "state": "KS",
+   "group": "18-29",
+   "shift": 37
+  },
+  {
+   "state": "KS",
+   "group": "30-44",
+   "shift": 30
+  },
+  {
+   "state": "KS",
+   "group": "45-64",
+   "shift": 20
+  },
+  {
+   "state": "KS",
+   "group": "65+",
+   "shift": 10
+  },
+  {
+   "state": "KS",
+   "group": "High school",
+   "shift": 22
+  },
+  {
+   "state": "KS",
+   "group": "Some college",
+   "shift": 20
+  },
+  {
+   "state": "KS",
+   "group": "College degree",
+   "shift": 19
+  },
+  {
+   "state": "KS",
+   "group": "Postgraduate",
+   "shift": 17
+  },
+  {
+   "state": "KS",
+   "group": "White college",
+   "shift": 17
+  },
+  {
+   "state": "KS",
+   "group": "White non-college",
+   "shift": 19
+  },
+  {
+   "state": "KS",
+   "group": "Nonwhite college",
+   "shift": 26
+  },
+  {
+   "state": "KS",
+   "group": "Nonwhite non-college",
+   "shift": 31
+  },
+  {
+   "state": "KS",
+   "group": "White men",
+   "shift": 22
+  },
+  {
+   "state": "ME",
+   "group": "Male",
+   "shift": 0
+  },
+  {
+   "state": "ME",
+   "group": "Female",
+   "shift": -7
+  },
+  {
+   "state": "ME",
+   "group": "White",
+   "shift": -5
+  },
+  {
+   "state": "ME",
+   "group": "Nonwhite",
+   "shift": 22
+  },
+  {
+   "state": "ME",
+   "group": "18-29",
+   "shift": 20
+  },
+  {
+   "state": "ME",
+   "group": "30-44",
+   "shift": 7
+  },
+  {
+   "state": "ME",
+   "group": "45-64",
+   "shift": -4
+  },
+  {
+   "state": "ME",
+   "group": "65+",
+   "shift": -16
+  },
+  {
+   "state": "ME",
+   "group": "High school",
+   "shift": -6
+  },
+  {
+   "state": "ME",
+   "group": "Some college",
+   "shift": -7
+  },
+  {
+   "state": "ME",
+   "group": "College degree",
+   "shift": -3
+  },
+  {
+   "state": "ME",
+   "group": "Postgraduate",
+   "shift": -4
+  },
+  {
+   "state": "ME",
+   "group": "White college",
+   "shift": -4
+  },
+  {
+   "state": "ME",
+   "group": "White non-college",
+   "shift": -8
+  },
+  {
+   "state": "ME",
+   "group": "Nonwhite college",
+   "shift": null
+  },
+  {
+   "state": "ME",
+   "group": "Nonwhite non-college",
+   "shift": null
+  },
+  {
+   "state": "ME",
+   "group": "White men",
+   "shift": -1
+  },
+  {
+   "state": "MI",
+   "group": "Male",
+   "shift": 12
+  },
+  {
+   "state": "MI",
+   "group": "Female",
+   "shift": 3
+  },
+  {
+   "state": "MI",
+   "group": "White",
+   "shift": 5
+  },
+  {
+   "state": "MI",
+   "group": "Nonwhite",
+   "shift": 13
+  },
+  {
+   "state": "MI",
+   "group": "18-29",
+   "shift": 31
+  },
+  {
+   "state": "MI",
+   "group": "30-44",
+   "shift": 15
+  },
+  {
+   "state": "MI",
+   "group": "45-64",
+   "shift": 3
+  },
+  {
+   "state": "MI",
+   "group": "65+",
+   "shift": -2
+  },
+  {
+   "state": "MI",
+   "group": "High school",
+   "shift": 12
+  },
+  {
+   "state": "MI",
+   "group": "Some college",
+   "shift": 8
+  },
+  {
+   "state": "MI",
+   "group": "College degree",
+   "shift": 2
+  },
+  {
+   "state": "MI",
+   "group": "Postgraduate",
+   "shift": -2
+  },
+  {
+   "state": "MI",
+   "group": "White college",
+   "shift": -1
+  },
+  {
+   "state": "MI",
+   "group": "White non-college",
+   "shift": 9
+  },
+  {
+   "state": "MI",
+   "group": "Nonwhite college",
+   "shift": 10
+  },
+  {
+   "state": "MI",
+   "group": "Nonwhite non-college",
+   "shift": 15
+  },
+  {
+   "state": "MI",
+   "group": "White men",
+   "shift": 10
+  },
+  {
+   "state": "MS",
+   "group": "Male",
+   "shift": 25
+  },
+  {
+   "state": "MS",
+   "group": "Female",
+   "shift": 17
+  },
+  {
+   "state": "MS",
+   "group": "White",
+   "shift": 18
+  },
+  {
+   "state": "MS",
+   "group": "Nonwhite",
+   "shift": 10
+  },
+  {
+   "state": "MS",
+   "group": "18-29",
+   "shift": 44
+  },
+  {
+   "state": "MS",
+   "group": "30-44",
+   "shift": 33
+  },
+  {
+   "state": "MS",
+   "group": "45-64",
+   "shift": 19
+  },
+  {
+   "state": "MS",
+   "group": "65+",
+   "shift": 11
+  },
+  {
+   "state": "MS",
+   "group": "High school",
+   "shift": 24
+  },
+  {
+   "state": "MS",
+   "group": "Some college",
+   "shift": 20
+  },
+  {
+   "state": "MS",
+   "group": "College degree",
+   "shift": 17
+  },
+  {
+   "state": "MS",
+   "group": "Postgraduate",
+   "shift": 18
+  },
+  {
+   "state": "MS",
+   "group": "White college",
+   "shift": 16
+  },
+  {
+   "state": "MS",
+   "group": "White non-college",
+   "shift": 18
+  },
+  {
+   "state": "MS",
+   "group": "Nonwhite college",
+   "shift": 5
+  },
+  {
+   "state": "MS",
+   "group": "Nonwhite non-college",
+   "shift": 12
+  },
+  {
+   "state": "MS",
+   "group": "White men",
+   "shift": 19
+  },
+  {
+   "state": "NC",
+   "group": "Male",
+   "shift": 25
+  },
+  {
+   "state": "NC",
+   "group": "Female",
+   "shift": 21
+  },
+  {
+   "state": "NC",
+   "group": "White",
+   "shift": 24
+  },
+  {
+   "state": "NC",
+   "group": "Nonwhite",
+   "shift": 17
+  },
+  {
+   "state": "NC",
+   "group": "18-29",
+   "shift": 44
+  },
+  {
+   "state": "NC",
+   "group": "30-44",
+   "shift": 35
+  },
+  {
+   "state": "NC",
+   "group": "45-64",
+   "shift": 22
+  },
+  {
+   "state": "NC",
+   "group": "65+",
+   "shift": 9
+  },
+  {
+   "state": "NC",
+   "group": "High school",
+   "shift": 23
+  },
+  {
+   "state": "NC",
+   "group": "Some college",
+   "shift": 22
+  },
+  {
+   "state": "NC",
+   "group": "College degree",
+   "shift": 21
+  },
+  {
+   "state": "NC",
+   "group": "Postgraduate",
+   "shift": 19
+  },
+  {
+   "state": "NC",
+   "group": "White college",
+   "shift": 22
+  },
+  {
+   "state": "NC",
+   "group": "White non-college",
+   "shift": 22
+  },
+  {
+   "state": "NC",
+   "group": "Nonwhite college",
+   "shift": 13
+  },
+  {
+   "state": "NC",
+   "group": "Nonwhite non-college",
+   "shift": 19
+  },
+  {
+   "state": "NC",
+   "group": "White men",
+   "shift": 25
+  },
+  {
+   "state": "OH",
+   "group": "Male",
+   "shift": 22
+  },
+  {
+   "state": "OH",
+   "group": "Female",
+   "shift": 12
+  },
+  {
+   "state": "OH",
+   "group": "White",
+   "shift": 16
+  },
+  {
+   "state": "OH",
+   "group": "Nonwhite",
+   "shift": 17
+  },
+  {
+   "state": "OH",
+   "group": "18-29",
+   "shift": 37
+  },
+  {
+   "state": "OH",
+   "group": "30-44",
+   "shift": 25
+  },
+  {
+   "state": "OH",
+   "group": "45-64",
+   "shift": 14
+  },
+  {
+   "state": "OH",
+   "group": "65+",
+   "shift": 9
+  },
+  {
+   "state": "OH",
+   "group": "High school",
+   "shift": 21
+  },
+  {
+   "state": "OH",
+   "group": "Some college",
+   "shift": 18
+  },
+  {
+   "state": "OH",
+   "group": "College degree",
+   "shift": 13
+  },
+  {
+   "state": "OH",
+   "group": "Postgraduate",
+   "shift": 9
+  },
+  {
+   "state": "OH",
+   "group": "White college",
+   "shift": 10
+  },
+  {
+   "state": "OH",
+   "group": "White non-college",
+   "shift": 20
+  },
+  {
+   "state": "OH",
+   "group": "Nonwhite college",
+   "shift": 14
+  },
+  {
+   "state": "OH",
+   "group": "Nonwhite non-college",
+   "shift": 19
+  },
+  {
+   "state": "OH",
+   "group": "White men",
+   "shift": 21
+  },
+  {
+   "state": "TX",
+   "group": "Male",
+   "shift": 28
+  },
+  {
+   "state": "TX",
+   "group": "Female",
+   "shift": 24
+  },
+  {
+   "state": "TX",
+   "group": "White",
+   "shift": 17
+  },
+  {
+   "state": "TX",
+   "group": "Nonwhite",
+   "shift": 33
+  },
+  {
+   "state": "TX",
+   "group": "18-29",
+   "shift": 48
+  },
+  {
+   "state": "TX",
+   "group": "30-44",
+   "shift": 38
+  },
+  {
+   "state": "TX",
+   "group": "45-64",
+   "shift": 22
+  },
+  {
+   "state": "TX",
+   "group": "65+",
+   "shift": 8
+  },
+  {
+   "state": "TX",
+   "group": "High school",
+   "shift": 30
+  },
+  {
+   "state": "TX",
+   "group": "Some college",
+   "shift": 28
+  },
+  {
+   "state": "TX",
+   "group": "College degree",
+   "shift": 22
+  },
+  {
+   "state": "TX",
+   "group": "Postgraduate",
+   "shift": 19
+  },
+  {
+   "state": "TX",
+   "group": "White college",
+   "shift": 17
+  },
+  {
+   "state": "TX",
+   "group": "White non-college",
+   "shift": 17
+  },
+  {
+   "state": "TX",
+   "group": "Nonwhite college",
+   "shift": 23
+  },
+  {
+   "state": "TX",
+   "group": "Nonwhite non-college",
+   "shift": 38
+  },
+  {
+   "state": "TX",
+   "group": "White men",
+   "shift": 20
+  }
+ ],
+ "table": [
+  {
+   "state": "AK",
+   "overall_shift": 18.41,
+   "wnc_minus_wc": 3,
+   "y1829_minus_65": 31,
+   "edu_gradient_resid": -1,
+   "r_65": -6.41,
+   "r_wnc": -0.41,
+   "dem_nominee": "Mary Peltola",
+   "archetype": "moderate",
+   "P": 0.5,
+   "R_inc_pv": -2.675,
+   "race_file_y": 14.005
+  },
+  {
+   "state": "IA",
+   "overall_shift": 17.82,
+   "wnc_minus_wc": 8,
+   "y1829_minus_65": 27,
+   "edu_gradient_resid": 4,
+   "r_65": 0.18,
+   "r_wnc": 2.18,
+   "dem_nominee": "Josh Turek",
+   "archetype": "moderate",
+   "P": 0.5,
+   "R_inc_pv": 0.0,
+   "race_file_y": 17.677
+  },
+  {
+   "state": "KS",
+   "overall_shift": 20.35,
+   "wnc_minus_wc": 2,
+   "y1829_minus_65": 27,
+   "edu_gradient_resid": -3,
+   "r_65": -1.35,
+   "r_wnc": -0.35,
+   "dem_nominee": "Adam Hamilton",
+   "archetype": "moderate",
+   "P": 0.5,
+   "R_inc_pv": 3.296,
+   "race_file_y": 21.36
+  },
+  {
+   "state": "ME",
+   "overall_shift": -3.71,
+   "wnc_minus_wc": -4,
+   "y1829_minus_65": 36,
+   "edu_gradient_resid": -10,
+   "r_65": -3.29,
+   "r_wnc": -3.29,
+   "dem_nominee": "Troy Jackson",
+   "archetype": "left_populist",
+   "P": 1.0,
+   "R_inc_pv": -17.716,
+   "race_file_y": -0.182
+  },
+  {
+   "state": "MI",
+   "overall_shift": 7.23,
+   "wnc_minus_wc": 10,
+   "y1829_minus_65": 33,
+   "edu_gradient_resid": 6,
+   "r_65": -0.23,
+   "r_wnc": 2.77,
+   "dem_nominee": "Abdul El-Sayed",
+   "archetype": "left_populist",
+   "P": 1.0,
+   "R_inc_pv": 0.0,
+   "race_file_y": 8.585
+  },
+  {
+   "state": "MS",
+   "overall_shift": 20.76,
+   "wnc_minus_wc": 2,
+   "y1829_minus_65": 33,
+   "edu_gradient_resid": -2,
+   "r_65": -0.76,
+   "r_wnc": -1.76,
+   "dem_nominee": "Scott Colom",
+   "archetype": "moderate",
+   "P": 0.5,
+   "R_inc_pv": 6.67,
+   "race_file_y": 23.155
+  },
+  {
+   "state": "NC",
+   "overall_shift": 22.88,
+   "wnc_minus_wc": 0,
+   "y1829_minus_65": 35,
+   "edu_gradient_resid": -4,
+   "r_65": -4.88,
+   "r_wnc": 0.12,
+   "dem_nominee": "Roy Cooper",
+   "archetype": "moderate",
+   "P": 0.0,
+   "R_inc_pv": 0.0,
+   "race_file_y": 23.302
+  },
+  {
+   "state": "OH",
+   "overall_shift": 16.7,
+   "wnc_minus_wc": 10,
+   "y1829_minus_65": 28,
+   "edu_gradient_resid": 4,
+   "r_65": 1.3,
+   "r_wnc": 4.3,
+   "dem_nominee": "Sherrod Brown",
+   "archetype": "mainstream_liberal",
+   "P": 0.5,
+   "R_inc_pv": 0.0,
+   "race_file_y": 16.355
+  },
+  {
+   "state": "TX",
+   "overall_shift": 25.88,
+   "wnc_minus_wc": 0,
+   "y1829_minus_65": 40,
+   "edu_gradient_resid": 3,
+   "r_65": -8.88,
+   "r_wnc": -7.88,
+   "dem_nominee": "James Talarico",
+   "archetype": "left_populist",
+   "P": 1.0,
+   "R_inc_pv": 0.0,
+   "race_file_y": 26.212
+  }
+ ],
+ "sd_across_states": {
+  "wnc_minus_wc": 4.876,
+  "y1829_minus_65": 4.438,
+  "edu_gradient_resid": 5.074
+ },
+ "psi_P": {
+  "mean": 1.637,
+  "sd": 2.523,
+  "lo80": -1.597,
+  "hi80": 4.871,
+  "sd_ratio": 0.841,
+  "note": "grad_s = c + psi_P*P_s + zeta*R_inc_pv_s; N = 9; beta_PW is gated off, so no 'tension' test is possible."
+ },
+ "maine_discrepancy": {
+  "senate_json_y_two_party": -0.182,
+  "nyt_9state_implied": -3.71,
+  "gap": 3.528,
+  "note": "senate.json (NBC, 86% counted) has Jackson running +0.66 (total-vote) / -0.18 (two-party) ahead of Harris's 2024 Maine margin; the NYT nine-state table implies a -3.7-point shift (negative = toward R; 0.47*Male + 0.53*Female). Unresolved; both are preliminary. The NYT figure is a model estimate from early returns and its 2024 baseline may differ."
+ },
+ "caveat": "Nine races, one Democrat each: we can't tell style from state."
+}

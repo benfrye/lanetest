@@ -1,0 +1,1288 @@
+{
+ "cycle": 2018,
+ "election_day": "2018-11-06",
+ "races": [
+  {
+   "id": "HI-2",
+   "dem_name": "Tulsi Gabbard",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Brian Evans",
+   "rep_incumbent": false,
+   "pres_margin_2p": 34.945,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    },
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "IA-1",
+   "dem_name": "Abby Finkenauer",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Rod Blum",
+   "rep_incumbent": true,
+   "pres_margin_2p": -3.727,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Abby Finkenauer, Iowa State Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Ako Abdul-Samad, State Representative",
+    "Liz Bennett, State Representative",
+    "Timi Brown-Powers, State Representative",
+    "Pam Jochum, State Senator and former President of the Iowa Senate",
+    "Tyler Olson, former State Representative",
+    "Janet Petersen, State Senator",
+    "Kirsten Running-Marquardt, State Representative",
+    "Ras Smith, State Representative",
+    "Todd Taylor, State Representative",
+    "Sue Dvorsky, former Iowa Democratic Party chair"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Iowa&oldid=867328410",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IA-2",
+   "dem_name": "Dave Loebsack",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Christopher Peters",
+   "rep_incumbent": false,
+   "pres_margin_2p": -4.357,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Iowa&oldid=867328410",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IA-3",
+   "dem_name": "Cindy Axne",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Young",
+   "rep_incumbent": true,
+   "pres_margin_2p": -3.743,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Cindy Axne, businesswoman",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Iowa&oldid=867328410",
+   "wiki_district_article": null
+  },
+  {
+   "id": "ID-1",
+   "dem_name": "Cristina McNeil",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Russ Fulcher",
+   "rep_incumbent": false,
+   "pres_margin_2p": -42.985,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Cristina McNeil, real estate agent, chair of the Latino caucus of the Idaho Democratic Party",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Idaho&oldid=858870437",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-3",
+   "dem_name": "Dan Lipinski",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Arthur Jones",
+   "rep_incumbent": false,
+   "pres_margin_2p": 16.088,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "* Dan Lipinski, incumbent representative for the 3rd congressional district",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Steven Landek, State Senator",
+    "Jeff Tobolski, member of the Cook County Board of Commissioners from the 16th district.",
+    "John Ryan, Village President of Alsip, Illinois",
+    "Dan Foy, Mayor of Burbank, Illinois",
+    "Chuck Tokar, Mayor of Chicago Ridge, Illinois",
+    "Mike Howley, Mayor of Hickory Hills, Illinois",
+    "Kevin Casey, Mayor of Hometown, Illinois",
+    "Kris Wasowicz, Mayor of Justice, Illinois",
+    "Dennis McGee, Mayor of Merrionette Park, Illinois",
+    "Sandra Bury, Village President of Oak Lawn, Illinois",
+    "Kyle Hastings, Mayor of Orland Hills, Illinois",
+    "Bob Straz, Mayor of Palos Heights, Illinois",
+    "Jerry Bennett, Mayor of Palos Hills, Illinois",
+    "John Mahoney, Mayor of Palos Park, Illinois",
+    "Mary Werner, Mayor of Worth, Illinois",
+    "Dave Brady, Mayor of Bedford Park, Illinois",
+    "Robert Lovaro, Mayor of Berwyn, Illinois",
+    "Larry Dominic, President of Cicero, Illinois",
+    "Jeff Walik, Mayor of Stickney, Illinois",
+    "Tom Heller, Mayor of Forest View, Illinois",
+    "Sergio Rodriquez, Summit, Illinois",
+    "Tom Livingston, LaGrange, Illinois",
+    "Alice Gallagher, Western Springs, Illinois",
+    "John Carpino, Willow Springs, Illinois",
+    "Chris Getty, Lyons, Illinois"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-4",
+   "dem_name": "Chuy García",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mark Lorch",
+   "rep_incumbent": false,
+   "pres_margin_2p": 72.298,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "* Jesús \"Chuy\" García, member of the Cook County Board of Commissioners",
+   "wiki_endorsement_markers": [
+    "Our Revolution",
+    "Bernie Sanders"
+   ],
+   "wiki_endorsers_sample": [
+    "Our Revolution Illinois",
+    "Luis Gutiérrez, retiring U.S. Representative (IL-4)",
+    "Carlos Ramirez-Rosa, member of the Chicago City Council from the 35th ward and former U.S. Representative (IL-4) candida",
+    "Bernie Sanders, U.S. Senator from Vermont and 2016 presidential candidate",
+    "Nina Turner, former member of the Ohio Senate and President of Our Revolution",
+    "Christopher G. Kennedy, businessman and 2018 Illinois gubernatorial candidate",
+    "J. B. Pritzker, businessman and 2018 Democratic Illinois gubernatorial nominee",
+    "Chicago Sun-Times"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-6",
+   "dem_name": "Sean Casten",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Peter Roskam",
+   "rep_incumbent": true,
+   "pres_margin_2p": 7.495,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Sean Casten, former energy business owner",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-10",
+   "dem_name": "Brad Schneider",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Douglas Bennett",
+   "rep_incumbent": false,
+   "pres_margin_2p": 31.078,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "* Brad Schneider, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-12",
+   "dem_name": "Brendan Kelly",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Bost",
+   "rep_incumbent": true,
+   "pres_margin_2p": -15.546,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Brendan Kelly, St. Clair County State's Attorney",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-13",
+   "dem_name": "Betsy Dirksen Londrigan",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Rodney Davis",
+   "rep_incumbent": true,
+   "pres_margin_2p": -5.857,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Betsy Dirksen Londrigan, progressive nonprofit leader",
+   "wiki_endorsement_markers": [
+    "EMILY's List"
+   ],
+   "wiki_endorsers_sample": [
+    "U.S. Sen. Dick Durbin",
+    "U.S. Sen. Kirsten Gillibrand",
+    "EMILY's List}}"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-14",
+   "dem_name": "Lauren Underwood",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Randy Hultgren",
+   "rep_incumbent": true,
+   "pres_margin_2p": -4.171,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Lauren Underwood, nurse and former senior advisor at the U.S. Department of Health and Human Services.",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-16",
+   "dem_name": "Sara Dady",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Adam Kinzinger",
+   "rep_incumbent": true,
+   "pres_margin_2p": -18.337,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Sara Dady, lawyer",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IL-17",
+   "dem_name": "Cheri Bustos",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Bill Fawell",
+   "rep_incumbent": false,
+   "pres_margin_2p": -0.744,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    }
+   ],
+   "wiki_primary_desc": "* Cheri Bustos, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Illinois&oldid=867329211",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-1",
+   "dem_name": "Pete Visclosky",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Mark Leyva",
+   "rep_incumbent": false,
+   "pres_margin_2p": 13.18,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Pete Visclosky, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-2",
+   "dem_name": "Mel Hall",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jackie Walorski",
+   "rep_incumbent": true,
+   "pres_margin_2p": -24.319,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Mel Hall, businessman",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-4",
+   "dem_name": "Tobi Beck",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Jim Baird",
+   "rep_incumbent": false,
+   "pres_margin_2p": -36.085,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Tobi Beck, security technology designer",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-5",
+   "dem_name": "Dee Thornton",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Susan Brooks",
+   "rep_incumbent": true,
+   "pres_margin_2p": -12.5,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Dee Thornton, businesswoman",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-6",
+   "dem_name": "Jeannine Lake",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Greg Pence",
+   "rep_incumbent": false,
+   "pres_margin_2p": -42.376,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Jeannine Lee Lake, publisher and CEO",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "wiki_district_article": null
+  },
+  {
+   "id": "IN-9",
+   "dem_name": "Liz Watson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Trey Hollingsworth",
+   "rep_incumbent": true,
+   "pres_margin_2p": -28.227,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    },
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Liz Watson",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+   "wiki_district_article": null
+  },
+  {
+   "id": "KS-2",
+   "dem_name": "Paul Davis",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Steve Watkins",
+   "rep_incumbent": false,
+   "pres_margin_2p": -19.742,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Kansas&oldid=866567199",
+   "wiki_district_article": null
+  },
+  {
+   "id": "KS-3",
+   "dem_name": "Sharice Davids",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Kevin Yoder",
+   "rep_incumbent": true,
+   "pres_margin_2p": 1.288,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Sharice Davids, attorney",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Kansas&oldid=866567199",
+   "wiki_district_article": null
+  },
+  {
+   "id": "KS-4",
+   "dem_name": "James Thompson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ron Estes",
+   "rep_incumbent": true,
+   "pres_margin_2p": -29.185,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    },
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Kansas&oldid=866567199",
+   "wiki_district_article": "https://en.wikipedia.org/wiki/Kansas's_4th_congressional_district_election,_2018"
+  },
+  {
+   "id": "KY-1",
+   "dem_name": "Paul Walker",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "James Comer",
+   "rep_incumbent": true,
+   "pres_margin_2p": -50.363,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "* Paul Walker, professor",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Kentucky&oldid=867345519",
+   "wiki_district_article": null
+  },
+  {
+   "id": "KY-3",
+   "dem_name": "John Yarmuth",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Vickie Glisson",
+   "rep_incumbent": false,
+   "pres_margin_2p": 15.823,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    }
+   ],
+   "wiki_primary_desc": "* John Yarmuth, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Kentucky&oldid=867345519",
+   "wiki_district_article": null
+  },
+  {
+   "id": "KY-6",
+   "dem_name": "Amy McGrath",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Andy Barr",
+   "rep_incumbent": true,
+   "pres_margin_2p": -16.259,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Amy McGrath, retired U.S. Marine",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Kentucky&oldid=867345519",
+   "wiki_district_article": null
+  },
+  {
+   "id": "LA-4",
+   "dem_name": "Ryan Trundle",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Johnson",
+   "rep_incumbent": true,
+   "pres_margin_2p": -24.691,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Louisiana&oldid=866569466",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MA-3",
+   "dem_name": "Lori Trahan",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Rick Green",
+   "rep_incumbent": false,
+   "pres_margin_2p": 24.359,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Lori Trahan, former Chief of Staff to Marty Meehan",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "The Boston Globe",
+    "Boston Herald",
+    "Lowell Sun",
+    "Tom Golden, State Representative",
+    "Rady Mom, State Representative",
+    "David Nangle, State Representative",
+    "Steve Zanni, Mayor of Methuen",
+    "Marty Meehan, Former U.S. Representative and University of Massachusetts president}}"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Massachusetts&oldid=867440174",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MA-6",
+   "dem_name": "Seth Moulton",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Joseph Schneider",
+   "rep_incumbent": false,
+   "pres_margin_2p": 18.982,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Massachusetts&oldid=867440174",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MA-9",
+   "dem_name": "Bill Keating",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Peter Tedeschi",
+   "rep_incumbent": false,
+   "pres_margin_2p": 11.347,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Massachusetts&oldid=867440174",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MD-6",
+   "dem_name": "David Trone",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Amie Hoeber",
+   "rep_incumbent": false,
+   "pres_margin_2p": 15.812,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* David Trone, businessman and candidate for Maryland's 8th congressional district in 2016",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Maryland&oldid=865615686",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MD-8",
+   "dem_name": "Jamie Raskin",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "John Walsh",
+   "rep_incumbent": false,
+   "pres_margin_2p": 35.983,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    },
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    },
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "* Jamie Raskin, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Maryland&oldid=865615686",
+   "wiki_district_article": null
+  },
+  {
+   "id": "ME-1",
+   "dem_name": "Chellie Pingree",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Mark Holbrook",
+   "rep_incumbent": false,
+   "pres_margin_2p": 15.846,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    }
+   ],
+   "wiki_primary_desc": "* Chellie Pingree, incumbent U.S. representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Maine&oldid=866800979",
+   "wiki_district_article": null
+  },
+  {
+   "id": "ME-2",
+   "dem_name": "Jared Golden",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Bruce Poliquin",
+   "rep_incumbent": true,
+   "pres_margin_2p": -11.135,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Jared Golden, Assistant Majority Leader of the Maine House of Representatives",
+   "wiki_endorsement_markers": [
+    "CPC PAC",
+    "VoteVets"
+   ],
+   "wiki_endorsers_sample": [
+    "Robert Alley, State Representative",
+    "Betty Austin, State Representative",
+    "Heidi Brooks, State Representative",
+    "Barbara Cardone, State Representative",
+    "Michael E. Carpenter, State Senator and former Maine Attorney General",
+    "Robert Duchesne, State Representative",
+    "Michelle Dunphy, State Representative",
+    "Jessica L. Fay, State Representative",
+    "Aaron Frey, State Representative",
+    "Roger Fuller, State Representative",
+    "Sara Gideon, Speaker of the Maine House of Representatives",
+    "Gay Grant, State Representative",
+    "James R. Handy, State Representative",
+    "Brian Hubbell, State Representative",
+    "Victoria Kornfield, State Representative",
+    "Walter Kumiega, State Representative",
+    "Nate Libby, State Senator",
+    "Louis Luchini, State Representative",
+    "Colleen Madigan, State Representative",
+    "John Madigan, State Representative",
+    "Danny Martin, State Representative",
+    "John L. Martin, State Representative, former Speaker of the Maine House of Representatives",
+    "David McCrea, State Representative",
+    "Gina Melaragno, State Representative",
+    "Catherine Nadeau, State Representative"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Maine&oldid=866800979",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-1",
+   "dem_name": "Matt Morgan",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jack Bergman",
+   "rep_incumbent": true,
+   "pres_margin_2p": -22.54,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    }
+   ],
+   "wiki_primary_desc": "* Matthew W. Morgan, retired US Marine Corps lieutenant colonel and Iraq War veteran",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-2",
+   "dem_name": "Rob Davidson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Bill Huizenga",
+   "rep_incumbent": true,
+   "pres_margin_2p": -18.723,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    }
+   ],
+   "wiki_primary_desc": "* Rob Davidson, ER doctor",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-3",
+   "dem_name": "Cathy Albro",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Justin Amash",
+   "rep_incumbent": true,
+   "pres_margin_2p": -10.021,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Cathy Albro, educator",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-5",
+   "dem_name": "Dan Kildee",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Travis Wines",
+   "rep_incumbent": false,
+   "pres_margin_2p": 4.412,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-6",
+   "dem_name": "Matt Longjohn",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Fred Upton",
+   "rep_incumbent": true,
+   "pres_margin_2p": -8.917,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Matt Longjohn, physician and former National Health Officer for the YMCA",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-7",
+   "dem_name": "Gretchen Driskell",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Tim Walberg",
+   "rep_incumbent": true,
+   "pres_margin_2p": -18.008,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Gretchen Driskell, former State Representative, former Saline Mayor and nominee for this seat in 2016",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-8",
+   "dem_name": "Elissa Slotkin",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Bishop",
+   "rep_incumbent": true,
+   "pres_margin_2p": -7.09,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Elissa Slotkin, former Acting Assistant Secretary of Defense for International Security Affairs and former United States National Security Council official",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-9",
+   "dem_name": "Andy Levin",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Candius Stearns",
+   "rep_incumbent": false,
+   "pres_margin_2p": 8.193,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "* Andy Levin, former head of the Michigan Department of Energy, Labor and Economic Growth, Sander Levin's son",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Rep. Dan Kildee, MI-5",
+    "Fmr. Gov. Jennifer Granholm"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MI-11",
+   "dem_name": "Haley Stevens",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Lena Epstein",
+   "rep_incumbent": false,
+   "pres_margin_2p": -4.632,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Haley Stevens, former chief of staff for the Presidential Task Force on the Auto Industry",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Michigan&oldid=867467893",
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-1",
+   "dem_name": "Dan Feehan",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Jim Hagedorn",
+   "rep_incumbent": false,
+   "pres_margin_2p": -16.249,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-2",
+   "dem_name": "Angie Craig",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jason Lewis",
+   "rep_incumbent": true,
+   "pres_margin_2p": -1.307,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-3",
+   "dem_name": "Dean Phillips",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Erik Paulsen",
+   "rep_incumbent": true,
+   "pres_margin_2p": 10.195,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-5",
+   "dem_name": "Ilhan Omar",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Jennifer Zielinski",
+   "rep_incumbent": false,
+   "pres_margin_2p": 59.87,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    },
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    },
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-7",
+   "dem_name": "Collin Peterson",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Dave Hughes",
+   "rep_incumbent": false,
+   "pres_margin_2p": -33.19,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MN-8",
+   "dem_name": "Joe Radinovich",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Pete Stauber",
+   "rep_incumbent": false,
+   "pres_margin_2p": -16.81,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MO-2",
+   "dem_name": "Cort VanOstran",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ann Wagner",
+   "rep_incumbent": true,
+   "pres_margin_2p": -10.854,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MO-5",
+   "dem_name": "Emanuel Cleaver",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Jacob Turk",
+   "rep_incumbent": false,
+   "pres_margin_2p": 14.256,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MO-7",
+   "dem_name": "Jamie Schoolcraft",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Billy Long",
+   "rep_incumbent": true,
+   "pres_margin_2p": -48.055,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "MS-3",
+   "dem_name": "Michael Evans",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Michael Guest",
+   "rep_incumbent": false,
+   "pres_margin_2p": -24.975,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-2",
+   "dem_name": "Linda Coleman",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "George Holding",
+   "rep_incumbent": true,
+   "pres_margin_2p": -9.917,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Linda Coleman, former State Representative and Democratic nominee for lieutenant governor in 2012 & 2016",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=867470571",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-5",
+   "dem_name": "D. D. Adams",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Virginia Foxx",
+   "rep_incumbent": true,
+   "pres_margin_2p": -18.107,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Denise D. Adams, Winston-Salem city council member",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=867470571",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-6",
+   "dem_name": "Ryan Watts",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mark Walker",
+   "rep_incumbent": true,
+   "pres_margin_2p": -15.077,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Ryan Watts, businessman",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=867470571",
+   "wiki_district_article": null
+  },
+  {
+   "id": "NC-7",
+   "dem_name": "Kyle Horton",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Rouzer",
+   "rep_incumbent": true,
+   "pres_margin_2p": -18.154,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "* Kyle Horton, physician",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_North_Carolina&oldid=867470571",
+   "wiki_district_article": null
+  }
+ ]
+}

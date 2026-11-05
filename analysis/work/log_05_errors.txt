@@ -1,0 +1,13 @@
+E24 (two-party, certified state totals) = -1.500  (METHODOLOGY: -1.43)
+E20 approx = 4.17, E16 approx = 1.96 (2024-turnout-weighted state margins; approximation)
+NYT shifts used: {'wc': 9, 'wnc': 14, 'black': 9, 'hisp': 28, 'asian': 17, 'other': 17} {'y1829': 32, 'a3044': 24, 'a4564': 13, 'a65': 6}
+G range 0.904..1.143
+56 units, EV total 538
+factor scales (rescaled): {'NE': np.float64(1.66), 'RUST': np.float64(1.13), 'SOUTH': np.float64(1.04), 'PLAINS_MTN': np.float64(1.29), 'SW': np.float64(2.37), 'PACIFIC': np.float64(1.45), 'WNC': np.float64(1.23), 'BLACK': np.float64(0.67), 'HISP': np.float64(1.19), 'COLLEGE': np.float64(0.72), 'EVANG': np.float64(0.75), 'A65': np.float64(0.98)}
+median total SD 3.50; sigma_idio range 1.50..3.50
+corr WI-MI 0.37, WI-PA 0.35, AZ-NV 0.58, TX-CA 0.74
+V3: {'pooled_coverage80': 0.7920792079207921, 'coverage_pass': True, 'logscore_beats_independent': np.True_, 'logscore_correlated': np.float64(-244.14341869634555), 'logscore_independent': -255.61885918816847, 'wi_mi_pa_2016_check': 'not run: needs 2012 state results (hist_pres_states.json missing)', 'realized_rel_swing_sd_pooled': 2.666810449876106, 'sd_for_80pct_coverage_approx': 3.465245940840254, 'calibrated': False, 'note': 'Only two transitions exist (2016->20, 2020->24). Total median SD is fixed at 3.5 by the §5.6 fallback, so the back-test mostly tests that choice.', 'pass': True}
+    2020 {'fit_on': ['prior only'], 'coverage80': 0.8, 'n': 50, 'realized_sd': 2.879733996402509, 'model_median_sd': 3.478630529230517, 'logscore_correlated': -123.49436879687858, 'logscore_independent': -126.482552914207}
+    2024 {'fit_on': ['2020'], 'coverage80': 0.7843137254901961, 'n': 51, 'realized_sd': 2.439405498435629, 'model_median_sd': 3.4999999999999996, 'logscore_correlated': -120.64904989946697, 'logscore_independent': -129.13630627396145}
+V1: {'max_abs_dev': 0.0, 'ev_D': 226, 'pass': True}
+V4: {'S_2020_to_2024': -5.672194577423279, 'ev_D_80': [213.0, 241.0], 'ev_D_median': 225.0, 'actual_ev_D': 226, 'actual_inside_80': True, 'brier_model': 0.00844521392857143, 'brier_uniform_swing_deterministic': 0.0, 'brier_independent_same_sd': 0.009052234008560912, 'pass': True, 'brier_baseline_used': 'independent-error uniform swing with the same marginal SD (as in V3). Deterministic uniform swing from 2020 called every 2024 unit correctly (Brier 0), which no probabilistic model can match; it is reported, not used as the bar.', 'note': 'Base = 2020 two-party margins, E = 2024 national (-1.43 two-party), delta = 0, psi = phi = 0, same error model.'}

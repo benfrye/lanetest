@@ -1,0 +1,7 @@
+logged overrides: none
+fit_level = 3; publish_blocked = False (raw D2 flag True)
+history preset means: {'progressive': -1.39, 'left_populist': -4.2, 'center_populist': -4.56, 'mainstream_liberal': 0.0, 'moderate': 1.48} blend means: {'progressive': -1.07, 'left_populist': -1.47, 'center_populist': -0.93, 'mainstream_liberal': 0.08, 'moderate': 1.39}
+V15 dial: {'agnostic': (True, True), 'literature': (True, True), 'discount': (False, False), 'data_only': (True, True)} -> dial_enabled False
+hull: [[-0.01449, 0.12319], [0.0, 0.0], [2.0, 0.0], [2.0, 1.0], [0.0, 1.0]] grid counts: {(1.0, 1.0): 9, (1.0, 0.0): 237, (1.0, 0.5): 55, (2.0, 1.0): 5, (0.0, 0.0): 51, (0.0, 0.5): 17, (2.0, 0.5): 20, (2.0, 0.0): 6, (0.0, 1.0): 2, (-1.0, 0.0): 1}
+copy_flags: {'no_detectable_effect': False, 'no_predictive_gain': True, 'lead_with_overlap': False, 'publish_blocked': False, 'placebo_flag': {'progressive': True, 'left_populist': False, 'center_populist': False, 'moderate': False}, 'direction_depends_on_prior': {'progressive': False, 'left_populist': False, 'center_populist': False, 'moderate': False}, 'provisional_archetypes': ['center_populist'], 'maine_explained_by_incumbent': True, 'models_disagree': {'progressive': False, 'left_populist': False, 'center_populist': False, 'moderate': True}, 'label_reliability': 'low_posture'}
+races.json: 520 rows; candidate model_params written (fit_level 3)

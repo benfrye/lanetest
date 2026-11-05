@@ -1,0 +1,566 @@
+{
+ "cycle": 2022,
+ "coder": "batch_2022_1",
+ "labels": {
+  "AL-5": {
+   "name": "Kathy Warner-Stanton",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Safe-R open-seat long shot; ex-federal computer specialist; platform on education and affordable healthcare; no left/centrist markers (web search, Ballotpedia snippet)",
+   "label_source_url": "https://ballotpedia.org/Kathy_Warner-Stanton",
+   "verified_fetch": true
+  },
+  "AR-2": {
+   "name": "Quintessa Hathaway",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Educator/entrepreneur; campaign site centred on pre-K-12 and adult education; no ideological markers or endorsements found (web search, Ballotpedia snippet)",
+   "label_source_url": "https://ballotpedia.org/Quintessa_Hathaway",
+   "verified_fetch": true
+  },
+  "AZ-1": {
+   "name": "Jevin Hodge",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue + NewDem Action Fund + DFA; state party vice chair; income inequality, health care for every Arizonan, child tax credit; 'grew up without wealth' background but no centrist branding (Cronkite News 2022-10-14)",
+   "label_source_url": "https://cronkitenews.azpbs.org/2022/10/14/us-house-district-1-jevin-hodge-democrat-fresh-perspectives",
+   "verified_fetch": true
+  },
+  "AZ-2": {
+   "name": "Tom O'Halleran",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog + New Dem + Problem Solvers member (pre-election caucus lists)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "AZ-4": {
+   "name": "Greg Stanton",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem member in a Biden+10 seat; conventional incumbent, no Blue Dog/PSC marker",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "AZ-5": {
+   "name": "Javier Ramos",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Self-funded no-contributions campaign ('give the office back to the people'); pro-choice, DREAM Act, voting rights; no left-group backing (Cronkite News 2022-10-14)",
+   "label_source_url": "https://cronkitenews.azpbs.org/2022/10/14/us-house-district-5-javier-garcia-ramos-running-without-campaign-contributions/",
+   "verified_fetch": true
+  },
+  "AZ-6": {
+   "name": "Kirsten Engel",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "EMILY's List + DCCC Red to Blue + NewDem Action Fund; endorsed by Grijalva and Climate Hawks Vote; climate change as top priority, no centrist branding (web search, local coverage)",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": true
+  },
+  "AZ-7": {
+   "name": "Raúl Grijalva",
+   "ideology": "left",
+   "posture": "establishment",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats + PDA endorsed; former CPC co-chair; long-time incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582",
+   "verified_fetch": false
+  },
+  "CA-1": {
+   "name": "Max Steiner",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Described as a 'moderate Democrat'; calls himself a 'constructive Democrat' courting Republicans; water/forest/wildfire focus (Shasta Scout 2021-11-09)",
+   "label_source_url": "https://shastascout.org/democrat-max-steiner-says-hell-do-more-for-republicans-than-lamalfa-has/",
+   "verified_fetch": true
+  },
+  "CA-3": {
+   "name": "Kermit Jones",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed + NewDem Action Fund + DCCC Red to Blue; Navy veteran physician",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "CA-4": {
+   "name": "Mike Thompson",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog member and Blue Dog PAC endorsed; long-time incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "CA-5": {
+   "name": "Mike Barkley",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Self-described progressive; platform incl. Medicare for All, repeal of 2nd Amendment; originally planned to challenge Rep. Harder from the left (Turlock Journal, Aug 2021); perennial candidate",
+   "label_source_url": "https://turlockjournal.com/news/government/progressive-dems-line-face-harder-district-10",
+   "verified_fetch": true
+  },
+  "CA-6": {
+   "name": "Ami Bera",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem member in Biden+19 seat; conventional incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "CA-9": {
+   "name": "Josh Harder",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "New Dem + Problem Solvers member; swing-seat frontliner",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "CA-13": {
+   "name": "Adam Gray",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed + NewDem Action Fund + DCCC Red to Blue; state assemblyman",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "CA-17": {
+   "name": "Ro Khanna",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats endorsed; CPC leadership; Sanders 2020 co-chair, no PAC money",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=1120444582",
+   "verified_fetch": false
+  },
+  "CA-19": {
+   "name": "Jimmy Panetta",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Problem Solvers + New Dem member (also listed CPC); mixed caucus signals in a safe seat",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "CA-21": {
+   "name": "Jim Costa",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog member + Blue Dog PAC endorsed; New Dem + Problem Solvers",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "CA-22": {
+   "name": "Rudy Salas",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed + NewDem Action Fund + DCCC Red to Blue; Central Valley assemblyman with farmworker-family framing",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "CA-23": {
+   "name": "Derek Marshall",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "'Progressive candidate'; Medicare for All + Green New Deal, refuses special-interest money; ex-Bernie 2020 organizer; PDA endorsed (campaign release 2022-03-07); also CA Dem Party endorsed",
+   "label_source_url": "https://prnewswire.com/news-releases/progressive-candidate-derek-marshall-officially-files-for-candidacy-for-californias-23rd-congressional-district-301495925.html",
+   "verified_fetch": true
+  },
+  "CA-24": {
+   "name": "Salud Carbajal",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem + Problem Solvers member in a safe seat",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "CA-25": {
+   "name": "Raul Ruiz",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem member in Biden+16 seat; conventional incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "CA-27": {
+   "name": "Christy Smith",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund + DCCC Red to Blue; bipartisan branding: 'put party aside to get things done', will cut through 'partisan gridlock' (Signal op-ed 2022-11-05); substance otherwise party-line",
+   "label_source_url": "https://signalscv.com/2022/11/christy-smith-putting-party-aside-to-get-things-done",
+   "verified_fetch": true
+  },
+  "CA-40": {
+   "name": "Asif Mahmood",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue recruit; physician; no left or centrist markers",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "CA-41": {
+   "name": "Will Rollins",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund + DCCC Red to Blue; no corporate PAC money, anti-corruption/price-gouging message; LA Times: 'willing to reach across the aisle' but no explicit centrist branding (Idyllwild Town Crier 2022-10-12)",
+   "label_source_url": "https://idyllwildtowncrier.com/2022/10/12/former-prosecutor-will-rollins-seeks-to-oust-incumbent-congressman/",
+   "verified_fetch": true
+  },
+  "CA-42": {
+   "name": "Robert Garcia",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long Beach mayor, establishment-backed open-seat favourite; no left or centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_California",
+   "verified_fetch": false
+  },
+  "CA-45": {
+   "name": "Jay Chen",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund + DCCC Red to Blue; Navy veteran, college trustee; no centrist branding",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "CA-46": {
+   "name": "Lou Correa",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog member + Blue Dog PAC endorsed; New Dem + Problem Solvers",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=1115070652",
+   "verified_fetch": false
+  },
+  "CA-47": {
+   "name": "Katie Porter",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member + PCCC endorsed; Warren-style anti-corporate, no corporate PAC money, but swing-seat incumbent with conventional backing",
+   "label_source_url": "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "verified_fetch": false
+  },
+  "CA-48": {
+   "name": "Stephen Houlahan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Nurse/MBA, former Santee councilman and vice mayor; campaign on abortion rights, democracy, Medicare/Social Security; no left or centrist markers (web search, East County Magazine snippets)",
+   "label_source_url": "https://archive.eastcountymagazine.org/node/38720",
+   "verified_fetch": true
+  },
+  "CA-49": {
+   "name": "Mike Levin",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member + PCCC endorsed; conventional swing-seat incumbent",
+   "label_source_url": "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "verified_fetch": false
+  },
+  "CA-50": {
+   "name": "Scott Peters",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "New Dem + Problem Solvers member; centrist incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "CO-3": {
+   "name": "Adam Frisch",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Called himself 'pro-business, pro-energy, moderate, pragmatic Democrat' (CPR 2022 via Wikipedia); 'I'm Adam Frisch, not Nancy Pelosi', pledged not to back Pelosi for Speaker",
+   "label_source_url": "https://en.wikipedia.org/wiki/Adam_Frisch",
+   "verified_fetch": true
+  },
+  "CO-4": {
+   "name": "Ike McCorkle",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Marine veteran, single father, repeat nominee in safe-R seat; iVoterGuide rates 'Liberal'; backed by progressive voter guide; no explicit left/centrist marker (web search)",
+   "label_source_url": "https://ballotpedia.org/Ike_McCorkle",
+   "verified_fetch": true
+  },
+  "CO-5": {
+   "name": "David Torres",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Working Families Party endorsed; platform incl. Medicare for All and $15 minimum wage (web search, UCCS/Ballotpedia snippets); Air Force veteran, 'tired of being ignored' framing",
+   "label_source_url": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "verified_fetch": true
+  },
+  "CO-7": {
+   "name": "Brittany Pettersen",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund + DCCC Red to Blue; state senator; no centrist branding",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "CO-8": {
+   "name": "Yadira Caraveo",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund + DCCC Red to Blue + EMILY's List; endorsed by Bennet, Hickenlooper and the CO delegation; no explicit centrist branding",
+   "label_source_url": "http://web.archive.org/web/20221101124824/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "CT-1": {
+   "name": "John B. Larson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "WFP endorsed (CT WFP backs most Dem incumbents); conventional senior incumbent, AFL-CIO",
+   "label_source_url": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "verified_fetch": false
+  },
+  "CT-2": {
+   "name": "Joe Courtney",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Conventional incumbent; AFL-CIO, Sierra Club, Planned Parenthood; no caucus markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_Connecticut",
+   "verified_fetch": false
+  },
+  "CT-3": {
+   "name": "Rosa DeLauro",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC member (plain); senior appropriator; conventional institutional profile",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=1120193282",
+   "verified_fetch": false
+  },
+  "CT-5": {
+   "name": "Jahana Hayes",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "WFP + EMILY's List + DMFI + AIPAC; conventional incumbent",
+   "label_source_url": "http://web.archive.org/web/20221104214919/https://workingfamilies.org/candidates/",
+   "verified_fetch": false
+  },
+  "DE-AL": {
+   "name": "Lisa Blunt Rochester",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "CPC + New Dem member in a safe seat; conventional incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=1120556194",
+   "verified_fetch": false
+  },
+  "FL-2": {
+   "name": "Al Lawson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Dem member forced into R+11 seat; ran on record and Biden economic agenda, no centrist rebranding; SEIU/AFSCME (web search, NPR/Tallahassee Democrat snippets)",
+   "label_source_url": "https://www.npr.org/2022/07/26/1113615337/redistricting-in-florida-pits-2-house-incumbents-against-each-other",
+   "verified_fetch": true
+  },
+  "FL-3": {
+   "name": "Danielle Hawk",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Customer-service worker/community activist; 'tired of being represented by career politicians'; laid off in COVID, student debt; small-donor money; no left-group markers (WUFT 2022-10-31)",
+   "label_source_url": "https://www.wuft.org/news/2022/10/31/meet-the-candidates-running-for-floridas-3rd-congressional-district/",
+   "verified_fetch": true
+  },
+  "FL-4": {
+   "name": "LaShonda Holloway",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former congressional aide (Carrie Meek), petition-qualified; economy, affordable housing, education, low-wage workers; no ideological markers (News4Jax voter guide 2022)",
+   "label_source_url": "https://news4jax.com/voters-guide/2022/07/28/floridas-4th-congressional-district",
+   "verified_fetch": true
+  },
+  "FL-7": {
+   "name": "Karen Green",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Florida Democratic Party vice chair; endorsed by state legislators Eskamani, C.G. Smith, V. Torres; no centrist branding",
+   "label_source_url": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_Florida",
+   "verified_fetch": false
+  },
+  "FL-8": {
+   "name": "Joanne Terry",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Self-described 'centrist Democrat'; courted Republicans and moderates, campaign on divisiveness of politics (Space Coast Rocket / Florida Today via web search)",
+   "label_source_url": "https://thespacecoastrocket.com/joanne-terry-to-challenge-7-term-incumbent-bill-posey-for-us-congress-fl-08/",
+   "verified_fetch": true
+  },
+  "FL-9": {
+   "name": "Darren Soto",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Problem Solvers + New Dem member (also CPC listed); mixed caucus signals",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Problem_Solvers_Caucus&oldid=1119615903",
+   "verified_fetch": false
+  },
+  "FL-10": {
+   "name": "Maxwell Frost",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Endorsed by Sanders, Warren, PCCC, CPC PAC, PDA, Brand New Congress, WFP, DFA; Gen-Z organizer, Medicare for All",
+   "label_source_url": "http://web.archive.org/web/20221104205821/https://www.boldprogressives.org/candidates/",
+   "verified_fetch": false
+  },
+  "FL-11": {
+   "name": "Shante Munns",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Track coach/businesswoman, first-time candidate; prescription drug prices, small-business tax breaks, clean energy; no markers (web search, AP/Yahoo snippet)",
+   "label_source_url": "https://ballotpedia.org/Shante_Munns",
+   "verified_fetch": true
+  },
+  "FL-13": {
+   "name": "Eric Lynn",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed + NewDem Action Fund; ex-Pentagon adviser endorsed by Panetta and Crist",
+   "label_source_url": "http://web.archive.org/web/20221101203156/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "FL-14": {
+   "name": "Kathy Castor",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Conventional senior incumbent; climate focus; LCV, NRDC, SEIU",
+   "label_source_url": "https://en.wikipedia.org/wiki/2022_United_States_House_of_Representatives_elections_in_Florida",
+   "verified_fetch": false
+  },
+  "FL-15": {
+   "name": "Alan Cohn",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "NewDem Action Fund; journalist, Castor/Crist/Frankel/DWS endorsements; campaign on abortion and Social Security, no centrist branding (web search, Florida Politics snippets)",
+   "label_source_url": "http://web.archive.org/web/20221105094506/http://newdemactionfund.com/candidates",
+   "verified_fetch": true
+  },
+  "FL-16": {
+   "name": "Jan Schneider",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Perennial nominee (lawyer); messaging against 'divisive far-right' policies; no markers (web search)",
+   "label_source_url": "https://ballotpedia.org/Jan_Schneider",
+   "verified_fetch": true
+  },
+  "FL-17": {
+   "name": "Andrea Kale",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Ex-Clinton 2016 FL campaign staffer; abortion-rights-centred campaign; local party calls her 'solid liberal' though she reportedly declined the 'liberal' label (web search)",
+   "label_source_url": "https://floridapolitics.com/archives/553093-andrea-doria-kale-to-challenge-greg-steube-on-a-womans-right-to-choose",
+   "verified_fetch": true
+  },
+  "FL-21": {
+   "name": "Corinna Balderramos Robinson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "25-year Army veteran, 2020 state senate nominee; WPTV profile gives no ideological markers",
+   "label_source_url": "https://wptv.com/news/political/elections-local/corinna-balderramos-robinson-profile-2022",
+   "verified_fetch": true
+  }
+ }
+}

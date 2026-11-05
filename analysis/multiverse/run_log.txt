@@ -1,0 +1,297 @@
+all|logit50|agent|with_swing2024                 n=389 progr=-0.93 left_=+1.17 moder=+1.40
+all|logit50|agent|no_swing2024                   n=389 progr=-0.75 left_=+1.28 moder=+1.33
+all|logit50|rule|with_swing2024                  n=389 progr=+0.20 left_=+1.07 moder=-0.15
+all|logit50|rule|no_swing2024                    n=389 progr=+0.26 left_=+1.04 moder=-0.21
+all|logit50|high_conf|with_swing2024             n= 62 progr=+0.44 left_=+0.60 moder=-0.17
+all|logit50|high_conf|no_swing2024               n= 62 progr=+0.67 left_=+0.69 moder=-0.36
+all|margin|agent|with_swing2024                  n=389 progr=-0.66 left_=+1.23 moder=+1.23
+all|margin|agent|no_swing2024                    n=389 progr=-0.48 left_=+1.33 moder=+1.16
+all|margin|rule|with_swing2024                   n=389 progr=+0.26 left_=+1.07 moder=-0.20
+all|margin|rule|no_swing2024                     n=389 progr=+0.30 left_=+1.03 moder=-0.25
+all|margin|high_conf|with_swing2024              n= 62 progr=+0.49 left_=+0.70 moder=-0.16
+all|margin|high_conf|no_swing2024                n= 62 progr=+0.75 left_=+0.84 moder=-0.40
+competitive|logit50|agent|with_swing2024         n=200 progr=-1.88 left_=+1.03 moder=+0.68
+competitive|logit50|agent|no_swing2024           n=200 progr=-1.87 left_=+1.16 moder=+0.65
+competitive|logit50|rule|with_swing2024          n=200 progr=+0.40 left_=+0.84 moder=-0.35
+competitive|logit50|rule|no_swing2024            n=200 progr=+0.41 left_=+0.85 moder=-0.35
+competitive|logit50|high_conf|with_swing2024     n= 38 progr=-0.07 left_=+0.03 moder=+0.08
+competitive|logit50|high_conf|no_swing2024       n= 38 progr=-0.04 left_=+0.01 moder=+0.04
+competitive|margin|agent|with_swing2024          n=200 progr=-1.73 left_=+1.11 moder=+0.75
+competitive|margin|agent|no_swing2024            n=200 progr=-1.71 left_=+1.23 moder=+0.69
+competitive|margin|rule|with_swing2024           n=200 progr=+0.32 left_=+0.83 moder=-0.27
+competitive|margin|rule|no_swing2024             n=200 progr=+0.35 left_=+0.86 moder=-0.30
+competitive|margin|high_conf|with_swing2024      n= 38 progr=-0.09 left_=+0.10 moder=+0.14
+competitive|margin|high_conf|no_swing2024        n= 38 progr=-0.14 left_=-0.02 moder=+0.16
+2026 grid: 48s
+2028 fit_2026               median1_old        mains=0.491 progr=0.406 left_=0.566 moder=0.582
+2028 fit_2026               median0.6_current  mains=0.478 progr=0.425 left_=0.527 moder=0.537
+2028 history_competitive    median1_old        mains=0.478 progr=0.387 left_=0.242 moder=0.584
+2028 history_competitive    median0.6_current  mains=0.471 progr=0.409 left_=0.303 moder=0.539
+2028 history_all_seats      median1_old        mains=0.478 progr=0.294 left_=0.255 moder=0.614
+2028 history_all_seats      median0.6_current  mains=0.471 progr=0.343 left_=0.316 moder=0.558
+2028 blend                  median1_old        mains=0.484 progr=0.396 left_=0.400 moder=0.584
+2028 blend                  median0.6_current  mains=0.475 progr=0.416 left_=0.412 moder=0.538
+repro check: {'mainstream_liberal': {'published_V': 0.4747, 'multiverse_V': 0.4747}, 'progressive': {'published_V': 0.4162, 'multiverse_V': 0.4162}, 'left_populist': {'published_V': 0.4121, 'multiverse_V': 0.4121}, 'moderate': {'published_V': 0.5384, 'multiverse_V': 0.5384}}
+{
+ "2026": {
+  "progressive": {
+   "headline_spec_median": -0.934,
+   "across_universes": {
+    "median": 0.081,
+    "p10": -1.723,
+    "p90": 0.477,
+    "min": -1.883,
+    "max": 0.751
+   },
+   "share_same_sign_as_headline": 0.5,
+   "share_negative": 0.5,
+   "share_80pct_excludes_0": 0.167,
+   "dimension_effect": {
+    "sample": 0.626,
+    "scale": 0.112,
+    "labels": 1.732,
+    "controls": 0.091
+   }
+  },
+  "left_populist": {
+   "headline_spec_median": 1.17,
+   "across_universes": {
+    "median": 0.946,
+    "p10": 0.055,
+    "p90": 1.232,
+    "min": -0.017,
+    "max": 1.326
+   },
+   "share_same_sign_as_headline": 0.958,
+   "share_negative": 0.042,
+   "share_80pct_excludes_0": 0.167,
+   "dimension_effect": {
+    "sample": 0.335,
+    "scale": 0.053,
+    "labels": 0.821,
+    "controls": 0.078
+   }
+  },
+  "moderate": {
+   "headline_spec_median": 1.402,
+   "across_universes": {
+    "median": -0.054,
+    "p10": -0.352,
+    "p90": 1.21,
+    "min": -0.398,
+    "max": 1.402
+   },
+   "share_same_sign_as_headline": 0.5,
+   "share_negative": 0.5,
+   "share_80pct_excludes_0": 0.167,
+   "dimension_effect": {
+    "sample": 0.36,
+    "scale": 0.075,
+    "labels": 1.287,
+    "controls": 0.072
+   }
+  }
+ },
+ "2028": {
+  "P_win[mainstream_liberal]": {
+   "across_universes": {
+    "median": 0.478,
+    "p10": 0.471,
+    "p90": 0.486,
+    "min": 0.471,
+    "max": 0.491
+   },
+   "dimension_effect": {
+    "source": 0.01,
+    "pi": 0.009
+   }
+  },
+  "P_win[progressive]": {
+   "across_universes": {
+    "median": 0.401,
+    "p10": 0.329,
+    "p90": 0.419,
+    "min": 0.294,
+    "max": 0.425
+   },
+   "dimension_effect": {
+    "source": 0.097,
+    "pi": 0.027
+   }
+  },
+  "P_win[left_populist]": {
+   "across_universes": {
+    "median": 0.358,
+    "p10": 0.251,
+    "p90": 0.538,
+    "min": 0.242,
+    "max": 0.566
+   },
+   "dimension_effect": {
+    "source": 0.274,
+    "pi": 0.043
+   }
+  },
+  "P_win[moderate]": {
+   "across_universes": {
+    "median": 0.57,
+    "p10": 0.538,
+    "p90": 0.593,
+    "min": 0.537,
+    "max": 0.614
+   },
+   "dimension_effect": {
+    "source": 0.027,
+    "pi": 0.048
+   }
+  },
+  "dV[progressive]": {
+   "published_spec": -4.903,
+   "across_universes": {
+    "median": -7.946,
+    "p10": -14.024,
+    "p90": -4.829,
+    "min": -18.92,
+    "max": -4.658
+   },
+   "share_same_sign_as_published": 1.0,
+   "dimension_effect": {
+    "source": 9.216,
+    "pi": 4.312
+   }
+  },
+  "dV[left_populist]": {
+   "published_spec": -0.725,
+   "across_universes": {
+    "median": -8.002,
+    "p10": -23.887,
+    "p90": 4.934,
+    "min": -25.812,
+    "max": 6.828
+   },
+   "share_same_sign_as_published": 0.75,
+   "dimension_effect": {
+    "source": 26.773,
+    "pi": 5.086
+   }
+  },
+  "dV[moderate]": {
+   "published_spec": 5.387,
+   "across_universes": {
+    "median": 8.103,
+    "p10": 5.322,
+    "p90": 10.627,
+    "min": 5.172,
+    "max": 12.615
+   },
+   "share_same_sign_as_published": 1.0,
+   "dimension_effect": {
+    "source": 3.277,
+    "pi": 3.984
+   }
+  }
+ },
+ "2026_agent_labels_only": {
+  "progressive": {
+   "n_universes": 8,
+   "across_universes": {
+    "median": -1.323,
+    "p10": -1.871,
+    "p90": -0.604,
+    "min": -1.883,
+    "max": -0.485
+   },
+   "share_same_sign_as_headline": 1.0,
+   "share_80pct_excludes_0": 0.5,
+   "dimension_effect": {
+    "sample": 1.091,
+    "scale": 0.214,
+    "controls": 0.096
+   }
+  },
+  "left_populist": {
+   "n_universes": 8,
+   "across_universes": {
+    "median": 1.199,
+    "p10": 1.084,
+    "p90": 1.297,
+    "min": 1.031,
+    "max": 1.326
+   },
+   "share_same_sign_as_headline": 1.0,
+   "share_80pct_excludes_0": 0.5,
+   "dimension_effect": {
+    "sample": 0.119,
+    "scale": 0.062,
+    "controls": 0.117
+   }
+  },
+  "moderate": {
+   "n_universes": 8,
+   "across_universes": {
+    "median": 0.958,
+    "p10": 0.673,
+    "p90": 1.354,
+    "min": 0.65,
+    "max": 1.402
+   },
+   "share_same_sign_as_headline": 1.0,
+   "share_80pct_excludes_0": 0.5,
+   "dimension_effect": {
+    "sample": 0.589,
+    "scale": 0.112,
+    "controls": 0.058
+   }
+  }
+ },
+ "2028_cross": {
+  "dV[progressive]|fit_2026": {
+   "median": 0.226,
+   "p10": -8.546,
+   "p90": 2.554,
+   "min": -13.967,
+   "max": 4.387,
+   "share_negative": 0.5
+  },
+  "dV[progressive]|blend": {
+   "median": -1.926,
+   "p10": -7.568,
+   "p90": 0.089,
+   "min": -12.41,
+   "max": 0.428,
+   "share_negative": 0.75
+  },
+  "dV[left_populist]|fit_2026": {
+   "median": 4.11,
+   "p10": 0.286,
+   "p90": 6.955,
+   "min": 0.045,
+   "max": 7.978,
+   "share_negative": 0.0
+  },
+  "dV[left_populist]|blend": {
+   "median": -2.928,
+   "p10": -8.041,
+   "p90": -0.489,
+   "min": -11.135,
+   "max": 0.793,
+   "share_negative": 0.958
+  },
+  "dV[moderate]|fit_2026": {
+   "median": -0.316,
+   "p10": -2.401,
+   "p90": 4.89,
+   "min": -3.207,
+   "max": 8.503,
+   "share_negative": 0.5
+  },
+  "dV[moderate]|blend": {
+   "median": 3.63,
+   "p10": 0.765,
+   "p90": 6.58,
+   "min": 0.523,
+   "max": 9.105,
+   "share_negative": 0.0
+  }
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "batch": 5,
+ "races": [
+  {
+   "id": "PA-15",
+   "name": "Ray Bilger",
+   "state": "PA",
+   "district": 15,
+   "office": "House",
+   "opponent": "Glenn Thompson"
+  },
+  {
+   "id": "NY-18",
+   "name": "Pat Ryan",
+   "state": "NY",
+   "district": 18,
+   "office": "House",
+   "opponent": "Jacqueline Auringer"
+  },
+  {
+   "id": "SEN-IA",
+   "name": "Josh Turek",
+   "state": "IA",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Ashley Hinson"
+  },
+  {
+   "id": "FL-26",
+   "name": "Nicole Locklin",
+   "state": "FL",
+   "district": 26,
+   "office": "House",
+   "opponent": "Mario Diaz-Balart"
+  },
+  {
+   "id": "SPECIAL-GA-14-2026-04",
+   "name": "Shawn Harris",
+   "state": "GA",
+   "district": "14",
+   "office": "Special",
+   "opponent": "Clay Fuller"
+  },
+  {
+   "id": "TN-1",
+   "name": "Kristi Burke",
+   "state": "TN",
+   "district": 1,
+   "office": "House",
+   "opponent": "Diana Harshbarger"
+  },
+  {
+   "id": "TX-37",
+   "name": "Greg Casar",
+   "state": "TX",
+   "district": 37,
+   "office": "House",
+   "opponent": "Lauren Pe\u00f1a"
+  },
+  {
+   "id": "MI-12",
+   "name": "Rashida Tlaib",
+   "state": "MI",
+   "district": 12,
+   "office": "House",
+   "opponent": "James Hooper"
+  },
+  {
+   "id": "NY-11",
+   "name": "Michael DeCillis",
+   "state": "NY",
+   "district": 11,
+   "office": "House",
+   "opponent": "Nicole Malliotakis"
+  },
+  {
+   "id": "CT-4",
+   "name": "Jim Himes",
+   "state": "CT",
+   "district": 4,
+   "office": "House",
+   "opponent": "Michael Goldstein"
+  },
+  {
+   "id": "KY-2",
+   "name": "Megan Wingfield",
+   "state": "KY",
+   "district": 2,
+   "office": "House",
+   "opponent": "Brett Guthrie"
+  },
+  {
+   "id": "FL-5",
+   "name": "Rachel Grage",
+   "state": "FL",
+   "district": 5,
+   "office": "House",
+   "opponent": "John Rutherford"
+  },
+  {
+   "id": "MS-1",
+   "name": "Cliff Johnson",
+   "state": "MS",
+   "district": 1,
+   "office": "House",
+   "opponent": "Trent Kelly"
+  }
+ ]
+}

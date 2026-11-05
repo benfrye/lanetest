@@ -1,0 +1,109 @@
+{
+ "batch": 6,
+ "races": [
+  {
+   "id": "CO-7",
+   "name": "Brittany Pettersen",
+   "state": "CO",
+   "district": 7,
+   "office": "House",
+   "opponent": "Tim Bennett"
+  },
+  {
+   "id": "NC-9",
+   "name": "Richard Ojeda",
+   "state": "NC",
+   "district": 9,
+   "office": "House",
+   "opponent": "Richard Hudson"
+  },
+  {
+   "id": "MA-9",
+   "name": "Bill Keating",
+   "state": "MA",
+   "district": 9,
+   "office": "House",
+   "opponent": "Tyler MacAllister"
+  },
+  {
+   "id": "MN-5",
+   "name": "Ilhan Omar",
+   "state": "MN",
+   "district": 5,
+   "office": "House",
+   "opponent": "John Nagel"
+  },
+  {
+   "id": "SEN-GA",
+   "name": "Jon Ossoff",
+   "state": "GA",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Mike Collins"
+  },
+  {
+   "id": "TN-7",
+   "name": "Darden Copeland",
+   "state": "TN",
+   "district": 7,
+   "office": "House",
+   "opponent": "Matt Van Epps"
+  },
+  {
+   "id": "GOV-NH",
+   "name": "Cinde Warmington",
+   "state": "NH",
+   "district": null,
+   "office": "Governor",
+   "opponent": "Kelly Ayotte"
+  },
+  {
+   "id": "TX-31",
+   "name": "Justin Early",
+   "state": "TX",
+   "district": 31,
+   "office": "House",
+   "opponent": "John Carter"
+  },
+  {
+   "id": "OH-13",
+   "name": "Emilia Sykes",
+   "state": "OH",
+   "district": 13,
+   "office": "House",
+   "opponent": "Carey Coleman"
+  },
+  {
+   "id": "VA-11",
+   "name": "James Walkinshaw",
+   "state": "VA",
+   "district": 11,
+   "office": "House",
+   "opponent": "Arthur Purves"
+  },
+  {
+   "id": "VA-6",
+   "name": "Beth Macy",
+   "state": "VA",
+   "district": 6,
+   "office": "House",
+   "opponent": "Ben Cline"
+  },
+  {
+   "id": "MI-9",
+   "name": "Ray Pooley",
+   "state": "MI",
+   "district": 9,
+   "office": "House",
+   "opponent": "Lisa McClain"
+  },
+  {
+   "id": "SEN-WV",
+   "name": "Rachel Fetty Anderson",
+   "state": "WV",
+   "district": null,
+   "office": "Senate",
+   "opponent": "Shelley Moore Capito"
+  }
+ ]
+}

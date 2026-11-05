@@ -1,0 +1,1270 @@
+{
+ "cycle": 2018,
+ "election_day": "2018-11-06",
+ "races": [
+  {
+   "id": "AK-AL",
+   "dem_name": "Alyse Galvin",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Don Young",
+   "rep_incumbent": true,
+   "pres_margin_2p": -16.814,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Alyse S. Galvin, running as Undeclared (U)",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_election_in_Alaska&oldid=867476894",
+   "wiki_district_article": null
+  },
+  {
+   "id": "AR-2",
+   "dem_name": "Clarke Tucker",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "French Hill",
+   "rep_incumbent": true,
+   "pres_margin_2p": -11.371,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Clarke Tucker, member of the Arkansas House of Representatives",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Arkansas&oldid=865073059",
+   "wiki_district_article": null
+  },
+  {
+   "id": "AZ-1",
+   "dem_name": "Tom O'Halleran",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Wendy Rogers",
+   "rep_incumbent": false,
+   "pres_margin_2p": -1.166,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    }
+   ],
+   "wiki_primary_desc": "* Tom O'Halleran, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Arizona&oldid=867296328",
+   "wiki_district_article": null
+  },
+  {
+   "id": "AZ-2",
+   "dem_name": "Ann Kirkpatrick",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Lea Marquez Peterson",
+   "rep_incumbent": false,
+   "pres_margin_2p": 5.196,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Ann Kirkpatrick, former U.S. Representative for Arizona's 1st District and nominee for U.S. Senate in 2016",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Arizona&oldid=867296328",
+   "wiki_district_article": null
+  },
+  {
+   "id": "AZ-3",
+   "dem_name": "Raúl Grijalva",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Nick Pierson",
+   "rep_incumbent": false,
+   "pres_margin_2p": 31.507,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    },
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    },
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "* Raúl Grijalva",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Arizona&oldid=867296328",
+   "wiki_district_article": null
+  },
+  {
+   "id": "AZ-6",
+   "dem_name": "Anita Malik",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Schweikert",
+   "rep_incumbent": true,
+   "pres_margin_2p": -10.549,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "*Anita Malik, tech executive",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Arizona&oldid=867296328",
+   "wiki_district_article": null
+  },
+  {
+   "id": "AZ-9",
+   "dem_name": "Greg Stanton",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Steve Ferrara",
+   "rep_incumbent": false,
+   "pres_margin_2p": 17.508,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Greg Stanton, mayor of Phoenix",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Arizona&oldid=867296328",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-1",
+   "dem_name": "Audrey Denney",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Doug LaMalfa",
+   "rep_incumbent": true,
+   "pres_margin_2p": -21.251,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    },
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-3",
+   "dem_name": "John Garamendi",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Charlie Schaupp",
+   "rep_incumbent": false,
+   "pres_margin_2p": 13.49,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-4",
+   "dem_name": "Jessica Morse",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Tom McClintock",
+   "rep_incumbent": true,
+   "pres_margin_2p": -15.756,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-7",
+   "dem_name": "Ami Bera",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Andrew Grant",
+   "rep_incumbent": false,
+   "pres_margin_2p": 12.232,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-9",
+   "dem_name": "Jerry McNerney",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Marla Livengood",
+   "rep_incumbent": false,
+   "pres_margin_2p": 19.662,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-10",
+   "dem_name": "Josh Harder",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jeff Denham",
+   "rep_incumbent": true,
+   "pres_margin_2p": 3.191,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-16",
+   "dem_name": "Jim Costa",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Elizabeth Heng",
+   "rep_incumbent": false,
+   "pres_margin_2p": 22.881,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-17",
+   "dem_name": "Ro Khanna",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Ron Cohen",
+   "rep_incumbent": false,
+   "pres_margin_2p": 56.568,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    },
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-21",
+   "dem_name": "TJ Cox",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Valadao",
+   "rep_incumbent": true,
+   "pres_margin_2p": 16.333,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-22",
+   "dem_name": "Andrew Janz",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Devin Nunes",
+   "rep_incumbent": true,
+   "pres_margin_2p": -10.032,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-25",
+   "dem_name": "Katie Hill",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Steve Knight",
+   "rep_incumbent": true,
+   "pres_margin_2p": 7.135,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-36",
+   "dem_name": "Raul Ruiz",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Kimberlin Brown Pelzer",
+   "rep_incumbent": false,
+   "pres_margin_2p": 9.205,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-39",
+   "dem_name": "Gil Cisneros",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Young Kim",
+   "rep_incumbent": false,
+   "pres_margin_2p": 9.11,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": "https://en.wikipedia.org/wiki/California's_39th_congressional_district_election,_2018"
+  },
+  {
+   "id": "CA-42",
+   "dem_name": "Julia Peacock",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ken Calvert",
+   "rep_incumbent": true,
+   "pres_margin_2p": -12.658,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-45",
+   "dem_name": "Katie Porter",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mimi Walters",
+   "rep_incumbent": true,
+   "pres_margin_2p": 5.732,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-46",
+   "dem_name": "Lou Correa",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Russell Lambert",
+   "rep_incumbent": false,
+   "pres_margin_2p": 40.764,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-48",
+   "dem_name": "Harley Rouda",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Dana Rohrabacher",
+   "rep_incumbent": true,
+   "pres_margin_2p": 1.807,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-49",
+   "dem_name": "Mike Levin",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Diane Harkey",
+   "rep_incumbent": false,
+   "pres_margin_2p": 7.987,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+    },
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CA-50",
+   "dem_name": "Ammar Campa-Najjar",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Duncan D. Hunter",
+   "rep_incumbent": true,
+   "pres_margin_2p": -15.924,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    },
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    },
+    {
+     "marker": "PCCC",
+     "source": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CO-2",
+   "dem_name": "Joe Neguse",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Peter Yu",
+   "rep_incumbent": false,
+   "pres_margin_2p": 23.381,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Joe Neguse, former executive director of the Colorado Department of Regulatory Agencies and nominee for Secretary of State of Colorado in 2014",
+   "wiki_endorsement_markers": [
+    "Bernie Sanders",
+    "CPC PAC",
+    "Democracy for America"
+   ],
+   "wiki_endorsers_sample": [
+    "Giffords: Courage to Fight Gun Violence",
+    "NARAL",
+    "Colorado AFL-CIO",
+    "Pipefitters #208",
+    "Pipefitters #301",
+    "Colorado Professional Fire Fighters",
+    "Democracy for America",
+    "End Citizens United",
+    "Humane Society Legislative Fund",
+    "Council for a Livable World",
+    "League of Conservation Voters",
+    "Southwest Regional Council of Carpenters",
+    "Blue Rising PAC",
+    "Congressional Progressive Caucus",
+    "Planned Parenthood Action Fund",
+    "American Federation of Teachers",
+    "Colorado Education Association",
+    "Joe Biden, former U.S. Vice President",
+    "Kamala Harris, U.S. Senator from California",
+    "Betsy Markey, former U.S. Representative from Colorado",
+    "Barbara Lee, U.S. Representative from California",
+    "Cedric Richmond, U.S. Representative from Louisiana",
+    "Marcia Fudge, U.S. Representative from Ohio",
+    "Jim Clyburn, U.S. Representative from South Carolina",
+    "Gregory Meeks, U.S. Representative from New York"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Colorado&oldid=867082604",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CO-3",
+   "dem_name": "Diane Mitsch Bush",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Scott Tipton",
+   "rep_incumbent": true,
+   "pres_margin_2p": -13.043,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Diane Mitsch Bush, former State Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Colorado&oldid=867082604",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CO-5",
+   "dem_name": "Stephany Rose Spaulding",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Doug Lamborn",
+   "rep_incumbent": true,
+   "pres_margin_2p": -26.549,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    }
+   ],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Colorado&oldid=867082604",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CO-6",
+   "dem_name": "Jason Crow",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Coffman",
+   "rep_incumbent": true,
+   "pres_margin_2p": 9.727,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Jason Crow",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Colorado&oldid=867082604",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CO-7",
+   "dem_name": "Ed Perlmutter",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Mark Barrington",
+   "rep_incumbent": false,
+   "pres_margin_2p": 13.216,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    }
+   ],
+   "wiki_primary_desc": "* Ed Perlmutter, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Colorado&oldid=867082604",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CT-2",
+   "dem_name": "Joe Courtney",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Danny Postemski",
+   "rep_incumbent": false,
+   "pres_margin_2p": 3.069,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    }
+   ],
+   "wiki_primary_desc": "* Joe Courtney, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Connecticut&oldid=867301356",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CT-3",
+   "dem_name": "Rosa DeLauro",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Angel Cadena",
+   "rep_incumbent": false,
+   "pres_margin_2p": 16.096,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    }
+   ],
+   "wiki_primary_desc": "* Rosa DeLauro, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Connecticut&oldid=867301356",
+   "wiki_district_article": null
+  },
+  {
+   "id": "CT-5",
+   "dem_name": "Jahana Hayes",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Manny Santos",
+   "rep_incumbent": false,
+   "pres_margin_2p": 4.284,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Jahana Hayes, 2016 National Teacher of the Year",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Connecticut&oldid=867301356",
+   "wiki_district_article": null
+  },
+  {
+   "id": "DE-AL",
+   "dem_name": "Lisa Blunt Rochester",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Scott Walker",
+   "rep_incumbent": false,
+   "pres_margin_2p": 12.067,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    }
+   ],
+   "wiki_primary_desc": "* Lisa Blunt Rochester, incumbent U.S. Representative",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Congressional Black Caucus PAC",
+    "Democratic Party",
+    "Delaware Women Legislators",
+    "Human Rights Campaign",
+    "Planned Parenthood",
+    "Stonewall Democrats}}"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_election_in_Delaware&oldid=867305319",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-3",
+   "dem_name": "Yvonne Hayes Hinson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ted Yoho",
+   "rep_incumbent": true,
+   "pres_margin_2p": -16.598,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-6",
+   "dem_name": "Nancy Soderberg",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mike Waltz",
+   "rep_incumbent": false,
+   "pres_margin_2p": -17.562,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Nancy Soderberg, former Representative at the United Nations and former Deputy National Security Advisor.",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-7",
+   "dem_name": "Stephanie Murphy",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Mike Miller",
+   "rep_incumbent": false,
+   "pres_margin_2p": 7.644,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "* Stephanie Murphy, Incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": [
+    "Joe Biden, 47th Vice President of the United States 2009–2017; U.S. Senator from Delaware 1973–2009; candidate for Presi",
+    "Mark Kelly, retired astronaut, engineer, and U.S. Navy Captain"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-8",
+   "dem_name": "Sanjay Patel",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Bill Posey",
+   "rep_incumbent": true,
+   "pres_margin_2p": -21.54,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    },
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Sanjay Patel, management consultant",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-9",
+   "dem_name": "Darren Soto",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Wayne Liebnitzky",
+   "rep_incumbent": false,
+   "pres_margin_2p": 13.34,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "CPC_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    }
+   ],
+   "wiki_primary_desc": "*Darren Soto, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-12",
+   "dem_name": "Chris Hunter",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Gus Bilirakis",
+   "rep_incumbent": true,
+   "pres_margin_2p": -19.335,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "*Chris Hunter, former federal prosecutor",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-13",
+   "dem_name": "Charlie Crist",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "George Buck",
+   "rep_incumbent": false,
+   "pres_margin_2p": 3.333,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "*Charlie Crist, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-15",
+   "dem_name": "Kristen Carlson",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Ross Spano",
+   "rep_incumbent": false,
+   "pres_margin_2p": -10.395,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Kristen Carlson, attorney",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-16",
+   "dem_name": "David Shapiro",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Vern Buchanan",
+   "rep_incumbent": true,
+   "pres_margin_2p": -11.065,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*David Shapiro, attorney",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-17",
+   "dem_name": "Allen Ellison",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Greg Steube",
+   "rep_incumbent": false,
+   "pres_margin_2p": -27.984,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-18",
+   "dem_name": "Lauren Baer",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Brian Mast",
+   "rep_incumbent": true,
+   "pres_margin_2p": -9.446,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Lauren Baer, attorney and former U.S. State Department official",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-22",
+   "dem_name": "Ted Deutch",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Nicolas Kimaz",
+   "rep_incumbent": false,
+   "pres_margin_2p": 16.155,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-25",
+   "dem_name": "Mary Barzee Flores",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mario Díaz-Balart",
+   "rep_incumbent": true,
+   "pres_margin_2p": -1.844,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "* Mary Barzee Flores, attorney and former Eleventh Judicial Circuit Court of Florida Judge",
+   "wiki_endorsement_markers": [
+    "PDA",
+    "EMILY's List"
+   ],
+   "wiki_endorsers_sample": [
+    "EMILY's List",
+    "League of Conservation Voters",
+    "Progressive Democrats of America"
+   ],
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-26",
+   "dem_name": "Debbie Mucarsel-Powell",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Carlos Curbelo",
+   "rep_incumbent": true,
+   "pres_margin_2p": 16.752,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "* Debbie Mucarsel-Powell, businesswoman and 2016 State Senate candidate",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "FL-27",
+   "dem_name": "Donna Shalala",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "María Elvira Salazar",
+   "rep_incumbent": false,
+   "pres_margin_2p": 20.123,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "*Donna Shalala, former U.S. Secretary of Health and Human Services and former President of the University of Miami",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-1",
+   "dem_name": "Lisa Ring",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Buddy Carter",
+   "rep_incumbent": true,
+   "pres_margin_2p": -15.93,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Justice_Democrats_endorsed",
+     "source": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863"
+    },
+    {
+     "marker": "Our Revolution",
+     "source": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/"
+    }
+   ],
+   "wiki_primary_desc": "*Lisa Ring, community organizer",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Georgia&oldid=867467161",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-2",
+   "dem_name": "Sanford Bishop",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Herman West",
+   "rep_incumbent": false,
+   "pres_margin_2p": 11.902,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "*Sanford Bishop, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Georgia&oldid=867467161",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-6",
+   "dem_name": "Lucy McBath",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Karen Handel",
+   "rep_incumbent": true,
+   "pres_margin_2p": -1.577,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Lucy McBath, Everytown for Gun Safety and Moms Demand Action national spokesperson",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Georgia&oldid=867467161",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-7",
+   "dem_name": "Carolyn Bourdeaux",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Rob Woodall",
+   "rep_incumbent": true,
+   "pres_margin_2p": -6.569,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "DCCC Red to Blue",
+     "source": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/"
+    }
+   ],
+   "wiki_primary_desc": "*Carolyn Bourdeaux, professor",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Georgia&oldid=867467161",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-12",
+   "dem_name": "Francys Johnson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Rick Allen",
+   "rep_incumbent": true,
+   "pres_margin_2p": -16.598,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": "*Francys Johnson, lawyer and pastor",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Georgia&oldid=867467161",
+   "wiki_district_article": null
+  },
+  {
+   "id": "GA-13",
+   "dem_name": "David Scott",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "David Callahan",
+   "rep_incumbent": false,
+   "pres_margin_2p": 45.492,
+   "pres_year": 2016,
+   "markers_found": [
+    {
+     "marker": "Blue_Dog_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346"
+    },
+    {
+     "marker": "New_Dem_member",
+     "source": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870"
+    },
+    {
+     "marker": "Blue Dog PAC (endorsed)",
+     "source": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/"
+    }
+   ],
+   "wiki_primary_desc": "*David Scott, incumbent",
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Georgia&oldid=867467161",
+   "wiki_district_article": null
+  },
+  {
+   "id": "HI-1",
+   "dem_name": "Ed Case",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Cam Cavasso",
+   "rep_incumbent": false,
+   "pres_margin_2p": 34.829,
+   "pres_year": 2016,
+   "markers_found": [],
+   "wiki_primary_desc": null,
+   "wiki_endorsement_markers": null,
+   "wiki_endorsers_sample": null,
+   "wiki_state_page_pre_election": null,
+   "wiki_district_article": null
+  }
+ ]
+}

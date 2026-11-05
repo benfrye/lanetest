@@ -1,0 +1,536 @@
+{
+ "cycle": 2020,
+ "election_day": "2020-11-03",
+ "races": [
+  {
+   "id": "AL-1",
+   "dem_name": "James Averhart",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Jerry Carl",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -28.687,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "AL-2",
+   "dem_name": "Phyllis Harvey-Hall",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Barry Moore",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -29.091,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "AR-2",
+   "dem_name": "Joyce Elliott",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "French Hill",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -9.035,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "AZ-5",
+   "dem_name": "Joan Greene",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Andy Biggs",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -14.751,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "AZ-6",
+   "dem_name": "Hiral Tipirneni",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "David Schweikert",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -4.154,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "AZ-8",
+   "dem_name": "Michael Muscato",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Debbie Lesko",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -16.109,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "CA-4",
+   "dem_name": "Brynne Kennedy",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Tom McClintock",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -10.041,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "CA-8",
+   "dem_name": "Christine Bubser",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Jay Obernolte",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -10.656,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "CA-21",
+   "dem_name": "T.J. Cox",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "David Valadao",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 11.134,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "CA-22",
+   "dem_name": "Phil Arballo",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Devin Nunes",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -5.521,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "CA-23",
+   "dem_name": "Kim Mangone",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Kevin McCarthy",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -17.008,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "CA-25",
+   "dem_name": "Christy Smith",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Garcia",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": 10.317,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "CA-42",
+   "dem_name": "Liam O'Mara",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ken Calvert",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -7.551,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "CO-4",
+   "dem_name": "Ike McCorkle",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ken Buck",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -16.222,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "CO-5",
+   "dem_name": "Jillian Freeland",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Doug Lamborn",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -13.368,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-3",
+   "dem_name": "Adam Christensen",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Kat Cammack",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -13.36,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-6",
+   "dem_name": "Clint Curtis",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Waltz",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -17.659,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-8",
+   "dem_name": "Jim Kennedy",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Bill Posey",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -17.897,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-12",
+   "dem_name": "Kimberly Walker",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Gus Bilirakis",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -17.088,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-14",
+   "dem_name": "Kathy Castor",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Christine Quinn",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 15.789,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-15",
+   "dem_name": "Alan Cohn",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Scott Franklin",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -8.595,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-16",
+   "dem_name": "Margaret Good",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Vern Buchanan",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -8.174,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-18",
+   "dem_name": "Pam Keith",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Brian Mast",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -8.451,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-19",
+   "dem_name": "Cindy Banyai",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Byron Donalds",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -20.242,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "FL-21",
+   "dem_name": "Lois Frankel",
+   "dem_incumbent": true,
+   "open_seat": false,
+   "rep_name": "Laura Loomer",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 17.103,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "GA-1",
+   "dem_name": "Joyce Griggs",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Buddy Carter",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -12.576,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "GA-5",
+   "dem_name": "Nikema Williams",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Angela Stanton-King",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 74.494,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "GA-9",
+   "dem_name": "Devin Pandy",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Andrew Clyde",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -54.656,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "GA-11",
+   "dem_name": "Dana Barrett",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Barry Loudermilk",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -15.65,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "GA-12",
+   "dem_name": "Liz Johnson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Rick Allen",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -12.955,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "GA-14",
+   "dem_name": "Kevin Van Ausdal",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Marjorie Taylor Greene",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -48.734,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "HI-2",
+   "dem_name": "Kai Kahele",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Joe Akana",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 30.328,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "IA-2",
+   "dem_name": "Rita Hart",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mariannette Miller-Meeks",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -4.073,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "IA-4",
+   "dem_name": "J. D. Scholten",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Randy Feenstra",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -27.439,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "IL-3",
+   "dem_name": "Marie Newman",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mike Fricilone",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 12.805,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "IL-12",
+   "dem_name": "Raymond Lenzi",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Mike Bost",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -14.49,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "IL-15",
+   "dem_name": "Erika Weaver",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mary Miller",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -47.197,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "IL-16",
+   "dem_name": "Dani Brzozowski",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Adam Kinzinger",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -16.36,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "IN-1",
+   "dem_name": "Frank J. Mrvan",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Mark Leyva",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 8.943,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "IN-5",
+   "dem_name": "Christina Hale",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Victoria Spartz",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -2.245,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "KS-1",
+   "dem_name": "Kali Barnett",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Tracey Mann",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -42.536,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "KS-2",
+   "dem_name": "Michelle De La Isla",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Jake LaTurner",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -15.369,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "KY-6",
+   "dem_name": "Josh Hicks",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Andy Barr",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -9.276,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MA-4",
+   "dem_name": "Jake Auchincloss",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Julie Hall",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 31.365,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MI-1",
+   "dem_name": "Dana Ferguson",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Jack Bergman",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -17.563,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MI-2",
+   "dem_name": "Bryan Berghoef",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Bill Huizenga",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -12.016,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MI-3",
+   "dem_name": "Hillary Scholten",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Peter Meijer",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -3.265,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MI-6",
+   "dem_name": "Jon Hoadley",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Fred Upton",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -4.587,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MI-10",
+   "dem_name": "Kimberly Bizon",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Lisa McClain",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -30.223,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MN-8",
+   "dem_name": "Quinn Nystrom",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Pete Stauber",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": -14.898,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MO-1",
+   "dem_name": "Cori Bush",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Anthony Rogers",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": 63.211,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MO-2",
+   "dem_name": "Jill Schupp",
+   "dem_incumbent": false,
+   "open_seat": false,
+   "rep_name": "Ann Wagner",
+   "rep_incumbent": true,
+   "pres_margin_2p_same_day": 0.0,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  },
+  {
+   "id": "MT-AL",
+   "dem_name": "Kathleen Williams",
+   "dem_incumbent": false,
+   "open_seat": true,
+   "rep_name": "Matt Rosendale",
+   "rep_incumbent": false,
+   "pres_margin_2p_same_day": -16.718,
+   "wiki_state_page": "https://en.wikipedia.org/wiki/2020_United_States_House_of_Representatives_elections_in_"
+  }
+ ]
+}

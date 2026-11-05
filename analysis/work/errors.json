@@ -1,0 +1,96 @@
+{
+ "factor_names": [
+  "NE",
+  "RUST",
+  "SOUTH",
+  "PLAINS_MTN",
+  "SW",
+  "PACIFIC",
+  "WNC",
+  "BLACK",
+  "HISP",
+  "COLLEGE",
+  "EVANG",
+  "A65"
+ ],
+ "scales": [
+  1.658096,
+  1.129824,
+  1.039503,
+  1.293326,
+  2.368679,
+  1.451033,
+  1.233022,
+  0.668604,
+  1.19078,
+  0.717056,
+  0.745672,
+  0.981926
+ ],
+ "V1": {
+  "max_abs_dev": 0.0,
+  "ev_D": 226,
+  "pass": true
+ },
+ "V3": {
+  "transitions": {
+   "2020": {
+    "fit_on": [
+     "prior only"
+    ],
+    "coverage80": 0.8,
+    "n": 50,
+    "realized_sd": 2.879734,
+    "model_median_sd": 3.478631,
+    "logscore_correlated": -123.494369,
+    "logscore_independent": -126.482553
+   },
+   "2024": {
+    "fit_on": [
+     "2020"
+    ],
+    "coverage80": 0.784314,
+    "n": 51,
+    "realized_sd": 2.439405,
+    "model_median_sd": 3.5,
+    "logscore_correlated": -120.64905,
+    "logscore_independent": -129.136306
+   }
+  },
+  "pooled_coverage80": 0.792079,
+  "coverage_pass": true,
+  "logscore_beats_independent": true,
+  "logscore_correlated": -244.143419,
+  "logscore_independent": -255.618859,
+  "wi_mi_pa_2016_check": "not run: needs 2012 state results (hist_pres_states.json missing)",
+  "realized_rel_swing_sd_pooled": 2.66681,
+  "sd_for_80pct_coverage_approx": 3.465246,
+  "calibrated": false,
+  "note": "Only two transitions exist (2016->20, 2020->24). Total median SD is fixed at 3.5 by the \u00a75.6 fallback, so the back-test mostly tests that choice.",
+  "pass": true
+ },
+ "V4": {
+  "S_2020_to_2024": -5.672195,
+  "ev_D_80": [
+   213.0,
+   241.0
+  ],
+  "ev_D_median": 225.0,
+  "actual_ev_D": 226,
+  "actual_inside_80": true,
+  "brier_model": 0.008445,
+  "brier_uniform_swing_deterministic": 0.0,
+  "brier_independent_same_sd": 0.009052,
+  "pass": true,
+  "brier_baseline_used": "independent-error uniform swing with the same marginal SD (as in V3). Deterministic uniform swing from 2020 called every 2024 unit correctly (Brier 0), which no probabilistic model can match; it is reported, not used as the bar.",
+  "note": "Base = 2020 two-party margins, E = 2024 national (-1.43 two-party), delta = 0, psi = phi = 0, same error model."
+ },
+ "target_rel_sd": 3.5,
+ "calibrated": false,
+ "corr_examples": {
+  "WI-MI": 0.366908,
+  "WI-PA": 0.345633,
+  "AZ-NV": 0.584228,
+  "TX-CA": 0.739084
+ }
+}

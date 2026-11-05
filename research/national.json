@@ -1,0 +1,1853 @@
+{
+  "as_of": "2026-11-04T11:10:00-05:00",
+  "conventions": "All margins are Democratic % minus Republican % in points (positive = D). margin_2026 values were computed by this researcher as dem_pct - rep_pct from the reported percentages; they are not separately reported figures. 2026 figures are preliminary (day after election) and will be revised.",
+  "topline": {
+    "house": {
+      "pre_election_composition": {
+        "dem": 214,
+        "rep": 219,
+        "note": "CBS: Democrats entered with 214 seats; Republicans 219 including one independent who caucuses with them. A Reuters piece carried in the Yahoo Singapore feed described the pre-election GOP majority as 218-214 (the Yahoo News/Andrew Romano article previously cited gives no number and is not Reuters). Al Jazeera gives the post-2024-election composition as R 220, D 215.",
+        "sources": [
+          "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+          "https://sg.news.yahoo.com/numbers-tell-story-democrats-midterm-064549284.html",
+          "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways"
+        ],
+        "verified": true
+      },
+      "called_seats_nbc": {
+        "dem_won": 231,
+        "rep_won": 144,
+        "uncalled": 60,
+        "dem_net_gain_so_far": 29,
+        "timestamp": "2026-11-04 10:53 AM ET",
+        "source": "https://www.nbcnews.com/politics/2026-elections/house-results",
+        "verified": true
+      },
+      "called_seats_ap_via_aljazeera": {
+        "dem_won": 228,
+        "dem_leading_additional": 34,
+        "dem_flips_so_far": 25,
+        "rep_won": null,
+        "note": "Al Jazeera citing AP tally; Republican called count not given; Al Jazeera projected GOP would fall short of 180. Timestamp: published 4 Nov 2026, no time given.",
+        "source": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways",
+        "verified": true
+      },
+      "projections": [
+        {
+          "outlet": "NBC News",
+          "dem": 258,
+          "rep": 177,
+          "note": "NBC model: Democrats 'poised to win at least 258 seats'; Republicans 177. Page snapshot 10:53 AM ET.",
+          "source": "https://www.nbcnews.com/politics/2026-elections/house-results",
+          "verified": true
+        },
+        {
+          "outlet": "CBS News",
+          "dem": 259,
+          "rep": null,
+          "note": "CBS estimate 'about 259' early Wednesday ('final number could be lower'); ~75 races undetermined as of 4:18 AM ET. The 251-268 range came from a search summary and is NOT on the fetched CBS page (unconfirmed).",
+          "source": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+          "verified": true
+        },
+        {
+          "outlet": "G. Elliott Morris (Strength In Numbers)",
+          "dem_at_least": 250,
+          "rep": null,
+          "note": "'at least 250 Democratic seats'",
+          "source": "https://www.gelliottmorris.com/p/democrats-win-us-house-senate-in",
+          "verified": true
+        }
+      ],
+      "control_called": "Democrats. AP called the House at 1:25 a.m. ET Nov 4 per Time live blog (CNN and NBC had projected earlier); also projected by CBS and MS NOW (just before 10 p.m. ET per Variety, page not re-fetchable: paywall redirect).",
+      "flips_to_republicans": "None reported by CBS as of 10:46 AM ET.",
+      "sources": [
+        "https://www.nbcnews.com/politics/2026-elections/house-results",
+        "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+        "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways",
+        "https://variety.com/2026/politics/news/midterm-election-results-democrats-win-house-senate-1236938473/",
+        "https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/"
+      ],
+      "verified": true
+    },
+    "senate": {
+      "pre_election_composition": {
+        "dem": 47,
+        "rep": 53,
+        "source": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways",
+        "verified": true
+      },
+      "post_election": {
+        "dem_won": 54,
+        "rep_won": 44,
+        "uncalled": 2,
+        "uncalled_races": [
+          {
+            "state": "AK",
+            "candidates": "Sullivan (R) vs Peltola (D)",
+            "status": "Not called (NBC: too early to call; CBS: count could take weeks). NBC 11:08 AM ET: Peltola 48.2, Sullivan 47.9, 74.3% of expected vote in.",
+            "pct_expected_vote_counted": 74.3,
+            "dem_pct": 48.2,
+            "rep_pct": 47.9,
+            "margin_2026": 0.3,
+            "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+            "verified": true
+          },
+          {
+            "state": "MS",
+            "candidates": "Hyde-Smith (R) vs Colom (D)",
+            "status": "Not called (NBC: too close to call). NBC 11:08 AM ET: Colom 48.9, Hyde-Smith 48.9 (rounded), 95.6% of expected vote in; CBS: ~96% counted, 'just a few dozen votes' apart.",
+            "pct_expected_vote_counted": 95.6,
+            "dem_pct": 48.9,
+            "rep_pct": 48.9,
+            "margin_2026": 0.0,
+            "source": "https://www.nbcnews.com/politics/2026-elections/senate-results",
+            "verified": true
+          }
+        ],
+        "aljazeera_leads": "Al Jazeera: D 54 won + leading 1; R 44 won + leading 1 (did not say which state each leads).",
+        "timestamp": "CBS 2026-11-04 10:41 AM ET; NBC 11:08 AM ET (54 D called, 44 R called, 2 uncalled, D +7 net)",
+        "control_called": "Democrats; AP called the Senate shortly before midnight ET Nov 3 (Time live blog, which shows AP at 51 D / 39 R called at that moment). Forbes' attribution of the clinching call to Iowa could not be re-verified (Forbes returned 403).",
+        "dem_flips": [
+          {
+            "state": "ME",
+            "winner": "Troy Jackson",
+            "defeated": "Susan Collins"
+          },
+          {
+            "state": "IA",
+            "winner": "Josh Turek",
+            "defeated": "Ashley Hinson"
+          },
+          {
+            "state": "OH",
+            "winner": "Sherrod Brown",
+            "defeated": "Jon Husted"
+          },
+          {
+            "state": "NC",
+            "winner": "Roy Cooper",
+            "defeated": "Michael Whatley"
+          },
+          {
+            "state": "TX",
+            "winner": "James Talarico",
+            "defeated": "Ken Paxton"
+          },
+          {
+            "state": "KS",
+            "winner": "Adam Hamilton",
+            "defeated": "Roger Marshall"
+          },
+          {
+            "state": "SC",
+            "winner": "Annie Andrews",
+            "defeated": "Darline Graham"
+          }
+        ],
+        "rep_flips": [],
+        "dem_net_change_called": 7,
+        "note": "Net change of +7 is the count of CBS-listed D flips with no R flips reported; could reach +9 if AK and MS go D. Al Jazeera listed Michigan (El-Sayed over Rogers) alongside flips; CBS does not list MI as a flip, so not counted here.",
+        "sources": [
+          "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+          "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways",
+          "https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-democrats-win-senate-in-stunning-rout/",
+          "https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/",
+          "https://www.nbcnews.com/politics/2026-elections/senate-results"
+        ],
+        "verified": true
+      }
+    },
+    "governors": {
+      "pre_election": {
+        "dem": 23,
+        "rep": 27,
+        "source": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways",
+        "verified": true
+      },
+      "post_election": {
+        "dem": 28,
+        "rep": 20,
+        "uncalled": 2,
+        "dem_net_change": 5,
+        "source": "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways",
+        "verified": true,
+        "note": "Al Jazeera only; NBC's governor page shows no seat tally or net change (it marks 5 D flips, 0 R flips), so the 28-20 total rests on a single source."
+      },
+      "dem_flips_nbc": [
+        {
+          "state": "GA",
+          "winner": "Keisha Lance Bottoms",
+          "dem_pct": 54.3,
+          "rep_pct": 45.7,
+          "pct_expected_vote_counted": 98.6,
+          "verified": true,
+          "margin_2026": 8.6
+        },
+        {
+          "state": "IA",
+          "winner": "Rob Sand",
+          "dem_pct": 55.5,
+          "rep_pct": 44.5,
+          "pct_expected_vote_counted": 99.0,
+          "verified": true,
+          "margin_2026": 11.0
+        },
+        {
+          "state": "NV",
+          "winner": "Aaron Ford",
+          "dem_pct": 51.7,
+          "rep_pct": 44.2,
+          "pct_expected_vote_counted": 87.2,
+          "verified": true,
+          "margin_2026": 7.5
+        },
+        {
+          "state": "OH",
+          "winner": "Amy Acton",
+          "dem_pct": 52.3,
+          "rep_pct": 44.4,
+          "pct_expected_vote_counted": 98.0,
+          "verified": true,
+          "margin_2026": 7.9
+        },
+        {
+          "state": "TX",
+          "winner": "Gina Hinojosa",
+          "dem_pct": 52.8,
+          "rep_pct": 45.7,
+          "pct_expected_vote_counted": 97.5,
+          "verified": true,
+          "margin_2026": 7.1
+        }
+      ],
+      "rep_flips_nbc": [],
+      "nbc_headline": "Democrats clinch a majority of governorships for first time in 16 years",
+      "timestamp": "NBC 11:08 AM ET",
+      "note": "Al Jazeera's D +5 net (23 to 28) is consistent with NBC's five marked D flips and no R flips. Florida had conflicting displays (NBC headline: Donalds wins) - not a flip. NBC 11:08 AM: Florida Donalds (R) 50.0, Jolly (D) 48.7, 99.0% in, not marked called on the page.",
+      "sources": [
+        "https://www.nbcnews.com/politics/2026-elections/governor-results",
+        "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways"
+      ],
+      "verified": true
+    },
+    "house_popular_vote": {
+      "estimates_2026": [
+        {
+          "estimator": "G. Elliott Morris (Strength In Numbers)",
+          "dem_margin_low": 13,
+          "dem_margin_high": 14,
+          "note": "'will win the House popular vote by about 13-14 percentage points' (provisional, 'as of writing'); method not described; 'largest House popular vote victory for any party since 1974'. Morris also projects 'at least 55' Senate seats.",
+          "source": "https://www.gelliottmorris.com/p/democrats-win-us-house-senate-in",
+          "verified": true
+        },
+        {
+          "estimator": "New York Times Voter Trends (Times/Siena + precinct results model)",
+          "dem_pct": 56,
+          "rep_pct": 43,
+          "dem_margin": 13,
+          "note": "From user-supplied PDF of the NYT page (see research/nyt_voter_trends.json), not from a fetched URL; NYT last updated 2026-11-04 02:56 ET Cross-checked against research/nyt_voter_trends.json (topline 56-43, +15 shift); nytimes.com not fetchable for independent confirmation.",
+          "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+          "verified": true
+        }
+      ],
+      "official_tally_margin": null,
+      "official_tally_note": "No outlet found publishing a running national House popular-vote tally with share counted (NBC/CBS/AP pages fetched show seats only).",
+      "baseline_2024_house": {
+        "rep_pct": 49.8,
+        "dem_pct": 47.2,
+        "dem_margin": -2.6,
+        "source": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections",
+        "rep_votes": 74390864,
+        "dem_votes": 70571330,
+        "note": "Infobox percentages as displayed (one decimal); previous 49.75/47.19 values were not shown on the page.",
+        "verified": true
+      },
+      "baseline_2024_president": {
+        "trump_pct": 49.8,
+        "harris_pct": 48.3,
+        "dem_margin": -1.5,
+        "source": "https://en.wikipedia.org/wiki/2024_United_States_presidential_election",
+        "trump_votes": 77302580,
+        "harris_votes": 75017613,
+        "verified": true
+      },
+      "shift_vs_2024_house_computed": {
+        "low": 15.6,
+        "high": 16.6,
+        "note": "Computed: Morris 13-14 minus (-2.6)."
+      },
+      "shift_vs_2024_president_computed": {
+        "low": 14.5,
+        "high": 15.5,
+        "note": "Computed: Morris 13-14 minus (-1.5). NYT Voter Trends reports +15 shift vs 2024 presidential (user-supplied PDF)."
+      },
+      "benchmark_2018": "Wikipedia: Democrats won the 2018 House popular vote by 8.6 points (from search summary, not fetched; not re-verified)."
+    },
+    "turnout": {
+      "estimate_2026_total_votes_millions": 124.3,
+      "estimate_2026_vep_rate": 49.42,
+      "estimate_2026_source": "https://michaelmcdonald.substack.com/p/preliminary-2026-turnout-rate",
+      "estimate_2026_note": "Michael McDonald (US Elections Project) preliminary, Nov 4 2026; CA and WA mail/provisional ballots outstanding. Second-highest midterm rate since 1914. NYT Voter Trends PDF cites ~121 million voters (House).",
+      "vep_rate_2018": 50.05,
+      "vep_rate_2018_source": "https://michaelmcdonald.substack.com/p/preliminary-2026-turnout-rate",
+      "vep_rate_2022": 46.8,
+      "vep_rate_2022_source": "https://news.ballotpedia.org/2023/01/12/2022-elections-see-second-highest-nationwide-midterm-voter-turnout-since-2002/",
+      "vep_rate_2022_note": "Ballotpedia (fetched) states 'The turnout rate in 2022 was 46.8%', citing the United States Election Project; it does not say VEP explicitly. Ballotpedia gives 2018 as 50.3%, vs McDonald's 50.05% (different vintages). Pew (House-only valid votes) gives 107.7M / 45.1% for 2022 vs 48.1% for 2018 - different measure.",
+      "early_votes_millions": 61.7,
+      "early_votes_source": "https://sg.news.yahoo.com/numbers-tell-story-democrats-midterm-064549284.html",
+      "early_votes_note": "University of Florida Election Lab, as cited.",
+      "verified": true
+    }
+  },
+  "exit_polls": [
+    {
+      "source": "SSRS Voter Poll (consortium) - NBC News presentation",
+      "url": "https://www.nbcnews.com/politics/2026-elections/exit-polls",
+      "methodology": "In 2026 the network exit poll became 'The Voter Poll' by SSRS, shared by CNN, ABC, AP, CBS, Fox News, MS NOW and NBC (CNN: ~100,000 voters incl. ~22,000 Election Day in-person interviews in 15 states; Fox/AP: ~80,000 registered voters, all 50 states, Oct 19-Nov 3, MoE +/-0.6). So 'CNN/Edison', 'AP VoteCast' and 'Fox Voter Analysis' are no longer separate surveys; group numbers are identical across outlets. Page re-checked 11:07 AM ET Nov 4; all rows unchanged. Page shows no 2022 or per-group 2024 comparisons. margin_2024 values (where filled) are Harris minus Trump from NBC's 2024 presidential exit poll page (Edison/NEP national exit poll, the vintage currently displayed), a different survey and method than the 2026 SSRS Voter Poll, and a presidential (not House) vote; AP VoteCast 2024 figures differ (e.g., AP says under-30 were 'roughly split' in 2024 vs Harris +11 in the NBC exit poll). Area-type 2024 margins omitted because 2024 exit poll urban/suburban shares (29/52) imply a different definition than 2026 (20/45). The AP fieldwork was Oct 19-Nov 3 in Alaska and Oct 22-Nov 3 elsewhere (PBS/AP).",
+      "groups": [
+        {
+          "dimension": "gender",
+          "group": "Men",
+          "share_of_electorate": 46,
+          "dem_pct": 49,
+          "rep_pct": 49,
+          "margin_2026": 0,
+          "margin_2024": -12,
+          "margin_2022": null,
+          "note": "CNN text: men split, 'erasing the double-digit GOP advantage they held in 2022' (no figure). NBC 2024 exit poll: Trump 55, Harris 43.",
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 43,
+            "trump_pct": 55,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "gender",
+          "group": "Women",
+          "share_of_electorate": 53,
+          "dem_pct": 58,
+          "rep_pct": 40,
+          "margin_2026": 18,
+          "margin_2024": 8,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 53,
+            "trump_pct": 45,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "age",
+          "group": "18-29",
+          "share_of_electorate": 11,
+          "dem_pct": 72,
+          "rep_pct": 25,
+          "margin_2026": 47,
+          "margin_2024": 11,
+          "margin_2022": null,
+          "note": "AP: in 2024 youngest voters 'roughly split' between Trump and Harris.",
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 54,
+            "trump_pct": 43,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "age",
+          "group": "30-44",
+          "share_of_electorate": 20,
+          "dem_pct": 60,
+          "rep_pct": 36,
+          "margin_2026": 24,
+          "margin_2024": 4,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 51,
+            "trump_pct": 47,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "age",
+          "group": "45-64",
+          "share_of_electorate": 34,
+          "dem_pct": 51,
+          "rep_pct": 47,
+          "margin_2026": 4,
+          "margin_2024": -10,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 44,
+            "trump_pct": 54,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "age",
+          "group": "65+",
+          "share_of_electorate": 35,
+          "dem_pct": 48,
+          "rep_pct": 51,
+          "margin_2026": -3,
+          "margin_2024": -1,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 49,
+            "trump_pct": 50,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "race",
+          "group": "White",
+          "share_of_electorate": 72,
+          "dem_pct": 48,
+          "rep_pct": 51,
+          "margin_2026": -3,
+          "margin_2024": -15,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 42,
+            "trump_pct": 57,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "race",
+          "group": "Black",
+          "share_of_electorate": 9,
+          "dem_pct": 89,
+          "rep_pct": 9,
+          "margin_2026": 80,
+          "margin_2024": 73,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 86,
+            "trump_pct": 13,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "race",
+          "group": "Latino",
+          "share_of_electorate": 10,
+          "dem_pct": 62,
+          "rep_pct": 35,
+          "margin_2026": 27,
+          "margin_2024": 5,
+          "margin_2022": null,
+          "note": "2024: Harris 51, Trump 46 per NBC exit poll article (https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045) and NBC 2024 exit poll page. Latino party ID: D 44 (39 in 2024), I 30 (32), R 27 (29).",
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 51,
+            "trump_pct": 46,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "race",
+          "group": "Asian",
+          "share_of_electorate": 4,
+          "dem_pct": 70,
+          "rep_pct": 29,
+          "margin_2026": 41,
+          "margin_2024": 15,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 55,
+            "trump_pct": 40,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "education",
+          "group": "College graduate",
+          "share_of_electorate": 47,
+          "dem_pct": 62,
+          "rep_pct": 36,
+          "margin_2026": 26,
+          "margin_2024": 14,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 56,
+            "trump_pct": 42,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "education",
+          "group": "No college degree",
+          "share_of_electorate": 53,
+          "dem_pct": 47,
+          "rep_pct": 51,
+          "margin_2026": -4,
+          "margin_2024": -13,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 43,
+            "trump_pct": 56,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "race_x_education",
+          "group": "White college grad",
+          "share_of_electorate": 35,
+          "dem_pct": 59,
+          "rep_pct": 40,
+          "margin_2026": 19,
+          "margin_2024": 8,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 53,
+            "trump_pct": 45,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "race_x_education",
+          "group": "White non-college",
+          "share_of_electorate": 37,
+          "dem_pct": 37,
+          "rep_pct": 61,
+          "margin_2026": -24,
+          "margin_2024": -34,
+          "margin_2022": null,
+          "note": "CNN text: some erosion of GOP's 2022 advantage with this group (no figure).",
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 32,
+            "trump_pct": 66,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "race_x_gender",
+          "group": "White men",
+          "share_of_electorate": 34,
+          "dem_pct": 43,
+          "rep_pct": 55,
+          "margin_2026": -12,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender",
+          "group": "White women",
+          "share_of_electorate": 38,
+          "dem_pct": 51,
+          "rep_pct": 47,
+          "margin_2026": 4,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender",
+          "group": "Black men",
+          "share_of_electorate": 4,
+          "dem_pct": 85,
+          "rep_pct": 13,
+          "margin_2026": 72,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "AP: roughly one-quarter of Black men backed Trump in 2024.",
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender",
+          "group": "Black women",
+          "share_of_electorate": 5,
+          "dem_pct": 92,
+          "rep_pct": 6,
+          "margin_2026": 86,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender",
+          "group": "Latino men",
+          "share_of_electorate": 5,
+          "dem_pct": 56,
+          "rep_pct": 41,
+          "margin_2026": 15,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender",
+          "group": "Latina women",
+          "share_of_electorate": 5,
+          "dem_pct": 66,
+          "rep_pct": 31,
+          "margin_2026": 35,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true,
+          "note": "NBC labels this row 'Latino women'."
+        },
+        {
+          "dimension": "income",
+          "group": "Under $30,000",
+          "share_of_electorate": 13,
+          "dem_pct": 58,
+          "rep_pct": 39,
+          "margin_2026": 19,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "income",
+          "group": "$30,000-$49,999",
+          "share_of_electorate": 15,
+          "dem_pct": 54,
+          "rep_pct": 43,
+          "margin_2026": 11,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "income",
+          "group": "$50,000-$99,999",
+          "share_of_electorate": 31,
+          "dem_pct": 53,
+          "rep_pct": 46,
+          "margin_2026": 7,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "income",
+          "group": "$100,000-$199,999",
+          "share_of_electorate": 29,
+          "dem_pct": 53,
+          "rep_pct": 46,
+          "margin_2026": 7,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "income",
+          "group": "$200,000-$299,999",
+          "share_of_electorate": 8,
+          "dem_pct": 56,
+          "rep_pct": 43,
+          "margin_2026": 13,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "income",
+          "group": "$300,000 or more",
+          "share_of_electorate": 4,
+          "dem_pct": 60,
+          "rep_pct": 39,
+          "margin_2026": 21,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "union",
+          "group": "Union household",
+          "share_of_electorate": 15,
+          "dem_pct": 59,
+          "rep_pct": 39,
+          "margin_2026": 20,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "union",
+          "group": "Non-union household",
+          "share_of_electorate": 85,
+          "dem_pct": 53,
+          "rep_pct": 45,
+          "margin_2026": 8,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "religion",
+          "group": "Protestant",
+          "share_of_electorate": 21,
+          "dem_pct": 39,
+          "rep_pct": 60,
+          "margin_2026": -21,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "religion",
+          "group": "Catholic",
+          "share_of_electorate": 21,
+          "dem_pct": 48,
+          "rep_pct": 50,
+          "margin_2026": -2,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "religion",
+          "group": "Jewish",
+          "share_of_electorate": 3,
+          "dem_pct": 67,
+          "rep_pct": 32,
+          "margin_2026": 35,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "religion",
+          "group": "None",
+          "share_of_electorate": 26,
+          "dem_pct": 77,
+          "rep_pct": 21,
+          "margin_2026": 56,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "white_evangelical",
+          "group": "White evangelical/born-again",
+          "share_of_electorate": 17,
+          "dem_pct": 16,
+          "rep_pct": 82,
+          "margin_2026": -66,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "white_evangelical",
+          "group": "All others",
+          "share_of_electorate": 83,
+          "dem_pct": 62,
+          "rep_pct": 36,
+          "margin_2026": 26,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "area_type",
+          "group": "Urban",
+          "share_of_electorate": 20,
+          "dem_pct": 71,
+          "rep_pct": 27,
+          "margin_2026": 44,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "area_type",
+          "group": "Suburban",
+          "share_of_electorate": 45,
+          "dem_pct": 58,
+          "rep_pct": 40,
+          "margin_2026": 18,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "area_type",
+          "group": "Small town/rural",
+          "share_of_electorate": 35,
+          "dem_pct": 40,
+          "rep_pct": 58,
+          "margin_2026": -18,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "ideology",
+          "group": "Liberal",
+          "share_of_electorate": 25,
+          "dem_pct": 96,
+          "rep_pct": 3,
+          "margin_2026": 93,
+          "margin_2024": 84,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 91,
+            "trump_pct": 7,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "ideology",
+          "group": "Moderate",
+          "share_of_electorate": 41,
+          "dem_pct": 64,
+          "rep_pct": 33,
+          "margin_2026": 31,
+          "margin_2024": 18,
+          "margin_2022": null,
+          "note": "AP: roughly two-thirds of moderates backed the Democrat vs approximately 6 in 10 for Harris in 2024 (no exact figures).",
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 58,
+            "trump_pct": 40,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "ideology",
+          "group": "Conservative",
+          "share_of_electorate": 34,
+          "dem_pct": 10,
+          "rep_pct": 89,
+          "margin_2026": -79,
+          "margin_2024": -81,
+          "margin_2022": null,
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 9,
+            "trump_pct": 90,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "party_id",
+          "group": "Democrat",
+          "share_of_electorate": 34,
+          "dem_pct": 98,
+          "rep_pct": 2,
+          "margin_2026": 96,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "party_id",
+          "group": "Republican",
+          "share_of_electorate": 33,
+          "dem_pct": 6,
+          "rep_pct": 93,
+          "margin_2026": -87,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "party_id",
+          "group": "Independent",
+          "share_of_electorate": 33,
+          "dem_pct": 56,
+          "rep_pct": 39,
+          "margin_2026": 17,
+          "margin_2024": 3,
+          "margin_2022": null,
+          "note": "NBC 2024 exit poll: 'Independent or something else' Harris 49, Trump 46. Yahoo News (Romano, not Reuters) says Trump split independents about evenly in 2024 (no source figure given).",
+          "verified": true,
+          "margin_2024_detail": {
+            "harris_pct": 49,
+            "trump_pct": 46,
+            "survey": "2024 NBC News exit poll (Edison/NEP), presidential vote",
+            "source": "https://www.nbcnews.com/politics/2024-elections/exit-polls"
+          }
+        },
+        {
+          "dimension": "vote_2024",
+          "group": "Harris voters",
+          "share_of_electorate": 48,
+          "dem_pct": 97,
+          "rep_pct": 2,
+          "margin_2026": 95,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "vote_2024",
+          "group": "Trump voters",
+          "share_of_electorate": 45,
+          "dem_pct": 7,
+          "rep_pct": 92,
+          "margin_2026": -85,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "vote_2024",
+          "group": "Did not vote in 2024",
+          "share_of_electorate": 4,
+          "dem_pct": 69,
+          "rep_pct": 25,
+          "margin_2026": 44,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "first_time_midterm_voter",
+          "group": "Yes",
+          "share_of_electorate": 9,
+          "dem_pct": 64,
+          "rep_pct": 34,
+          "margin_2026": 30,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "Question: first time ever voting in a midterm election.",
+          "verified": true
+        },
+        {
+          "dimension": "first_time_midterm_voter",
+          "group": "No",
+          "share_of_electorate": 91,
+          "dem_pct": 53,
+          "rep_pct": 45,
+          "margin_2026": 8,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "trump_approval",
+          "group": "Approve",
+          "share_of_electorate": 38,
+          "dem_pct": 3,
+          "rep_pct": 96,
+          "margin_2026": -93,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "trump_approval",
+          "group": "Disapprove",
+          "share_of_electorate": 62,
+          "dem_pct": 85,
+          "rep_pct": 13,
+          "margin_2026": 72,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "most_important_issue",
+          "group": "Economy",
+          "share_of_electorate": 39,
+          "dem_pct": 51,
+          "rep_pct": 46,
+          "margin_2026": 5,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "most_important_issue",
+          "group": "State of democracy",
+          "share_of_electorate": 32,
+          "dem_pct": 78,
+          "rep_pct": 21,
+          "margin_2026": 57,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "most_important_issue",
+          "group": "Immigration",
+          "share_of_electorate": 14,
+          "dem_pct": 10,
+          "rep_pct": 89,
+          "margin_2026": -79,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "most_important_issue",
+          "group": "Healthcare",
+          "share_of_electorate": 8,
+          "dem_pct": 66,
+          "rep_pct": 31,
+          "margin_2026": 35,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "most_important_issue",
+          "group": "Foreign policy",
+          "share_of_electorate": 4,
+          "dem_pct": 46,
+          "rep_pct": 50,
+          "margin_2026": -4,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "most_important_issue",
+          "group": "Crime",
+          "share_of_electorate": 3,
+          "dem_pct": 18,
+          "rep_pct": 79,
+          "margin_2026": -61,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "view_of_democratic_party",
+          "group": "Favorable",
+          "share_of_electorate": 47,
+          "dem_pct": 94,
+          "rep_pct": 4,
+          "margin_2026": 90,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "view_of_democratic_party",
+          "group": "Unfavorable",
+          "share_of_electorate": 53,
+          "dem_pct": 18,
+          "rep_pct": 79,
+          "margin_2026": -61,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "view_of_republican_party",
+          "group": "Favorable",
+          "share_of_electorate": 41,
+          "dem_pct": 5,
+          "rep_pct": 93,
+          "margin_2026": -88,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "view_of_republican_party",
+          "group": "Unfavorable",
+          "share_of_electorate": 59,
+          "dem_pct": 88,
+          "rep_pct": 10,
+          "margin_2026": 78,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "family_finances_vs_2_years_ago",
+          "group": "Better",
+          "share_of_electorate": 18,
+          "dem_pct": 24,
+          "rep_pct": 75,
+          "margin_2026": -51,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "family_finances_vs_2_years_ago",
+          "group": "Worse",
+          "share_of_electorate": 44,
+          "dem_pct": 74,
+          "rep_pct": 24,
+          "margin_2026": 50,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "family_finances_vs_2_years_ago",
+          "group": "About the same",
+          "share_of_electorate": 38,
+          "dem_pct": 45,
+          "rep_pct": 53,
+          "margin_2026": -8,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "source": "SSRS Voter Poll (consortium) - Fox News and ABC News presentations (rows not on NBC page only)",
+      "url": "https://www.foxnews.com/elections/polls/voter-poll-results",
+      "methodology": "Same SSRS survey. Fox: ~79,500-79,700 respondents for most items, ~39,700-39,900 for issue items; methodology file dated Nov 3 8 PM. Rows identical to the NBC presentation are omitted here. Party-by-ideology, age-by-party and Trump-reason rows from ABC page. Re-checked on Fox (n ~79,200-79,700 per table; conducted Oct 19-Nov 3, 2026 by SSRS) and ABC (live page 11:06 AM ET): all rows match. Fox 'Other' race (8%) includes Asian voters (Fox has no separate Asian row); Fox labels 2024 'Other', not 'Other candidate'. ABC's independents-by-age rows are from the leaner table (pure independents).",
+      "groups": [
+        {
+          "dimension": "race",
+          "group": "Other (Fox: non-white, non-Black, non-Latino, incl. Asian)",
+          "share_of_electorate": 8,
+          "dem_pct": 61,
+          "rep_pct": 37,
+          "margin_2026": 24,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender_x_education",
+          "group": "White women, college",
+          "share_of_electorate": 18,
+          "dem_pct": 63,
+          "rep_pct": 36,
+          "margin_2026": 27,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender_x_education",
+          "group": "White women, non-college",
+          "share_of_electorate": 19,
+          "dem_pct": 40,
+          "rep_pct": 58,
+          "margin_2026": -18,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender_x_education",
+          "group": "White men, college",
+          "share_of_electorate": 16,
+          "dem_pct": 54,
+          "rep_pct": 44,
+          "margin_2026": 10,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender_x_education",
+          "group": "White men, non-college",
+          "share_of_electorate": 18,
+          "dem_pct": 34,
+          "rep_pct": 64,
+          "margin_2026": -30,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender_x_education",
+          "group": "All others (non-white)",
+          "share_of_electorate": 28,
+          "dem_pct": 71,
+          "rep_pct": 27,
+          "margin_2026": 44,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "income_4band",
+          "group": "Under $50K",
+          "share_of_electorate": 27,
+          "dem_pct": 56,
+          "rep_pct": 41,
+          "margin_2026": 15,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "AP: these voters were 'about evenly split' between Trump and Harris in 2024 (no figure).",
+          "verified": true
+        },
+        {
+          "dimension": "income_4band",
+          "group": "$200K+",
+          "share_of_electorate": 12,
+          "dem_pct": 57,
+          "rep_pct": 41,
+          "margin_2026": 16,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "religion",
+          "group": "Protestant/other Christian",
+          "share_of_electorate": 40,
+          "dem_pct": 38,
+          "rep_pct": 60,
+          "margin_2026": -22,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "religion",
+          "group": "Something else",
+          "share_of_electorate": 10,
+          "dem_pct": 65,
+          "rep_pct": 32,
+          "margin_2026": 33,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "party_id_with_leaners",
+          "group": "Democrat incl. leaners",
+          "share_of_electorate": 48,
+          "dem_pct": 97,
+          "rep_pct": 2,
+          "margin_2026": 95,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "party_id_with_leaners",
+          "group": "Republican incl. leaners",
+          "share_of_electorate": 44,
+          "dem_pct": 6,
+          "rep_pct": 92,
+          "margin_2026": -86,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "party_id_with_leaners",
+          "group": "Pure independent/other",
+          "share_of_electorate": 8,
+          "dem_pct": 55,
+          "rep_pct": 33,
+          "margin_2026": 22,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "vote_2024",
+          "group": "Other candidate",
+          "share_of_electorate": 2,
+          "dem_pct": 53,
+          "rep_pct": 30,
+          "margin_2026": 23,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "party_x_ideology",
+          "group": "Liberal Democrats",
+          "share_of_electorate": 18,
+          "dem_pct": 99,
+          "rep_pct": 1,
+          "margin_2026": 98,
+          "margin_2024": null,
+          "margin_2022": null,
+          "source": "https://abcnews.com/Elections/polls-2026-us-house-election-results-analysis",
+          "verified": true
+        },
+        {
+          "dimension": "party_x_ideology",
+          "group": "Moderate/conservative Democrats",
+          "share_of_electorate": 16,
+          "dem_pct": 96,
+          "rep_pct": 3,
+          "margin_2026": 93,
+          "margin_2024": null,
+          "margin_2022": null,
+          "source": "https://abcnews.com/Elections/polls-2026-us-house-election-results-analysis",
+          "verified": true
+        },
+        {
+          "dimension": "party_x_age",
+          "group": "Independents under 45",
+          "share_of_electorate": 3,
+          "dem_pct": 56,
+          "rep_pct": 25,
+          "margin_2026": 31,
+          "margin_2024": null,
+          "margin_2022": null,
+          "source": "https://abcnews.com/Elections/polls-2026-us-house-election-results-analysis",
+          "verified": true
+        },
+        {
+          "dimension": "party_x_age",
+          "group": "Independents 45+",
+          "share_of_electorate": 5,
+          "dem_pct": 54,
+          "rep_pct": 36,
+          "margin_2026": 18,
+          "margin_2024": null,
+          "margin_2022": null,
+          "source": "https://abcnews.com/Elections/polls-2026-us-house-election-results-analysis",
+          "verified": true
+        },
+        {
+          "dimension": "trump_factor_in_vote",
+          "group": "To express support for Trump",
+          "share_of_electorate": 16,
+          "dem_pct": 2,
+          "rep_pct": 98,
+          "margin_2026": -96,
+          "margin_2024": null,
+          "margin_2022": null,
+          "source": "https://abcnews.com/Elections/polls-2026-us-house-election-results-analysis",
+          "verified": true
+        },
+        {
+          "dimension": "trump_factor_in_vote",
+          "group": "To express opposition to Trump",
+          "share_of_electorate": 43,
+          "dem_pct": 96,
+          "rep_pct": 2,
+          "margin_2026": 94,
+          "margin_2024": null,
+          "margin_2022": null,
+          "source": "https://abcnews.com/Elections/polls-2026-us-house-election-results-analysis",
+          "verified": true
+        },
+        {
+          "dimension": "trump_factor_in_vote",
+          "group": "Trump not a factor",
+          "share_of_electorate": 40,
+          "dem_pct": 29,
+          "rep_pct": 67,
+          "margin_2026": -38,
+          "margin_2024": null,
+          "margin_2022": null,
+          "source": "https://abcnews.com/Elections/polls-2026-us-house-election-results-analysis",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "source": "AP Voter Poll (SSRS for AP; formerly AP VoteCast) - AP text write-ups",
+      "url": "https://www.news4jax.com/news/politics/2026/11/04/democrats-won-back-support-from-five-key-groups-that-shifted-toward-trump-in-2024-the-ap-voter-poll/",
+      "methodology": "AP reports rounded fractions ('about 7 in 10'), not exact percentages; dem_pct/rep_pct left null and wording kept in note. 2024 comparisons are to AP VoteCast 2024 presidential vote. Re-checked wording against news4jax (AP) and PBS (AP) texts: matches. AP adds: about 9 in 10 Black men backed Bottoms in GA governor vs about three-quarters for Harris in 2024.",
+      "groups": [
+        {
+          "dimension": "age",
+          "group": "Under 30",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "About 7 in 10 D, about 3 in 10 R; 2024 roughly split Trump/Harris; about 1 in 10 of electorate.",
+          "verified": true
+        },
+        {
+          "dimension": "race",
+          "group": "Hispanic",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "About 6 in 10 D, about one-third R; roughly 4 in 10 voted Trump in 2024. TX Senate: ~6 in 10 Hispanics Talarico, ~3 in 10 Paxton.",
+          "verified": true
+        },
+        {
+          "dimension": "race",
+          "group": "Black",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "About 9 in 10 D vs roughly 8 in 10 Harris in 2024.",
+          "verified": true
+        },
+        {
+          "dimension": "race_x_gender",
+          "group": "Black men",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "Only about 1 in 10 backed R vs roughly one-quarter Trump in 2024.",
+          "verified": true
+        },
+        {
+          "dimension": "ideology",
+          "group": "Moderates",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "Roughly two-thirds D vs approximately 6 in 10 Harris. KS Senate: Hamilton ~7 in 10 moderates vs Harris ~half; IA Senate: Turek ~two-thirds vs Harris ~half; NC Senate: Cooper ~three-quarters vs Harris 'slimmer majority'.",
+          "verified": true
+        },
+        {
+          "dimension": "income",
+          "group": "Under $50,000",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "More than half D; about evenly split Trump/Harris in 2024.",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "source": "Tufts CIRCLE youth analysis (NORC Civic Health & Elections Project data)",
+      "url": "https://circle.tufts.edu/youth-vote-choice-demographics-2026-midterms",
+      "methodology": "Page (Nov 4, 2026; 'may shift slightly in the hours ahead') now attributes 2026 figures to the NORC Civic Health & Elections Project, NOT the SSRS Voter Poll as previously recorded. Youth age range not defined on page (assumed 18-29 by CIRCLE convention, unverified). 2024 comparisons: young men from AP VoteCast; white and rural youth 2024 presidential (source survey not named on page). All 2026 values below were replaced with the figures on the re-fetched page; prior values (e.g., young women 77, young men 65, young rural 59-37) no longer appear there and could not be confirmed.",
+      "groups": [
+        {
+          "dimension": "youth_x_gender",
+          "group": "Young women",
+          "share_of_electorate": null,
+          "dem_pct": 69,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_gender",
+          "group": "Young men",
+          "share_of_electorate": null,
+          "dem_pct": 58,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "2024: 56% of young men voted Trump (AP VoteCast; Harris share not given).",
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_race",
+          "group": "Young white",
+          "share_of_electorate": null,
+          "dem_pct": 60,
+          "rep_pct": 36,
+          "margin_2026": 24,
+          "margin_2024": -10,
+          "margin_2022": null,
+          "note": "2024: Trump 54, Harris 44 (per CIRCLE).",
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_race",
+          "group": "Young Black",
+          "share_of_electorate": null,
+          "dem_pct": 78,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_race",
+          "group": "Young Latino",
+          "share_of_electorate": null,
+          "dem_pct": 70,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_race",
+          "group": "Young AAPI",
+          "share_of_electorate": null,
+          "dem_pct": 80,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_race_x_gender",
+          "group": "Young white men",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "Page gives conflicting Democratic margins (17 points in one passage, 10 in another); set to null.",
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_race_x_gender",
+          "group": "Young Black women",
+          "share_of_electorate": null,
+          "dem_pct": 96,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_education",
+          "group": "Young, college degree",
+          "share_of_electorate": null,
+          "dem_pct": 69,
+          "rep_pct": 29,
+          "margin_2026": 40,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_education",
+          "group": "Young, no college experience",
+          "share_of_electorate": null,
+          "dem_pct": 59,
+          "rep_pct": 36,
+          "margin_2026": 23,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_area",
+          "group": "Young urban",
+          "share_of_electorate": null,
+          "dem_pct": 70,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_area",
+          "group": "Young suburban",
+          "share_of_electorate": null,
+          "dem_pct": 61,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_area",
+          "group": "Young rural",
+          "share_of_electorate": null,
+          "dem_pct": 44,
+          "rep_pct": 49,
+          "margin_2026": -5,
+          "margin_2024": -22,
+          "margin_2022": null,
+          "note": "2024: Trump 60, Harris 38 (per CIRCLE). 2022: 64% of rural youth voted R (D share not given, so margin_2022 null).",
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_lgbt",
+          "group": "LGBT youth",
+          "share_of_electorate": null,
+          "dem_pct": 86,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        },
+        {
+          "dimension": "youth_x_lgbt",
+          "group": "Straight youth",
+          "share_of_electorate": null,
+          "dem_pct": 57,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "source": "Equis (Latino voters), as reported by Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/article/midterms-2026-how-democrats-built-a-blue-wave-and-won-control-of-congress-074658228.html",
+      "methodology": "Equis Latino vote estimate as relayed by Yahoo News (Andrew Romano; not Reuters); method not described in article. Re-fetched: figures match.",
+      "groups": [
+        {
+          "dimension": "race",
+          "group": "Latino",
+          "share_of_electorate": null,
+          "dem_pct": 65,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "D share 65% in 2026 vs 55% in 2024 (+10). TX Latinos 60% D, FL Latinos 56% D (D won Latino vote in both after losing it in 2024). Shift +19 VA, +23 NJ (as reported).",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "source": "CNN Voter Poll (SSRS)",
+      "url": "https://www.cnn.com/2026/11/03/politics/exit-polls-2026-midterms-vis",
+      "methodology": "CNN pages returned HTTP 451 to fetch; only qualitative statements obtained via search snippets. Same underlying SSRS data as NBC/Fox/ABC rows above. Re-fetch Nov 4 again returned HTTP 451; CNN statements and the CNN sample-size claim (~100,000 incl. ~22,000 in-person in 15 states) remain unverified.",
+      "groups": [
+        {
+          "dimension": "gender",
+          "group": "Men",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "Men split between parties, erasing the double-digit GOP advantage they held in 2022 (no figures obtained).",
+          "verified": false
+        },
+        {
+          "dimension": "age",
+          "group": "Under 30",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "Voters of all ages shifted toward D vs 2022; under-30 backed D by a wider margin than during Trump's first term.",
+          "verified": false
+        },
+        {
+          "dimension": "double_haters",
+          "group": "Unfavorable to both parties",
+          "share_of_electorate": null,
+          "dem_pct": null,
+          "rep_pct": null,
+          "margin_2026": null,
+          "margin_2024": null,
+          "margin_2022": null,
+          "note": "Went decisively D in 2026 after splitting roughly evenly in 2018 and voting R in 2022 (no figures). NBC: nearly 1 in 5 voters favorable to neither party, at least 5 pts above past two midterms.",
+          "verified": false
+        }
+      ]
+    }
+  ],
+  "issue_and_approval": [
+    {
+      "item": "Trump job approval among voters",
+      "value": "38% approve / 62% disapprove",
+      "comparison": "45% approved in 2018 (NBC). CBS: on track for lowest approval for a president in a midterm. CNN/Enten 'worst midterm net approval' claim not re-verifiable (CNN 451).",
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Cited opposing Trump as reason for House vote",
+      "value": "43%",
+      "comparison": "NBC article gives no 2018 figure for this (claim 'higher than 2018' not supported on the fetched page)",
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Most important issue",
+      "value": "Economy 39%, state of democracy 32%, immigration 14%, healthcare 8%, foreign policy 4%, crime 3%",
+      "comparison": null,
+      "source": "https://www.nbcnews.com/politics/2026-elections/exit-polls",
+      "verified": true
+    },
+    {
+      "item": "Trust on economy",
+      "value": "Democrats 43%, Republicans 37%",
+      "comparison": "In 2024 Trump led Harris by 7 pts on economy",
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Economy in rough shape / Trump policies worsened economy / Trump blamed for high prices",
+      "value": "75% / 65% / 62%",
+      "comparison": "2018: 68% said economy in good shape",
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Cost of living crucial or major factor",
+      "value": "about 90% (CBS: 89%)",
+      "comparison": null,
+      "source": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+      "verified": true
+    },
+    {
+      "item": "Concern about costs",
+      "value": "gas/diesel 87%, groceries 88%, utilities 86%, healthcare 85%",
+      "comparison": null,
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Government corruption crucial or major factor",
+      "value": "90%; trusted on corruption: D 37%, R 31%, about a third neither",
+      "comparison": null,
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Immigration enforcement",
+      "value": "gone too far 57%, about right 22%, not far enough 22%",
+      "comparison": null,
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Iran military action wrong decision",
+      "value": "63%",
+      "comparison": "CBS: about a quarter of Republicans say wrong decision",
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "AI / data centers",
+      "value": "AI will hurt more than help 57%; oppose local data center 76%",
+      "comparison": null,
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Democratic Party favorability",
+      "value": "47% favorable / 53% unfavorable",
+      "comparison": "Republican Party 41/59. CBS: about 1 in 5 Democratic House voters view the Democratic Party unfavorably. AP: 'just under half' favorable to Dems, about 4 in 10 to GOP.",
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Favorable to neither party",
+      "value": "nearly 1 in 5",
+      "comparison": "at least 5 pts above each of past two midterms",
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Party issue edges (AP)",
+      "value": "D slight edge on economy and corruption; small edge foreign policy; wider edge on transgender issues and healthcare; split on AI and taxes; R small edge on immigration",
+      "comparison": null,
+      "source": "https://www.pbs.org/newshour/politics/ap-voter-poll-how-key-demographic-groups-voted-in-the-2026-midterms",
+      "verified": true
+    },
+    {
+      "item": "Congress checks and balances (AP)",
+      "value": "roughly 7 in 10 say Congress doing 'not enough'; about three-quarters disapprove of Congress; about 2 in 10 'about right', 1 in 10 'too much'",
+      "comparison": null,
+      "source": "https://www.pbs.org/newshour/politics/ap-voter-poll-how-key-demographic-groups-voted-in-the-2026-midterms",
+      "verified": true
+    },
+    {
+      "item": "Family finances vs two years ago",
+      "value": "worse 44%, better 18%, same 38%",
+      "comparison": null,
+      "source": "https://www.nbcnews.com/politics/2026-elections/exit-polls",
+      "verified": true
+    },
+    {
+      "item": "Election confidence",
+      "value": "71% confident in own state, 59% nationwide",
+      "comparison": null,
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    },
+    {
+      "item": "Latino party ID",
+      "value": "D 44, I 30, R 27 (D edge 17)",
+      "comparison": "2024: D 39, I 32, R 29 (edge 10); 2018 edge 33 (2018 shares not given)",
+      "source": "https://www.nbcnews.com/politics/2026-election/exit-poll-trump-midterms-voters-economy-disapproval-rcna607045",
+      "verified": true
+    }
+  ],
+  "nyt_voter_trends_secondhand": [
+    {
+      "claim": "No secondhand coverage of the NYT 'How Americans Voted in 2026' voter-trends interactive (or its state pages) was found via search of news outlets, aggregators or social posts as of ~11 AM ET Nov 4. Its findings are captured first-hand from a user-supplied PDF in research/nyt_voter_trends.json (House D 56-43, shift +15 vs 2024 presidential; 18-29 +32 shift; Hispanic +28; non-college +17 vs college +11).",
+      "source": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html"
+    },
+    {
+      "claim": "Yahoo News recap cites NYT projections that, as of 1 a.m. ET Wednesday, Democrats were projected to gain more than three dozen House seats (NYT projections, not the voter-trends page).",
+      "source": "https://www.yahoo.com/news/politics/article/midterms-2026-how-democrats-built-a-blue-wave-and-won-control-of-congress-074658228.html"
+    },
+    {
+      "claim": "Pre-election (Sept 2026): Nate Cohn's NYT analysis, per secondary coverage, found high-quality polls had Democrats ahead 64-29 among Hispanic likely voters on the generic ballot vs Harris +7 in final 2024 surveys.",
+      "source": "https://www.mediaite.com/media/news/possible-democratic-tsunami-nyts-nate-cohn-predicts-hispanic-voters-will-transform-the-midterms/"
+    }
+  ],
+  "notes": "Key structural fact: in 2026 the separate exit polls were replaced by a single SSRS 'Voter Poll' shared by CNN, ABC, AP, CBS, Fox, MS NOW and NBC, so CNN/NBC/Fox/ABC/AP group numbers are the same survey; there is no separate Edison exit poll, AP VoteCast (NORC) or Fox Voter Analysis to compare. CNN pages returned HTTP 451 (blocked), so CNN-specific text, 2022 group comparisons and CNN's crosstab page could not be read. CBS exit-poll tables are images. None of the fetched Voter Poll pages report per-group 2024 or 2022 margins, so margin_2024/margin_2022 are null except where a secondary source gave both party shares (Latino 2024 via NBC article; young white and young rural via CIRCLE/AP VoteCast 2024). The overall Voter Poll House topline (D% vs R%) was not displayed on the fetched pages. No running official national House popular-vote tally with share counted was found; popular-vote margin relies on G. Elliott Morris's estimate (method undisclosed) and the NYT model (user PDF). Shift computations vs 2024 are this researcher's arithmetic. House and Senate counts are snapshots ~10:40-10:55 AM ET Nov 4 and will change; NBC called-seat numbers and AP numbers (via Al Jazeera) differ due to timing. The NBC 2024 exit poll page (fetched at verification) does show men Trump 55, Harris 43; 2024 margins for core groups were added from that page during verification. The 2022 turnout rate (46.8%) was confirmed on the fetched Ballotpedia page, citing the US Elections Project.",
+  "verification": {
+    "as_of": "2026-11-04T11:15:00-05:00",
+    "checked_items": 148,
+    "corrections": [
+      "House pre-election '218-214' was misattributed to Reuters via the Yahoo/Romano article (which gives no figure); re-sourced to the Reuters item in the sg.news.yahoo feed",
+      "Senate AK/MS uncalled races: added NBC 11:08 AM ET vote shares and % expected vote (AK 74.3%, was null; MS 95.6%, was 96 rounded from CBS)",
+      "Ohio governor % expected vote updated 97.9 -> 98.0 (NBC 11:08 AM); added computed margins to governor flips",
+      "2024 House baseline percentages changed from unsourced 49.75/47.19 to Wikipedia infobox 49.8/47.2 (margin -2.6 unchanged); added vote totals",
+      "Filled margin_2024 for 18 core exit-poll groups from NBC's 2024 exit poll page (one vintage, with comparability caveat); this verifies the previously excluded 'Men 43-55' 2024 figure",
+      "CIRCLE youth block: data source is NORC Civic Health & Elections Project (not SSRS Voter Poll); all 2026 shares replaced with re-fetched page values (e.g., young women 77->69, young men 65->58, young white 63-34->60-36, young rural 59-37 (D+22)->44-49 (R+5), young Black 90->78, Latino 78->70, AAPI 84->80)",
+      "CIRCLE young white men margin 17 set to null: page gives conflicting 17 and 10 point margins",
+      "CIRCLE education rows corrected: 'bachelor's 74-23' -> college degree 69-29; 'high school diploma 71-26' -> no college experience 59-36",
+      "Removed unsupported 'higher than 2018' comparison for 43% anti-Trump vote motive (NBC article gives no 2018 figure)"
+    ],
+    "unresolved": [
+      "CNN exit-poll pages return HTTP 451: CNN qualitative claims and CNN sample-size figures (~100,000 / ~22,000 in-person) unverified",
+      "Governor post-election tally 28 D / 20 R / 2 uncalled rests on Al Jazeera alone; NBC shows no tally",
+      "Forbes (403) and Variety (paywall redirect) not re-fetchable: Iowa as Senate-clinching call and MS NOW ~10 pm House call unverified",
+      "No running official national House popular-vote tally found; popular vote rests on Morris estimate and NYT model (user PDF, nytimes.com unfetchable)",
+      "CBS 251-268 House range not on fetched page (kept only in note as unconfirmed)",
+      "2018 House popular vote D+8.6 still from search summary, not fetched",
+      "CIRCLE page values changed vs. earlier capture and are labeled 'may shift'; earlier SSRS-based numbers could not be confirmed",
+      "2024 margins come from NBC/Edison exit poll (presidential), not comparable in method to 2026 SSRS Voter Poll; AP VoteCast 2024 vintage differs",
+      "WebSearch budget exhausted mid-check; verification relied on WebFetch of outlet pages"
+    ]
+  }
+}

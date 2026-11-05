@@ -1,0 +1,3279 @@
+{
+ "AZ-1": {
+  "name": "Tom O'Halleran",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog Coalition member (listed on Blue Dog PAC site Oct 2018); New Dem member; ex-Republican",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 AZ-1"
+ },
+ "AZ-2": {
+  "name": "Ann Kirkpatrick",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "low",
+  "style_evidence": "Former Rep. and ex-Blue Dog (2009-11) running as party-favoured comeback candidate vs. more progressive Matt Heinz; DCCC Red to Blue",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Arizona&oldid=867296328",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 AZ-2"
+ },
+ "AZ-3": {
+  "name": "Raúl Grijalva",
+  "ideology": "left",
+  "posture": "establishment",
+  "archetype": "progressive",
+  "style_confidence": "high",
+  "style_evidence": "CPC co-chair; Justice Democrats endorsed (JD wiki pre-election) and Our Revolution endorsed (OR candidates page Nov 2018)",
+  "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "progressive",
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "carried_from": "2018 AZ-3"
+ },
+ "AZ-9": {
+  "name": "Greg Stanton",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Former Phoenix mayor, unopposed in primary; campaign stressed problem-solving mayoral record; no left or Blue Dog markers",
+  "label_source_url": "https://en.wikipedia.org/wiki/Greg_Stanton",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 AZ-9"
+ },
+ "CA-1": {
+  "name": "Audrey Denney",
+  "ideology": "left",
+  "posture": "mixed",
+  "archetype": "progressive",
+  "style_confidence": "high",
+  "style_evidence": "Justice Democrats + Our Revolution endorsed; Mar 2018: \"progressive Democrat\", \"not going to be a rubber-stamp Democrat\"; no-corporate-PAC grassroots campaign",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "progressive",
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "carried_from": "2018 CA-1"
+ },
+ "CA-2": {
+  "name": "Jared Huffman",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CA-2"
+ },
+ "CA-3": {
+  "name": "John Garamendi",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Long-time incumbent, conventional party-line Democrat; no CPC/Blue Dog markers",
+  "label_source_url": "https://en.wikipedia.org/wiki/John_Garamendi",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CA-3"
+ },
+ "CA-7": {
+  "name": "Ami Bera",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "New Dem member; perennial frontliner in Sacramento-suburban swing seat (2012-16 close races)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-7"
+ },
+ "CA-9": {
+  "name": "Jerry McNerney",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent, conventional party-line Democrat; no caucus markers",
+  "label_source_url": "https://en.wikipedia.org/wiki/Jerry_McNerney",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CA-9"
+ },
+ "CA-10": {
+  "name": "Josh Harder",
+  "ideology": "liberal",
+  "posture": "mixed",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "DCCC Red to Blue; campaigned for Medicare for All (KFF) with no Sanders/OR/JD backing; VC/Turlock native running as local outsider",
+  "label_source_url": "https://kffhealthnews.org/news/en-route-to-congress-california-democrats-hit-wall-on-medicare-for-all",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 CA-10"
+ },
+ "CA-11": {
+  "name": "Mark DeSaulnier",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CA-11"
+ },
+ "CA-14": {
+  "name": "Jackie Speier",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CA-14"
+ },
+ "CA-15": {
+  "name": "Eric Swalwell",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CA-15"
+ },
+ "CA-16": {
+  "name": "Jim Costa",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018); Blue Dog PAC co-chair",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-16"
+ },
+ "CA-17": {
+  "name": "Ro Khanna",
+  "ideology": "left",
+  "posture": "mixed",
+  "archetype": "progressive",
+  "style_confidence": "high",
+  "style_evidence": "Justice Democrats member (first sitting JD member, JD wiki pre-election); CPC; won 2016 as insurgent vs. Honda",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "progressive",
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed"
+  ],
+  "carried_from": "2018 CA-17"
+ },
+ "CA-19": {
+  "name": "Zoe Lofgren",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CA-19"
+ },
+ "CA-24": {
+  "name": "Salud Carbajal",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-24"
+ },
+ "CA-26": {
+  "name": "Julia Brownley",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-26"
+ },
+ "CA-28": {
+  "name": "Adam Schiff",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-28"
+ },
+ "CA-30": {
+  "name": "Brad Sherman",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CA-30"
+ },
+ "CA-31": {
+  "name": "Pete Aguilar",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-31"
+ },
+ "CA-32": {
+  "name": "Grace Napolitano",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CA-32"
+ },
+ "CA-33": {
+  "name": "Ted Lieu",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CA-33"
+ },
+ "CA-35": {
+  "name": "Norma Torres",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-35"
+ },
+ "CA-36": {
+  "name": "Raul Ruiz",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent ER doctor, conventional party-line Democrat; no caucus markers",
+  "label_source_url": "https://en.wikipedia.org/wiki/Raul_Ruiz_(politician)",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CA-36"
+ },
+ "CA-37": {
+  "name": "Karen Bass",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CA-37"
+ },
+ "CA-39": {
+  "name": "Gil Cisneros",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "DCCC-backed Navy vet/philanthropist; DCCC, BOLD PAC, LCV endorsements; public option not M4A (KFF)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_California&oldid=867467805",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 CA-39"
+ },
+ "CA-41": {
+  "name": "Mark Takano",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CA-41"
+ },
+ "CA-43": {
+  "name": "Maxine Waters",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CA-43"
+ },
+ "CA-45": {
+  "name": "Katie Porter",
+  "ideology": "left",
+  "posture": "mixed",
+  "archetype": "progressive",
+  "style_confidence": "high",
+  "style_evidence": "PCCC endorsed (\"fighting Wall Street and powerful interests\"); Warren protegee; Medicare for All central to campaign (KFF); also DCCC Red to Blue",
+  "label_source_url": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue",
+   "PCCC"
+  ],
+  "carried_from": "2018 CA-45"
+ },
+ "CA-46": {
+  "name": "Lou Correa",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018); New Dem member",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-46"
+ },
+ "CA-47": {
+  "name": "Alan Lowenthal",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CA-47"
+ },
+ "CA-48": {
+  "name": "Harley Rouda",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Ex-Republican businessman, DCCC Red to Blue; backed Medicare for All and answered yes to PDA questionnaire, but not campaign-defining",
+  "label_source_url": "https://kffhealthnews.org/news/en-route-to-congress-california-democrats-hit-wall-on-medicare-for-all",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 CA-48"
+ },
+ "CA-49": {
+  "name": "Mike Levin",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "PCCC endorsed (single left-group endorsement); clean-energy lawyer; DCCC Red to Blue; supported M4A per KFF but conventional campaign",
+  "label_source_url": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue",
+   "PCCC"
+  ],
+  "carried_from": "2018 CA-49"
+ },
+ "CA-50": {
+  "name": "Ammar Campa-Najjar",
+  "ideology": "left",
+  "posture": "mixed",
+  "archetype": "progressive",
+  "style_confidence": "high",
+  "style_evidence": "Justice Democrats + Our Revolution + PCCC endorsed; ran as progressive backing M4A; also Obama-endorsed",
+  "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "progressive",
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "carried_from": "2018 CA-50"
+ },
+ "CA-51": {
+  "name": "Juan Vargas",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-51"
+ },
+ "CA-52": {
+  "name": "Scott Peters",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CA-52"
+ },
+ "CO-1": {
+  "name": "Diana DeGette",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CO-1"
+ },
+ "CO-2": {
+  "name": "Joe Neguse",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "CPC PAC + DFA endorsed alongside Biden, CBC, AFL-CIO; former state agency head; batch \"Bernie Sanders\" marker is only ex-Sanders staffers on his list",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Colorado&oldid=867082604",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CO-2"
+ },
+ "CO-3": {
+  "name": "Diane Mitsch Bush",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Former state rep and county commissioner; won primary over Menconi/Hanlon; no left or centrist markers",
+  "label_source_url": "https://en.wikipedia.org/wiki/Diane_Mitsch_Bush",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CO-3"
+ },
+ "CO-6": {
+  "name": "Jason Crow",
+  "ideology": "liberal",
+  "posture": "mixed",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Army Ranger, DCCC-backed over progressive Tillemann; refused corporate PAC money; no centrist branding found",
+  "label_source_url": "https://en.wikipedia.org/wiki/Jason_Crow",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 CO-6"
+ },
+ "CO-7": {
+  "name": "Ed Perlmutter",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Safe-seat New Dem incumbent; conventional",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CO-7"
+ },
+ "CT-1": {
+  "name": "John B. Larson",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 CT-1"
+ },
+ "CT-2": {
+  "name": "Joe Courtney",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "New Dem incumbent in safe-for-him seat; conventional, no centrist branding",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CT-2"
+ },
+ "CT-3": {
+  "name": "Rosa DeLauro",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "CPC member, senior appropriator, establishment",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 CT-3"
+ },
+ "CT-4": {
+  "name": "Jim Himes",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 CT-4"
+ },
+ "CT-5": {
+  "name": "Jahana Hayes",
+  "ideology": "liberal",
+  "posture": "populist",
+  "archetype": "left_populist",
+  "style_confidence": "medium",
+  "style_evidence": "Teacher of the Year newcomer from public housing; beat convention-endorsed Mary Glassman 62-38 in primary; WFP and CEA backed",
+  "label_source_url": "https://en.wikipedia.org/wiki/Jahana_Hayes",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "left_populist",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 CT-5"
+ },
+ "DE-AL": {
+  "name": "Lisa Blunt Rochester",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "CPC + New Dem incumbent; CBC PAC/party endorsements",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 DE-AL"
+ },
+ "FL-5": {
+  "name": "Al Lawson",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 FL-5"
+ },
+ "FL-7": {
+  "name": "Stephanie Murphy",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site); New Dem; beat JD/BNC-backed Chardo Richardson (BNC marker is his)",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 FL-7"
+ },
+ "FL-9": {
+  "name": "Darren Soto",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "CPC + New Dem incumbent; conventional",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 FL-9"
+ },
+ "FL-13": {
+  "name": "Charlie Crist",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018); ex-Republican governor",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 FL-13"
+ },
+ "FL-17": {
+  "name": "Allen Ellison",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Long-shot nominee in Trump+28 open seat; no markers found",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Florida&oldid=866700339",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 FL-17"
+ },
+ "FL-22": {
+  "name": "Ted Deutch",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Safe-seat incumbent, conventional party-line Democrat",
+  "label_source_url": "https://en.wikipedia.org/wiki/Ted_Deutch",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 FL-22"
+ },
+ "FL-23": {
+  "name": "Debbie Wasserman Schultz",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 FL-23"
+ },
+ "FL-26": {
+  "name": "Debbie Mucarsel-Powell",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "DCCC Red to Blue; nonprofit exec; no left or centrist markers",
+  "label_source_url": "https://en.wikipedia.org/wiki/Debbie_Mucarsel-Powell",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 FL-26"
+ },
+ "FL-27": {
+  "name": "Donna Shalala",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "Former HHS Secretary; publicly opposed single-payer Medicare for All (WFOR interview); beat progressive David Richardson; BNC marker belongs to rival Hepburn",
+  "label_source_url": "https://en.wikipedia.org/wiki/Donna_Shalala",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 FL-27"
+ },
+ "GA-2": {
+  "name": "Sanford Bishop",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018)",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "carried_from": "2018 GA-2"
+ },
+ "GA-4": {
+  "name": "Hank Johnson",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 GA-4"
+ },
+ "GA-6": {
+  "name": "Lucy McBath",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "low",
+  "style_evidence": "Gun-safety activist, DCCC Red to Blue; favoured shoring up ACA/Medicare at 55 over Medicare for All (undated positions)",
+  "label_source_url": "https://en.wikipedia.org/wiki/Lucy_McBath",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 GA-6"
+ },
+ "GA-7": {
+  "name": "Carolyn Bourdeaux",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "low",
+  "style_evidence": "Former state Senate budget director/professor; Obama-endorsed; pragmatic fiscal profile (later Blue Dog membership not used)",
+  "label_source_url": "https://en.wikipedia.org/wiki/Carolyn_Bourdeaux",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 GA-7"
+ },
+ "GA-13": {
+  "name": "David Scott",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog Coalition member (Blue Dog PAC site Oct 2018); New Dem",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 GA-13"
+ },
+ "HI-1": {
+  "name": "Ed Case",
+  "ideology": "moderate",
+  "posture": "mixed",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "Former Blue Dog congressman, \"conservative Democrat by Hawaii standards\"; comeback win over Chin and JD-style Ing",
+  "label_source_url": "https://en.wikipedia.org/wiki/Ed_Case",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_1",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 HI-1"
+ },
+ "IA-1": {
+  "name": "Abby Finkenauer",
+  "ideology": "liberal",
+  "posture": "mixed",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "DCCC Red to Blue state rep; campaign centred on working-class roots (daughter of union pipefitter-welder) but conventional party-backed; did not commit on Pelosi pre-election; no left or centrist markers",
+  "label_source_url": "https://awpc.cattcenter.iastate.edu/communication/campaign-speech-aug-9-2018",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 IA-1"
+ },
+ "IA-3": {
+  "name": "Cindy Axne",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Red to Blue businesswoman; beat M4A-running D'Alessandro in primary; backed Medicare buy-in public option; did not commit on Pelosi pre-election",
+  "label_source_url": "https://ballotpedia.org/Iowa%27s_3rd_Congressional_District_election_(June_5,_2018_Democratic_primary)",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 IA-3"
+ },
+ "IL-1": {
+  "name": "Bobby Rush",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 IL-1"
+ },
+ "IL-2": {
+  "name": "Robin Kelly",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 IL-2"
+ },
+ "IL-4": {
+  "name": "Chuy García",
+  "ideology": "left",
+  "posture": "mixed",
+  "archetype": "progressive",
+  "style_confidence": "high",
+  "style_evidence": "Endorsed by Bernie Sanders and Our Revolution (OR page + pre-election wiki); Sanders-aligned 2015 mayoral insurgent; also Gutierrez's chosen successor with establishment backing (Pritzker), hence mixed",
+  "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "progressive",
+  "markers": [
+   "Our Revolution"
+  ],
+  "carried_from": "2018 IL-4"
+ },
+ "IL-5": {
+  "name": "Mike Quigley",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 IL-5"
+ },
+ "IL-6": {
+  "name": "Sean Casten",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "low",
+  "style_evidence": "Red to Blue clean-energy CEO in suburban swing seat; told Indivisible he does not favor Medicare for All (Daily Herald 2018) - only centrist marker; otherwise conventional liberal; borderline liberal",
+  "label_source_url": "https://ballotpedia.org/Illinois%27_6th_Congressional_District_election,_2018",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 IL-6"
+ },
+ "IL-7": {
+  "name": "Danny Davis",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 IL-7"
+ },
+ "IL-9": {
+  "name": "Jan Schakowsky",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 IL-9"
+ },
+ "IL-10": {
+  "name": "Brad Schneider",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog member (listed on Blue Dog site Oct 2018) and New Dem member",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 IL-10"
+ },
+ "IL-11": {
+  "name": "Bill Foster",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 IL-11"
+ },
+ "IL-13": {
+  "name": "Betsy Dirksen Londrigan",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Red to Blue + EMILY's List, endorsed by Durbin/Gillibrand; public option not M4A; would not commit on Pelosi. NOTE: Brand New Congress marker is a false positive - BNC page lists her as having DEFEATED BNC candidate David Gill",
+  "label_source_url": "https://wjbc.com/2018/11/05/if-elected-democratic-hopeful-wants-public-input-before-making-pelosi-speaker-again",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 IL-13"
+ },
+ "IL-14": {
+  "name": "Lauren Underwood",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Red to Blue nurse / former HHS ACA official; campaign centred on defending ACA/pre-existing conditions; no left or centrist markers",
+  "label_source_url": "https://time.com/5442702/lauren-underwood-health-care-illinois-14",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 IL-14"
+ },
+ "IL-17": {
+  "name": "Cheri Bustos",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "New Dem incumbent in Trump-won seat (2016 margin -0.7), ran as pragmatic Heartland/rural-outreach Democrat; from markers + memory",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 IL-17"
+ },
+ "IN-6": {
+  "name": "Jeannine Lee Lake",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Publisher/CEO; no markers; long shot in R+42 open seat; no campaign details found",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Indiana&oldid=866415809",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 IN-6"
+ },
+ "IN-7": {
+  "name": "André Carson",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding); New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 IN-7"
+ },
+ "KS-3": {
+  "name": "Sharice Davids",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Red to Blue/EMILY's List; beat Sanders-backed Brent Welder; called single-payer a long-term goal; no Pelosi pledge. NOTE: BNC marker is a false positive - BNC page lists her as having DEFEATED BNC's Welder",
+  "label_source_url": "https://www.kcur.org/politics-elections-and-government/2018-08-08/democrats-pledge-unity-to-defeat-yoder-in-kansas-3rd-congressional-district",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 KS-3"
+ },
+ "KY-3": {
+  "name": "John Yarmuth",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "CPC member incumbent; conventional party-line liberal; from markers + memory",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 KY-3"
+ },
+ "MA-2": {
+  "name": "Jim McGovern",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 MA-2"
+ },
+ "MA-5": {
+  "name": "Katherine Clark",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 MA-5"
+ },
+ "MA-6": {
+  "name": "Seth Moulton",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "New Dem incumbent in safe seat (rubric: liberal); publicly pushed for new party leadership in 2018, but no firm pre-election pledge confirmed this run; from memory",
+  "label_source_url": "https://en.wikipedia.org/wiki/Seth_Moulton",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 MA-6"
+ },
+ "MA-9": {
+  "name": "Bill Keating",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "New Dem incumbent in safe seat; conventional party-line Democrat; from markers + memory",
+  "label_source_url": "https://en.wikipedia.org/wiki/Bill_Keating_(politician)",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 MA-9"
+ },
+ "MD-2": {
+  "name": "Dutch Ruppersberger",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 MD-2"
+ },
+ "MD-3": {
+  "name": "John Sarbanes",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 MD-3"
+ },
+ "MD-4": {
+  "name": "Anthony Brown",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 MD-4"
+ },
+ "MD-5": {
+  "name": "Steny Hoyer",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 MD-5"
+ },
+ "MD-6": {
+  "name": "David Trone",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Self-funding Total Wine businessman; conventional liberal platform (opioids/mental health); no group markers; from memory + pre-election wiki",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Maryland&oldid=865615686",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 MD-6"
+ },
+ "MD-8": {
+  "name": "Jamie Raskin",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent; CPC member, Our Revolution and PCCC listed (confirmed on archived pages) but conventional institutional profile; 2026 calibration places Raskin as mainstream_liberal",
+  "label_source_url": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "progressive",
+  "markers": [
+   "CPC_member",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "carried_from": "2018 MD-8"
+ },
+ "ME-1": {
+  "name": "Chellie Pingree",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "CPC member incumbent; conventional liberal; from markers + memory",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 ME-1"
+ },
+ "ME-2": {
+  "name": "Jared Golden",
+  "ideology": "moderate",
+  "posture": "populist",
+  "archetype": "center_populist",
+  "style_confidence": "medium",
+  "style_evidence": "Marine vet, working-class populist campaign; pledged to vote against Pelosi (rubric centrist marker) but CPC PAC endorsed and backed moving toward M4A - conflicting; coded center_populist",
+  "label_source_url": "https://www.kaxe.org/2018-10-31/this-maine-district-went-for-obama-then-trump-now-its-a-toss-up",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "left_populist",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 ME-2"
+ },
+ "MI-5": {
+  "name": "Dan Kildee",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent in leadership (chief deputy whip); conventional party-line liberal; from memory",
+  "label_source_url": "https://en.wikipedia.org/wiki/Dan_Kildee",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 MI-5"
+ },
+ "MI-7": {
+  "name": "Gretchen Driskell",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog PAC endorsed (Blue Dog site Oct 2018) + Red to Blue; former state rep/mayor",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 MI-7"
+ },
+ "MI-8": {
+  "name": "Elissa Slotkin",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Red to Blue national-security candidate; on Ballotpedia list of candidates opposing Pelosi for Speaker",
+  "label_source_url": "https://ballotpedia.org/Democratic_candidates_opposing_Nancy_Pelosi_for_Speaker_of_the_House,_2018",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 MI-8"
+ },
+ "MI-9": {
+  "name": "Andy Levin",
+  "ideology": "liberal",
+  "posture": "mixed",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "PCCC endorsed (PCCC page: former union organizer, Employee Free Choice Act architect); but son of retiring incumbent with Kildee/Granholm establishment backing; single progressive-group endorsement",
+  "label_source_url": "http://web.archive.org/web/20181110105324/https://www.boldprogressives.org/candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "PCCC"
+  ],
+  "carried_from": "2018 MI-9"
+ },
+ "MI-11": {
+  "name": "Haley Stevens",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "Red to Blue; Obama auto task force chief of staff; Clinton endorsed; said she would oppose Pelosi as leader (as did all leading primary candidates)",
+  "label_source_url": "https://ballotpedia.org/Michigan%27s_11th_Congressional_District_election_(August_7,_2018_Democratic_primary)",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 MI-11"
+ },
+ "MI-12": {
+  "name": "Debbie Dingell",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 MI-12"
+ },
+ "MI-14": {
+  "name": "Brenda Lawrence",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 MI-14"
+ },
+ "MN-1": {
+  "name": "Dan Feehan",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Red to Blue Army vet and Obama DoD official; dodged Pelosi question; no left or centrist markers found",
+  "label_source_url": "https://www.mprnews.org/story/2017/07/07/iraq-war-vet-to-vie-for-open-minn-congressional-seat",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 MN-1"
+ },
+ "MN-2": {
+  "name": "Angie Craig",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Red to Blue, DFL-endorsed former corporate exec; on the fence about Pelosi; no left or centrist markers",
+  "label_source_url": "https://www.cbsnews.com/minnesota/news/angie-craig-dfl-endorsement-2nd-district/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 MN-2"
+ },
+ "MN-3": {
+  "name": "Dean Phillips",
+  "ideology": "moderate",
+  "posture": "mixed",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "Red to Blue businessman who refused all PAC money as central 'unrig the system' theme (mixed posture); sought a moderate, ticket-splitter profile against Paulsen",
+  "label_source_url": "https://phillipsforcongress.org/updates/0-from-pacs/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 MN-3"
+ },
+ "MN-4": {
+  "name": "Betty McCollum",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 MN-4"
+ },
+ "MN-5": {
+  "name": "Ilhan Omar",
+  "ideology": "left",
+  "posture": "mixed",
+  "archetype": "progressive",
+  "style_confidence": "high",
+  "style_evidence": "Justice Democrats + Our Revolution + PCCC (OR and PCCC pages confirm); left candidate in open seat who also won DFL endorsement, hence mixed",
+  "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "progressive",
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "carried_from": "2018 MN-5"
+ },
+ "MN-7": {
+  "name": "Collin Peterson",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog member (listed on Blue Dog site Oct 2018); long-time Ag committee ranking member, socially conservative",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "carried_from": "2018 MN-7"
+ },
+ "MO-5": {
+  "name": "Emanuel Cleaver",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "CBC incumbent, former CBC chair; conventional party-line liberal; from memory",
+  "label_source_url": "https://en.wikipedia.org/wiki/Emanuel_Cleaver",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_2",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 MO-5"
+ },
+ "NC-1": {
+  "name": "G. K. Butterfield",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NC-1"
+ },
+ "NC-4": {
+  "name": "David Price",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NC-4"
+ },
+ "NC-6": {
+  "name": "Kathy Manning",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog PAC endorsed; NewDem PAC endorsed (Jul 2018); DCCC Red to Blue",
+  "label_source_url": "https://rollcall.com/2018/07/12/new-democrats-pac-endorses-13-more-candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 NC-13"
+ },
+ "NE-2": {
+  "name": "Kara Eastman",
+  "ideology": "left",
+  "posture": "populist",
+  "archetype": "left_populist",
+  "style_confidence": "high",
+  "style_evidence": "Justice Democrats + PCCC + WFP; Medicare for All; insurgent who beat DCCC-backed ex-Rep. Brad Ashford in primary",
+  "label_source_url": "https://www.nbcnews.com/politics/elections/meet-progressive-whose-surprise-win-just-spoiled-establishment-democrats-plans-n874701",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "left_populist",
+  "markers": [
+   "DCCC Red to Blue",
+   "Justice_Democrats_endorsed",
+   "PCCC"
+  ],
+  "carried_from": "2018 NE-2"
+ },
+ "NH-1": {
+  "name": "Chris Pappas",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Establishment-backed (nearly every NH elected Dem); Medicare buy-in not M4A; DCCC Red to Blue; Brand New Congress marker judged a false match",
+  "label_source_url": "https://ballotpedia.org/New_Hampshire%27s_1st_Congressional_District_election_(September_11,_2018_Democratic_primary)",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 NH-1"
+ },
+ "NH-2": {
+  "name": "Annie Kuster",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent New Dem member; conventional party-line Democrat, no explicit centrist branding",
+  "label_source_url": "https://en.wikipedia.org/wiki/Ann_McLane_Kuster",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 NH-2"
+ },
+ "NJ-1": {
+  "name": "Donald Norcross",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding); New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 NJ-1"
+ },
+ "NJ-3": {
+  "name": "Andy Kim",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Former Obama NSC official; DCCC Red to Blue; single PCCC listing; campaign centred on ACA/health care",
+  "label_source_url": "https://www.inquirer.com/philly/news/politics/andy-kim-tom-macarthur-midterms-nj-congress-trump-20180827.html",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue",
+   "PCCC"
+  ],
+  "carried_from": "2018 NJ-3"
+ },
+ "NJ-5": {
+  "name": "Josh Gottheimer",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog member; New Dem member; Problem Solvers co-chair; Blue Dog PAC endorsed",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 NJ-5"
+ },
+ "NJ-6": {
+  "name": "Frank Pallone",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Long-time incumbent; CPC member (plain membership not left); committee ranking member",
+  "label_source_url": "https://en.wikipedia.org/wiki/Frank_Pallone",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 NJ-6"
+ },
+ "NJ-7": {
+  "name": "Tom Malinowski",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Former Asst. Sec. of State; DCCC Red to Blue; NewDem PAC endorsed but no centrist branding; Brand New Congress marker judged a false match",
+  "label_source_url": "https://rollcall.com/2018/07/12/new-democrats-pac-endorses-13-more-candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 NJ-7"
+ },
+ "NJ-8": {
+  "name": "Albio Sires",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NJ-8"
+ },
+ "NJ-9": {
+  "name": "Bill Pascrell",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NJ-9"
+ },
+ "NJ-10": {
+  "name": "Donald Payne Jr.",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NJ-10"
+ },
+ "NJ-11": {
+  "name": "Mikie Sherrill",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog PAC endorsed; NewDem PAC endorsed (Mar 2018); Navy pilot/prosecutor; said she would not back Pelosi",
+  "label_source_url": "https://rollcall.com/2018/03/09/new-democrats-pac-endorses-first-16-candidates-for-2018/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 NJ-11"
+ },
+ "NJ-12": {
+  "name": "Bonnie Watson Coleman",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 NJ-12"
+ },
+ "NM-1": {
+  "name": "Deb Haaland",
+  "ideology": "left",
+  "posture": "mixed",
+  "archetype": "progressive",
+  "style_confidence": "high",
+  "style_evidence": "Our Revolution + PCCC; \"unapologetically progressive\" platform with Medicare for All and federal jobs guarantee; former state party chair (institutional ties)",
+  "label_source_url": "https://ballotpedia.org/New_Mexico%27s_1st_Congressional_District_election_(June_5,_2018_Democratic_primary)",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "progressive",
+  "markers": [
+   "Our Revolution",
+   "PCCC"
+  ],
+  "carried_from": "2018 NM-1"
+ },
+ "NM-2": {
+  "name": "Xochitl Torres Small",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog PAC endorsed; DCCC Red to Blue; water attorney in Trump +11 seat",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NM-2"
+ },
+ "NV-1": {
+  "name": "Dina Titus",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NV-1"
+ },
+ "NV-3": {
+  "name": "Susie Lee",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "NewDem PAC endorsed (Mar 2018); DCCC Red to Blue; measured approach avoiding sweeping progressive proposals",
+  "label_source_url": "https://rollcall.com/2018/03/09/new-democrats-pac-endorses-first-16-candidates-for-2018/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 NV-3"
+ },
+ "NV-4": {
+  "name": "Steven Horsford",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Former U.S. Representative; DCCC Red to Blue; conventional; Brand New Congress marker judged a false match",
+  "label_source_url": "https://en.wikipedia.org/wiki/Steven_Horsford",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 NV-4"
+ },
+ "NY-3": {
+  "name": "Thomas Suozzi",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent; Problem Solvers Caucus member with bipartisan branding",
+  "label_source_url": "https://en.wikipedia.org/wiki/Tom_Suozzi",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NY-3"
+ },
+ "NY-4": {
+  "name": "Kathleen Rice",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent New Dem member in safe seat; conventional",
+  "label_source_url": "https://en.wikipedia.org/wiki/Kathleen_Rice",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 NY-4"
+ },
+ "NY-9": {
+  "name": "Yvette Clarke",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 NY-9"
+ },
+ "NY-10": {
+  "name": "Jerry Nadler",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 NY-10"
+ },
+ "NY-11": {
+  "name": "Max Rose",
+  "ideology": "moderate",
+  "posture": "mixed",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog PAC + NewDem PAC endorsed; pledged not to vote for Pelosi; no-corporate-PAC/lobbyist pledge alongside DCCC Red to Blue backing",
+  "label_source_url": "https://www.cityandstateny.com/articles/politics/campaigns-elections/max-rose-running-congress-can-do-military-veteran.html",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 NY-11"
+ },
+ "NY-12": {
+  "name": "Carolyn Maloney",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 NY-12"
+ },
+ "NY-13": {
+  "name": "Adriano Espaillat",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 NY-13"
+ },
+ "NY-14": {
+  "name": "Alexandria Ocasio-Cortez",
+  "ideology": "left",
+  "posture": "populist",
+  "archetype": "left_populist",
+  "style_confidence": "high",
+  "style_evidence": "Justice Democrats + Brand New Congress + Our Revolution + PCCC; DSA member; working-class insurgent who beat Rep. Joe Crowley",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "left_populist",
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "carried_from": "2018 NY-14"
+ },
+ "NY-18": {
+  "name": "Sean Patrick Maloney",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "low",
+  "style_evidence": "Incumbent New Dem member in Trump-won swing seat; pragmatic/bipartisan profile",
+  "label_source_url": "https://en.wikipedia.org/wiki/Sean_Patrick_Maloney",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 NY-18"
+ },
+ "NY-19": {
+  "name": "Antonio Delgado",
+  "ideology": "moderate",
+  "posture": "mixed",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "Branded himself \"an independent voice in Congress\"; opposed Medicare for All (public option); no-corporate-PAC pledge; DCCC Red to Blue",
+  "label_source_url": "https://www.pressreader.com/usa/the-record-troy-ny/20181031/281625306303184",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 NY-19"
+ },
+ "NY-20": {
+  "name": "Paul Tonko",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Long-time incumbent; conventional party-line liberal",
+  "label_source_url": "https://en.wikipedia.org/wiki/Paul_Tonko",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NY-20"
+ },
+ "NY-21": {
+  "name": "Tedra Cobb",
+  "ideology": "liberal",
+  "posture": "mixed",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Our Revolution + DCCC Red to Blue; wavered on Medicare for All (leaned toward it); ex-county legislator attacking Stefanik as insider",
+  "label_source_url": "https://www.adirondackdailyenterprise.com/news/local-news/2018/10/where-ny-21-candidates-stand-on-health-care",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "progressive",
+  "markers": [
+   "DCCC Red to Blue",
+   "Our Revolution"
+  ],
+  "carried_from": "2018 NY-21"
+ },
+ "NY-22": {
+  "name": "Anthony Brindisi",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog PAC endorsed; NewDem PAC endorsed (Mar 2018); state assemblyman; DCCC Red to Blue",
+  "label_source_url": "https://rollcall.com/2018/03/09/new-democrats-pac-endorses-first-16-candidates-for-2018/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 NY-22"
+ },
+ "NY-23": {
+  "name": "Tracy Mitrano",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Ithaca academic; campaigned on Medicare for All without Sanders/OR/WFP backing; gun-owning Democrat",
+  "label_source_url": "https://oleantimesherald.com/2018/10/11/rep-tom-reed-calls-out-candidate-mitrano-over-support-for-medicare-for-all",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NY-23"
+ },
+ "NY-24": {
+  "name": "Dana Balter",
+  "ideology": "left",
+  "posture": "mixed",
+  "archetype": "progressive",
+  "style_confidence": "medium",
+  "style_evidence": "Our Revolution + PCCC; progressive activist who beat DCCC-backed Juanita Perez Williams 62-38 with local-party support; later Red to Blue",
+  "label_source_url": "https://ballotpedia.org/New_York%27s_24th_Congressional_District_election_(June_26,_2018_Democratic_primary)",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "progressive",
+  "markers": [
+   "DCCC Red to Blue",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "carried_from": "2018 NY-24"
+ },
+ "NY-25": {
+  "name": "Joseph Morelle",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "State Assembly Majority Leader; party-backed open-seat nominee",
+  "label_source_url": "https://en.wikipedia.org/wiki/Joseph_Morelle",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NY-25"
+ },
+ "NY-26": {
+  "name": "Brian Higgins",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 NY-26"
+ },
+ "OH-3": {
+  "name": "Joyce Beatty",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 OH-3"
+ },
+ "OH-9": {
+  "name": "Marcy Kaptur",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 OH-9"
+ },
+ "OH-11": {
+  "name": "Marcia Fudge",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 OH-11"
+ },
+ "OH-13": {
+  "name": "Tim Ryan",
+  "ideology": "liberal",
+  "posture": "mixed",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent; blue-collar Youngstown profile and 2016 challenge to Pelosi on working-class message, otherwise conventional",
+  "label_source_url": "https://en.wikipedia.org/wiki/Tim_Ryan_(Ohio_politician)",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 OH-13"
+ },
+ "OK-5": {
+  "name": "Kendra Horn",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "Ran as a centrist; did not support Medicare for All; did not commit to Pelosi; EMILY's List backed",
+  "label_source_url": "https://www.thenation.com/article/politics/kendra-horn-oklahoma-congress/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 OK-5"
+ },
+ "OR-1": {
+  "name": "Suzanne Bonamici",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 OR-1"
+ },
+ "OR-3": {
+  "name": "Earl Blumenauer",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 OR-3"
+ },
+ "OR-4": {
+  "name": "Peter DeFazio",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Long-time incumbent; CPC founding member (plain CPC not left); committee ranking member",
+  "label_source_url": "https://en.wikipedia.org/wiki/Peter_DeFazio",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 OR-4"
+ },
+ "OR-5": {
+  "name": "Kurt Schrader",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog member; New Dem member; Blue Dog PAC endorsed",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 OR-5"
+ },
+ "PA-2": {
+  "name": "Brendan Boyle",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 PA-2"
+ },
+ "PA-3": {
+  "name": "Dwight Evans",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 PA-3"
+ },
+ "PA-4": {
+  "name": "Madeleine Dean",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "State representative; party-backed open-seat nominee; conventional",
+  "label_source_url": "https://en.wikipedia.org/wiki/Madeleine_Dean",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 PA-4"
+ },
+ "PA-5": {
+  "name": "Mary Gay Scanlon",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Attorney/school board; party-backed open-seat nominee; conventional",
+  "label_source_url": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 PA-5"
+ },
+ "PA-6": {
+  "name": "Chrissy Houlahan",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Air Force veteran/business executive; NewDem PAC endorsed (Mar 2018) but no explicit centrist branding found; DCCC Red to Blue; Clinton +10 seat",
+  "label_source_url": "https://rollcall.com/2018/03/09/new-democrats-pac-endorses-first-16-candidates-for-2018/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 PA-6"
+ },
+ "PA-7": {
+  "name": "Susan Wild",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Lehigh County commissioner; DCCC Red to Blue; beat conservative and Sanders-backed rivals from the centre-left",
+  "label_source_url": "https://en.wikipedia.org/wiki/Susan_Wild",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 PA-7"
+ },
+ "PA-8": {
+  "name": "Matt Cartwright",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent CPC member (plain membership not left) in Trump-won seat; conventional",
+  "label_source_url": "https://en.wikipedia.org/wiki/Matt_Cartwright",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 PA-8"
+ },
+ "PA-17": {
+  "name": "Conor Lamb",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "Incumbent (2018 special winner) who ran as moderate: opposed Pelosi as leader, pro-gun-rights stance",
+  "label_source_url": "https://en.wikipedia.org/wiki/Conor_Lamb",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_3",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 PA-17"
+ },
+ "SC-1": {
+  "name": "Joe Cunningham",
+  "ideology": "moderate",
+  "posture": "mixed",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Pledged from campaign start not to back Pelosi; pro-Second Amendment; refused corporate PAC money; offshore-drilling-centred cross-party \"Lowcountry over party\" campaign; DCCC Red to Blue",
+  "label_source_url": "https://www.eenews.net/articles/offshore-drilling-fears-could-turn-trump-district-blue/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 SC-1"
+ },
+ "SC-6": {
+  "name": "Jim Clyburn",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 SC-6"
+ },
+ "TN-2": {
+  "name": "Renee Hoyos",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Environmental-advocacy director, long-shot open-seat nominee; no markers found",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Tennessee&oldid=861268695",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 TN-2"
+ },
+ "TN-9": {
+  "name": "Steve Cohen",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 TN-9"
+ },
+ "TX-7": {
+  "name": "Lizzie Fletcher",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "medium",
+  "style_evidence": "Party-preferred business attorney who beat left insurgent Laura Moser after DCCC oppo dump on Moser; EMILY's List, DCCC Red to Blue; swing-seat centrist profile (no single explicit centrist quote found)",
+  "label_source_url": "https://www.texastribune.org/2018/04/26/texas-congress-district-2018-election-laura-moser-lizzie-pannill-fletc/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 TX-7"
+ },
+ "TX-10": {
+  "name": "Mike Siegel",
+  "ideology": "left",
+  "posture": "mixed",
+  "archetype": "progressive",
+  "style_confidence": "medium",
+  "style_evidence": "Our Revolution endorsed; Medicare for All as centrepiece plus Green New Deal; \"Bernie Democrat\"; civil-rights lawyer, refused corporate PAC money",
+  "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "progressive",
+  "markers": [
+   "Our Revolution"
+  ],
+  "carried_from": "2018 TX-10"
+ },
+ "TX-14": {
+  "name": "Adrienne Bell",
+  "ideology": "left",
+  "posture": "populist",
+  "archetype": "left_populist",
+  "style_confidence": "high",
+  "style_evidence": "Justice Democrats, Our Revolution and Brand New Congress; teacher and organizer, long-shot challenger",
+  "label_source_url": "http://web.archive.org/web/20181109213119/https://brandnewcongress.org/candidates/",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "left_populist",
+  "markers": [
+   "Justice_Democrats_endorsed",
+   "Our Revolution"
+  ],
+  "carried_from": "2018 TX-14"
+ },
+ "TX-15": {
+  "name": "Vicente González",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog Coalition member and Blue Dog PAC endorsed incumbent",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "carried_from": "2018 TX-15"
+ },
+ "TX-16": {
+  "name": "Veronica Escobar",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Former county judge and front-runner; Our Revolution (El Paso) and PCCC plus EMILY's List, O'Rourke, Latino Victory; conventional institutional profile despite progressive endorsements",
+  "label_source_url": "https://www.theprospectordaily.com/2018/01/20/our-revolution-endorses-veronica-escobar-for-congressional-seat",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "progressive",
+  "markers": [
+   "Our Revolution",
+   "PCCC"
+  ],
+  "carried_from": "2018 TX-16"
+ },
+ "TX-17": {
+  "name": "Rick Kennedy",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Long-shot challenger (software developer); no markers found",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Texas&oldid=867469715",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 TX-17"
+ },
+ "TX-18": {
+  "name": "Sheila Jackson Lee",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 TX-18"
+ },
+ "TX-22": {
+  "name": "Sri Preston Kulkarni",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "DCCC Red to Blue recruit (former Foreign Service officer); no left or centrist markers",
+  "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 TX-22"
+ },
+ "TX-23": {
+  "name": "Gina Ortiz Jones",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "DCCC Red to Blue, EMILY's List; beat BNC/JD insurgent Rick Trevino in runoff (BNC marker is a false match)",
+  "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 TX-23"
+ },
+ "TX-25": {
+  "name": "Julie Oliver",
+  "ideology": "liberal",
+  "posture": "populist",
+  "archetype": "left_populist",
+  "style_confidence": "medium",
+  "style_evidence": "Swore off all PAC money; up-from-poverty teen-mom story and advocate-for-working-people framing; supports Medicare for All but no Sanders/OR/JD backing marker found",
+  "label_source_url": "https://www.dailykos.com/stories/2018/9/30/1800224/-This-is-one-of-the-most-powerful-and-inspiring-campaign-ads-and-candidates-of-2018",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "left_populist",
+  "markers": [],
+  "carried_from": "2018 TX-25"
+ },
+ "TX-29": {
+  "name": "Sylvia Garcia",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "State senator, party-backed open-seat nominee in safe seat; conventional profile",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Texas&oldid=867469715",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 TX-29"
+ },
+ "TX-32": {
+  "name": "Colin Allred",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "DCCC Red to Blue recruit (former NFL player, civil-rights lawyer); no left or explicit centrist markers",
+  "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 TX-32"
+ },
+ "TX-33": {
+  "name": "Marc Veasey",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 TX-33"
+ },
+ "TX-34": {
+  "name": "Filemon Vela Jr.",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog Coalition member and Blue Dog PAC endorsed incumbent",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "Blue_Dog_member"
+  ],
+  "carried_from": "2018 TX-34"
+ },
+ "TX-35": {
+  "name": "Lloyd Doggett",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 TX-35"
+ },
+ "UT-4": {
+  "name": "Ben McAdams",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog PAC endorsed, DCCC Red to Blue; county mayor running as bipartisan centrist who said he would not back Pelosi",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 UT-4"
+ },
+ "VA-2": {
+  "name": "Elaine Luria",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Opposed single government health program (\"Medicare for all\"), backed public option/Medicare buy-in at 50-55; Navy commander; dodged Pelosi question; DCCC Red to Blue",
+  "label_source_url": "https://insurancenewsnet.com/oarticle/elaine-luria-and-scott-taylor-are-locked-in-a-close-race-heres-where-they-stand-on-key-issues",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 VA-2"
+ },
+ "VA-4": {
+  "name": "Donald McEachin",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "low",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked.",
+  "label_source_url": null,
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [],
+  "carried_from": "2018 VA-4"
+ },
+ "VA-7": {
+  "name": "Abigail Spanberger",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "Blue Dog PAC endorsed, DCCC Red to Blue; former CIA officer running as centrist frontliner",
+  "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "moderate",
+  "markers": [
+   "Blue Dog PAC (endorsed)",
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 VA-7"
+ },
+ "VA-8": {
+  "name": "Don Beyer",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding); New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "CPC_member",
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 VA-8"
+ },
+ "VA-10": {
+  "name": "Jennifer Wexton",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "State senator, DCCC Red to Blue; conventional party-backed nominee",
+  "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 VA-10"
+ },
+ "VA-11": {
+  "name": "Gerry Connolly",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: New Democrat Coalition member in a safe seat (= liberal by rubric)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 VA-11"
+ },
+ "VT-AL": {
+  "name": "Peter Welch",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 VT-AL"
+ },
+ "WA-1": {
+  "name": "Suzan DelBene",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "New Democrat Coalition member in a safe seat (rubric: plain New Dem in safe seat -> liberal)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 WA-1"
+ },
+ "WA-3": {
+  "name": "Carolyn Long",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "DCCC Red to Blue professor; BNC marker is a false match (BNC page lists Dorothy Gasque, whom Long beat in the top-two primary); no left/centrist markers found",
+  "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 WA-3"
+ },
+ "WA-6": {
+  "name": "Derek Kilmer",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "New Democrat Coalition member in a safe seat (rubric: plain New Dem in safe seat -> liberal)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 WA-6"
+ },
+ "WA-7": {
+  "name": "Pramila Jayapal",
+  "ideology": "left",
+  "posture": "establishment",
+  "archetype": "progressive",
+  "style_confidence": "high",
+  "style_evidence": "CPC leader, Justice Democrats, Our Revolution and PCCC endorsed incumbent; rubric names Jayapal as prominently left",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "progressive",
+  "markers": [
+   "CPC_member",
+   "Justice_Democrats_endorsed",
+   "Our Revolution",
+   "PCCC"
+  ],
+  "carried_from": "2018 WA-7"
+ },
+ "WA-8": {
+  "name": "Kim Schrier",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Pediatrician, DCCC Red to Blue and EMILY's List; no left or centrist markers",
+  "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "DCCC Red to Blue"
+  ],
+  "carried_from": "2018 WA-8"
+ },
+ "WI-3": {
+  "name": "Ron Kind",
+  "ideology": "moderate",
+  "posture": "establishment",
+  "archetype": "moderate",
+  "style_confidence": "high",
+  "style_evidence": "New Democrat Coalition member in a Trump-won swing seat (rubric: New Dem swing-seat centrist -> moderate)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+  "verified_fetch": false,
+  "label_tier": "carried_from_2018",
+  "coder": "batch_2018_4",
+  "rule_archetype": "moderate",
+  "markers": [
+   "New_Dem_member"
+  ],
+  "carried_from": "2018 WI-3"
+ },
+ "WI-4": {
+  "name": "Gwen Moore",
+  "ideology": "liberal",
+  "posture": "establishment",
+  "archetype": "mainstream_liberal",
+  "style_confidence": "medium",
+  "style_evidence": "Rule label, safe-seat incumbent with no left/moderate marker in the pre-election caucus and group lists checked: CPC member (plain CPC membership = liberal, as in 2026 coding)",
+  "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+  "verified_fetch": true,
+  "label_tier": "carried_from_2018",
+  "coder": "rule",
+  "rule_archetype": "mainstream_liberal",
+  "markers": [
+   "CPC_member"
+  ],
+  "carried_from": "2018 WI-4"
+ }
+}

@@ -1,0 +1,2809 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "scope": "Pennsylvania (17), Maryland (8), Massachusetts (9), Connecticut (5), Maine (2), New Hampshire (2), Rhode Island (2), Vermont (1), Delaware (1)",
+ "expected_rows": 47,
+ "races": [
+  {
+   "id": "PA-1",
+   "office": "House",
+   "state": "PA",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bob Harvie",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Party-establishment pick: DCCC Red to Blue, Shapiro, Dean, Lamb; touted bipartisan county record; ran on costs (minimum wage, unions, repealing tariffs); did not back Medicare for All, unlike primary rival Simonelli.",
+    "background": "Bucks County commissioner chair; former social studies teacher",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Lucia Simonelli 65.1-34.9; Simonelli (M4A, Indivisible, Track AIPAC) rejected centrist positioning."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Brian Fitzpatrick",
+    "incumbent": true,
+    "style": "moderate",
+    "quality_flags": [
+     "incumbent",
+     "problem_solvers_caucus"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.7,
+    "rep_pct": 47.3,
+    "other_pct": 0.0,
+    "margin": 5.4,
+    "pct_expected_vote_counted": 98.4,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": 0.32,
+    "lines": "2024_same",
+    "house2024_margin": -12.8,
+    "prev_seat_margin": -12.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 5.08,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://whyy.org/articles/election-2026-pennsylvania-bucks-county-1st-congressional-district-harvie-simonelli/",
+    "https://www.nbcnews.com/politics/2026-elections/house-results"
+   ],
+   "notes": "Dem flip of the only Harris-won (by 0.3) GOP-held seat in PA; Fitzpatrick had voted against the One Big Beautiful Bill Act. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-2",
+   "office": "House",
+   "state": "PA",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Brendan Boyle",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of both Congressional Progressive Caucus and New Democrat Coalition; House Budget ranking Democrat; party-line.",
+    "background": "Incumbent since 2015; former state representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jessica Arriaga",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 80.7,
+    "rep_pct": 19.3,
+    "other_pct": 0.0,
+    "margin": 61.4,
+    "pct_expected_vote_counted": 97.9,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 35.74,
+    "lines": "2024_same",
+    "house2024_margin": 43.0,
+    "prev_seat_margin": 43.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 25.66,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Brendan_Boyle"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-3",
+   "office": "House",
+   "state": "PA",
+   "district": 3,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chris Rabb",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Self-described democratic socialist; endorsed by DSA, Justice Democrats, WFP, Our Revolution, Sunrise, CPC PAC, AOC, Omar, Tlaib; called Gaza war a genocide; ran as most left-wing candidate against party-machine rivals.",
+    "background": "State representative (200th district) since 2017",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Open seat (Evans retired). Rabb 44.6, Sharif Street (ex-state party chair) 29.3, Ala Stanford (Evans/314 Action-backed) 24.0."
+   },
+   "alt_dem": null,
+   "rep": null,
+   "result": {
+    "dem_pct": 93.6,
+    "rep_pct": null,
+    "other_pct": 6.4,
+    "margin": null,
+    "pct_expected_vote_counted": 97.7,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 77.32,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Chris_Rabb",
+    "https://www.jta.org/2026/05/19/politics/with-aoc-backing-and-anti-israel-message-chris-rabb-vies-for-open-house-seat-in-philadelphia"
+   ],
+   "notes": "No Republican nominee; Rabb vs independent Dennis Mahoney, so margin left null. 2024: Evans unopposed. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-4",
+   "office": "House",
+   "state": "PA",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Madeleine Dean",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of both Congressional Progressive Caucus and New Democrat Coalition; endorsed establishment candidates (Harvie, Stanford, Brooks) in 2026 primaries.",
+    "background": "Incumbent since 2019; former state representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Aurora Stuski",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 67.1,
+    "rep_pct": 32.9,
+    "other_pct": 0.0,
+    "margin": 34.2,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 15.8,
+    "lines": "2024_same",
+    "house2024_margin": 18.2,
+    "prev_seat_margin": 18.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.4,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Madeleine_Dean"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-5",
+   "office": "House",
+   "state": "PA",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Mary Gay Scanlon",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of Congressional Progressive Caucus and New Democrat Coalition.",
+    "background": "Incumbent since 2018; former pro bono lawyer",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Nicholas Manganaro",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 72.1,
+    "rep_pct": 27.9,
+    "other_pct": 0.0,
+    "margin": 44.2,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 28.63,
+    "lines": "2024_same",
+    "house2024_margin": 30.6,
+    "prev_seat_margin": 30.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.57,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate."
+  },
+  {
+   "id": "PA-6",
+   "office": "House",
+   "state": "PA",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chrissy Houlahan",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Member of New Democrat Coalition and bipartisan Problem Solvers Caucus; Air Force veteran/engineer; DMFI-endorsed; backed Ala Stanford over leftist Rabb in PA-3.",
+    "background": "Incumbent since 2019; Air Force veteran, engineer, businesswoman",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Marty Young",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 64.3,
+    "rep_pct": 35.7,
+    "other_pct": 0.0,
+    "margin": 28.6,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 11.41,
+    "lines": "2024_same",
+    "house2024_margin": 12.4,
+    "prev_seat_margin": 12.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.19,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Chrissy_Houlahan",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-6-results"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-7",
+   "office": "House",
+   "state": "PA",
+   "district": 7,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bob Brooks",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Firefighter-union president with working-class pitch ('calloused hands', fear of foreclosure); cross-factional backing: Sanders, Warren, WFP, Our Revolution, CPC PAC plus Shapiro, Buttigieg, Blue Dog PAC, DCCC Red to Blue.",
+    "background": "President, Pennsylvania Professional Firefighters Association; former Bethlehem firefighter",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 4-way primary with 41.0 over ex-prosecutor Ryan Crosswell 21.3, Lamont McClure 19.9, Carol Obando-Derstine 17.8."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ryan Mackenzie",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "trump_endorsed"
+    ]
+   },
+   "result": {
+    "dem_pct": 56.1,
+    "rep_pct": 43.9,
+    "other_pct": 0.0,
+    "margin": 12.2,
+    "pct_expected_vote_counted": 98.0,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -3.2,
+    "lines": "2024_same",
+    "house2024_margin": -1.0,
+    "prev_seat_margin": -1.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.4,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://www.inquirer.com/politics/bob-brooks-lehigh-valley-joins-democratic-primary-20250826.html",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-7-results",
+    "https://www.nbcnews.com/politics/2026-elections/house-results"
+   ],
+   "notes": "Dem flip. Possible center/left-populist case: labor biography plus Sanders endorsement, but establishment backing too, so posture coded mixed. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-8",
+   "office": "House",
+   "state": "PA",
+   "district": 8,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Paige Cognetti",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Won Scranton mayoralty as independent (2019) after calling party caucus undemocratic; anti-corruption town hall with Sen. Mark Kelly; endorsed by New Democrat Coalition, WelcomePAC, DMFI, EMILYs List, DCCC Red to Blue.",
+    "background": "Mayor of Scranton since 2020; former Treasury official",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed in primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rob Bresnahan",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "scandal"
+    ]
+   },
+   "result": {
+    "dem_pct": 54.4,
+    "rep_pct": 45.6,
+    "other_pct": 0.0,
+    "margin": 8.8,
+    "pct_expected_vote_counted": 98.2,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -8.5,
+    "lines": "2024_same",
+    "house2024_margin": -1.6,
+    "prev_seat_margin": -1.6,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.3,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Paige_Cognetti",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-8-results",
+    "https://www.nbcnews.com/politics/2026-elections/house-results"
+   ],
+   "notes": "Dem flip. Bresnahan flagged for heavy personal stock trading (626 trades by Aug 2025) after campaigning on a trading ban. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-9",
+   "office": "House",
+   "state": "PA",
+   "district": 9,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rachel Wallace",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus record or notable factional endorsements found in sources checked; unopposed primary. Defaulted to mainstream_liberal.",
+    "background": "Not researched",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Dan Meuser",
+    "incumbent": true,
+    "style": "unclassified",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 38.3,
+    "rep_pct": 61.7,
+    "other_pct": 0.0,
+    "margin": -23.4,
+    "pct_expected_vote_counted": 97.1,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -37.94,
+    "lines": "2024_same",
+    "house2024_margin": -41.0,
+    "prev_seat_margin": -41.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.54,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-9-results"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-10",
+   "office": "House",
+   "state": "PA",
+   "district": 10,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Janelle Stelson",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Ex-WGAL anchor billing herself the 'trusted, nonpartisan voice'; ran on centrist platform; New Dem Action Fund and WelcomePAC endorsed; launched 'Republicans for Janelle'; Shapiro-backed.",
+    "background": "Former WGAL news anchor; 2024 nominee for this seat",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Dauphin County commissioner Justin Douglas 67.4-32.6; ideological framing of that contest not verified."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Scott Perry",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent",
+     "freedom_caucus",
+     "2020_election_overturn_efforts"
+    ]
+   },
+   "result": {
+    "dem_pct": 55,
+    "rep_pct": 45,
+    "other_pct": 0.0,
+    "margin": 10,
+    "pct_expected_vote_counted": 98.9,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -5.23,
+    "lines": "2024_same",
+    "house2024_margin": -1.2,
+    "prev_seat_margin": -1.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.23,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Janelle_Stelson",
+    "https://www.welcomestack.org/p/janelle-stelson-is-back-to-finish",
+    "https://newdemactionfund.com/press-releases/2025/7/14/new-dems-endorse-christina-bohannan-rebecca-cooke-and-janelle-stelson-in-first-endorsement-slate-for-2026-midterms",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-10-results",
+    "https://www.nbcnews.com/politics/2026-elections/house-results"
+   ],
+   "notes": "Dem flip; rematch of 2024 (Perry +1.2). Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-11",
+   "office": "House",
+   "state": "PA",
+   "district": 11,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Nancy Mannion",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus record or notable factional endorsements found in sources checked; unopposed primary. Defaulted to mainstream_liberal.",
+    "background": "Not researched",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Lloyd Smucker",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "main_street_partnership"
+    ]
+   },
+   "result": {
+    "dem_pct": 44.5,
+    "rep_pct": 55.5,
+    "other_pct": 0.0,
+    "margin": -11.0,
+    "pct_expected_vote_counted": 98.5,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -21.36,
+    "lines": "2024_same",
+    "house2024_margin": -25.8,
+    "prev_seat_margin": -25.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.36,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate."
+  },
+  {
+   "id": "PA-12",
+   "office": "House",
+   "state": "PA",
+   "district": 12,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Summer Lee",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Squad member and CPC; endorsed by Justice Democrats, PA Working Families Party, PDA, Track AIPAC; first elected 2022 as left insurgent.",
+    "background": "Incumbent since 2023; former state representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat William Parker 81.2-18.8."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "James Hayes",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.4,
+    "rep_pct": 34.6,
+    "other_pct": 0.0,
+    "margin": 30.8,
+    "pct_expected_vote_counted": 98.7,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 19.19,
+    "lines": "2024_same",
+    "house2024_margin": 12.8,
+    "prev_seat_margin": 12.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.61,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Summer_Lee",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-12-results"
+   ],
+   "notes": "Rematch of 2024 (Lee +12.8). Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "PA-13",
+   "office": "House",
+   "state": "PA",
+   "district": 13,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Beth Farnham",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus record or notable factional endorsements found in sources checked; unopposed primary. Defaulted to mainstream_liberal.",
+    "background": "2024 nominee for this seat",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "John Joyce",
+    "incumbent": true,
+    "style": "unclassified",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 32.4,
+    "rep_pct": 67.6,
+    "other_pct": 0.0,
+    "margin": -35.2,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -45.54,
+    "lines": "2024_same",
+    "house2024_margin": -48.4,
+    "prev_seat_margin": -48.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.34,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate."
+  },
+  {
+   "id": "PA-14",
+   "office": "House",
+   "state": "PA",
+   "district": 14,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Alan Bradstock",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus record or notable factional endorsements found in sources checked; unopposed primary. Defaulted to mainstream_liberal.",
+    "background": "Not researched",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Guy Reschenthaler",
+    "incumbent": true,
+    "style": "unclassified",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 42.4,
+    "rep_pct": 57.6,
+    "other_pct": 0.0,
+    "margin": -15.2,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -33.36,
+    "lines": "2024_same",
+    "house2024_margin": -33.2,
+    "prev_seat_margin": -33.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.16,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate."
+  },
+  {
+   "id": "PA-15",
+   "office": "House",
+   "state": "PA",
+   "district": 15,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ray Bilger",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus record or notable factional endorsements found in sources checked; unopposed primary. Defaulted to mainstream_liberal.",
+    "background": "Not researched",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Glenn Thompson",
+    "incumbent": true,
+    "style": "unclassified",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 36.1,
+    "rep_pct": 63.9,
+    "other_pct": 0.0,
+    "margin": -27.8,
+    "pct_expected_vote_counted": 99.0,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -37.96,
+    "lines": "2024_same",
+    "house2024_margin": -43.0,
+    "prev_seat_margin": -43.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.16,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate."
+  },
+  {
+   "id": "PA-16",
+   "office": "House",
+   "state": "PA",
+   "district": 16,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Justin Wagner",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "No caucus record or notable factional endorsements found in sources checked; unopposed primary. Defaulted to mainstream_liberal.",
+    "background": "Not researched",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Kelly",
+    "incumbent": true,
+    "style": "unclassified",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 46.1,
+    "rep_pct": 53.9,
+    "other_pct": 0.0,
+    "margin": -7.8,
+    "pct_expected_vote_counted": 98.2,
+    "called": "R",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -22.77,
+    "lines": "2024_same",
+    "house2024_margin": -27.4,
+    "prev_seat_margin": -27.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.97,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania"
+   ],
+   "notes": "Large D overperformance in a safe R seat (Kelly 53.9). Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate."
+  },
+  {
+   "id": "PA-17",
+   "office": "House",
+   "state": "PA",
+   "district": 17,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chris Deluzio",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "CPC deputy whip and Labor Caucus member; described as progressive; pro-union, Rail Safety Act; endorsed Brooks, Harvie, Stelson, Cognetti; not an insurgent.",
+    "background": "Incumbent since 2023; Navy veteran, voting-rights lawyer",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tony Guy",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.8,
+    "rep_pct": 37.2,
+    "other_pct": 0.0,
+    "margin": 25.6,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 5.5,
+    "lines": "2024_same",
+    "house2024_margin": 7.8,
+    "prev_seat_margin": 7.8,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 20.1,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/Chris_Deluzio",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-17-results"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "MD-1",
+   "office": "House",
+   "state": "MD",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dan Schwartz",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "First-time candidate, self-styled 'consumer watchdog' on 'Taking on Corruption' platform vs 'MAGA extremists'; endorsed by Gov. Wes Moore and ex-GOP Rep. Wayne Gilchrest.",
+    "background": "Consumer-protection advocate working with financial regulators 14+ years",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Randi White 46.3-36.7 in multi-candidate primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Andy Harris",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent",
+     "freedom_caucus_chair"
+    ]
+   },
+   "result": {
+    "dem_pct": 44.2,
+    "rep_pct": 55.8,
+    "other_pct": 0.0,
+    "margin": -11.6,
+    "pct_expected_vote_counted": 83,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -16.91,
+    "lines": "2024_same",
+    "house2024_margin": -22.04,
+    "prev_seat_margin": -22.04,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 5.31,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maryland-house-results",
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4.html",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://schwartzforcongress.com/"
+   ],
+   "notes": "MD SBE page (refreshed 11/04 09:21 ET) lists provisional ballots as not reported; mail ballots still being counted. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: shares consistent with MD SBE unofficial totals refreshed 11/04 09:21 ET (shares of listed candidates excluding write-ins).",
+   "verified": true
+  },
+  {
+   "id": "MD-2",
+   "office": "House",
+   "state": "MD",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Johnny Olszewski",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition and Labor Caucus; ex-Baltimore County executive who repositioned from 'progressive Democrat' to a bipartisanship message.",
+    "background": "Incumbent since 2025; former Baltimore County executive",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Dave Wallace",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": [
+     "perennial_candidate"
+    ]
+   },
+   "result": {
+    "dem_pct": 61.6,
+    "rep_pct": 38.4,
+    "other_pct": 0.0,
+    "margin": 23.2,
+    "pct_expected_vote_counted": 77.6,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 18.46,
+    "lines": "2024_same",
+    "house2024_margin": 18.64,
+    "prev_seat_margin": 18.64,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 4.74,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maryland-house-results",
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4.html",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://en.wikipedia.org/wiki/Johnny_Olszewski"
+   ],
+   "notes": "MD SBE page (refreshed 11/04 09:21 ET) lists provisional ballots as not reported; mail ballots still being counted. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: shares consistent with MD SBE unofficial totals refreshed 11/04 09:21 ET (shares of listed candidates excluding write-ins).",
+   "verified": true
+  },
+  {
+   "id": "MD-3",
+   "office": "House",
+   "state": "MD",
+   "district": 3,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sarah Elfreth",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition and Labor Caucus member.",
+    "background": "Incumbent since 2025; former state senator",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Berney Flowers",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.4,
+    "rep_pct": 34.6,
+    "other_pct": 0.0,
+    "margin": 30.8,
+    "pct_expected_vote_counted": 81.5,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 23.76,
+    "lines": "2024_same",
+    "house2024_margin": 21.42,
+    "prev_seat_margin": 21.42,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 7.04,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maryland-house-results",
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4.html",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://en.wikipedia.org/wiki/Sarah_Elfreth"
+   ],
+   "notes": "MD SBE page (refreshed 11/04 09:21 ET) lists provisional ballots as not reported; mail ballots still being counted. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: shares consistent with MD SBE unofficial totals refreshed 11/04 09:21 ET (shares of listed candidates excluding write-ins).",
+   "verified": true
+  },
+  {
+   "id": "MD-4",
+   "office": "House",
+   "state": "MD",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Glenn Ivey",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Black Caucus and New Democrat Coalition member.",
+    "background": "Incumbent since 2023; former Prince George's County state's attorney",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "George McDermott",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 89.1,
+    "rep_pct": 6.4,
+    "other_pct": 4.5,
+    "margin": 82.7,
+    "pct_expected_vote_counted": 73.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 73.62,
+    "lines": "2024_same",
+    "house2024_margin": 77.18,
+    "prev_seat_margin": 77.18,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.08,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maryland-house-results",
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4.html",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://en.wikipedia.org/wiki/Glenn_Ivey"
+   ],
+   "notes": "MD SBE page (refreshed 11/04 09:21 ET) lists provisional ballots as not reported; mail ballots still being counted. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: shares consistent with MD SBE unofficial totals refreshed 11/04 09:21 ET (shares of listed candidates excluding write-ins).",
+   "verified": true
+  },
+  {
+   "id": "MD-5",
+   "office": "House",
+   "state": "MD",
+   "district": 5,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Adrian Boafo",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Backed by retiring Hoyer ($500K via Ameripac), Gov. Moore, Sen. Alsobrooks; AIPAC's UDP and crypto PAC spent for him; supports Medicare for All with a private option, universal childcare.",
+    "background": "Maryland state delegate; former Hoyer campaign manager and Oracle lobbyist",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Open seat (Hoyer retired). Won crowded primary with 32.7."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chris Chaffee",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": [
+     "perennial_candidate"
+    ]
+   },
+   "result": {
+    "dem_pct": 68.9,
+    "rep_pct": 31.1,
+    "other_pct": 0.0,
+    "margin": 37.8,
+    "pct_expected_vote_counted": 81.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 33.29,
+    "lines": "2024_same",
+    "house2024_margin": 35.74,
+    "prev_seat_margin": 35.74,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 4.51,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maryland-house-results",
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4.html",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://en.wikipedia.org/wiki/Adrian_Boafo"
+   ],
+   "notes": "MD SBE page (refreshed 11/04 09:21 ET) lists provisional ballots as not reported; mail ballots still being counted. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: shares consistent with MD SBE unofficial totals refreshed 11/04 09:21 ET (shares of listed candidates excluding write-ins).",
+   "verified": true
+  },
+  {
+   "id": "MD-6",
+   "office": "House",
+   "state": "MD",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "April McClain Delaney",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition; campaigned as 'bipartisan problem solver'; Fox described her as centrist; endorsed by NewDem Action Fund, U.S. Chamber of Commerce, AIPAC; stops short of Medicare for All.",
+    "background": "Incumbent since 2025; former Commerce Dept. official, media advocate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat predecessor David Trone (self-funder) 44.0-37.0; contest was not primarily ideological."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Robin Ficker",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "perennial_candidate",
+     "scandal"
+    ]
+   },
+   "result": {
+    "dem_pct": 56.4,
+    "rep_pct": 40.9,
+    "other_pct": 2.7,
+    "margin": 15.5,
+    "pct_expected_vote_counted": 82,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 5.77,
+    "lines": "2024_same",
+    "house2024_margin": 6.33,
+    "prev_seat_margin": 6.33,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.73,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maryland-house-results",
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4.html",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://en.wikipedia.org/wiki/April_McClain_Delaney"
+   ],
+   "notes": "Ficker: disbarred former attorney and perennial candidate who aligned with Trump against Hogan in 2022. MD SBE page (refreshed 11/04 09:21 ET) lists provisional ballots as not reported; mail ballots still being counted. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: shares consistent with MD SBE unofficial totals refreshed 11/04 09:21 ET (shares of listed candidates excluding write-ins).",
+   "verified": true
+  },
+  {
+   "id": "MD-7",
+   "office": "House",
+   "state": "MD",
+   "district": 7,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Kweisi Mfume",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Black Caucus and Congressional Progressive Caucus member.",
+    "background": "Incumbent since 2020; former NAACP president",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Mark Conway 70.1-24.5."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Scott Collier",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 83.4,
+    "rep_pct": 16.6,
+    "other_pct": 0.0,
+    "margin": 66.8,
+    "pct_expected_vote_counted": 68.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 58.94,
+    "lines": "2024_same",
+    "house2024_margin": 63.09,
+    "prev_seat_margin": 63.09,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 7.86,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maryland-house-results",
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4.html",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://en.wikipedia.org/wiki/Kweisi_Mfume"
+   ],
+   "notes": "MD SBE page (refreshed 11/04 09:21 ET) lists provisional ballots as not reported; mail ballots still being counted. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: shares consistent with MD SBE unofficial totals refreshed 11/04 09:21 ET (shares of listed candidates excluding write-ins).",
+   "verified": true
+  },
+  {
+   "id": "MD-8",
+   "office": "House",
+   "state": "MD",
+   "district": 8,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jamie Raskin",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Progressive Caucus member; Judiciary ranking Democrat.",
+    "background": "Incumbent since 2017; constitutional law professor",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Cheryl Riley",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 82.7,
+    "rep_pct": 15.6,
+    "other_pct": 1.7,
+    "margin": 67.1,
+    "pct_expected_vote_counted": 75.3,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 56.45,
+    "lines": "2024_same",
+    "house2024_margin": 56.34,
+    "prev_seat_margin": 56.34,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.65,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maryland-house-results",
+    "https://elections.maryland.gov/elections/2026/general_results/gen_results_2026_4.html",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://en.wikipedia.org/wiki/Jamie_Raskin"
+   ],
+   "notes": "MD SBE page (refreshed 11/04 09:21 ET) lists provisional ballots as not reported; mail ballots still being counted. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: shares consistent with MD SBE unofficial totals refreshed 11/04 09:21 ET (shares of listed candidates excluding write-ins).",
+   "verified": true
+  },
+  {
+   "id": "MA-1",
+   "office": "House",
+   "state": "MA",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Richard Neal",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Ways and Means ranking Democrat; called Medicare for All 'a political loser'; moderate trade/social record; backed by AFL-CIO, AIPAC, DMFI.",
+    "background": "Incumbent since 1989; former Springfield mayor",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat teacher Jeromie Whalen 54.0-45.9; Whalen backed by Our Revolution, PDA, Mass. Teachers Association, Track AIPAC."
+   },
+   "alt_dem": null,
+   "rep": null,
+   "result": {
+    "dem_pct": 65.1,
+    "rep_pct": null,
+    "other_pct": 34.9,
+    "margin": null,
+    "pct_expected_vote_counted": 93.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 13.62,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Richard_Neal"
+   ],
+   "notes": "No Republican; Neal vs independent Nadia Milleron (34.9), so margin left null. 2024: Neal vs independent Milleron (62.4-37.3), no Republican. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "MA-2",
+   "office": "House",
+   "state": "MA",
+   "district": 2,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": true,
+   "dem": {
+    "name": "Jim McGovern",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Progressive Caucus member; Rules ranking Democrat.",
+    "background": "Incumbent since 1997",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": null,
+   "result": {
+    "dem_pct": null,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": null,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 23.68,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"
+   ],
+   "notes": "Uncontested in general; NBC shows no vote tabulation. 2024: McGovern vs independent Shea (68.6-31.1), no Republican. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Uncontested: no tabulated vote shown.",
+   "verified": true
+  },
+  {
+   "id": "MA-3",
+   "office": "House",
+   "state": "MA",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Lori Trahan",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of both Congressional Progressive Caucus and New Democrat Coalition.",
+    "background": "Incumbent since 2019; former congressional chief of staff",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Gary Grossi",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 66.2,
+    "rep_pct": 31.2,
+    "other_pct": 2.6,
+    "margin": 35.0,
+    "pct_expected_vote_counted": 91.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 18.98,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.42,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Lori_Trahan"
+   ],
+   "notes": "2024: uncontested. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "MA-4",
+   "office": "House",
+   "state": "MA",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jake Auchincloss",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Ran for Congress as a moderate modeled on Gov. Charlie Baker; 'returned to his moderate positions' after first term; touted Shapiro's centrist appeal.",
+    "background": "Incumbent since 2021; Marine veteran, ex-Newton councilor",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat AI researcher Jason Poulos 73.1-26.8; Poulos backed by PDA, Mass. Teachers Association, Track AIPAC."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tom Stalcup",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 64.3,
+    "rep_pct": 35.7,
+    "other_pct": 0.0,
+    "margin": 28.6,
+    "pct_expected_vote_counted": 86.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 19.72,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.08,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Jake_Auchincloss"
+   ],
+   "notes": "2024: uncontested. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "MA-5",
+   "office": "House",
+   "state": "MA",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": true,
+   "dem": {
+    "name": "Katherine Clark",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "House Democratic whip; party leadership.",
+    "background": "Incumbent since 2013; House minority whip",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat former Waltham councilor Jonathan Paz 73.6-19.7."
+   },
+   "alt_dem": null,
+   "rep": null,
+   "result": {
+    "dem_pct": null,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": null,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 45.17,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Katherine_Clark"
+   ],
+   "notes": "Uncontested in general; NBC shows no vote tabulation. 2024: uncontested. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Uncontested: no tabulated vote shown."
+  },
+  {
+   "id": "MA-6",
+   "office": "House",
+   "state": "MA",
+   "district": 6,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Dan Koh",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Ex-Biden White House intergovernmental deputy; endorsed by Biden, Harris, Buttigieg, Mass. AFL-CIO, building trades; AI-industry PAC Leading the Future backed him; beat Pressley-backed Tram Nguyen.",
+    "background": "Former White House official; ex-Andover selectman; 2018 candidate",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Open seat (Moulton ran for Senate). Koh 40.9, state Rep. Tram Nguyen 29.4 (Pressley, Trahan, Boston Globe, SEIU, UAW)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Micah Jones",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 63.5,
+    "rep_pct": 36.5,
+    "other_pct": 0.0,
+    "margin": 27.0,
+    "pct_expected_vote_counted": 95.0,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 20.68,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 6.32,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Dan_Koh",
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-us-house-district-6-results"
+   ],
+   "notes": "2024: uncontested. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: NBC district page 11:18 ET shows 95% expected vote in (was 91.3); shares unchanged.",
+   "verified": true
+  },
+  {
+   "id": "MA-7",
+   "office": "House",
+   "state": "MA",
+   "district": 7,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": true,
+   "dem": {
+    "name": "Ayanna Pressley",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Squad member; Congressional Progressive Caucus; won seat in 2018 as insurgent over incumbent Capuano; backed by PDA, Peace Action, Track AIPAC.",
+    "background": "Incumbent since 2019; former Boston city councilor",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed in primary."
+   },
+   "alt_dem": null,
+   "rep": null,
+   "result": {
+    "dem_pct": null,
+    "rep_pct": null,
+    "other_pct": null,
+    "margin": null,
+    "pct_expected_vote_counted": null,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 63.1,
+    "lines": "2024_same",
+    "house2024_margin": null,
+    "prev_seat_margin": null,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Ayanna_Pressley",
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-us-house-district-7-results"
+   ],
+   "notes": "Uncontested in general; NBC shows no vote tabulation. Tier 1 as a Squad style case only. 2024: uncontested. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Uncontested: no tabulated vote shown.",
+   "verified": true
+  },
+  {
+   "id": "MA-8",
+   "office": "House",
+   "state": "MA",
+   "district": 8,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Stephen Lynch",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Wikipedia: 'a moderate Democrat by Massachusetts standards', historically socially conservative; backed by AFL-CIO and building trades; survived David Hogg-backed generational challenge.",
+    "background": "Incumbent since 2001; former ironworker and union president",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat attorney Patrick Roath 55.6-44.2; Roath backed by Leaders We Deserve (Hogg), Our Revolution, Indivisible, Boston Globe."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Robert Burke",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 69.4,
+    "rep_pct": 26.9,
+    "other_pct": 3.8,
+    "margin": 42.5,
+    "pct_expected_vote_counted": 99,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 26.42,
+    "lines": "2024_same",
+    "house2024_margin": 41.0,
+    "prev_seat_margin": 41.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.58,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Stephen_F._Lynch",
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-us-house-district-8-results"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "MA-9",
+   "office": "House",
+   "state": "MA",
+   "district": 9,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Bill Keating",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition member; conventional party-line incumbent.",
+    "background": "Incumbent since 2011; former Norfolk County DA",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Indivisible South Coast co-leader Craig Swallow 77.5-22.4 (Swallow backed by PDA, Mass. Peace Action)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Tyler MacAllister",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 61.1,
+    "rep_pct": 38.9,
+    "other_pct": 0.0,
+    "margin": 22.2,
+    "pct_expected_vote_counted": 94.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 10.76,
+    "lines": "2024_same",
+    "house2024_margin": 13.0,
+    "prev_seat_margin": 13.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.24,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/Bill_Keating",
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-us-house-district-9-results"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "CT-1",
+   "office": "House",
+   "state": "CT",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Luke Bronin",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Ex-Hartford mayor; won state party convention endorsement and ousted 79-year-old Larson on generational argument; backed by Buttigieg, VoteVets, firefighters, carpenters (Larson had WFP).",
+    "background": "Former Hartford mayor (2016-2024); ex-Obama Treasury counsel",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Defeated incumbent John Larson in primary 53.6-33.4 (Gilchrest 8.2); generational, not ideological."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Amy Chai",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.6,
+    "rep_pct": 32.7,
+    "other_pct": 1.7,
+    "margin": 32.9,
+    "pct_expected_vote_counted": 91.8,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 22.88,
+    "lines": "2024_same",
+    "house2024_margin": 28.31,
+    "prev_seat_margin": 28.31,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.02,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/connecticut-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://en.wikipedia.org/wiki/Luke_Bronin"
+   ],
+   "notes": "Treated as open seat: incumbent Larson lost the primary. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "CT-2",
+   "office": "House",
+   "state": "CT",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Joe Courtney",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Brands himself as bipartisan; Lugar Center ranked him CT's most bipartisan member; defense/submarine focus.",
+    "background": "Incumbent since 2007; former state representative",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "George Austin",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.4,
+    "rep_pct": 37.6,
+    "other_pct": 0.0,
+    "margin": 24.8,
+    "pct_expected_vote_counted": 95.1,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 7.73,
+    "lines": "2024_same",
+    "house2024_margin": 16.03,
+    "prev_seat_margin": 16.03,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.27,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/connecticut-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://en.wikipedia.org/wiki/Joe_Courtney_(politician)"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "CT-3",
+   "office": "House",
+   "state": "CT",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rosa DeLauro",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Progressive Caucus member; Appropriations ranking Democrat.",
+    "background": "Incumbent since 1991",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Christopher Lancia",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 60.4,
+    "rep_pct": 36.4,
+    "other_pct": 3.2,
+    "margin": 24.0,
+    "pct_expected_vote_counted": 97.7,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 14.06,
+    "lines": "2024_same",
+    "house2024_margin": 17.81,
+    "prev_seat_margin": 17.81,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.94,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/connecticut-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://en.wikipedia.org/wiki/Rosa_DeLauro"
+   ],
+   "notes": "2024 R share includes Massey Independent Party fusion line (41.07 total). Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "CT-4",
+   "office": "House",
+   "state": "CT",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jim Himes",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition member; Intelligence Committee ranking Democrat.",
+    "background": "Incumbent since 2009; former Goldman Sachs banker",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michael Goldstein",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.5,
+    "rep_pct": 32.6,
+    "other_pct": 1.9,
+    "margin": 32.9,
+    "pct_expected_vote_counted": 97.6,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 23.36,
+    "lines": "2024_same",
+    "house2024_margin": 23.72,
+    "prev_seat_margin": 23.72,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.54,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/connecticut-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://en.wikipedia.org/wiki/Jim_Himes"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "CT-5",
+   "office": "House",
+   "state": "CT",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Jahana Hayes",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition and Congressional Black Caucus member.",
+    "background": "Incumbent since 2019; 2016 National Teacher of the Year",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chris Shea",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 58.1,
+    "rep_pct": 41.9,
+    "other_pct": 0.0,
+    "margin": 16.2,
+    "pct_expected_vote_counted": 94.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 5.59,
+    "lines": "2024_same",
+    "house2024_margin": 6.82,
+    "prev_seat_margin": 6.82,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 10.61,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/connecticut-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://en.wikipedia.org/wiki/Jahana_Hayes",
+    "https://www.nbcnews.com/politics/2026-elections/connecticut-us-house-district-5-results"
+   ],
+   "notes": "2024 D share includes Hayes Working Families fusion line (53.40 total). Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "ME-1",
+   "office": "House",
+   "state": "ME",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chellie Pingree",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Progressive Caucus member.",
+    "background": "Incumbent since 2009",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed in primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ronald Russell",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 66.2,
+    "rep_pct": 33.8,
+    "other_pct": 0.0,
+    "margin": 32.4,
+    "pct_expected_vote_counted": 90.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 21.61,
+    "lines": "2024_same",
+    "house2024_margin": 22.31,
+    "prev_seat_margin": 22.31,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.79,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maine-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maine",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maine",
+    "https://en.wikipedia.org/wiki/Chellie_Pingree"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: updated to NBC 11:17 ET count (66.7-33.3, 87.5% in; was 66.8-33.2, 86.8%).",
+   "verified": true
+  },
+  {
+   "id": "ME-2",
+   "office": "House",
+   "state": "ME",
+   "district": 2,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Matthew Dunlap",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Longtime statewide officeholder who launched primary challenge to Golden; ran on a 'people's agenda — Medicare for all, universal child care, and living wages'; Our Revolution, National Nurses United, Ro Khanna endorsed.",
+    "background": "Maine state auditor; former secretary of state",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Golden withdrew. Dunlap beat DCCC Red-to-Blue pick Joe Baldacci 52.5-47.5 in ranked-choice final round."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Paul LePage",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "trump_endorsed",
+     "extreme_statements",
+     "residency_questions"
+    ]
+   },
+   "result": {
+    "dem_pct": 49.7,
+    "rep_pct": 50.3,
+    "other_pct": 0.1,
+    "margin": -0.6,
+    "pct_expected_vote_counted": 91.8,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -9.05,
+    "lines": "2024_same",
+    "house2024_margin": 0.7,
+    "prev_seat_margin": 0.7,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.25,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/maine-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maine",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maine",
+    "https://en.wikipedia.org/wiki/Matthew_Dunlap",
+    "https://www.bangordailynews.com/2026/11/04/politics/elections/paul-lepage-on-track-maine-republicans-bright-spot/",
+    "https://www.nbcnews.com/politics/2026-elections/house-results"
+   ],
+   "notes": "Open seat (Golden retired); not called at time of check. Maine uses ranked-choice voting; only two candidates plus a write-in. 2024 margin uses ranked-choice final round shown in Wikipedia infobox (Golden 50.35 / Theriault 49.65). Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: updated to NBC 11:17 ET (Dunlap 50.1, LePage 49.9, write-in Ward 0.1, 86.3% in, 302,365 votes); margin 0.2 is from rounded shares. Bangor Daily News (Nov 4) reported Dunlap led by about 1,000 votes with ~57,000 votes outstanding in 111 mostly rural towns; its model projected LePage to overtake and win by ~6,700 but explicitly said \"That is not a call\"; DDHQ had not called it as of 3 a.m. Uncalled.",
+   "verified": true
+  },
+  {
+   "id": "NH-1",
+   "office": "House",
+   "state": "NH",
+   "district": 1,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Stefany Shaheen",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Daughter of Sen. Jeanne Shaheen; endorsed by Sens. Hassan and Kelly, Govs. Newsom and Pritzker, AFT, NEA-NH, IBEW, Teamsters local, LCV.",
+    "background": "Former Portsmouth city councilor; businesswoman",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Open seat (Pappas ran for Senate). Shaheen 36.9, veteran Maura Sullivan 34.7, Carleigh Beriont 22.5."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Anthony DiLorenzo",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 57.3,
+    "rep_pct": 42.7,
+    "other_pct": 0.0,
+    "margin": 14.6,
+    "pct_expected_vote_counted": 95.8,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 2.0,
+    "lines": "2024_same",
+    "house2024_margin": 8.1,
+    "prev_seat_margin": 8.1,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.4,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-hampshire-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Hampshire",
+    "https://en.wikipedia.org/wiki/Stefany_Shaheen"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "NH-2",
+   "office": "House",
+   "state": "NH",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Maggie Goodlander",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition and Labor Caucus; endorsed by AIPAC, End Citizens United, LCV, Planned Parenthood.",
+    "background": "Incumbent since 2025; former Justice Dept. official, Navy reservist",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat state Rep. Paige Beauchemin 81.8-18.0."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Lily Tang Williams",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": [
+     "perennial_candidate",
+     "2020_election_doubts"
+    ]
+   },
+   "result": {
+    "dem_pct": 58.9,
+    "rep_pct": 38.8,
+    "other_pct": 2.3,
+    "margin": 20.1,
+    "pct_expected_vote_counted": 91.6,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 3.59,
+    "lines": "2024_same",
+    "house2024_margin": 5.9,
+    "prev_seat_margin": 5.9,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.31,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-hampshire-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Hampshire",
+    "https://en.wikipedia.org/wiki/Maggie_Goodlander"
+   ],
+   "notes": "Rematch of 2024 (Goodlander +5.9). Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: updated to NBC 11:17 ET (59.3-38.4-2.3, 86.6% in; was 59.4-38.3, 85.7%).",
+   "verified": true
+  },
+  {
+   "id": "RI-1",
+   "office": "House",
+   "state": "RI",
+   "district": 1,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Gabe Amo",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Black Caucus and Labor Caucus member.",
+    "background": "Incumbent since 2023; former Biden White House aide",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed in primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kellie Keenan",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 68.4,
+    "rep_pct": 27.7,
+    "other_pct": 3.8,
+    "margin": 40.7,
+    "pct_expected_vote_counted": 97.2,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 22.16,
+    "lines": "2024_same",
+    "house2024_margin": 31.0,
+    "prev_seat_margin": 31.0,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.54,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/rhode-island-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Rhode_Island",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Rhode_Island",
+    "https://en.wikipedia.org/wiki/Gabe_Amo"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: other_pct set to NBC-displayed 3.8 (DeSouza, I); was residual 3.9.",
+   "verified": true
+  },
+  {
+   "id": "RI-2",
+   "office": "House",
+   "state": "RI",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Seth Magaziner",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition and Labor Caucus member; sponsor of bipartisan congressional stock-trading ban.",
+    "background": "Incumbent since 2023; former Rhode Island general treasurer",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed in primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Victor Mellor",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": [
+     "scandal"
+    ]
+   },
+   "result": {
+    "dem_pct": 61.7,
+    "rep_pct": 38,
+    "other_pct": 0.3,
+    "margin": 23.7,
+    "pct_expected_vote_counted": 96.9,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 6.79,
+    "lines": "2024_same",
+    "house2024_margin": 16.7,
+    "prev_seat_margin": 16.7,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.91,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/rhode-island-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Rhode_Island",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Rhode_Island",
+    "https://en.wikipedia.org/wiki/Seth_Magaziner"
+   ],
+   "notes": "Mellor described by Wikipedia as a registered foreign agent for Cuba. Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate.",
+   "verified": true
+  },
+  {
+   "id": "VT-AL",
+   "office": "House",
+   "state": "VT",
+   "district": null,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Becca Balint",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Progressive Caucus member; endorsed by PDA, PCCC, Track AIPAC, End Citizens United.",
+    "background": "Incumbent since 2023; former Vermont Senate president pro tem",
+    "primary_contested_on_ideology": false,
+    "primary_note": "98.4% vs write-ins."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Gerald Malloy",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.2,
+    "rep_pct": 30.9,
+    "other_pct": 3.9,
+    "margin": 34.3,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 31.77,
+    "lines": "2024_same",
+    "house2024_margin": 32.5,
+    "prev_seat_margin": 32.5,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 2.53,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/vermont-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Vermont",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_election_in_Vermont",
+    "https://en.wikipedia.org/wiki/Becca_Balint"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: NBC 11:18 ET confirms 65.2-30.9, 99% in; NBC lists Suzanne Seymour (I) at 1.4%; other_pct 3.9 is a residual (100 - D - R) not directly displayed.",
+   "verified": true
+  },
+  {
+   "id": "DE-AL",
+   "office": "House",
+   "state": "DE",
+   "district": null,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Sarah McBride",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Member of Congressional Progressive Caucus and New Democrat Coalition; endorsed by Sen. Coons, Gov. Meyer, state party; first openly transgender member of Congress.",
+    "background": "Incumbent since 2025; former state senator",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed in primary."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joseph Arminio",
+    "incumbent": false,
+    "style": "unclassified",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 64.3,
+    "rep_pct": 35.7,
+    "other_pct": 0.0,
+    "margin": 28.6,
+    "pct_expected_vote_counted": 99.0,
+    "called": "D",
+    "called_by": "NBC News Decision Desk (AP vote data)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 14.74,
+    "lines": "2024_same",
+    "house2024_margin": 15.72,
+    "prev_seat_margin": 15.72,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.86,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/delaware-house-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Delaware",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_election_in_Delaware",
+    "https://en.wikipedia.org/wiki/Sarah_McBride"
+   ],
+   "notes": "Results from NBC News/AP data as of about 11:00 ET Nov 4; percentages are NBC shares of listed candidates. pct_expected_vote_counted is NBC expected-vote-in estimate. Verification: NBC 11:17 ET shows 99% in (was 98.6); shares unchanged.",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T11:40:00-05:00",
+  "checked_items": 40,
+  "corrections": [
+   "ME-1: refreshed to NBC 11:17 ET (66.7-33.3, margin 33.4, 87.5% in)",
+   "ME-2: refreshed to NBC 11:17 ET (50.1-49.9, margin 0.2 not 0.3, 86.3% in); added BDN note that outstanding vote projects to favor LePage (still uncalled)",
+   "NH-2: refreshed to NBC 11:17 ET (59.3-38.4, margin 20.9, 86.6% in); overperformance 17.31",
+   "RI-1: other_pct 3.9 -> 3.8 per NBC display",
+   "MA-6: pct_expected_vote_counted 91.3 -> 95.0 (NBC 11:18 ET)",
+   "DE-AL: pct_expected_vote_counted 98.6 -> 99.0 (NBC 11:17 ET)"
+  ],
+  "unresolved": [
+   "ME-2 uncalled with Dunlap +0.2 at 86.3% in; BDN model projects outstanding rural vote to flip it to LePage. Recheck before analysis.",
+   "Independent outlet cross-check for PA/MA/CT/NH/RI/VT/DE vote shares was not possible (CNN 451, AP/Politico unfetchable, WaPo 403, Wikipedia 2026 pages not yet updated, web-search budget exhausted); verified against fresher NBC per-district pages instead. MD verified independently against MD SBE.",
+   "Not re-fetched this pass (still ~11:00 ET NBC data): PA-5, PA-11, PA-13, PA-14, PA-15, PA-16, MA-5.",
+   "MD counts exclude provisional ballots and outstanding mail ballots (NBC 67-86% in); margins will move.",
+   "House 2024 margins for CT/NH/RI/DE/ME-1 not independently re-fetched; PA and MA-8/MA-9 2024 House margins and MA-1/3/4/6 uncontested status confirmed via Wikipedia."
+  ]
+ }
+}

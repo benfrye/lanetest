@@ -1,0 +1,162 @@
+{
+ "batch": 2,
+ "note": "web.archive.org was unreachable from this coder's fetch tool; all verification used dated pre-election news articles fetched directly (dates are article publication dates). Post-election sidebar content was ignored.",
+ "labels": {
+  "GOV-MI": {
+   "name": "Jocelyn Benson",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Two-term Secretary of State running as continuity of Whitmer record; slogan 'Costs down, wages up and end corruption'; conventional party-line platform (drug affordability board, school funding); no left or centrist markers.",
+   "source_url": "https://bridgemi.com/michigan-politics/jocelyn-benson-vs-john-james-what-to-know-the-michigan-governors-race/",
+   "source_date": "2026-10-29",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "GOV-VT": {
+   "name": "Amanda Janoo",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "confidence": "high",
+   "evidence": "First-time candidate/economist cast as 'progressive political outsider' who beat establishment-cast Aly Richards; ran on economic inequality, taxes on wealthy and big tech, universal primary care; Sanders endorsed, 'movement for economic justice'.",
+   "source_url": "https://vtdigger.org/2026/08/12/how-amanda-janoo-a-progressive-political-outsider-won-vermonts-democratic-primary-for-governor/",
+   "source_date": "2026-08-12",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "SEN-MN": {
+   "name": "Peggy Flanagan",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "confidence": "high",
+   "evidence": "Ran as the progressive vs Jeffries/Pelosi/Buttigieg-backed Angie Craig; Medicare for all, 'ripping apart' ICE, 'radical change'; endorsed by Sanders and Warren. Sitting Lt. Gov. with institutional support (Sen. Tina Smith), so mixed rather than populist.",
+   "source_url": "https://www.nhpr.org/2026-08-11/progressive-peggy-flanagan-wins-democratic-senate-primary-in-minnesota",
+   "source_date": "2026-08-11",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "PA-11": {
+   "name": "Nancy Mannion",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "low",
+   "evidence": "Emergency nurse/healthcare consultant; conventional priorities (affordable healthcare, education, voting rights); NOW endorsement; 'powered by people - not billionaires' tagline only; no left or centrist markers.",
+   "source_url": "https://www.nancymannion.com",
+   "source_date": null,
+   "pre_election_verified": false,
+   "verified_fetch": true
+  },
+  "CO-4": {
+   "name": "Eileen Laubacher",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "confidence": "medium",
+   "evidence": "Retired Navy rear admiral, registered Democrat only in 2025; bipartisan framing ('we agree on far more than our politics suggests', 'people ahead of politics'); border security plus reform; term/age limits and stock-trading ban add some anti-Washington tone.",
+   "source_url": "https://www.coloradopolitics.com/2026/10/02/lauren-boebert-eileen-laubacher-congressional-district-4/",
+   "source_date": "2026-10-13",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "TX-25": {
+   "name": "Dione Sims",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "low",
+   "evidence": "Community organizer/nonprofit founder (Opal Lee's granddaughter); priorities living/prevailing wage, affordable healthcare, civil rights; endorsed by local Democratic officials (e.g. state Sen. Royce West); no left or centrist markers.",
+   "source_url": "https://www.fox4news.com/news/opal-lee-granddaughter-congress-dione-sims",
+   "source_date": "2026-01-09",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "NJ-1": {
+   "name": "Donald Norcross",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "confidence": "medium",
+   "evidence": "Six-term safe-seat incumbent; former IBEW electrician and South Jersey AFL-CIO president; conventional labor-Democrat platform. Labour background noted but campaign is institutional incumbent framing. Caucus membership not confirmed in fetched source.",
+   "source_url": "https://whyy.org/articles/election-2026-new-jersey-1st-congressional-district-voter-guide/",
+   "source_date": "2026-09-17",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "SEN-LA": {
+   "name": "Jamie Davis",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "confidence": "low",
+   "evidence": "Third-generation farmer/'country boy' grassroots run; says he won't 'play into party politics', common ground with Republican farmers, pro-2A, border security, opposes taxpayer-funded youth gender surgery; but pro-choice, minimum wage hike, eventual Medicare-for-all option (mixed ideological signals).",
+   "source_url": "https://www.wafb.com/2026/06/24/farmers-longshot-jamie-daviss-bid-us-senate/",
+   "source_date": "2026-06-24",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "OH-7": {
+   "name": "Brian Poindexter",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "confidence": "medium",
+   "evidence": "Union ironworker, 'that union guy that Democrats have lost'; economics over culture war, Sherrod Brown-style workers' rights; 'Politicians are completely out of touch'; Kucinich endorsement; no explicit centrist or left branding.",
+   "source_url": "https://spectrumnews1.com/oh/columbus/news/2026/09/02/brian-poindexter-max-miller-",
+   "source_date": "2026-09-04",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "SEN-KS": {
+   "name": "Adam Hamilton",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "confidence": "high",
+   "evidence": "Self-described 'independent minded Democrat' 'leading from the center'; considered running as independent; 'building bridges across the political aisle'; megachurch pastor and political newcomer.",
+   "source_url": "https://www.kcur.org/politics-elections-and-government/2026-04-30/adam-hamilton-kansas-senate-roger-marshall",
+   "source_date": "2026-04-30",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "MI-3": {
+   "name": "Hillary Scholten",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "confidence": "medium",
+   "evidence": "Swing-seat incumbent; Problem Solvers Caucus and New Democrat Coalition member (per secondary profiles, not confirmed in fetched dated source); 'People in this district vote for me, even if they don't agree with everything'.",
+   "source_url": "https://spectrumlocalnews.com/mi/michigan/news/2026/07/04/scholten-launches-re-election-bid-on-fourth-of-july--vows-to-keep-fighting-for-west-michigan",
+   "source_date": "2026-07-04",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "GOV-WI": {
+   "name": "David Crowley",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "confidence": "high",
+   "evidence": "Presented himself as a 'bridge builder,' a moderate Democrat who could work across the aisle; beat democratic socialist Francesca Hong; Evers endorsement; earlier withdrew to consolidate moderate voters.",
+   "source_url": "https://www.wuwm.com/government-politics/2026-08-12/crowley-upsets-hong-to-face-trump-backed-tiffany-in-race-for-wisconsin-governor",
+   "source_date": "2026-08-12",
+   "pre_election_verified": true,
+   "verified_fetch": true
+  },
+  "FL-15": {
+   "name": "Robert People",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "confidence": "low",
+   "evidence": "Army combat veteran; campaign site lists Medicare for All, corporate accountability, opposes AIPAC and arms to Israel (Track AIPAC endorsement); anti-oligarchy framing; no Sanders/OR/WFP/JD backing found, so not coded left.",
+   "source_url": "https://peopleforcongress.com",
+   "source_date": null,
+   "pre_election_verified": false,
+   "verified_fetch": true
+  }
+ }
+}

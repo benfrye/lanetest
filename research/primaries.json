@@ -1,0 +1,5137 @@
+{
+ "as_of": "2026-11-04T11:30:00-05:00",
+ "method_notes": "Primary vote counts and percentages are taken from the Democratic/Republican primary result boxes on the cited Wikipedia pages (pulled as raw wikitext on 2026-11-04; those boxes cite state election offices), cross-checked against news reports where a news URL is listed. 'turnout' = total votes cast in that party's primary for that office (all-party total for California top-two). general_result_margin = Democratic % minus Republican % in points, from partial election-night counts; null where no sourced percentage was found. general_called = winner per AP/network call where a news URL is listed, otherwise per the winner marker on the Wikipedia 2026 Senate/House/gubernatorial summary tables as of the morning of Nov 4 (not independently verified). Style labels (ideology/posture/archetype) are analyst judgements from endorsements listed on Wikipedia plus news framing; see style_confidence.",
+ "contests": [
+  {
+   "id": "MI-SEN-D-primary",
+   "race_id_general": "SEN-MI",
+   "date": "2026-08-04",
+   "office": "U.S. Senate",
+   "state": "MI",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Abdul El-Sayed",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Endorsed by Sanders, Ocasio-Cortez, Warren, Our Revolution, WFP, Track AIPAC; campaigned against large donors and AIPAC (WaPo); described by AP as a 'progressive breakthrough'.",
+     "pct": 48.45,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Alexandria Ocasio-Cortez",
+      "Elizabeth Warren",
+      "Working Families Party",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Haley Stevens",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "high",
+     "style_evidence": "Endorsed by Schumer, Stabenow, Peters, DMFI, EMILY's List; AP reported nearly $30M from AIPAC and allied groups backing her. Endorsed Republican Mike Rogers two days before the general.",
+     "pct": 47.55,
+     "won": false,
+     "key_endorsements": [
+      "Chuck Schumer",
+      "Debbie Stabenow",
+      "Democratic Majority for Israel",
+      "EMILY's List"
+     ],
+     "outside_spending_note": "AP: AIPAC and aligned groups put nearly $30M behind Stevens; Axios: UDP booked ~$19M in TV in final five weeks."
+    },
+    {
+     "name": "Mallory McMorrow",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Withdrew in July but stayed on ballot; endorsed by Chris Murphy, Heinrich, Welch; generational-change pitch.",
+     "pct": 4.0,
+     "won": false,
+     "key_endorsements": [
+      "Chris Murphy",
+      "Martin Heinrich"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 1537628,
+   "general_result_margin": 7.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
+    "https://news.bgov.com/bloomberg-government-news/el-sayed-wins-michigan-democratic-senate-primary-nbc-projects",
+    "https://apnews.com/article/aipac-michigan-senate-stevens-elsayed-588bb869eb557643950bf68d6a0d7a10",
+    "https://www.axios.com/2026/07/16/michigan-senate-haley-stevens-abdul-el-sayed",
+    "https://www.washingtonpost.com/politics/2026/08/05/how-el-sayed-won-contentious-michigan-senate-democratic-primary/",
+    "https://michiganadvance.com/2026/11/04/el-sayed-declares-victory-and-storms-into-the-us-senate/",
+    "https://www.wlns.com/your-local-election-hq/michigan-open-senate-race-results/",
+    "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "Open seat (Peters retired). AP called the general at 2:27 a.m. Nov 4 at ~85% counted (51.9-46.1 then, Michigan Advance/WLNS); later NBC count below. Pre-primary polls had shown El-Sayed with up to a double-digit lead (Bloomberg Government). Opponent Mike Rogers ran unopposed in GOP primary. [Verification 2026-11-04] General: El-Sayed 52.5 / Rogers 45.5 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] Bloomberg Government (AP figures): El-Sayed 48.5, Stevens 47.5, McMorrow 4.",
+   "general_pct_expected_counted": 96.8,
+   "general_called_by": "NBC News projection",
+   "verified": true
+  },
+  {
+   "id": "ME-SEN-D-primary",
+   "race_id_general": "SEN-ME",
+   "date": "2026-06-09",
+   "office": "U.S. Senate",
+   "state": "ME",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Graham Platner",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Harbor master; launched a 'progressive campaign backed by Bernie Sanders and organized labor' positioned against the 'Democratic establishment' (Wikipedia citing Politico); endorsed by Sanders, Warren, WFP, Our Revolution.",
+     "pct": 72.1,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Elizabeth Warren",
+      "Working Families Party",
+      "Our Revolution",
+      "VoteVets"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Janet Mills",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "high",
+     "style_evidence": "Sitting governor recruited by Schumer, Gillibrand and the DSCC; suspended campaign but remained on ballot.",
+     "pct": 19.3,
+     "won": false,
+     "key_endorsements": [
+      "Chuck Schumer",
+      "DSCC",
+      "EMILY's List"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "David Costello",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Minor candidate; little style information found.",
+     "pct": 8.1,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 216402,
+   "general_result_margin": 7.6,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
+    "https://abc7ny.com/post/maine-senate-candidates-democrats-choose-troy-jackson-new-nominee-face-susan-collins-graham-platner-withdraws/19574928/",
+    "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
+    "https://mainemorningstar.com/2026/11/04/collins-concedes-to-jackson-in-maines-high-profile-us-senate-race/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/maine-senate-results"
+   ],
+   "notes": "Platner won the primary over the DSCC-recruited sitting governor, then withdrew July 10 (ABC7/AP; formal letter July 24) after a sexual-assault allegation he denied. Nominee replaced by convention (see ME-SEN-D-convention). general_called refers to the eventual nominee Troy Jackson, who beat incumbent Susan Collins per AP; no statewide percentage found. [Verification 2026-11-04] General: Margin is for replacement nominee Troy Jackson: 53.8 / Collins 46.2 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)). Janet Mills had suspended her campaign before the June 9 primary (NBC primary page), so the 72.1% is not a head-to-head defeat of the governor. NBC primary page shows Mills 19.2% vs Wikipedia/AP 19.3% (rounding of later count).",
+   "general_pct_expected_counted": 86.4,
+   "general_called_by": "NBC News projection",
+   "verified": true
+  },
+  {
+   "id": "ME-SEN-D-convention",
+   "race_id_general": "SEN-ME",
+   "date": "2026-07-25",
+   "office": "U.S. Senate (replacement nominee, party convention)",
+   "state": "ME",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Troy Jackson",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Fifth-generation logger and former state Senate president; 'favorite of progressives' (AP); Sanders- and labor-endorsed in his earlier 2026 governor primary run.",
+     "pct": 99.1,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Maine AFL-CIO-affiliated unions"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Saundra Pelletier",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Women's health company CEO; little style information.",
+     "pct": 0.9,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 571,
+   "general_result_margin": 7.6,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine",
+    "https://abc7ny.com/post/maine-senate-candidates-democrats-choose-troy-jackson-new-nominee-face-susan-collins-graham-platner-withdraws/19574928/",
+    "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "Delegate vote (566 of 571 per Wikipedia citing USA Today; ABC7 gives no tally but reports 601 delegates and >480 pre-committed to Jackson), not a voter primary; turnout = delegate votes cast. Jackson defeated Susan Collins (AP call; Collins conceded). [Verification 2026-11-04] General: Jackson 53.8 / Collins 46.2 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)).",
+   "general_pct_expected_counted": 86.4,
+   "general_called_by": "NBC News projection",
+   "verified": true
+  },
+  {
+   "id": "TX-SEN-D-primary",
+   "race_id_general": "SEN-TX",
+   "date": "2026-03-03",
+   "office": "U.S. Senate",
+   "state": "TX",
+   "district": null,
+   "candidates": [
+    {
+     "name": "James Talarico",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "State rep and seminarian; faith-inflected economic message; endorsed by Heinrich, carpenters' union, college Democrats; media framed him as 'rising star' vs 'progressive firebrand' Crockett.",
+     "pct": 52.4,
+     "won": true,
+     "key_endorsements": [
+      "Martin Heinrich",
+      "Southern Regional Council of Carpenters",
+      "College Democrats of America"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Jasmine Crockett",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "U.S. Rep; combative anti-Trump persona; endorsed by Kamala Harris, CBC PAC, EMILY's List; called a 'progressive firebrand' in coverage.",
+     "pct": 46.2,
+     "won": false,
+     "key_endorsements": [
+      "Kamala Harris",
+      "Congressional Black Caucus PAC",
+      "EMILY's List",
+      "Ro Khanna"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 2319187,
+   "general_result_margin": 12.1,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+    "https://www.yahoo.com/news/articles/rising-star-talarico-topples-progressive-074646071.html",
+    "https://www.wfaa.com/article/news/politics/elections/texas-election-results-ken-paxton-james-talarico-vie-for-us-senate-seat/287-373a76f3-4a0d-498e-a1d6-445ccc0b987e",
+    "https://san.com/cc/james-talarico-defeats-ken-paxton-flips-texas-senate-seat-for-first-time-since-1988/",
+    "https://www.ksat.com/vote-2026/2026/10/30/texas-us-senate-election-results-ken-paxton-vs-james-talarico-in-nov-3-2026-midterms/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/texas-senate-results"
+   ],
+   "notes": "Not a clean left-vs-center fight: both mainstream liberals with different personas. AP called general for Talarico 10:03 p.m. Nov 3; preliminary reports ~55.1% vs ~43.0-43.1% with 85-94% counted (margin approximate). Opponent Ken Paxton beat incumbent Cornyn in GOP runoff. [Verification 2026-11-04] General: Talarico 55.1 / Paxton 43.0 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page: Talarico 52.4 / Crockett 46.2 at 99.1% in.",
+   "general_pct_expected_counted": 97.4,
+   "general_called_by": "NBC News projection; AP",
+   "verified": true
+  },
+  {
+   "id": "IA-SEN-D-primary",
+   "race_id_general": "SEN-IA",
+   "date": "2026-06-02",
+   "office": "U.S. Senate",
+   "state": "IA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Josh Turek",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "CBS: ran on working across the aisle and electability in a red state; backed by national Democratic groups (VoteVets ~$10M); endorsed by Cortez Masto, Buttigieg, Duckworth, Gallego.",
+     "pct": 62.7,
+     "won": true,
+     "key_endorsements": [
+      "Pete Buttigieg",
+      "Tammy Duckworth",
+      "Ruben Gallego",
+      "Tom Harkin",
+      "VoteVets"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Zach Wahls",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "CBS: 'the more progressive candidate'; anti-establishment message, criticized Schumer and Turek's establishment backing; endorsed by Warren, Howard Dean, labor unions.",
+     "pct": 37.3,
+     "won": false,
+     "key_endorsements": [
+      "Elizabeth Warren",
+      "Howard Dean",
+      "Teamsters"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 191950,
+   "general_result_margin": 4.1,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
+    "https://www.cbsnews.com/news/iowa-senate-primary-results-ashley-hinson-josh-turek-zach-wahls/",
+    "https://www.cbsnews.com/news/iowa-2026-senate-hinson-turek/",
+    "https://www.newsweek.com/iowa-senate-results-josh-turek-ashley-hinson-midterm-12630515",
+    "https://www.nbcnews.com/politics/2026-elections/iowa-senate-results",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/iowa-senate-results"
+   ],
+   "notes": "Moderate-vs-progressive contrast per CBS (Turek electability/bipartisan pitch vs Wahls anti-establishment progressive). General: AP called for Turek 10:35 p.m.; ~98% counted snapshot 50.5% vs 46.4% (preliminary). Opponent Ashley Hinson was Trump-endorsed. [Verification 2026-11-04] General: Turek 50.5 / Hinson 46.4 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)).",
+   "general_pct_expected_counted": 98.7,
+   "general_called_by": "NBC News projection; AP",
+   "verified": true
+  },
+  {
+   "id": "IL-SEN-D-primary",
+   "race_id_general": "SEN-IL",
+   "date": "2026-03-17",
+   "office": "U.S. Senate",
+   "state": "IL",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Juliana Stratton",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Lt. governor backed by Pritzker and his family's money; pledged no corporate PAC money; endorsed by Warren, Duckworth, Baldwin, Chuy Garcia.",
+     "pct": 40.4,
+     "won": true,
+     "key_endorsements": [
+      "JB Pritzker",
+      "Elizabeth Warren",
+      "Tammy Duckworth",
+      "Chuy Garcia"
+     ],
+     "outside_spending_note": "Wikipedia: 'substantial financial backing from Pritzker and his family'."
+    },
+    {
+     "name": "Raja Krishnamoorthi",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "U.S. Rep; accepted corporate PAC money; raised $24M by Dec 2025 incl. donors linked to Trump associates/Palantir; foreign-policy/intelligence focus.",
+     "pct": 32.7,
+     "won": false,
+     "key_endorsements": [
+      "Gina Raimondo",
+      "Bill Daley",
+      "28+ U.S. representatives"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Robin Kelly",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "U.S. Rep; endorsed by Booker, Chris Murphy, 50+ House members, CBC.",
+     "pct": 18.3,
+     "won": false,
+     "key_endorsements": [
+      "Cory Booker",
+      "Chris Murphy",
+      "Congressional Black Caucus"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 1256822,
+   "general_result_margin": 23.5,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Illinois",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/illinois-senate-results"
+   ],
+   "notes": "Open seat (Durbin retired). Stratton defeated Republican Don Tracy (Wikipedia lead); no general percentages found. [Verification 2026-11-04] General: Stratton 61.0 / Tracy 37.5 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page (94.3% in, election night): Stratton 40.2 / Krishnamoorthi 33.1 / Kelly 18.1; file uses final Wikipedia/official numbers.",
+   "general_pct_expected_counted": 92.5,
+   "general_called_by": "NBC News (race not among NBC uncalled list)",
+   "verified": true
+  },
+  {
+   "id": "MN-SEN-D-primary",
+   "race_id_general": "SEN-MN",
+   "date": "2026-08-11",
+   "office": "U.S. Senate",
+   "state": "MN",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Peggy Flanagan",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "high",
+     "style_evidence": "Lt. governor; refused corporate PAC and AIPAC money; backed dismantling/replacing ICE; Newsweek framed race as 'Bernie Sanders-style progressivism' vs 'Third Way' centrism.",
+     "pct": 59.0,
+     "won": true,
+     "key_endorsements": [
+      "Tina Smith",
+      "Ed Markey",
+      "Al Franken",
+      "Deb Haaland",
+      "Our Revolution",
+      "Indivisible"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Angie Craig",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "high",
+     "style_evidence": "U.S. Rep; defended taking corporate PAC/AIPAC money; private backing of Schumer, Gillibrand and DSCC; endorsed by Buttigieg, Pelosi, Slotkin, DMFI.",
+     "pct": 39.4,
+     "won": false,
+     "key_endorsements": [
+      "Pete Buttigieg",
+      "Nancy Pelosi",
+      "Elissa Slotkin",
+      "Democratic Majority for Israel"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "progressive",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 697927,
+   "general_result_margin": 10.1,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
+    "https://minnesotareformer.com/?p=38186",
+    "https://www.fox9.com/news/minnesota-senate-primary-election-results-dfl-2026",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/minnesota-senate-results"
+   ],
+   "notes": "Open seat (Tina Smith retired). Flanagan defeated Republican Michele Tafoya per Wikipedia lead and summary table; no AP-sourced percentage found. [Verification 2026-11-04] General: Flanagan 53.7 / Tafoya 43.6 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page: Flanagan 59.0 / Craig 39.4 at 99% in.",
+   "general_pct_expected_counted": 98.8,
+   "general_called_by": "NBC News projection",
+   "verified": true
+  },
+  {
+   "id": "MA-SEN-D-primary",
+   "race_id_general": "SEN-MA",
+   "date": "2026-09-01",
+   "office": "U.S. Senate",
+   "state": "MA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Ed Markey",
+     "ideology": "left",
+     "posture": "establishment",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "Incumbent; endorsed by Sanders, Warren, Ocasio-Cortez, Sunrise, PCCC, Our Revolution; also Katherine Clark and Richard Neal.",
+     "pct": 64.7,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Elizabeth Warren",
+      "Alexandria Ocasio-Cortez",
+      "Sunrise Movement"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Seth Moulton",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "U.S. Rep and Marine veteran running on generational change; endorsed by VoteVets, Democrats for Education Reform, building-trades unions, Tim Miller.",
+     "pct": 35.0,
+     "won": false,
+     "key_endorsements": [
+      "VoteVets",
+      "Democrats for Education Reform",
+      "Teamsters Joint Council 10"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "progressive",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 897051,
+   "general_result_margin": 31.1,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/massachusetts-senate-results"
+   ],
+   "notes": "Challenge to a progressive incumbent from the center/generational lane failed. Markey also won convention 72.9%. [Verification 2026-11-04] General: Markey 63.3 / Deaton 32.2 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page: Markey 64.7 / Moulton 35.0 at 100% in.",
+   "general_pct_expected_counted": 89.4,
+   "general_called_by": "NBC News (race not among NBC uncalled list)",
+   "verified": true
+  },
+  {
+   "id": "CO-SEN-D-primary",
+   "race_id_general": "SEN-CO",
+   "date": "2026-06-30",
+   "office": "U.S. Senate",
+   "state": "CO",
+   "district": null,
+   "candidates": [
+    {
+     "name": "John Hickenlooper",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "high",
+     "style_evidence": "Incumbent; endorsed by AIPAC, J Street, Center for New Liberalism, AFSCME, Ken Salazar, Warren.",
+     "pct": 52.8,
+     "won": true,
+     "key_endorsements": [
+      "AIPAC",
+      "J Street",
+      "Center for New Liberalism",
+      "Elizabeth Warren"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Julie Gonzales",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "State senator; endorsed by Sunrise, Our Revolution, Track AIPAC, Indivisible, CWA, Center for Biological Diversity.",
+     "pct": 47.2,
+     "won": false,
+     "key_endorsements": [
+      "Sunrise Movement",
+      "Our Revolution",
+      "Track AIPAC",
+      "Indivisible"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 895358,
+   "general_result_margin": 24.6,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/colorado-senate-results"
+   ],
+   "notes": "Left challenge to a moderate incumbent came within 5.6 points. General: Wikipedia summary marks Hickenlooper re-elected. [Verification 2026-11-04] General: Hickenlooper 60.2 / Baisley 35.6 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page: Hickenlooper 52.8 / Gonzales 47.2 at 99% in.",
+   "general_pct_expected_counted": 77.3,
+   "general_called_by": "NBC News (race not among NBC uncalled list)",
+   "verified": true
+  },
+  {
+   "id": "FL-SEN-D-primary",
+   "race_id_general": "SEN-FL",
+   "date": "2026-08-18",
+   "office": "U.S. Senate (special)",
+   "state": "FL",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Angie Nixon",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "State rep and DSA member; bills herself as union organizer; raised under $1M; endorsed by Frost, Omar, Pressley, Tlaib, WFP.",
+     "pct": 56.1,
+     "won": true,
+     "key_endorsements": [
+      "Maxwell Frost",
+      "Ilhan Omar",
+      "Rashida Tlaib",
+      "Working Families Party"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Alexander Vindman",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Recruited by Democratic leaders; raised over $16M; endorsed by Duckworth, Jack Reed, VoteVets, state Senate leader.",
+     "pct": 43.9,
+     "won": false,
+     "key_endorsements": [
+      "Tammy Duckworth",
+      "Jack Reed",
+      "VoteVets"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 1258973,
+   "general_result_margin": -2.9,
+   "general_called": "R",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida",
+    "https://floridaphoenix.com/2026/08/18/nixon-advances-to-face-moody-in-u-s-senate-race-with-decisive-win-over-vindman/",
+    "https://www.nbcmiami.com/news/politics/angie-nixon-alex-vindman-florida-democratic-senate-primary-result/3847915/",
+    "https://floridaelectionwatch.gov/FederalOffices/USSenator"
+   ],
+   "notes": "Major upset of the recruited favorite. General: Moody 50.9% vs Nixon 48.0% in Wikipedia general box (8,269,348 votes; share counted not stated). Opponent Ashley Moody was an appointed incumbent. [Verification 2026-11-04] General: Nixon 48.0 / Moody 50.9 (NBC); Florida DOS election-night: Nixon 47.99 / Moody 50.87 (3,969,186 vs 4,207,947).",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC News (race not among NBC uncalled list)",
+   "verified": true
+  },
+  {
+   "id": "KY-SEN-D-primary",
+   "race_id_general": "SEN-KY",
+   "date": "2026-05-19",
+   "office": "U.S. Senate",
+   "state": "KY",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Charles Booker",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "medium",
+     "style_evidence": "2022 nominee; endorsed by Obama, WFP, Track AIPAC, Kentucky AFL-CIO, CWA.",
+     "pct": 46.8,
+     "won": true,
+     "key_endorsements": [
+      "Barack Obama",
+      "Working Families Party",
+      "Kentucky AFL-CIO"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Amy McGrath",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Marine aviator and 2020 nominee; endorsed by Lexington Herald-Leader.",
+     "pct": 35.9,
+     "won": false,
+     "key_endorsements": [
+      "Lexington Herald-Leader"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Pamela Stevenson",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "State House minority leader.",
+     "pct": 6.2,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 332737,
+   "general_result_margin": -12.06,
+   "general_called": "R",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/kentucky-senate-results"
+   ],
+   "notes": "General: Barr 54.98% vs Booker 42.92% in Wikipedia general box (1,425,978 votes; share counted not stated). Opponent Andy Barr was Trump-endorsed. [Verification 2026-11-04] General: NBC: Booker 42.9 / Barr 55.0 at 99% in, consistent with Wikipedia 42.92/54.98. [Primary cross-check] NBC primary page: Booker 46.8 / McGrath 35.9 / Stevenson 6.2 at 99% in.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC News (race not among NBC uncalled list)",
+   "verified": true
+  },
+  {
+   "id": "NH-SEN-D-primary",
+   "race_id_general": "SEN-NH",
+   "date": "2026-09-08",
+   "office": "U.S. Senate",
+   "state": "NH",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Chris Pappas",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "U.S. Rep; endorsed by Shaheen, Hassan, Harris, Buttigieg, Warren, AIPAC, DMFI, AFL-CIO.",
+     "pct": 65.0,
+     "won": true,
+     "key_endorsements": [
+      "Jeanne Shaheen",
+      "Maggie Hassan",
+      "Kamala Harris",
+      "Elizabeth Warren",
+      "AIPAC"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Karishma Manzur",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "low",
+     "style_evidence": "Medical scientist; endorsed by Jamaal Bowman, Track AIPAC, Progressive Democrats of America, Peace Action.",
+     "pct": 32.7,
+     "won": false,
+     "key_endorsements": [
+      "Jamaal Bowman",
+      "Track AIPAC",
+      "Progressive Democrats of America"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 153864,
+   "general_result_margin": 14.3,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/new-hampshire-senate-results"
+   ],
+   "notes": "Little-known left challenger took a third of the vote. Opponent John E. Sununu (traditional) beat Scott Brown in GOP primary. [Verification 2026-11-04] General: Pappas 56.2 / Sununu 41.9 (NBC News Senate results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page: Pappas 65.1 / Manzur 32.7 at 99% in (file 65.0 from final count).",
+   "general_pct_expected_counted": 90.5,
+   "general_called_by": "NBC News projection",
+   "verified": true
+  },
+  {
+   "id": "NY-GOV-D-primary",
+   "race_id_general": "GOV-NY",
+   "date": "2026-06-23",
+   "office": "Governor",
+   "state": "NY",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Kathy Hochul",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "high",
+     "style_evidence": "Incumbent; won party convention Feb 2026; endorsed by Zohran Mamdani and Alexandria Ocasio-Cortez (Politico: 'why the left decided to embrace, and not fight, Kathy Hochul').",
+     "pct": null,
+     "won": true,
+     "key_endorsements": [
+      "Zohran Mamdani",
+      "Alexandria Ocasio-Cortez",
+      "Working Families Party line"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Antonio Delgado",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "medium",
+     "style_evidence": "Lt. governor challenging his own governor with DSA-aligned running mate India Walton; withdrew before the primary.",
+     "pct": null,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": null,
+   "general_result_margin": 20.4,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "No contested Democratic primary vote occurred after Delgado withdrew; included because the left chose to back the incumbent rather than challenge. Hochul also ran on WFP line. Opponent Bruce Blakeman was Trump-endorsed. general_called from Wikipedia summary table only. [Verification 2026-11-04] General: Hochul 60.1 / Blakeman 39.7 (NBC News governor results page (fetched 11:08 AM ET Nov 4)).",
+   "general_pct_expected_counted": 87.6,
+   "general_called_by": "NBC News (per project governors.json; all-races table shows no call flag)",
+   "verified": true
+  },
+  {
+   "id": "CA-GOV-top2-primary",
+   "race_id_general": "GOV-CA",
+   "date": "2026-06-02",
+   "office": "Governor (top-two)",
+   "state": "CA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Xavier Becerra",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "high",
+     "style_evidence": "Former HHS secretary/AG; endorsed by Newsom, Harris, Schiff, California Democratic Party, CA Chamber of Commerce, YIMBY.",
+     "pct": 27.98,
+     "won": true,
+     "key_endorsements": [
+      "Gavin Newsom",
+      "Kamala Harris",
+      "Adam Schiff",
+      "California Democratic Party"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Tom Steyer",
+     "ideology": "liberal",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "low",
+     "style_evidence": "Billionaire self-funder; endorsed by Robert Reich, Ro Khanna, Lateefah Simon, John Podesta.",
+     "pct": 22.79,
+     "won": false,
+     "key_endorsements": [
+      "Robert Reich",
+      "Ro Khanna",
+      "John Podesta"
+     ],
+     "outside_spending_note": "Self-funded."
+    },
+    {
+     "name": "Katie Porter",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Former Rep; endorsed by Warren, Robert Garcia, Dave Min, machinists and CWA.",
+     "pct": 4.36,
+     "won": false,
+     "key_endorsements": [
+      "Elizabeth Warren"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Matt Mahan",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "San Jose mayor; endorsed by Majority Democrats-aligned figures, Jared Polis, Coinbase CEO Brian Armstrong and other tech founders.",
+     "pct": 3.54,
+     "won": false,
+     "key_endorsements": [
+      "Jared Polis",
+      "Ami Bera",
+      "Brian Armstrong"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Steve Hilton (R)",
+     "ideology": null,
+     "posture": null,
+     "archetype": null,
+     "style_confidence": null,
+     "style_evidence": "Republican; Trump- and Vance-endorsed; Democratic style rubric not applicable.",
+     "pct": 24.59,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump",
+      "JD Vance"
+     ],
+     "outside_spending_note": null,
+     "party": "R",
+     "rep_style": "maga"
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 9262468,
+   "general_result_margin": 28.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
+    "https://www.ctpublic.org/2026-06-05/democrat-xavier-becerra-wins-the-top-spot-in-novembers-race-for-california-governor",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "All-party top-two; turnout is all-party total. Hilton's style fields use the Democratic rubric loosely and should be ignored for Democratic analysis (his rep style: maga). Steyer's progressive-populist bid missed the top two by ~1.8 pts. general_called from Wikipedia summary table only (Becerra marked winner); not verified against an AP call. [Verification 2026-11-04] General: Becerra 64.0 / Hilton 36.0 at 59.3% expected vote (NBC News governor results page (fetched 11:08 AM ET Nov 4)).",
+   "general_pct_expected_counted": 59.3,
+   "general_called_by": "AP (per CT Public: AP called Becerra-Hilton matchup); NBC per project governors.json",
+   "verified": true
+  },
+  {
+   "id": "MI-GOV-D-primary",
+   "race_id_general": "GOV-MI",
+   "date": "2026-08-04",
+   "office": "Governor",
+   "state": "MI",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Jocelyn Benson",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "high",
+     "style_evidence": "Secretary of State; endorsed by Buttigieg, Granholm, AFL-CIO, End Citizens United.",
+     "pct": 83.22,
+     "won": true,
+     "key_endorsements": [
+      "Pete Buttigieg",
+      "Jennifer Granholm",
+      "Michigan AFL-CIO"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Chris Swanson",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "Genesee County sheriff; endorsed by building-trades unions and AFSCME.",
+     "pct": 16.78,
+     "won": false,
+     "key_endorsements": [
+      "AFSCME",
+      "IBEW Michigan"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 1503406,
+   "general_result_margin": 10.8,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election",
+    "https://fox2detroit.com/election/michigan-primary-election-results-governor-2026",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Lopsided; included per task list. Former Detroit mayor Mike Duggan ran as an independent (centrist lane outside the primary). Opponent John James was Trump-endorsed. general_called from Wikipedia summary table only. [Verification 2026-11-04] General: Benson 54.5 / James 43.7 (NBC News governor results page (fetched 11:08 AM ET Nov 4)).",
+   "general_pct_expected_counted": 96.8,
+   "general_called_by": "NBC News projection",
+   "verified": true
+  },
+  {
+   "id": "GA-GOV-D-primary",
+   "race_id_general": "GOV-GA",
+   "date": "2026-05-19",
+   "office": "Governor",
+   "state": "GA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Keisha Lance Bottoms",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Former Atlanta mayor and Biden White House adviser; endorsed by Joe Biden and Gavin Newsom.",
+     "pct": 56.2,
+     "won": true,
+     "key_endorsements": [
+      "Joe Biden",
+      "Gavin Newsom"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Jason Esteves",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "State senator; endorsed by Sally Yates, Jason Carter, UNITE HERE, Latino Victory Fund.",
+     "pct": 18.7,
+     "won": false,
+     "key_endorsements": [
+      "Sally Yates",
+      "Jason Carter"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Michael Thurmond",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "Former DeKalb CEO; endorsed by Roy Barnes and Andrew Young.",
+     "pct": 12.9,
+     "won": false,
+     "key_endorsements": [
+      "Roy Barnes",
+      "Andrew Young"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Geoff Duncan",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Former Republican lieutenant governor running as a Democrat.",
+     "pct": 7.0,
+     "won": false,
+     "key_endorsements": [
+      "IBEW Local 613"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 1081811,
+   "general_result_margin": 8.6,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Ex-Republican convert (Duncan) got 7%. Bottoms defeated self-funding Republican Rick Jackson per Wikipedia lead; no percentage found. [Verification 2026-11-04] General: Bottoms 54.3 / Rick Jackson 45.7 (NBC News governor results page (fetched 11:08 AM ET Nov 4)).",
+   "general_pct_expected_counted": 98.6,
+   "general_called_by": "NBC News projection",
+   "verified": true
+  },
+  {
+   "id": "WI-GOV-D-primary",
+   "race_id_general": "GOV-WI",
+   "date": "2026-08-11",
+   "office": "Governor",
+   "state": "WI",
+   "district": null,
+   "candidates": [
+    {
+     "name": "David Crowley",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Milwaukee County executive; PBS NewsHour calls him a 'moderate Democrat'; WUWM a 'moderate Democrat', 'bridge builder' and 'Democratic centrist'; endorsed by Gov. Evers, Gwen Moore.",
+     "pct": 39.81,
+     "won": true,
+     "key_endorsements": [
+      "Tony Evers",
+      "Gwen Moore",
+      "Cavalier Johnson"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Francesca Hong",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "State rep and democratic socialist (DSA); endorsed by Ro Khanna, Ilhan Omar, SEIU Wisconsin, Our Revolution; led polls by up to 30 points.",
+     "pct": 39.35,
+     "won": false,
+     "key_endorsements": [
+      "Ro Khanna",
+      "Ilhan Omar",
+      "SEIU Wisconsin",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Kelda Roys",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "State senator; endorsed by former Lt. Gov. Barbara Lawton.",
+     "pct": 7.5,
+     "won": false,
+     "key_endorsements": [
+      "Barbara Lawton"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Joel Brennan",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "Former Evers administration secretary; endorsed by Tom Barrett.",
+     "pct": 4.68,
+     "won": false,
+     "key_endorsements": [
+      "Tom Barrett"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 792290,
+   "general_result_margin": 8.2,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
+    "https://www.wuwm.com/government-politics/2026-08-12/crowley-upsets-hong-to-face-trump-backed-tiffany-in-race-for-wisconsin-governor",
+    "https://axios.com/2026/08/12/wisconsin-primary-crowley-hong-socialist-takeaways",
+    "https://www.pbs.org/newshour/politics/david-crowley-wins-democratic-primary-for-wisconsin-governor-over-francesca-hong",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/wisconsin-governor-results"
+   ],
+   "notes": "Margin about 3,000 votes (Axios). Opponent Tom Tiffany was Trump-backed. general_called from Wikipedia summary table only (Crowley marked winner); AP call not found in search. [Verification 2026-11-04] General: Crowley 54.1 / Tiffany 45.9 (NBC News governor results page (fetched 11:08 AM ET Nov 4)). NBC primary page: Crowley 39.8 / Hong 39.3 / Roys 7.5 at 99% in; PBS: margin under 1 pt but over 0.25 pt; AP called after Hong conceded.",
+   "general_pct_expected_counted": 98.5,
+   "general_called_by": "NBC News projection",
+   "verified": true
+  },
+  {
+   "id": "CO-GOV-D-primary",
+   "race_id_general": "GOV-CO",
+   "date": "2026-06-30",
+   "office": "Governor",
+   "state": "CO",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Phil Weiser",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Attorney general; endorsed by Indivisible Colorado, Federico Pena, Ed Perlmutter; beat a sitting U.S. senator.",
+     "pct": 56.9,
+     "won": true,
+     "key_endorsements": [
+      "Indivisible Colorado",
+      "Federico Pena",
+      "Ed Perlmutter"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Michael Bennet",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Sitting U.S. senator; endorsed by Hickenlooper, Denver mayor Johnston, state Senate president.",
+     "pct": 43.1,
+     "won": false,
+     "key_endorsements": [
+      "John Hickenlooper",
+      "Mike Johnston"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 888575,
+   "general_result_margin": 27.3,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/colorado-governor-results"
+   ],
+   "notes": "Anti-establishment rather than ideological result. Opponent Victor Marx's candidacy 'mired in controversy' (Wikipedia). Wikipedia says Weiser 'projected' winner. [Verification 2026-11-04] General: Weiser 60.9 / Marx 33.6 (NBC News governor results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page: Weiser 56.9 / Bennet 43.1 at 99% in.",
+   "general_pct_expected_counted": 76.9,
+   "general_called_by": "NBC News (per project governors.json; table shows no call flag)",
+   "verified": true
+  },
+  {
+   "id": "NM-GOV-D-primary",
+   "race_id_general": "GOV-NM",
+   "date": "2026-06-02",
+   "office": "Governor",
+   "state": "NM",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Deb Haaland",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Former Interior secretary and frontrunner; Progressive Caucus alumna but not an insurgent (rubric: liberal); endorsed by WFP, EMILY's List, Lujan, Leger Fernandez, Buttigieg.",
+     "pct": 72.3,
+     "won": true,
+     "key_endorsements": [
+      "Working Families Party",
+      "Ben Ray Lujan",
+      "EMILY's List"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Sam Bregman",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Bernalillo County DA; endorsed by Albuquerque Police Officers Association and Iron Workers.",
+     "pct": 27.7,
+     "won": false,
+     "key_endorsements": [
+      "Albuquerque Police Officers Association"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 219332,
+   "general_result_margin": 14.4,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/new-mexico-governor-results"
+   ],
+   "notes": "general_called from Wikipedia summary table only. [Verification 2026-11-04] General: Haaland 57.2 / Hull 42.8 (NBC News governor results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page: Haaland 72.4 / Bregman 27.6 at 100% in (file 72.3/27.7 from official canvass).",
+   "general_pct_expected_counted": 98.0,
+   "general_called_by": "NBC News (per project governors.json; table shows no call flag)",
+   "verified": true
+  },
+  {
+   "id": "ME-GOV-D-primary",
+   "race_id_general": "GOV-ME",
+   "date": "2026-06-09",
+   "office": "Governor",
+   "state": "ME",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Hannah Pingree",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Former House speaker and Mills policy director; endorsed by Gov. Mills, Spanberger, House Speaker Fecteau.",
+     "pct": 23.3,
+     "won": true,
+     "key_endorsements": [
+      "Janet Mills",
+      "Abigail Spanberger",
+      "Ryan Fecteau"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Nirav Shah",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Former Maine/US CDC official; led most public polls; few endorsements.",
+     "pct": 26.8,
+     "won": false,
+     "key_endorsements": [
+      "Carl Sheline"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Troy Jackson",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Logger/labor populist; endorsed by Bernie Sanders, Ro Khanna, Platner, machinists and firefighters.",
+     "pct": 21.1,
+     "won": false,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Ro Khanna",
+      "Graham Platner"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Shenna Bellows",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Secretary of State; Maine Education Association first choice; ranked-choice alliance with Jackson and Pingree.",
+     "pct": 20.6,
+     "won": false,
+     "key_endorsements": [
+      "Maine Education Association",
+      "Maine People's Alliance"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Angus King III",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "Energy executive, son of Sen. Angus King.",
+     "pct": 8.3,
+     "won": false,
+     "key_endorsements": [
+      "Angus King"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 217747,
+   "general_result_margin": 18.4,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results",
+    "https://www.pressherald.com/2026/06/19/hannah-pingree-wins-ranked-choice-runoff-in-democratic-primary-for-governor/"
+   ],
+   "notes": "Ranked-choice: pct = first-round shares; Pingree won the final round 56.2% to Shah 43.8% (111,750 to 86,950). Turnout = round-1 continuing ballots. Pingree defeated Republican Bobby Charles and independent Rick Bennett (Wikipedia lead citing WaPo/WMTW AP call). [Verification 2026-11-04] General: Pingree 55.2 / Charles 36.8, independent Bennett takes the remainder (NBC News governor results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] Portland Press Herald (AP first round): Shah 26.8, Pingree 23.3, Jackson 21.1, Bellows 20.6.",
+   "general_pct_expected_counted": 86.5,
+   "general_called_by": "AP via WMTW/WaPo (Wikipedia lead); NBC per project governors.json",
+   "verified": true
+  },
+  {
+   "id": "RI-GOV-D-primary",
+   "race_id_general": "GOV-RI",
+   "date": "2026-09-09",
+   "office": "Governor",
+   "state": "RI",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Helena Foulkes",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Former CVS executive; endorsed by Pelosi, Patrick Kennedy, AG Neronha, RI SEIU. Wikipedia: both candidates 'relatively moderate'.",
+     "pct": 62.5,
+     "won": true,
+     "key_endorsements": [
+      "Nancy Pelosi",
+      "Patrick J. Kennedy",
+      "Peter Neronha"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Dan McKee",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Unpopular incumbent; endorsed by building trades, NEA-RI, firefighters.",
+     "pct": 37.5,
+     "won": false,
+     "key_endorsements": [
+      "NEA Rhode Island",
+      "RI Building & Construction Trades Council"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": true,
+   "ideological_direction_of_upset": "none",
+   "turnout": 130186,
+   "general_result_margin": 44.2,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/rhode-island-governor-results"
+   ],
+   "notes": "Incumbent governor lost renomination over competence (Washington Bridge closure), not ideology (Wikipedia). general_called from Wikipedia summary table only. [Verification 2026-11-04] General: Foulkes 57.5 / Guckian 13.3 (NBC News governor results page (fetched 11:08 AM ET Nov 4)); large non-R remainder. Date 2026-09-09 is a Wednesday; Wikipedia states primaries took place September 9, 2026, but this could not be confirmed independently (NBC primary page gives no date). [Primary cross-check] NBC primary page: Foulkes 62.5 / McKee 37.5 at 100% in.",
+   "general_pct_expected_counted": 97.1,
+   "general_called_by": "NBC News (per project governors.json; table shows no call flag)",
+   "verified": true
+  },
+  {
+   "id": "CT-GOV-D-primary",
+   "race_id_general": "GOV-CT",
+   "date": "2026-08-11",
+   "office": "Governor",
+   "state": "CT",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Ned Lamont",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Incumbent business-friendly governor; endorsed by Blumenthal, Murphy, state party, Teamsters, carpenters.",
+     "pct": 67.9,
+     "won": true,
+     "key_endorsements": [
+      "Richard Blumenthal",
+      "Chris Murphy",
+      "Connecticut Democratic Party"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Josh Elliott",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "State rep who 'challenged Lamont in the primary as a progressive' (Wikipedia); endorsed by Sunrise New Haven, Indivisible groups, SEIU 1973.",
+     "pct": 32.1,
+     "won": false,
+     "key_endorsements": [
+      "Sunrise New Haven",
+      "SEIU Local 1973",
+      "Indivisible"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 186346,
+   "general_result_margin": 17.6,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Connecticut_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/connecticut-governor-results"
+   ],
+   "notes": "general_called from Wikipedia summary table only. [Verification 2026-11-04] General: Lamont 58.8 / Fazio 41.2 (NBC News governor results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page: Lamont 67.9 / Elliott 32.1 at 99% in.",
+   "general_pct_expected_counted": 93.2,
+   "general_called_by": "NBC News (per project governors.json; table shows no call flag)",
+   "verified": true
+  },
+  {
+   "id": "VT-GOV-D-primary",
+   "race_id_general": "GOV-VT",
+   "date": "2026-08-11",
+   "office": "Governor",
+   "state": "VT",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Amanda Janoo",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "Economist; endorsed by Bernie Sanders and the Vermont Progressive Party (ran as Democrat/Progressive).",
+     "pct": 49.1,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Vermont Progressive Party"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Aly Richards",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "Endorsed by former governors Kunin and Shumlin, firefighters, building trades.",
+     "pct": 46.6,
+     "won": false,
+     "key_endorsements": [
+      "Madeleine Kunin",
+      "Peter Shumlin"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "progressive",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 80693,
+   "general_result_margin": -7.0,
+   "general_called": "R",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/vermont-governor-results"
+   ],
+   "notes": "Opponent was popular moderate GOP incumbent Phil Scott (marked re-elected in Wikipedia summary; not verified). [Verification 2026-11-04] General: Janoo 45.6 / Scott 52.6 (NBC News governor results page (fetched 11:08 AM ET Nov 4)). [Primary cross-check] NBC primary page: Janoo 49.1 / Richards 46.6 at 100% in.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC News (per project governors.json; table shows no call flag)",
+   "verified": true
+  },
+  {
+   "id": "NV-GOV-D-primary",
+   "race_id_general": "GOV-NV",
+   "date": "2026-06-09",
+   "office": "Governor",
+   "state": "NV",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Aaron Ford",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "high",
+     "style_evidence": "Attorney general; endorsed by Cortez Masto, Rosen, Titus, Lee, Horsford, teachers' unions.",
+     "pct": 63.3,
+     "won": true,
+     "key_endorsements": [
+      "Catherine Cortez Masto",
+      "Jacky Rosen",
+      "Nevada State Education Association"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Alexis Hill",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "low",
+     "style_evidence": "Washoe County commission chair; endorsed by Progressive Leadership Alliance of Nevada Action.",
+     "pct": 23.9,
+     "won": false,
+     "key_endorsements": [
+      "PLAN Action"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 187818,
+   "general_result_margin": 7.5,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Ford unseated GOP Gov. Joe Lombardo per Wikipedia lead; no percentage found. [Verification 2026-11-04] General: Ford 51.7 / Lombardo 44.2 (NBC News governor results page (fetched 11:08 AM ET Nov 4)).",
+   "general_pct_expected_counted": 87.2,
+   "general_called_by": "NBC News projection",
+   "verified": true
+  },
+  {
+   "id": "TX-GOV-D-primary",
+   "race_id_general": "GOV-TX",
+   "date": "2026-03-03",
+   "office": "Governor",
+   "state": "TX",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Gina Hinojosa",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "State rep; general-election message on affordability, corruption and against AI data centers; endorsed by Texas AFL-CIO, AFT, EMILY's List, Gallego, Murphy.",
+     "pct": 58.5,
+     "won": true,
+     "key_endorsements": [
+      "Texas AFL-CIO",
+      "EMILY's List",
+      "Ruben Gallego",
+      "Chris Murphy"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Chris Bell",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "Former congressman and 2006 nominee.",
+     "pct": 9.8,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 2203671,
+   "general_result_margin": 7.1,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
+    "https://www.texastribune.org/2026/11/03/texas-governor-greg-abbott-gina-hinojosa-election/",
+    "https://www.multistate.us/elections/governor-race/texas-2026",
+    "https://www.npr.org/2026/11/03/g-s1-150844/gina-hinojosa-texas-governor-abbott",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Weak ideological contrast in primary. General: AP called for Hinojosa over 3-term incumbent Abbott; 52.5% vs 46.0% per MultiState (preliminary). [Verification 2026-11-04] General: Hinojosa 52.8 / Abbott 45.7 (NBC News governor results page (fetched 11:08 AM ET Nov 4)).",
+   "general_pct_expected_counted": 97.5,
+   "general_called_by": "AP (Texas Tribune/NPR); NBC",
+   "verified": true
+  },
+  {
+   "id": "FL-GOV-D-primary",
+   "race_id_general": "GOV-FL",
+   "date": "2026-08-18",
+   "office": "Governor",
+   "state": "FL",
+   "district": null,
+   "candidates": [
+    {
+     "name": "David Jolly",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Former Republican congressman running as a Democrat; endorsed by Bill Clinton, Eric Holder, Gwen Graham (running mate), Maxwell Frost.",
+     "pct": 61.0,
+     "won": true,
+     "key_endorsements": [
+      "Bill Clinton",
+      "Eric Holder",
+      "Maxwell Frost"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Dayna Marie Foster",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "low",
+     "style_evidence": "Endorsed by Democratic Progressive Caucus of Florida and Orlando 50501.",
+     "pct": 15.1,
+     "won": false,
+     "key_endorsements": [
+      "Democratic Progressive Caucus of Florida"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 1249352,
+   "general_result_margin": -1.31,
+   "general_called": "R",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Primary total in the Wikipedia box appears corrupted (equals general total 8,259,936), so turnout set to 1,249,352 = sum of the six candidate rows in that box (shares recompute exactly: Jolly 761,558 = 61.0%). General: Donalds 50.02% vs Jolly 48.71% per Wikipedia general box (share counted not stated). Compare FL-SEN, where DSA member Nixon ran 2.9 behind on the same ballot. [Verification 2026-11-04] General: NBC: Jolly 48.7 / Donalds 50.0 at 99% in, consistent with Wikipedia 48.71/50.02.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC News (per project governors.json)",
+   "verified": true
+  },
+  {
+   "id": "CO-01-D-primary",
+   "race_id_general": "HOUSE-CO-01",
+   "date": "2026-06-30",
+   "office": "U.S. House",
+   "state": "CO",
+   "district": 1,
+   "candidates": [
+    {
+     "name": "Melat Kiros",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Democratic socialist (AP); endorsed by Justice Democrats, DSA, WFP, Our Revolution, Sanders, Track AIPAC.",
+     "pct": 53.2,
+     "won": true,
+     "key_endorsements": [
+      "Justice Democrats",
+      "Democratic Socialists of America",
+      "Bernie Sanders",
+      "Working Families Party"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Diana DeGette",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "high",
+     "style_evidence": "15-term incumbent; endorsed by Colorado AFL-CIO, SEIU, J Street, CHC BOLD PAC, Casar and Frost.",
+     "pct": 39.8,
+     "won": false,
+     "key_endorsements": [
+      "Colorado AFL-CIO",
+      "SEIU Colorado",
+      "J Street"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Wanda James",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "CU regent; endorsed by Ken Salazar, Wellington Webb.",
+     "pct": 7.0,
+     "won": false,
+     "key_endorsements": [
+      "Ken Salazar"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": true,
+   "ideological_direction_of_upset": "from_left",
+   "turnout": 157645,
+   "general_result_margin": 64.4,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/colorado-us-house-district-1-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/colorado-house-results"
+   ],
+   "notes": "Safe D Denver seat; Democratic hold. [Verification 2026-11-04] General: Kiros 78.3 / Peterson (R) 13.9 / Blau (I) 5.9 (NBC Colorado House page, 11:04 AM ET). [Primary cross-check] NBC primary page: Kiros 53.2 (83,855) / DeGette 39.8 (62,715) / James 7.0 at 99% in; NBC calls Kiros a democratic socialist.",
+   "general_pct_expected_counted": 68.6,
+   "general_called_by": "Safe D; NBC page showed no call flag at fetch time",
+   "verified": true
+  },
+  {
+   "id": "CT-01-D-primary",
+   "race_id_general": "HOUSE-CT-01",
+   "date": "2026-08-11",
+   "office": "U.S. House",
+   "state": "CT",
+   "district": 1,
+   "candidates": [
+    {
+     "name": "Luke Bronin",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "Former Hartford mayor; generational-change challenge (NBC); endorsed by Buttigieg, VoteVets, AFSCME, College Democrats.",
+     "pct": 53.6,
+     "won": true,
+     "key_endorsements": [
+      "Pete Buttigieg",
+      "VoteVets"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "John Larson",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "high",
+     "style_evidence": "Incumbent since 1999; endorsed by Blumenthal, Murphy, Clyburn, WFP.",
+     "pct": 33.4,
+     "won": false,
+     "key_endorsements": [
+      "Richard Blumenthal",
+      "Chris Murphy",
+      "Jim Clyburn",
+      "Working Families Party"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Jillian Gilchrest",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "low",
+     "style_evidence": "State rep; endorsed by Track AIPAC, Progressive Victory.",
+     "pct": 8.2,
+     "won": false,
+     "key_endorsements": [
+      "Track AIPAC"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": true,
+   "ideological_direction_of_upset": "from_center",
+   "turnout": 54476,
+   "general_result_margin": 31.9,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/connecticut-house-results"
+   ],
+   "notes": "Primarily an age/generational upset; 'from_center' coding is low-confidence (Larson had WFP backing; Bronin had Buttigieg/VoteVets). [Verification 2026-11-04] General: Bronin 65.1 / Chai 33.2 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 91.2,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "MI-13-D-primary",
+   "race_id_general": "HOUSE-MI-13",
+   "date": "2026-08-04",
+   "office": "U.S. House",
+   "state": "MI",
+   "district": 13,
+   "candidates": [
+    {
+     "name": "Donavan McKinney",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Detroit council member; endorsed by Sanders, DSA, WFP, PCCC, Michigan AFL-CIO, Track AIPAC; Politico: 'progressive challenger'.",
+     "pct": 51.7,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Democratic Socialists of America",
+      "Working Families Party",
+      "Michigan AFL-CIO"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Shri Thanedar",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Self-funding incumbent; endorsed by House leadership (Aguilar, Clark) and AIPAC.",
+     "pct": 47.91,
+     "won": false,
+     "key_endorsements": [
+      "Pete Aguilar",
+      "Katherine Clark",
+      "AIPAC"
+     ],
+     "outside_spending_note": "Self-funder."
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": true,
+   "ideological_direction_of_upset": "from_left",
+   "turnout": 111704,
+   "general_result_margin": 56.65,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/michigan-house-results"
+   ],
+   "notes": "Safe D Detroit seat. [Verification 2026-11-04] General: McKinney 76.51 / Nykoriak 19.86 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 67.4,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "NY-10-D-primary",
+   "race_id_general": "HOUSE-NY-10",
+   "date": "2026-06-23",
+   "office": "U.S. House",
+   "state": "NY",
+   "district": 10,
+   "candidates": [
+    {
+     "name": "Brad Lander",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "Former NYC comptroller; endorsed by Sanders, Warren, Congressional Progressive Caucus, Casar, Frost, J Street.",
+     "pct": 66.0,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Elizabeth Warren",
+      "Congressional Progressive Caucus",
+      "J Street"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Dan Goldman",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Incumbent; endorsed by Pelosi, Aguilar, Clark, Hochul, UFT, AIPAC, DMFI.",
+     "pct": 33.8,
+     "won": false,
+     "key_endorsements": [
+      "Nancy Pelosi",
+      "Kathy Hochul",
+      "AIPAC",
+      "Democratic Majority for Israel",
+      "UFT"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "progressive",
+   "incumbent_defeated": true,
+   "ideological_direction_of_upset": "from_left",
+   "turnout": 87993,
+   "general_result_margin": 67.3,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-10-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/new-york-house-results"
+   ],
+   "notes": "CBS projected Lander; safe D. [Verification 2026-11-04] General: Lander 83.2 / Moore 15.9 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check). [Primary cross-check] NBC primary page (90.4% in, election night): Lander 65.8 / Goldman 34.0; file uses final count.",
+   "general_pct_expected_counted": 90.9,
+   "general_called_by": "NBC (inferred from statewide tally)",
+   "verified": true
+  },
+  {
+   "id": "NY-13-D-primary",
+   "race_id_general": "HOUSE-NY-13",
+   "date": "2026-06-23",
+   "office": "U.S. House",
+   "state": "NY",
+   "district": 13,
+   "candidates": [
+    {
+     "name": "Darializa Avila Chevalier",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "medium",
+     "style_evidence": "Community organizer; 'Mamdani-backed' (NBC); endorsed by CPC, WFP, Casar, Frost.",
+     "pct": 49.5,
+     "won": true,
+     "key_endorsements": [
+      "Zohran Mamdani",
+      "Congressional Progressive Caucus",
+      "Working Families Party"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Adriano Espaillat",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Five-term incumbent; Hochul ally.",
+     "pct": 45.7,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": true,
+   "ideological_direction_of_upset": "from_left",
+   "turnout": 73389,
+   "general_result_margin": 76.1,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-13-results"
+   ],
+   "notes": "Safe D. [Verification 2026-11-04] General: Avila Chevalier 87.5 / Williams 11.4 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 79.8,
+   "general_called_by": "NBC (inferred from statewide tally)",
+   "verified": true
+  },
+  {
+   "id": "TX-18-D-primary",
+   "race_id_general": "HOUSE-TX-18",
+   "date": "2026-05-26",
+   "office": "U.S. House",
+   "state": "TX",
+   "district": 18,
+   "candidates": [
+    {
+     "name": "Christian Menefee",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Young incumbent (won 2026 special); endorsed by Jasmine Crockett.",
+     "pct": 69.3,
+     "won": true,
+     "key_endorsements": [
+      "Jasmine Crockett"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Al Green",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Longtime incumbent (drawn into TX-18 by redistricting); endorsed by Planned Parenthood, Cleaver, Bishop.",
+     "pct": 30.7,
+     "won": false,
+     "key_endorsements": [
+      "Planned Parenthood Action Fund",
+      "Emanuel Cleaver"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": true,
+   "ideological_direction_of_upset": "none",
+   "turnout": 49191,
+   "general_result_margin": 72.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Member-vs-member after redistricting; runoff numbers shown (first round Mar 3: Menefee 46.0, Green 44.2). Generational, not ideological. [Verification 2026-11-04] General: Menefee 86.0 / Whitfield 14.0 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 90.9,
+   "general_called_by": "Safe D; winner per Wikipedia (no NBC call label seen)",
+   "verified": true
+  },
+  {
+   "id": "TX-33-D-primary",
+   "race_id_general": "HOUSE-TX-33",
+   "date": "2026-05-26",
+   "office": "U.S. House",
+   "state": "TX",
+   "district": 33,
+   "candidates": [
+    {
+     "name": "Colin Allred",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Former Rep and 2024 Senate nominee; J Street, Crockett endorsements.",
+     "pct": 54.0,
+     "won": true,
+     "key_endorsements": [
+      "J Street",
+      "Jasmine Crockett"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Julie Johnson",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "First-term incumbent (moved districts after redistricting); broad House-member endorsements, EMILY's List.",
+     "pct": 46.0,
+     "won": false,
+     "key_endorsements": [
+      "EMILY's List",
+      "Pete Aguilar"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": true,
+   "ideological_direction_of_upset": "none",
+   "turnout": 21031,
+   "general_result_margin": 57.2,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Runoff numbers (first round: Allred 44.0, Johnson 33.2). Non-ideological; name-ID comeback. [Verification 2026-11-04] General: Allred 78.6 / Gillespie 21.4 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 91.4,
+   "general_called_by": "Safe D; winner per Wikipedia (no NBC call label seen)",
+   "verified": true
+  },
+  {
+   "id": "MO-01-D-primary",
+   "race_id_general": "HOUSE-MO-01",
+   "date": "2026-08-04",
+   "office": "U.S. House",
+   "state": "MO",
+   "district": 1,
+   "candidates": [
+    {
+     "name": "Wesley Bell",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Incumbent; endorsed by Jeffries, Pelosi, AIPAC, DMFI, Missouri AFL-CIO, CBC.",
+     "pct": 59.2,
+     "won": true,
+     "key_endorsements": [
+      "Hakeem Jeffries",
+      "Nancy Pelosi",
+      "AIPAC",
+      "Missouri AFL-CIO"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Cori Bush",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Former Squad member seeking comeback; endorsed by Justice Democrats, DSA, Sanders, Tlaib, Pressley, National Nurses United.",
+     "pct": 36.9,
+     "won": false,
+     "key_endorsements": [
+      "Justice Democrats",
+      "Democratic Socialists of America",
+      "Bernie Sanders",
+      "Rashida Tlaib"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 141711,
+   "general_result_margin": 67.6,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/missouri-house-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/missouri-house-results"
+   ],
+   "notes": "Squad comeback failed by 22 points. [Verification 2026-11-04] General: Bell 81.5 / Berry 13.9 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check). [Primary cross-check] NBC primary page: Bell 59.2 / Bush 36.9 at 99% in.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "NY-07-D-primary",
+   "race_id_general": "HOUSE-NY-07",
+   "date": "2026-06-23",
+   "office": "U.S. House",
+   "state": "NY",
+   "district": 7,
+   "candidates": [
+    {
+     "name": "Claire Valdez",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "Assemblymember aligned with NYC-DSA/Mamdani bloc; endorsed by Sanders, Khanna, DSA state legislators (Brisport, Gonzalez, Mitaynes, Shrestha).",
+     "pct": 56.2,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Ro Khanna",
+      "Jabari Brisport",
+      "Kristen Gonzalez"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Antonio Reynoso",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Brooklyn borough president; endorsed by retiring Rep. Velazquez, Nadler, Letitia James, 1199SEIU, Central Labor Council.",
+     "pct": 35.6,
+     "won": false,
+     "key_endorsements": [
+      "Nydia Velazquez",
+      "Jerry Nadler",
+      "Letitia James",
+      "1199SEIU"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "progressive",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 70488,
+   "general_result_margin": 68.3,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-7-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/new-york-house-results"
+   ],
+   "notes": "Open seat (Velazquez retired). DSA membership of Valdez not directly confirmed in fetched sources; classification from endorsements. [Verification 2026-11-04] General: Valdez 83.3 / Rivera 15.0 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check). [Primary cross-check] NBC primary page (92.2% in, election night): Valdez 56.1 / Reynoso 35.8; file uses final count.",
+   "general_pct_expected_counted": 85.0,
+   "general_called_by": "NBC (inferred from statewide tally)",
+   "verified": true
+  },
+  {
+   "id": "IL-09-D-primary",
+   "race_id_general": "HOUSE-IL-09",
+   "date": "2026-03-17",
+   "office": "U.S. House",
+   "state": "IL",
+   "district": 9,
+   "candidates": [
+    {
+     "name": "Daniel Biss",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Evanston mayor; endorsed by Duckworth, Warren, Casten, Foster, Casar, Frost, End Citizens United.",
+     "pct": 29.4,
+     "won": true,
+     "key_endorsements": [
+      "Tammy Duckworth",
+      "Elizabeth Warren",
+      "End Citizens United"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Kat Abughazaleh",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Online creator/insurgent; endorsed by Omar, Khanna, Bowman, Sunrise, IfNotNow, Track AIPAC.",
+     "pct": 26.3,
+     "won": false,
+     "key_endorsements": [
+      "Ilhan Omar",
+      "Ro Khanna",
+      "Sunrise Movement",
+      "Track AIPAC"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Laura Fine",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "State senator; endorsed by Brad Schneider, Cheri Bustos.",
+     "pct": 20.0,
+     "won": false,
+     "key_endorsements": [
+      "Brad Schneider",
+      "Cheri Bustos"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 131840,
+   "general_result_margin": 51.66,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/illinois-house-results"
+   ],
+   "notes": "Open seat (Schakowsky retired). [Verification 2026-11-04] General: Biss 75.83 / Elleson 24.17 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 93.9,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "IL-08-D-primary",
+   "race_id_general": "HOUSE-IL-08",
+   "date": "2026-03-17",
+   "office": "U.S. House",
+   "state": "IL",
+   "district": 8,
+   "candidates": [
+    {
+     "name": "Melissa Bean",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Former Blue Dog-era congresswoman; endorsed by Pelosi, Hoyer, Duckworth, Scott Peters, J Street.",
+     "pct": 31.6,
+     "won": true,
+     "key_endorsements": [
+      "Nancy Pelosi",
+      "Steny Hoyer",
+      "Tammy Duckworth"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Junaid Ahmed",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "Endorsed by Sanders, Jayapal, Chuy Garcia, Our Revolution, IfNotNow.",
+     "pct": 26.9,
+     "won": false,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Pramila Jayapal",
+      "Chuy Garcia",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 70518,
+   "general_result_margin": 29.58,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/illinois-house-results"
+   ],
+   "notes": "Open seat (Krishnamoorthi ran for Senate); fragmented field. [Verification 2026-11-04] General: Bean 64.79 / Davis 35.21 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 76.1,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "IL-02-D-primary",
+   "race_id_general": "HOUSE-IL-02",
+   "date": "2026-03-17",
+   "office": "U.S. House",
+   "state": "IL",
+   "district": 2,
+   "candidates": [
+    {
+     "name": "Donna Miller",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Cook County commissioner; endorsed by Carol Moseley Braun, Brad Schneider, AIPAC, DMFI.",
+     "pct": 40.4,
+     "won": true,
+     "key_endorsements": [
+      "Carol Moseley Braun",
+      "AIPAC",
+      "Democratic Majority for Israel"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Jesse Jackson Jr.",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Former congressman's comeback; endorsed by Bobby Rush and Leading the Future (AI-industry super PAC network).",
+     "pct": 28.9,
+     "won": false,
+     "key_endorsements": [
+      "Bobby Rush",
+      "Leading the Future"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Robert Peters",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "high",
+     "style_evidence": "State senator; endorsed by Sanders, CPC, WFP, Sunrise, Our Revolution, Casar, Delia Ramirez.",
+     "pct": 12.4,
+     "won": false,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Congressional Progressive Caucus",
+      "Working Families Party"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 84296,
+   "general_result_margin": 45.4,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/illinois-house-results"
+   ],
+   "notes": "Open seat (Kelly ran for Senate). Sanders/CPC candidate finished third. [Verification 2026-11-04] General: Miller 72.7 / Noack 27.3 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 84.7,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "PA-03-D-primary",
+   "race_id_general": "HOUSE-PA-03",
+   "date": "2026-05-19",
+   "office": "U.S. House",
+   "state": "PA",
+   "district": 3,
+   "candidates": [
+    {
+     "name": "Chris Rabb",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "high",
+     "style_evidence": "State rep; endorsed by Justice Democrats, Sunrise, Summer Lee, Omar, Casar, Frost, Van Hollen.",
+     "pct": 44.6,
+     "won": true,
+     "key_endorsements": [
+      "Justice Democrats",
+      "Sunrise Movement",
+      "Summer Lee",
+      "Chris Van Hollen"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Sharif Street",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "high",
+     "style_evidence": "State senator and state party chair; endorsed by Booker, Rendell, Keith Ellison, Philadelphia legislators.",
+     "pct": 29.3,
+     "won": false,
+     "key_endorsements": [
+      "Cory Booker",
+      "Ed Rendell",
+      "Keith Ellison"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Ala Stanford",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Physician; endorsed by retiring Rep. Dwight Evans, EMILY's List, Marcia Fudge.",
+     "pct": 24.0,
+     "won": false,
+     "key_endorsements": [
+      "Dwight Evans",
+      "EMILY's List"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "progressive",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 147413,
+   "general_result_margin": null,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-house-results"
+   ],
+   "notes": "Open seat (Evans retired). [Verification 2026-11-04] General: No Republican nominee (Rabb 93.6 vs independent Mahoney), so no D-minus-R margin (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 97.7,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "NJ-12-D-primary",
+   "race_id_general": "HOUSE-NJ-12",
+   "date": "2026-06-02",
+   "office": "U.S. House",
+   "state": "NJ",
+   "district": 12,
+   "candidates": [
+    {
+     "name": "Adam Hamawy",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Surgeon/outsider; endorsed by Justice Democrats, Sanders, CPC, PCCC, Our Revolution, Summer Lee, Omar, Josh Paul.",
+     "pct": 28.6,
+     "won": true,
+     "key_endorsements": [
+      "Justice Democrats",
+      "Bernie Sanders",
+      "Congressional Progressive Caucus",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Brad Cohen",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Middlesex County Democratic Committee pick (won county convention).",
+     "pct": 14.6,
+     "won": false,
+     "key_endorsements": [
+      "Middlesex County Democratic Committee"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Verlina Reynolds-Jackson",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Mercer County Democratic Committee pick (won Mercer convention).",
+     "pct": 8.8,
+     "won": false,
+     "key_endorsements": [
+      "Mercer County Democratic Committee",
+      "Reed Gusciora"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 77754,
+   "general_result_margin": 41.9,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-12-results"
+   ],
+   "notes": "Open seat (Watson Coleman retired); split county-party field let JD candidate win with plurality. [Verification 2026-11-04] General: Hamawy 70.2 / Mele 28.3 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 93.1,
+   "general_called_by": "NBC (inferred from statewide tally)",
+   "verified": true
+  },
+  {
+   "id": "MA-08-D-primary",
+   "race_id_general": "HOUSE-MA-08",
+   "date": "2026-09-01",
+   "office": "U.S. House",
+   "state": "MA",
+   "district": 8,
+   "candidates": [
+    {
+     "name": "Stephen Lynch",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Long-serving centrist incumbent; endorsed by building trades, firefighters, UNITE HERE, J Street.",
+     "pct": 55.6,
+     "won": true,
+     "key_endorsements": [
+      "Professional Firefighters of Massachusetts",
+      "J Street"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Patrick Roath",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Generational challenger; endorsed by Leaders We Deserve, Indivisible, Deval Patrick, teachers' unions, Boston Globe.",
+     "pct": 44.2,
+     "won": false,
+     "key_endorsements": [
+      "Leaders We Deserve",
+      "Indivisible",
+      "Deval Patrick",
+      "Boston Globe"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 103949,
+   "general_result_margin": 42.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results"
+   ],
+   "notes": "Challenge from the left/generational lane fell 11 points short. [Verification 2026-11-04] General: Lynch 69.1 / Burke 27.1 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 76.9,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "MA-01-D-primary",
+   "race_id_general": "HOUSE-MA-01",
+   "date": "2026-09-01",
+   "office": "U.S. House",
+   "state": "MA",
+   "district": 1,
+   "candidates": [
+    {
+     "name": "Richard Neal",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Ways and Means ranking member; endorsed by Massachusetts AFL-CIO, AIPAC, DMFI.",
+     "pct": 54.0,
+     "won": true,
+     "key_endorsements": [
+      "Massachusetts AFL-CIO",
+      "AIPAC",
+      "Democratic Majority for Israel"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Jeromie Whalen",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "medium",
+     "style_evidence": "Teacher; endorsed by Our Revolution, Track AIPAC, Massachusetts Teachers Association, Peace Action.",
+     "pct": 45.9,
+     "won": false,
+     "key_endorsements": [
+      "Our Revolution",
+      "Track AIPAC",
+      "Massachusetts Teachers Association"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 92541,
+   "general_result_margin": null,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Massachusetts",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/massachusetts-house-results"
+   ],
+   "notes": "Near-upset (8-point margin) of a senior incumbent by a teacher. [Verification 2026-11-04] General: No Republican (Neal 65.1 vs independent Milleron 34.9), so no D-minus-R margin (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 86.7,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "MD-05-D-primary",
+   "race_id_general": "HOUSE-MD-05",
+   "date": "2026-06-23",
+   "office": "U.S. House",
+   "state": "MD",
+   "district": 5,
+   "candidates": [
+    {
+     "name": "Adrian Boafo",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "State delegate; endorsed by retiring Rep. Hoyer, Gov. Moore, Sen. Alsobrooks; UDP and Protect Progress listed among backers on Wikipedia.",
+     "pct": 32.7,
+     "won": true,
+     "key_endorsements": [
+      "Steny Hoyer",
+      "Wes Moore",
+      "Angela Alsobrooks",
+      "United Democracy Project",
+      "Protect Progress"
+     ],
+     "outside_spending_note": "Wikipedia lists United Democracy Project (AIPAC) and Protect Progress (crypto/Fairshake network) as supporters; dollar amounts not found."
+    },
+    {
+     "name": "Harry Dunn",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Former Capitol Police officer; endorsed by Pelosi, End Citizens United.",
+     "pct": 14.0,
+     "won": false,
+     "key_endorsements": [
+      "Nancy Pelosi",
+      "End Citizens United"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Wala Blegay",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "low",
+     "style_evidence": "PG County council member; endorsed by Ro Khanna, CASA, CAIR Action, PDA, Sierra Club.",
+     "pct": 11.1,
+     "won": false,
+     "key_endorsements": [
+      "Ro Khanna",
+      "CASA in Action",
+      "Progressive Democrats of America"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 101048,
+   "general_result_margin": 37.8,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/maryland-house-results"
+   ],
+   "notes": "Open seat (Hoyer retired); Quincy Bareebe second with 17.3%. [Verification 2026-11-04] General: Boafo 68.9 / Chaffee 31.1 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 85.9,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "NC-04-D-primary",
+   "race_id_general": "HOUSE-NC-04",
+   "date": "2026-03-03",
+   "office": "U.S. House",
+   "state": "NC",
+   "district": 4,
+   "candidates": [
+    {
+     "name": "Valerie Foushee",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Incumbent; endorsed by CPC, LCV, Gov. Josh Stein, Wes Moore, Alma Adams.",
+     "pct": 49.2,
+     "won": true,
+     "key_endorsements": [
+      "Congressional Progressive Caucus",
+      "Josh Stein",
+      "League of Conservation Voters"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Nida Allam",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "Durham County commissioner (2022 rematch); endorsed by Sanders, WFP, Sunrise, Our Revolution, David Hogg.",
+     "pct": 48.2,
+     "won": false,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Working Families Party",
+      "Sunrise Movement",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 125655,
+   "general_result_margin": 60.18,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-4-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/north-carolina-house-results"
+   ],
+   "notes": "Incumbent survived by ~1,200 votes. [Verification 2026-11-04] General: Foushee 79.12 / Ganorkar 18.94 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check). [Primary cross-check] NBC primary page: Foushee 49.2 (61,779) / Allam 48.2 (60,607) at 99.5% in.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC News",
+   "verified": true
+  },
+  {
+   "id": "TN-09-D-primary",
+   "race_id_general": "HOUSE-TN-09",
+   "date": "2026-08-06",
+   "office": "U.S. House",
+   "state": "TN",
+   "district": 9,
+   "candidates": [
+    {
+     "name": "Justin Pearson",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "State rep (expelled/reinstated 'Tennessee Three'); endorsed by Markey, Khanna, Omar, Frost, Sunrise, WFP, Track AIPAC.",
+     "pct": 65.7,
+     "won": true,
+     "key_endorsements": [
+      "Ed Markey",
+      "Ro Khanna",
+      "Working Families Party",
+      "Sunrise Movement"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "London Lamar",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "State senator; endorsed by Rep. Steve Cohen, Harold Ford Sr., several House members.",
+     "pct": 24.3,
+     "won": false,
+     "key_endorsements": [
+      "Steve Cohen",
+      "Harold Ford Sr."
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 48823,
+   "general_result_margin": -1.1,
+   "general_called": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-9-results"
+   ],
+   "notes": "Cohen withdrew 'due to redistricting'.  [Verification 2026-11-04] General: UNCALLED: Pearson 48.5 trails Brent Taylor (R) 49.6 at 99% expected vote; NBC says Pearson would need 100% of remaining vote (NBC News district page (fetched ~11:17 AM ET Nov 4)). Redrawn seat.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": null,
+   "verified": true
+  },
+  {
+   "id": "TX-28-D-primary",
+   "race_id_general": "HOUSE-TX-28",
+   "date": "2026-03-03",
+   "office": "U.S. House",
+   "state": "TX",
+   "district": 28,
+   "candidates": [
+    {
+     "name": "Henry Cuellar",
+     "ideology": "conservative",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Long-time Blue Dog incumbent, socially conservative (anti-abortion record); AIPAC listed as endorser.",
+     "pct": 58.1,
+     "won": true,
+     "key_endorsements": [
+      "AIPAC"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Ricardo Villarreal",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Little style information found in fetched sources.",
+     "pct": 37.0,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 67571,
+   "general_result_margin": 36.2,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Cuellar marked re-elected on Wikipedia summary. [Verification 2026-11-04] General: Cuellar 65.8 / Tijerina 29.6 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 93.2,
+   "general_called_by": "Winner per Wikipedia (no NBC call label seen)",
+   "verified": true
+  },
+  {
+   "id": "UT-01-D-primary",
+   "race_id_general": "HOUSE-UT-01",
+   "date": "2026-06-23",
+   "office": "U.S. House",
+   "state": "UT",
+   "district": 1,
+   "candidates": [
+    {
+     "name": "Ben McAdams",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "high",
+     "style_evidence": "Former Blue Dog congressman; endorsed by WelcomePAC, LCV, Deb Haaland, Greg Stanton.",
+     "pct": 51.9,
+     "won": true,
+     "key_endorsements": [
+      "WelcomePAC",
+      "League of Conservation Voters",
+      "Deb Haaland"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Nate Blouin",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "high",
+     "style_evidence": "State senator; endorsed by Sanders, CPC, PCCC, Our Revolution, Leaders We Deserve, Track AIPAC.",
+     "pct": 27.5,
+     "won": false,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Congressional Progressive Caucus",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Liban Mohamed",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "low",
+     "style_evidence": "Endorsed by Ilhan Omar.",
+     "pct": 16.7,
+     "won": false,
+     "key_endorsements": [
+      "Ilhan Omar"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 57295,
+   "general_result_margin": 47.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/utah-house-results"
+   ],
+   "notes": "New/redrawn seat; Democratic gain per Wikipedia summary. [Verification 2026-11-04] General: McAdams 71.9 / Owen (R) 24.9 (NBC Utah House page, 11:04 AM ET).",
+   "general_pct_expected_counted": 60.0,
+   "general_called_by": "NBC labels flip; no explicit call flag in fetched text",
+   "verified": true
+  },
+  {
+   "id": "WA-03-top2-primary",
+   "race_id_general": "HOUSE-WA-03",
+   "date": "2026-08-04",
+   "office": "U.S. House (top-two)",
+   "state": "WA",
+   "district": 3,
+   "candidates": [
+    {
+     "name": "Marie Gluesenkamp Perez",
+     "ideology": "moderate",
+     "posture": "populist",
+     "archetype": "center_populist",
+     "style_confidence": "high",
+     "style_evidence": "Blue Dog incumbent, auto-repair shop owner, right-to-repair/working-class branding; endorsed by EMILY's List, End Citizens United.",
+     "pct": 36.4,
+     "won": true,
+     "key_endorsements": [
+      "EMILY's List",
+      "End Citizens United"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Brent Hennrich",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "low",
+     "style_evidence": "Left challenger; endorsed by Indivisible groups.",
+     "pct": 16.7,
+     "won": false,
+     "key_endorsements": [
+      "Indivisible"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "center_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 214491,
+   "general_result_margin": 10.8,
+   "general_called": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/washington-us-house-district-3-results"
+   ],
+   "notes": "Top-two (all-party turnout). Republican John Braun led primary with 39.7%. General vs Braun shows no winner on Wikipedia as of Nov 4. [Verification 2026-11-04] General: Gluesenkamp Perez 55.0 / Braun 44.2 at 66.7% expected vote; no call shown (NBC News district page (fetched ~11:17 AM ET Nov 4)).",
+   "general_pct_expected_counted": 66.7,
+   "general_called_by": null,
+   "verified": true
+  },
+  {
+   "id": "NE-02-D-primary",
+   "race_id_general": "HOUSE-NE-02",
+   "date": "2026-05-12",
+   "office": "U.S. House",
+   "state": "NE",
+   "district": 2,
+   "candidates": [
+    {
+     "name": "Denise Powell",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Endorsed by NewDem Action Fund, EMILY's List, Annie Kuster, Latino Victory Fund.",
+     "pct": 38.8,
+     "won": true,
+     "key_endorsements": [
+      "NewDem Action Fund",
+      "EMILY's List"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "John Cavanaugh",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "State senator; endorsed by Bob Kerrey, Ben Nelson, Ro Khanna, Raskin, End Citizens United, J Street.",
+     "pct": 36.4,
+     "won": false,
+     "key_endorsements": [
+      "Bob Kerrey",
+      "Ben Nelson",
+      "Ro Khanna",
+      "End Citizens United"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Crystal Rhoades",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Endorsed by Omaha mayor John Ewing Jr.",
+     "pct": 14.1,
+     "won": false,
+     "key_endorsements": [
+      "John Ewing Jr."
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 58004,
+   "general_result_margin": 15.4,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/nebraska-us-house-district-2-results"
+   ],
+   "notes": "Open R seat (Bacon retired); Democratic gain per Wikipedia summary. [Verification 2026-11-04] General: Powell 56.4 / Harding 41.0 (NBC News district page (fetched ~11:17 AM ET Nov 4)).",
+   "general_pct_expected_counted": 87.3,
+   "general_called_by": "NBC projection per project house dataset",
+   "verified": true
+  },
+  {
+   "id": "HI-01-D-primary",
+   "race_id_general": "HOUSE-HI-01",
+   "date": "2026-08-08",
+   "office": "U.S. House",
+   "state": "HI",
+   "district": 1,
+   "candidates": [
+    {
+     "name": "Ed Case",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "high",
+     "style_evidence": "Blue Dog incumbent; endorsed by AIPAC, LCV, former Gov. Ige.",
+     "pct": 58.5,
+     "won": true,
+     "key_endorsements": [
+      "AIPAC",
+      "David Ige",
+      "League of Conservation Voters"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Jarrett Keohokalole",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "State senator; endorsed by Neil Abercrombie, teachers, carpenters, UFCW, Our Revolution, Indivisible.",
+     "pct": 37.4,
+     "won": false,
+     "key_endorsements": [
+      "Neil Abercrombie",
+      "Hawaii State Teachers Association",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 109115,
+   "general_result_margin": 52.9,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Hawaii",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/hawaii-house-results"
+   ],
+   "notes": "[Verification 2026-11-04] General: Case 74.1 / Lam (R) 21.2 (NBC Hawaii House page).",
+   "general_pct_expected_counted": 75.9,
+   "general_called_by": "Safe D; NBC page showed no call flag at fetch time",
+   "verified": true
+  },
+  {
+   "id": "MI-11-D-primary",
+   "race_id_general": "HOUSE-MI-11",
+   "date": "2026-08-04",
+   "office": "U.S. House",
+   "state": "MI",
+   "district": 11,
+   "candidates": [
+    {
+     "name": "Jeremy Moss",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "State senator; endorsed by UAW Region 1, MEA, HRC, Kristen McDonald Rivet, James Blanchard.",
+     "pct": 49.85,
+     "won": true,
+     "key_endorsements": [
+      "UAW Region 1",
+      "Michigan Education Association",
+      "Human Rights Campaign"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Aisha Farooqi",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "low",
+     "style_evidence": "Endorsed by Ro Khanna, CAIR Action, Emgage, Track AIPAC, MDP Progressive Caucus.",
+     "pct": 31.54,
+     "won": false,
+     "key_endorsements": [
+      "Ro Khanna",
+      "Track AIPAC",
+      "CAIR Action"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 151327,
+   "general_result_margin": 24.02,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/michigan-house-results"
+   ],
+   "notes": "Open seat (Stevens ran for Senate). [Verification 2026-11-04] General: Moss 60.86 / Baker 36.84 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC Decision Desk",
+   "verified": true
+  },
+  {
+   "id": "MN-02-D-primary",
+   "race_id_general": "HOUSE-MN-02",
+   "date": "2026-08-11",
+   "office": "U.S. House",
+   "state": "MN",
+   "district": 2,
+   "candidates": [
+    {
+     "name": "Matt Little",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "DFL-endorsed; also endorsed by Casar and Frost, postal workers, Clean Water Action.",
+     "pct": 47.2,
+     "won": true,
+     "key_endorsements": [
+      "Minnesota DFL Party",
+      "Greg Casar",
+      "Maxwell Frost"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Matt Klein",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "State senator; endorsed by DMFI and ironworkers.",
+     "pct": 30.4,
+     "won": false,
+     "key_endorsements": [
+      "Democratic Majority for Israel"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Kaela Berg",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Endorsed by EMILY's List, End Citizens United, Our Revolution, CWA.",
+     "pct": 16.7,
+     "won": false,
+     "key_endorsements": [
+      "EMILY's List",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 88492,
+   "general_result_margin": 14.4,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/minnesota-house-results"
+   ],
+   "notes": "Open swing seat (Craig ran for Senate); DFL hold per Wikipedia summary. [Verification 2026-11-04] General: Little 57.2 / Pratt 42.8 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check).",
+   "general_pct_expected_counted": 98.9,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "AZ-04-D-primary",
+   "race_id_general": "HOUSE-AZ-04",
+   "date": "2026-07-21",
+   "office": "U.S. House",
+   "state": "AZ",
+   "district": 4,
+   "candidates": [
+    {
+     "name": "Greg Stanton",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Incumbent; endorsed by DMFI, NEA, LCV, Adelita Grijalva.",
+     "pct": 62.3,
+     "won": true,
+     "key_endorsements": [
+      "Democratic Majority for Israel",
+      "National Education Association"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Kai Newkirk",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "low",
+     "style_evidence": "Activist; endorsed by Our Revolution, Track AIPAC, CAIR Action, PDA.",
+     "pct": 37.7,
+     "won": false,
+     "key_endorsements": [
+      "Our Revolution",
+      "Track AIPAC"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 57095,
+   "general_result_margin": 27.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/arizona-house-results"
+   ],
+   "notes": "[Verification 2026-11-04] General: Stanton 62.4 / Jasser (R) 35.4 (NBC Arizona House page, 11:17 AM ET).",
+   "general_pct_expected_counted": 85.1,
+   "general_called_by": "Safe D; NBC page showed no call flag at fetch time",
+   "verified": true
+  },
+  {
+   "id": "PA-10-D-primary",
+   "race_id_general": "HOUSE-PA-10",
+   "date": "2026-05-19",
+   "office": "U.S. House",
+   "state": "PA",
+   "district": 10,
+   "candidates": [
+    {
+     "name": "Janelle Stelson",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "high",
+     "style_evidence": "Former TV anchor; DCCC Red to Blue; endorsed by WelcomePAC, NewDem Action Fund, Shapiro, Teamsters, ex-GOP Rep. Barbara Comstock.",
+     "pct": 67.4,
+     "won": true,
+     "key_endorsements": [
+      "DCCC Red to Blue",
+      "WelcomePAC",
+      "NewDem Action Fund",
+      "Josh Shapiro"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Justin Douglas",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "low",
+     "style_evidence": "Dauphin County commissioner; endorsed by CASA in Action, Vote Common Good.",
+     "pct": 32.6,
+     "won": false,
+     "key_endorsements": [
+      "CASA in Action"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 62864,
+   "general_result_margin": 10.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-10-results"
+   ],
+   "notes": "Stelson unseated GOP Rep. Scott Perry (maga) per Wikipedia summary. [Verification 2026-11-04] General: Stelson 55.0 / Perry 45.0 (NBC News district page (fetched ~11:17 AM ET Nov 4)).",
+   "general_pct_expected_counted": 98.9,
+   "general_called_by": "NBC Decision Desk per project house dataset",
+   "verified": true
+  },
+  {
+   "id": "NY-17-D-primary",
+   "race_id_general": "HOUSE-NY-17",
+   "date": "2026-06-23",
+   "office": "U.S. House",
+   "state": "NY",
+   "district": 17,
+   "candidates": [
+    {
+     "name": "Cait Conley",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Army veteran; endorsed by Majority Democrats, VoteVets, End Citizens United, Jason Crow, Seth Moulton, Pat Ryan-wing figures.",
+     "pct": 49.6,
+     "won": true,
+     "key_endorsements": [
+      "Majority Democrats",
+      "VoteVets",
+      "End Citizens United"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Beth Davidson",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Rockland County legislator; endorsed by Mondaire Jones, Rockland County Democratic Committee.",
+     "pct": 31.8,
+     "won": false,
+     "key_endorsements": [
+      "Mondaire Jones",
+      "Rockland County Democratic Committee"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Effie Phillips-Staley",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "medium",
+     "style_evidence": "Endorsed by Jamaal Bowman, Nina Turner, Ro Khanna, Zephyr Teachout, Our Revolution, Track AIPAC.",
+     "pct": 15.3,
+     "won": false,
+     "key_endorsements": [
+      "Jamaal Bowman",
+      "Nina Turner",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 46948,
+   "general_result_margin": 4.5,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-17-results"
+   ],
+   "notes": "Conley unseated GOP Rep. Mike Lawler (traditional/moderate) per Wikipedia summary. [Verification 2026-11-04] General: Conley 52.2 / Lawler 47.7 at 60.9% (NBC News district page (fetched ~11:17 AM ET Nov 4)).",
+   "general_pct_expected_counted": 60.9,
+   "general_called_by": "Lawler conceded Tuesday night (ABC7 NY via project house dataset); NBC page showed no call flag",
+   "verified": true
+  },
+  {
+   "id": "NC-09-D-primary",
+   "race_id_general": "HOUSE-NC-09",
+   "date": "2026-03-03",
+   "office": "U.S. House",
+   "state": "NC",
+   "district": 9,
+   "candidates": [
+    {
+     "name": "Richard Ojeda",
+     "ideology": "liberal",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "low",
+     "style_evidence": "Former WV state senator and Army veteran with anti-corporate working-class persona; endorsed by CWA and Patriotic Millionaires.",
+     "pct": 41.8,
+     "won": true,
+     "key_endorsements": [
+      "Communications Workers of America",
+      "Patriotic Millionaires"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Nigel Bristow",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "No style information found.",
+     "pct": 26.7,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 44221,
+   "general_result_margin": 2.2,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/north-carolina-us-house-district-9-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/north-carolina-house-results"
+   ],
+   "notes": "Ojeda unseated GOP Rep. Richard Hudson per Wikipedia summary. Ideology coding low-confidence; could equally be center_populist. [Verification 2026-11-04] General: Ojeda 51.1 / Hudson 48.9 at 99% (NBC News district page (fetched ~11:17 AM ET Nov 4)). [Primary cross-check] NBC primary page: Ojeda 41.8 / Bristow 26.7 at 99.2% in.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC News per project house dataset; district page showed no call flag",
+   "verified": true
+  },
+  {
+   "id": "ME-02-D-primary",
+   "race_id_general": "HOUSE-ME-02",
+   "date": "2026-06-09",
+   "office": "U.S. House",
+   "state": "ME",
+   "district": 2,
+   "candidates": [
+    {
+     "name": "Matthew Dunlap",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "State auditor who launched a 'primary from the left' against Jared Golden (Politico) before Golden retired; endorsed by Our Revolution, National Nurses United, Khanna, Mike Michaud.",
+     "pct": 29.1,
+     "won": true,
+     "key_endorsements": [
+      "Our Revolution",
+      "National Nurses United",
+      "Ro Khanna",
+      "Mike Michaud"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Joe Baldacci",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "State senator; DCCC Red to Blue; endorsed by Suzan DelBene (DCCC chair).",
+     "pct": 31.7,
+     "won": false,
+     "key_endorsements": [
+      "DCCC Red to Blue",
+      "Suzan DelBene"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Jordan Wood",
+     "ideology": "liberal",
+     "posture": "mixed",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Endorsed by Veronica Escobar, Joe Walsh, Brady.",
+     "pct": 28.8,
+     "won": false,
+     "key_endorsements": [
+      "Veronica Escobar",
+      "Brady"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 78805,
+   "general_result_margin": 0.2,
+   "general_called": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maine",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/maine-us-house-district-2-results"
+   ],
+   "notes": "Ranked-choice: pct = first round; Dunlap beat DCCC-backed Baldacci 52.5-47.5 in final round. Golden (center_populist, WelcomePAC-backed) retired. General vs Paul LePage shows no winner on Wikipedia as of Nov 4. [Verification 2026-11-04] General: UNCALLED: Dunlap 50.1 / LePage 49.9 at 86.3% expected vote (NBC News district page (fetched ~11:17 AM ET Nov 4)).",
+   "general_pct_expected_counted": 86.3,
+   "general_called_by": null,
+   "verified": true
+  },
+  {
+   "id": "PA-07-D-primary",
+   "race_id_general": "HOUSE-PA-07",
+   "date": "2026-05-19",
+   "office": "U.S. House",
+   "state": "PA",
+   "district": 7,
+   "candidates": [
+    {
+     "name": "Bob Brooks",
+     "ideology": "liberal",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "low",
+     "style_evidence": "Firefighters' union leader; cross-factional endorsements: Our Revolution, CPC, Blue Dog PAC, Teamsters, Buttigieg, Chris Murphy, Raskin.",
+     "pct": 41.0,
+     "won": true,
+     "key_endorsements": [
+      "Our Revolution",
+      "Congressional Progressive Caucus",
+      "Blue Dog PAC",
+      "Teamsters"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Ryan Crosswell",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "Former prosecutor; endorsed by Alex Vindman, Derek Tran.",
+     "pct": 21.3,
+     "won": false,
+     "key_endorsements": [
+      "Alex Vindman"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Lamont McClure",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Northampton County executive; endorsed by IBEW, operating engineers, Steelworkers.",
+     "pct": 19.9,
+     "won": false,
+     "key_endorsements": [
+      "IBEW",
+      "United Steelworkers"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Carol Obando-Derstine",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "low",
+     "style_evidence": "Endorsed by EMILY's List, CHC BOLD PAC.",
+     "pct": 17.8,
+     "won": false,
+     "key_endorsements": [
+      "EMILY's List",
+      "BOLD PAC"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 68865,
+   "general_result_margin": 12.2,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/pennsylvania-us-house-district-7-results"
+   ],
+   "notes": "Brooks unseated GOP Rep. Ryan Mackenzie per Wikipedia summary. Ideology ambiguous: endorsed by both CPC and Blue Dog PAC. [Verification 2026-11-04] General: Brooks 56.1 / Mackenzie 43.9 (NBC News district page (fetched ~11:17 AM ET Nov 4)).",
+   "general_pct_expected_counted": 98.0,
+   "general_called_by": "NBC Decision Desk per project house dataset",
+   "verified": true
+  },
+  {
+   "id": "WI-03-D-primary",
+   "race_id_general": "HOUSE-WI-03",
+   "date": "2026-08-11",
+   "office": "U.S. House",
+   "state": "WI",
+   "district": 3,
+   "candidates": [
+    {
+     "name": "Rebecca Cooke",
+     "ideology": "moderate",
+     "posture": "populist",
+     "archetype": "center_populist",
+     "style_confidence": "medium",
+     "style_evidence": "Small-business owner, rural working-class pitch; endorsed by both Blue Dog PAC/WelcomePAC/DCCC and Bernie Sanders, Baldwin, Slotkin, Buttigieg.",
+     "pct": 60.48,
+     "won": true,
+     "key_endorsements": [
+      "Blue Dog PAC",
+      "WelcomePAC",
+      "DCCC",
+      "Bernie Sanders",
+      "Tammy Baldwin"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Emily Berge",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "Eau Claire council leader; endorsed by Coulee DSA, Our Wisconsin Revolution, Indivisible.",
+     "pct": 39.45,
+     "won": false,
+     "key_endorsements": [
+      "Coulee DSA",
+      "Our Wisconsin Revolution",
+      "Indivisible"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "center_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 93673,
+   "general_result_margin": 6.6,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/wisconsin-us-house-district-3-results"
+   ],
+   "notes": "Cooke unseated GOP Rep. Derrick Van Orden (maga) per Wikipedia summary. [Verification 2026-11-04] General: Cooke 52.4 / Van Orden 45.8 (NBC News district page (fetched ~11:17 AM ET Nov 4)).",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC News projection per project house dataset",
+   "verified": true
+  },
+  {
+   "id": "MI-07-D-primary",
+   "race_id_general": "HOUSE-MI-07",
+   "date": "2026-08-04",
+   "office": "U.S. House",
+   "state": "MI",
+   "district": 7,
+   "candidates": [
+    {
+     "name": "William Lawrence",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "medium",
+     "style_evidence": "Activist; endorsed by Sanders, WFP, PCCC, Our Revolution, Casar, Frost, Andy Levin, Raskin, VoteVets, Track AIPAC.",
+     "pct": 43.65,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Working Families Party",
+      "Our Revolution",
+      "VoteVets"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Bridget Brink",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Former ambassador to Ukraine; endorsed by Granholm, Blanchard, EMILY's List, Adam Smith.",
+     "pct": 28.79,
+     "won": false,
+     "key_endorsements": [
+      "Jennifer Granholm",
+      "EMILY's List"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Matt Maasdam",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "low",
+     "style_evidence": "Endorsed by Elissa Slotkin, Pat Ryan, Max Rose, VoteVets, building trades.",
+     "pct": 27.56,
+     "won": false,
+     "key_endorsements": [
+      "Elissa Slotkin",
+      "Pat Ryan",
+      "VoteVets"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 128133,
+   "general_result_margin": 3.2,
+   "general_called": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/michigan-us-house-district-7-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/michigan-house-results"
+   ],
+   "notes": "Swing seat; Sanders-backed candidate won primary in a district where center-left vote was split. General vs GOP Rep. Tom Barrett shows no winner on Wikipedia as of Nov 4 (not in list of Dem gains). [Verification 2026-11-04] General: UNCALLED: Lawrence 51.0 / Barrett 47.8 at 96.2% (NBC News district page (fetched ~11:17 AM ET Nov 4)). [Primary cross-check] NBC primary page: Lawrence 43.7 / Brink 28.8 / Maasdam 27.6 at 99% in.",
+   "general_pct_expected_counted": 96.2,
+   "general_called_by": null,
+   "verified": true
+  },
+  {
+   "id": "CA-11-top2-primary",
+   "race_id_general": "HOUSE-CA-11",
+   "date": "2026-06-02",
+   "office": "U.S. House (top-two)",
+   "state": "CA",
+   "district": 11,
+   "candidates": [
+    {
+     "name": "Scott Wiener",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "State senator (YIMBY housing author); endorsed by Assembly Speaker Rivas, Josh Harder, Auchincloss, Porter, Steyer, SEIU California.",
+     "pct": 40.71,
+     "won": true,
+     "key_endorsements": [
+      "Robert Rivas",
+      "SEIU California",
+      "Katie Porter"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Connie Chan",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "SF supervisor; endorsed by Adam Schiff and, per Wikipedia, Jayapal, Khanna, Delia Ramirez, Barbara Boxer, Robert Reich, Our Revolution.",
+     "pct": 29.7,
+     "won": true,
+     "key_endorsements": [
+      "Adam Schiff",
+      "Pramila Jayapal",
+      "Ro Khanna",
+      "Our Revolution"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Saikat Chakrabarti",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "high",
+     "style_evidence": "Former Ocasio-Cortez chief of staff and Justice Democrats co-founder; endorsed by Tlaib, Bowman, Sunrise.",
+     "pct": 17.87,
+     "won": false,
+     "key_endorsements": [
+      "Rashida Tlaib",
+      "Jamaal Bowman",
+      "Sunrise Movement"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 235337,
+   "general_result_margin": null,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://api.sos.ca.gov/returns/us-rep/district/11"
+   ],
+   "notes": "Pelosi seat; D-vs-D general (Wiener vs Chan), so party is D but individual winner not found. winner_archetype = first-place finisher. Endorsement lists on Wikipedia are interleaved; Chan/Chakrabarti attribution medium confidence. [Verification 2026-11-04] General: D-vs-D general: Wiener 55.4 leads Chan 44.6 at 51.4% expected vote (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check); no D-minus-R margin.",
+   "general_pct_expected_counted": 51.4,
+   "general_called_by": "Seat certain D (D-vs-D general); candidate race uncalled",
+   "verified": true
+  },
+  {
+   "id": "CA-22-top2-primary",
+   "race_id_general": "HOUSE-CA-22",
+   "date": "2026-06-02",
+   "office": "U.S. House (top-two)",
+   "state": "CA",
+   "district": 22,
+   "candidates": [
+    {
+     "name": "Randy Villegas",
+     "ideology": "left",
+     "posture": "mixed",
+     "archetype": "progressive",
+     "style_confidence": "medium",
+     "style_evidence": "Teacher/school-board member; endorsed by Sanders, Jayapal, Delia Ramirez, UAW, CTA; DCCC, Padilla, Schiff after primary.",
+     "pct": 32.36,
+     "won": true,
+     "key_endorsements": [
+      "Bernie Sanders",
+      "Pramila Jayapal",
+      "United Auto Workers",
+      "California Teachers Association"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Jasmeet Bains",
+     "ideology": "moderate",
+     "posture": "establishment",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Assemblymember and physician; endorsed by Lt. Gov. Kounalakis, Mike Thompson, New Democrat-aligned members, SEIU-UHW.",
+     "pct": 26.9,
+     "won": false,
+     "key_endorsements": [
+      "Eleni Kounalakis",
+      "Mike Thompson",
+      "SEIU-UHW West"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "progressive",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 79757,
+   "general_result_margin": 32.8,
+   "general_called": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/california-us-house-district-22-results"
+   ],
+   "notes": "Top-two (all-party turnout); GOP Rep. David Valadao led with 40.74%. Key test of a progressive in a Latino Central Valley swing seat; general shows no winner on Wikipedia as of Nov 4 (California counts slowly). [Verification 2026-11-04] General: UNCALLED: Villegas 66.4 / Valadao 33.6 at 57.1% expected vote (NBC News district page (fetched ~11:17 AM ET Nov 4)); matches CA SOS-based project house dataset.",
+   "general_pct_expected_counted": 57.1,
+   "general_called_by": null,
+   "verified": true
+  },
+  {
+   "id": "NY-06-D-primary",
+   "race_id_general": "HOUSE-NY-06",
+   "date": "2026-06-23",
+   "office": "U.S. House",
+   "state": "NY",
+   "district": 6,
+   "candidates": [
+    {
+     "name": "Grace Meng",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Incumbent; endorsed by AFL-CIO, SEIU, LCV, DMFI.",
+     "pct": 56.8,
+     "won": true,
+     "key_endorsements": [
+      "AFL-CIO",
+      "SEIU",
+      "Democratic Majority for Israel"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Chuck Park",
+     "ideology": "left",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "low",
+     "style_evidence": "Insurgent challenger; Wikipedia endorsements box lists Track AIPAC-type support (attribution uncertain).",
+     "pct": 42.9,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 33392,
+   "general_result_margin": 38.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-6-results",
+    "https://www.nbcnews.com/politics/2026-primary-elections/new-york-house-results"
+   ],
+   "notes": "Low-profile challenger took 43%; style of challenger not well documented in fetched sources. [Verification 2026-11-04] General: Meng 68.6 / Chou 30.6 (project house dataset (NBC/AP data ~11:00 AM ET Nov 4); not re-fetched in this check). [Primary cross-check] NBC primary page: Meng 56.8 / Park 42.9.",
+   "general_pct_expected_counted": 87.2,
+   "general_called_by": "NBC (inferred from statewide tally)",
+   "verified": true
+  },
+  {
+   "id": "KS-SEN-D-primary",
+   "race_id_general": "SEN-KS",
+   "date": "2026-08-04",
+   "office": "U.S. Senate",
+   "state": "KS",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Adam Hamilton",
+     "ideology": "moderate",
+     "posture": "mixed",
+     "archetype": "moderate",
+     "style_confidence": "medium",
+     "style_evidence": "Methodist megachurch pastor, first-time candidate; self-described 'a liberal conservative and a conservative liberal, depending on the issue'; previously registered in both parties; cost-of-living and healing-division message.",
+     "pct": 34.6,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Christy Davis",
+     "ideology": null,
+     "posture": null,
+     "archetype": null,
+     "style_confidence": "low",
+     "style_evidence": "Second place in an 11-candidate field; style not researched.",
+     "pct": 14.2,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Noah Taylor",
+     "ideology": null,
+     "posture": null,
+     "archetype": null,
+     "style_confidence": "low",
+     "style_evidence": "Style not researched.",
+     "pct": 13.6,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "moderate",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 224076,
+   "general_result_margin": 4.8,
+   "general_called": "D",
+   "general_pct_expected_counted": 98.5,
+   "general_called_by": "NBC News projection; CBS News",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+    "https://en.wikipedia.org/wiki/Adam_Hamilton_(American_politician)",
+    "https://kansasreflector.com/2026/08/04/u-s-sen-roger-marshall-united-methodist-pastor-adam-hamilton-to-compete-in-november/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "ADDED by verifier: missing from original file. Fragmented 11-way primary, not framed ideologically. Turnout = sum of the 11 candidate rows in the Wikipedia primary box (Hamilton 77,607 = 34.6%). General: Hamilton 50.9 / Marshall 46.1 at 98.5% in (NBC), a flip; centrist-styled outsider beat a Trump-endorsed incumbent. Style coding follows the project senate.json record.",
+   "verified": true
+  },
+  {
+   "id": "LA-SEN-D-primary",
+   "race_id_general": "SEN-LA",
+   "date": "2026-06-27",
+   "office": "U.S. Senate (runoff)",
+   "state": "LA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Jamie Davis",
+     "ideology": "liberal",
+     "posture": "populist",
+     "archetype": "left_populist",
+     "style_confidence": "low",
+     "style_evidence": "Third-generation farmer and former parish police juror; grassroots individual-donor campaign on affordability, AI data-center moratorium, banning politicians' NDAs, ACA subsidies (project senate.json; ideology thinly documented).",
+     "pct": 79.9,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Gary Crockett",
+     "ideology": null,
+     "posture": null,
+     "archetype": null,
+     "style_confidence": "low",
+     "style_evidence": "Style not researched.",
+     "pct": 20.1,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "left_populist",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 196212,
+   "general_result_margin": -1.8,
+   "general_called": "R",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC; CBS",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "ADDED by verifier. Runoff numbers (first round May 16: Davis 47.4, Crockett 26.3, Albares 26.2). Turnout = runoff votes 156,789 + 39,423. Not an ideological contest. General: Davis 49.1 / Letlow 50.9 (745,963 vs 720,106 per Wikipedia), the closest result for a Democrat in a Trump +20s state.",
+   "verified": true
+  },
+  {
+   "id": "SC-SEN-D-primary",
+   "race_id_general": "SEN-SC",
+   "date": "2026-06-09",
+   "office": "U.S. Senate",
+   "state": "SC",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Annie Andrews",
+     "ideology": "liberal",
+     "posture": "establishment",
+     "archetype": "mainstream_liberal",
+     "style_confidence": "medium",
+     "style_evidence": "Pediatrician and gun-safety activist, 2022 SC-1 nominee; endorsed by Jaime Harrison, EMILY's List, 314 Action; later ran an ad opposing trans athletes in women's sports (project senate.json).",
+     "pct": 61.5,
+     "won": true,
+     "key_endorsements": [
+      "Jaime Harrison",
+      "EMILY's List",
+      "314 Action"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Brandon Brown",
+     "ideology": null,
+     "posture": null,
+     "archetype": null,
+     "style_confidence": "low",
+     "style_evidence": "Style not researched.",
+     "pct": 30.2,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "winner_archetype": "mainstream_liberal",
+   "incumbent_defeated": false,
+   "ideological_direction_of_upset": "none",
+   "turnout": 367411,
+   "general_result_margin": 4.4,
+   "general_called": "D",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "AP (via WBTV); NBC; CBS",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results",
+    "https://www.wbtv.com/2026/11/04/democrat-annie-andrews-wins-us-senate-seat-south-carolina-ap-projects/"
+   ],
+   "notes": "ADDED by verifier. Turnout = sum of three candidate rows (226,075 + 110,962 + 30,374). Not an ideological contest. General: Andrews 51.1 / Darline Graham 46.7 (NBC), a flip.",
+   "verified": true
+  }
+ ],
+ "gop_primaries": [
+  {
+   "id": "TX-SEN-R-primary",
+   "race_id_general": "SEN-TX",
+   "date": "2026-05-26",
+   "office": "U.S. Senate (runoff)",
+   "state": "TX",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Ken Paxton",
+     "rep_style": "maga",
+     "quality_flags": [
+      "scandal",
+      "extreme_statements"
+     ],
+     "pct": 63.8,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump (late)"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "John Cornyn",
+     "rep_style": "traditional",
+     "quality_flags": [
+      "incumbent"
+     ],
+     "pct": 36.2,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": true,
+   "turnout": 1391634,
+   "general_result_margin": 12.1,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+    "https://www.wfaa.com/article/news/politics/elections/texas-election-results-ken-paxton-james-talarico-vie-for-us-senate-seat/287-373a76f3-4a0d-498e-a1d6-445ccc0b987e",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "First round Mar 3: Cornyn 42.0, Paxton 40.5, Hunt 13.5. Cornyn first TX senator to lose renomination since 1970. Paxton then lost to Talarico. 'scandal' flag reflects Paxton's prior impeachment (background, not 2026 data). Margin is D minus R. [Verification 2026-11-04] General: Talarico 55.1 / Paxton 43.0.",
+   "general_pct_expected_counted": 97.4,
+   "general_called_by": "NBC News projection; AP",
+   "verified": true
+  },
+  {
+   "id": "LA-SEN-R-primary",
+   "race_id_general": "SEN-LA",
+   "date": "2026-06-27",
+   "office": "U.S. Senate (runoff)",
+   "state": "LA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Julia Letlow",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 56.9,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "John Fleming",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 43.1,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Bill Cassidy",
+     "rep_style": "traditional",
+     "quality_flags": [
+      "incumbent"
+     ],
+     "pct": 24.8,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": true,
+   "turnout": 316593,
+   "general_result_margin": -1.8,
+   "general_called": "R",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Louisiana",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "Cassidy (voted to convict Trump) eliminated in May 16 first round (24.8%). General: Letlow 50.9 vs Jamie Davis (D) 49.1 in Wikipedia general box; Wikipedia lead says 'narrowly defeated'. [Verification 2026-11-04] General: Davis 49.1 / Letlow 50.9.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC; CBS",
+   "verified": true
+  },
+  {
+   "id": "GA-SEN-R-primary",
+   "race_id_general": "SEN-GA",
+   "date": "2026-06-16",
+   "office": "U.S. Senate (runoff)",
+   "state": "GA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Mike Collins",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 55.5,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Derek Dooley",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 44.5,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": false,
+   "turnout": 702513,
+   "general_result_margin": 18.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "Ossoff (D) re-elected per Wikipedia lead. [Verification 2026-11-04] General: Ossoff 59.0 / Collins 41.0.",
+   "general_pct_expected_counted": 98.7,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "KY-SEN-R-primary",
+   "race_id_general": "SEN-KY",
+   "date": "2026-05-19",
+   "office": "U.S. Senate",
+   "state": "KY",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Andy Barr",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 60.5,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Daniel Cameron",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 30.8,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": false,
+   "turnout": 469172,
+   "general_result_margin": -12.06,
+   "general_called": "R",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kentucky",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "Barr's style coded maga on the basis of Trump endorsement; he is a conventional House member (could be traditional). [Verification 2026-11-04] General: NBC 42.9/55.0 consistent with Wikipedia 42.92/54.98.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC; CBS",
+   "verified": true
+  },
+  {
+   "id": "NC-SEN-R-primary",
+   "race_id_general": "SEN-NC",
+   "date": "2026-03-03",
+   "office": "U.S. Senate",
+   "state": "NC",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Michael Whatley",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 64.6,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Don Brown",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 15.6,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": false,
+   "turnout": 627404,
+   "general_result_margin": 19.63,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "Tillis withdrew after voting against the One Big Beautiful Bill Act. General: Cooper 58.72 vs Whatley 39.09 in Wikipedia general box (share counted not stated). [Verification 2026-11-04] General: NBC 58.7/39.1 consistent with Wikipedia 58.72/39.09.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "SC-SEN-R-special-primary",
+   "race_id_general": "SEN-SC",
+   "date": "2026-08-25",
+   "office": "U.S. Senate (special primary runoff)",
+   "state": "SC",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Darline Graham",
+     "rep_style": "traditional",
+     "quality_flags": [
+      "incumbent"
+     ],
+     "pct": 52.4,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump (support)"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Ralph Norman",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 47.6,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": false,
+   "turnout": 368898,
+   "general_result_margin": 4.4,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "Triggered by Lindsey Graham's death July 11; appointee (his sister) won with Trump support, then lost to Democrat Annie Andrews per Wikipedia lead. Style coding low-confidence. [Verification 2026-11-04] General: Andrews 51.1 / Graham 46.7.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC projection; AP via WBTV",
+   "verified": true
+  },
+  {
+   "id": "IA-SEN-R-primary",
+   "race_id_general": "SEN-IA",
+   "date": "2026-06-02",
+   "office": "U.S. Senate",
+   "state": "IA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Ashley Hinson",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 74.2,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Jim Carlin",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 25.8,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": false,
+   "turnout": 206255,
+   "general_result_margin": 4.1,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa",
+    "https://www.cbsnews.com/news/iowa-2026-senate-hinson-turek/",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "[Verification 2026-11-04] General: Turek 50.5 / Hinson 46.4.",
+   "general_pct_expected_counted": 98.7,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "NH-SEN-R-primary",
+   "race_id_general": "SEN-NH",
+   "date": "2026-09-08",
+   "office": "U.S. Senate",
+   "state": "NH",
+   "district": null,
+   "candidates": [
+    {
+     "name": "John E. Sununu",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 68.4,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Scott Brown",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 26.6,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": null,
+   "incumbent_defeated": false,
+   "turnout": 110922,
+   "general_result_margin": 14.3,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_New_Hampshire",
+    "https://www.nbcnews.com/politics/2026-elections/senate-results"
+   ],
+   "notes": "Trump endorsement status not found in fetched sources. [Verification 2026-11-04] General: Pappas 56.2 / Sununu 41.9.",
+   "general_pct_expected_counted": 90.5,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "GA-GOV-R-primary",
+   "race_id_general": "GOV-GA",
+   "date": "2026-06-16",
+   "office": "Governor (runoff)",
+   "state": "GA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Rick Jackson",
+     "rep_style": "traditional",
+     "quality_flags": [
+      "self_funder"
+     ],
+     "pct": 52.6,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": "Campaign predominantly self-funded (Wikipedia)."
+    },
+    {
+     "name": "Burt Jones",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 47.4,
+     "won": false,
+     "key_endorsements": [
+      "Donald Trump",
+      "Brian Kemp"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": false,
+   "incumbent_defeated": false,
+   "turnout": 709554,
+   "general_result_margin": 8.6,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Self-funder beat Trump-and-Kemp-endorsed Lt. Gov.; then lost to Bottoms. [Verification 2026-11-04] General: Bottoms 54.3 / Jackson 45.7.",
+   "general_pct_expected_counted": 98.6,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "IA-GOV-R-primary",
+   "race_id_general": "GOV-IA",
+   "date": "2026-06-02",
+   "office": "Governor",
+   "state": "IA",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Zach Lahn",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 37.7,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Randy Feenstra",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 36.9,
+     "won": false,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": false,
+   "incumbent_defeated": false,
+   "turnout": 214529,
+   "general_result_margin": 11.0,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Upset of Trump-endorsed frontrunner; Rob Sand (D) won the general per Wikipedia lead. Lahn style coding low-confidence. [Verification 2026-11-04] General: Sand 55.5 / Lahn 44.5.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "MN-GOV-R-primary",
+   "race_id_general": "GOV-MN",
+   "date": "2026-08-11",
+   "office": "Governor",
+   "state": "MN",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Lisa Demuth",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 43.4,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Mike Lindell",
+     "rep_style": "maga",
+     "quality_flags": [
+      "extreme_statements"
+     ],
+     "pct": 32.5,
+     "won": false,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Kendall Qualls",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 21.4,
+     "won": false,
+     "key_endorsements": [
+      "Minnesota GOP (state party)"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": false,
+   "incumbent_defeated": false,
+   "turnout": 413605,
+   "general_result_margin": 12.84,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "General: Klobuchar 55.47 vs Demuth 42.63 in Wikipedia general box (share counted not stated). [Verification 2026-11-04] General: NBC 55.5/42.6 consistent with Wikipedia 55.47/42.63.",
+   "general_pct_expected_counted": 98.8,
+   "general_called_by": "NBC (per project governors.json)",
+   "verified": true
+  },
+  {
+   "id": "MI-GOV-R-primary",
+   "race_id_general": "GOV-MI",
+   "date": "2026-08-04",
+   "office": "Governor",
+   "state": "MI",
+   "district": null,
+   "candidates": [
+    {
+     "name": "John James",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 50.05,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Perry Johnson",
+     "rep_style": "traditional",
+     "quality_flags": [
+      "self_funder"
+     ],
+     "pct": 35.2,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": false,
+   "turnout": 932464,
+   "general_result_margin": 10.8,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "general_called from Wikipedia summary table only. [Verification 2026-11-04] General: Benson 54.5 / James 43.7.",
+   "general_pct_expected_counted": 96.8,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "AZ-GOV-R-primary",
+   "race_id_general": "GOV-AZ",
+   "date": "2026-07-21",
+   "office": "Governor",
+   "state": "AZ",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Andy Biggs",
+     "rep_style": "maga",
+     "quality_flags": [
+      "extreme_statements"
+     ],
+     "pct": 74.0,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "David Schweikert",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 14.4,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": null,
+   "incumbent_defeated": false,
+   "turnout": 613000,
+   "general_result_margin": 12.9,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Arizona_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Hobbs (D) marked winner in Wikipedia summary (not verified). Trump endorsement status not checked. [Verification 2026-11-04] General: Hobbs 55.6 / Biggs 42.7.",
+   "general_pct_expected_counted": 82.9,
+   "general_called_by": "NBC projection",
+   "verified": true
+  },
+  {
+   "id": "CO-GOV-R-primary",
+   "race_id_general": "GOV-CO",
+   "date": "2026-06-30",
+   "office": "Governor",
+   "state": "CO",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Victor Marx",
+     "rep_style": "maga",
+     "quality_flags": [
+      "extreme_statements"
+     ],
+     "pct": 39.9,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Barbara Kirkmeyer",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 39.4,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": null,
+   "incumbent_defeated": false,
+   "turnout": 522974,
+   "general_result_margin": 27.3,
+   "general_called": "D",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Marx 'stated he is unsure how many people he has killed' (Wikipedia); both rivals reportedly would not endorse him. [Verification 2026-11-04] General: Weiser 60.9 / Marx 33.6.",
+   "general_pct_expected_counted": 76.9,
+   "general_called_by": "NBC (per project governors.json)",
+   "verified": true
+  },
+  {
+   "id": "SC-GOV-R-primary",
+   "race_id_general": "GOV-SC",
+   "date": "2026-06-23",
+   "office": "Governor (runoff)",
+   "state": "SC",
+   "district": null,
+   "candidates": [
+    {
+     "name": "Alan Wilson",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 68.6,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump (dual endorsement)"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Pamela Evette",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 31.4,
+     "won": false,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": false,
+   "turnout": 318796,
+   "general_result_margin": -4.5,
+   "general_called": "R",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
+    "https://en.wikipedia.org/wiki/2026_United_States_gubernatorial_elections",
+    "https://www.nbcnews.com/politics/2026-elections/governor-results"
+   ],
+   "notes": "Trump endorsed Evette in round 1 then both in the runoff. [Verification 2026-11-04] General: Johnson 47.1 / Wilson 51.6.",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC (per project governors.json)",
+   "verified": true
+  },
+  {
+   "id": "KY-04-R-primary",
+   "race_id_general": "HOUSE-KY-04",
+   "date": "2026-05-19",
+   "office": "U.S. House",
+   "state": "KY",
+   "district": 4,
+   "candidates": [
+    {
+     "name": "Ed Gallrein",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 54.9,
+     "won": true,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Thomas Massie",
+     "rep_style": "traditional",
+     "quality_flags": [
+      "incumbent"
+     ],
+     "pct": 45.1,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": true,
+   "incumbent_defeated": true,
+   "turnout": 105361,
+   "general_result_margin": -13.36,
+   "general_called": "R",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/kentucky-us-house-district-4-results"
+   ],
+   "notes": "AP framed it as 'another victory for Trump'. Massie coded 'traditional' only in the sense of non-Trump-aligned libertarian. General winner not checked (Wikipedia national page lists Gallrein under KY-05 in one table and KY-04 in another). [Verification 2026-11-04] General: Strange (D) 40.86 / Gallrein 54.22 (Wikipedia general box and project house dataset).",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": "NBC News",
+   "verified": true
+  },
+  {
+   "id": "TN-05-R-primary",
+   "race_id_general": "HOUSE-TN-05",
+   "date": "2026-08-06",
+   "office": "U.S. House",
+   "state": "TN",
+   "district": 5,
+   "candidates": [
+    {
+     "name": "Charlie Hatcher",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 53.2,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Andy Ogles",
+     "rep_style": "maga",
+     "quality_flags": [
+      "incumbent",
+      "scandal"
+     ],
+     "pct": 46.8,
+     "won": false,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": false,
+   "incumbent_defeated": true,
+   "turnout": 68642,
+   "general_result_margin": -5.0,
+   "general_called": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://www.nbcnews.com/politics/2026-elections/tennessee-us-house-district-5-results"
+   ],
+   "notes": "The Hill: 'Trump-endorsed Ogles loses'. 'scandal' flag reflects pre-2026 background; verify. General winner not checked. [Verification 2026-11-04] General: Molder (D) 46.7 / Hatcher 51.7 at 99%; NBC page shows no projection (NBC News district page (fetched ~11:17 AM ET Nov 4)).",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": null,
+   "verified": true
+  },
+  {
+   "id": "FL-07-R-primary",
+   "race_id_general": "HOUSE-FL-07",
+   "date": "2026-08-18",
+   "office": "U.S. House",
+   "state": "FL",
+   "district": 7,
+   "candidates": [
+    {
+     "name": "Ryan Elijah",
+     "rep_style": "traditional",
+     "quality_flags": [],
+     "pct": 47.3,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Cory Mills",
+     "rep_style": "maga",
+     "quality_flags": [
+      "incumbent",
+      "scandal"
+     ],
+     "pct": 34.1,
+     "won": false,
+     "key_endorsements": [
+      "Donald Trump"
+     ],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": false,
+   "incumbent_defeated": true,
+   "turnout": 66732,
+   "general_result_margin": -0.52,
+   "general_called": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+    "https://flelectionfiles.floridados.gov/enightfilespublic/20261103_ElecResultsFL.txt"
+   ],
+   "notes": "The Hill: 'Trump-endorsed Mills loses Florida House primary amid House Ethics probe'. [Verification 2026-11-04] General: UNCALLED: Dalton (D) 49.2 / Elijah 49.73 (project house dataset, Florida DOS file).",
+   "general_pct_expected_counted": 99.0,
+   "general_called_by": null,
+   "verified": true
+  },
+  {
+   "id": "TX-02-R-primary",
+   "race_id_general": "HOUSE-TX-02",
+   "date": "2026-03-03",
+   "office": "U.S. House",
+   "state": "TX",
+   "district": 2,
+   "candidates": [
+    {
+     "name": "Steve Toth",
+     "rep_style": "maga",
+     "quality_flags": [],
+     "pct": 55.8,
+     "won": true,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    },
+    {
+     "name": "Dan Crenshaw",
+     "rep_style": "traditional",
+     "quality_flags": [
+      "incumbent"
+     ],
+     "pct": 40.7,
+     "won": false,
+     "key_endorsements": [],
+     "outside_spending_note": null
+    }
+   ],
+   "trump_endorsee_won": null,
+   "incumbent_defeated": true,
+   "turnout": 66011,
+   "general_result_margin": -2.0,
+   "general_called": null,
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections"
+   ],
+   "notes": "Trump endorsement status not found in fetched sources; Toth coded maga (insurgent from the right) with low confidence. [Verification 2026-11-04] General: UNCALLED: Finnie (D) 49.0 / Toth 51.0 (project house dataset).",
+   "general_pct_expected_counted": 97.8,
+   "general_called_by": null,
+   "verified": true
+  }
+ ],
+ "aggregates": {
+  "dem_contests": 66,
+  "gop_contests": 19,
+  "incumbents_defeated_from_left": 4,
+  "incumbents_defeated_from_center": 1,
+  "notes": "From the left: CO-01 DeGette (to DSA/JD-backed Kiros), MI-13 Thanedar (to McKinney), NY-10 Goldman (to Lander), NY-13 Espaillat (to Mamdani-backed Avila Chevalier); all safe-D urban seats. From the center (low confidence, mostly generational): CT-01 Larson (to Bronin). Non-ideological incumbent losses: RI governor McKee (competence), TX-18 Al Green (member-vs-member), TX-33 Julie Johnson (to Allred). Left challenges that fell short: MO-01 (Bush), NC-04 (Allam, -1.0 pt), MA-01 (-8), MA-08 (-11), CO-SEN (Gonzales -5.6), NY-06 (-14), HI-01, AZ-04, CT-GOV. Open-seat statewide wins by left/left-populist archetype: MI-SEN (El-Sayed, won general), ME-SEN (Platner then Jackson, won general vs Collins), MN-SEN (Flanagan, won), FL-SEN (Nixon, lost by ~3), KY-SEN (Booker, lost by ~12), NM-GOV (Haaland), VT-GOV (Janoo, lost to Scott per summary). Left lost to mainstream/moderate: WI-GOV (Hong, by ~0.5), CO-SEN, TX-SEN (Crockett vs Talarico, not left-vs-center). Center-populist lane: MGP (WA-03 uncalled), Cooke (WI-03 won), Golden retired; Dem-backed independents Dan Osborn (NE-SEN) and Seth Bodnar (MT-SEN, Tester-backed) both lost per Wikipedia summaries (not included as contests because no contested Dem primary picked them). Kansas Senate: pastor Adam Hamilton won an 11-way primary with 34.6% and then beat Sen. Roger Marshall (AP; Kansas Reflector) - style not classified (insufficient evidence). GOP: Trump-endorsed candidates lost several primaries (GA-GOV Jones, IA-GOV Feenstra, MN-GOV Lindell, TN-05 Ogles, FL-07 Mills) and won others (TX-SEN Paxton over incumbent Cornyn, LA-SEN Letlow over incumbent Cassidy, KY-04 Gallrein over Massie). General results are election-night partial counts; join to the general-results dataset by race_id_general. [Verification 2026-11-04] Counts recomputed after verifier additions (KS-SEN, LA-SEN, SC-SEN Dem primaries). Archetype changes: WI-GOV Crowley and IA-SEN Turek now moderate; NM-GOV Haaland now mainstream_liberal (so NM-GOV no longer counts as a left/progressive statewide win). TN-09: left-populist Pearson trails 48.5-49.6 at 99% in a redrawn seat (uncalled). Kansas: centrist-styled Hamilton flipped the seat 50.9-46.1."
+ },
+ "verification": {
+  "as_of": "2026-11-04T11:30:00-05:00",
+  "checked_items": 85,
+  "corrections": [
+   "general_result_margin filled from NBC/AP-sourced general counts for 66 previously-null records: ME-SEN-D-primary, ME-SEN-D-convention, IL-SEN-D-primary, MN-SEN-D-primary, MA-SEN-D-primary, CO-SEN-D-primary, NH-SEN-D-primary, NY-GOV-D-primary, CA-GOV-top2-primary, MI-GOV-D-primary, GA-GOV-D-primary, WI-GOV-D-primary, CO-GOV-D-primary, NM-GOV-D-primary, ME-GOV-D-primary, RI-GOV-D-primary, CT-GOV-D-primary, VT-GOV-D-primary, NV-GOV-D-primary, CO-01-D-primary, CT-01-D-primary, MI-13-D-primary, NY-10-D-primary, NY-13-D-primary, TX-18-D-primary, TX-33-D-primary, MO-01-D-primary, NY-07-D-primary, IL-09-D-primary, IL-08-D-primary, IL-02-D-primary, NJ-12-D-primary, MA-08-D-primary, MD-05-D-primary, NC-04-D-primary, TN-09-D-primary, TX-28-D-primary, UT-01-D-primary, WA-03-top2-primary, NE-02-D-primary, HI-01-D-primary, MI-11-D-primary, MN-02-D-primary, AZ-04-D-primary, PA-10-D-primary, NY-17-D-primary, NC-09-D-primary, ME-02-D-primary, PA-07-D-primary, WI-03-D-primary, MI-07-D-primary, CA-22-top2-primary, NY-06-D-primary, GA-SEN-R-primary, SC-SEN-R-special-primary, NH-SEN-R-primary, GA-GOV-R-primary, IA-GOV-R-primary, MI-GOV-R-primary, AZ-GOV-R-primary, CO-GOV-R-primary, SC-GOV-R-primary, KY-04-R-primary, TN-05-R-primary, FL-07-R-primary, TX-02-R-primary",
+   "TX-SEN-D-primary: general_result_margin 12.0 -> 12.1 (newer count)",
+   "TX-GOV-D-primary: general_result_margin 6.5 -> 7.1 (newer count)",
+   "TX-SEN-R-primary: general_result_margin 12.0 -> 12.1 (newer count)",
+   "KY-04-R-primary: general_called None -> R",
+   "WI-GOV: Crowley reclassified mainstream_liberal -> moderate (PBS/WUWM: moderate, centrist); winner_archetype updated",
+   "NM-GOV: Haaland reclassified progressive -> mainstream_liberal (establishment frontrunner, not insurgent per rubric); winner_archetype updated",
+   "IA-SEN: Turek reclassified mainstream_liberal -> moderate (CBS: bipartisan/electability pitch, national-group backing); \"low ideological contrast\" note corrected (CBS calls Wahls the more progressive, anti-establishment candidate)",
+   "CA-GOV: Republican Hilton had been coded center_populist under the Democratic rubric; archetype set null, rep_style maga added so he does not pollute Dem archetype counts",
+   "ME-SEN: clarified Mills had suspended before the primary; Platner withdrawal date fixed to July 10 (formal letter July 24)",
+   "MI-SEN: general margin 5.8 (85% counted, stale) -> 7.0 (NBC, 96.8% counted)",
+   "FL-GOV: turnout null -> 1,249,352 (sum of candidate votes in Wikipedia primary box; recomputed shares match)",
+   "FL-SEN: Wikipedia source pointed at a redirect; replaced with the special-election article that holds the cited numbers",
+   "TN-09: general linkage added: left-populist Pearson trails R Brent Taylor 48.5-49.6 at 99% (uncalled), margin -1.1",
+   "Added missing contest KS-SEN-D-primary",
+   "Added missing contest LA-SEN-D-primary",
+   "Added missing contest SC-SEN-D-primary",
+   "All records now carry general_pct_expected_counted and general_called_by; 2028-relevant uncalled races flagged (TN-09, ME-02, MI-07, CA-22, WA-03, FL-07, TX-02, TN-05)",
+   "aggregates.dem_contests updated 63 -> 66 after additions"
+  ],
+  "unresolved": [
+   "Primary vote shares were confirmed against NBC primary pages or AP-sourced reports for ~25 contests; the rest match the Wikipedia/official-canvass boxes only (web-search budget was exhausted mid-check, so no second outlet for e.g. IL-08, IL-02, PA-03, NJ-12, MD-05, TX-28, UT-01, HI-01, AZ-04, MN-02, NE-02, MI-11, MA-01, MA-08, GA-GOV, NV-GOV, MI-GOV, FL-GOV, CA-11, CA-22, WA-03, TN-09, NY-13, NY-17, CT-01, MI-13, TX-18, TX-33, and most GOP primaries).",
+   "House general margins for ~25 safe/likely seats taken from the project house dataset (NBC/AP data ~11:00 ET) rather than re-fetched; spot-checked districts all matched NBC.",
+   "Several governor general_called values rely on project governors.json (NBC); NBC all-races table fetched 11:08 ET showed no call flag for NY, CA, CO, NM, ME, RI, CT, VT, FL, MN, SC.",
+   "RI-GOV primary date 2026-09-09 is a Wednesday; Wikipedia says Sept 9 but not independently confirmed.",
+   "Style codings differ across project files: Talarico (mainstream_liberal here vs left_populist in senate.json), Pappas (mainstream_liberal vs moderate), Booker KY (left_populist vs progressive), Bob Brooks PA-07 (left_populist vs mainstream_liberal), Bronin CT-01 (moderate vs mainstream_liberal), Matt Little MN-02 (mainstream_liberal vs progressive), Dunlap ME-02 (mainstream_liberal vs progressive), Villegas CA-22 (progressive vs left_populist). Not reconciled.",
+   "NY-17 called D on Lawler concession (ABC7) only; NBC showed 60.9% counted and no call flag.",
+   "Possible further missing Dem primaries not added: MS-SEN (Colom 72.9%, general tied/uncalled), AK-SEN top-four (Peltola), KS-GOV (Holscher 48.6 vs Corson 38.8), AL-SEN runoff; none framed as ideological contests in sources seen.",
+   "LA-SEN-R record mixes runoff shares (Letlow/Fleming) with Cassidy first-round 24.8% in one candidate list (noted, left as is)."
+  ]
+ }
+}

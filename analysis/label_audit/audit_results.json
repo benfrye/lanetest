@@ -1,0 +1,771 @@
+{
+ "n": 78,
+ "per_stratum": {
+  "left_populist": 10,
+  "mainstream_liberal": 41,
+  "moderate": 15,
+  "progressive": 10,
+  "center_populist": 2
+ },
+ "blind_lane_counts": {
+  "mainstream_liberal": 40,
+  "moderate": 12,
+  "left_populist": 17,
+  "progressive": 5,
+  "center_populist": 4
+ },
+ "coded_vs_derived_archetype_mismatch": [],
+ "agreement_all": {
+  "archetype": {
+   "n": 78,
+   "agreement": 0.667,
+   "kappa": 0.498
+  },
+  "ideology": {
+   "n": 78,
+   "agreement": 0.795,
+   "kappa": 0.606
+  },
+  "posture": {
+   "n": 78,
+   "agreement": 0.654,
+   "kappa": 0.459
+  }
+ },
+ "agreement_pre_election_verified_only": {
+  "archetype": {
+   "n": 62,
+   "agreement": 0.661,
+   "kappa": 0.491
+  },
+  "ideology": {
+   "n": 62,
+   "agreement": 0.806,
+   "kappa": 0.625
+  },
+  "posture": {
+   "n": 62,
+   "agreement": 0.613,
+   "kappa": 0.407
+  }
+ },
+ "agreement_blind_high_conf_only": {
+  "archetype": {
+   "n": 18,
+   "agreement": 0.667,
+   "kappa": 0.552
+  },
+  "ideology": {
+   "n": 18,
+   "agreement": 0.833,
+   "kappa": 0.751
+  },
+  "posture": {
+   "n": 18,
+   "agreement": 0.556,
+   "kappa": 0.333
+  }
+ },
+ "confusion_archetype_rows_orig_cols_blind": {
+  "progressive": {
+   "progressive": 5,
+   "left_populist": 4,
+   "center_populist": 0,
+   "mainstream_liberal": 1,
+   "moderate": 0
+  },
+  "left_populist": {
+   "progressive": 0,
+   "left_populist": 5,
+   "center_populist": 1,
+   "mainstream_liberal": 3,
+   "moderate": 1
+  },
+  "center_populist": {
+   "progressive": 0,
+   "left_populist": 0,
+   "center_populist": 2,
+   "mainstream_liberal": 0,
+   "moderate": 0
+  },
+  "mainstream_liberal": {
+   "progressive": 0,
+   "left_populist": 7,
+   "center_populist": 1,
+   "mainstream_liberal": 31,
+   "moderate": 2
+  },
+  "moderate": {
+   "progressive": 0,
+   "left_populist": 1,
+   "center_populist": 0,
+   "mainstream_liberal": 5,
+   "moderate": 9
+  }
+ },
+ "confusion_ideology_rows_orig_cols_blind": {
+  "left": {
+   "left": 9,
+   "liberal": 4,
+   "moderate": 0,
+   "conservative": 0
+  },
+  "liberal": {
+   "left": 0,
+   "liberal": 43,
+   "moderate": 5,
+   "conservative": 0
+  },
+  "moderate": {
+   "left": 0,
+   "liberal": 6,
+   "moderate": 10,
+   "conservative": 0
+  },
+  "conservative": {
+   "left": 0,
+   "liberal": 0,
+   "moderate": 1,
+   "conservative": 0
+  }
+ },
+ "confusion_posture_rows_orig_cols_blind": {
+  "populist": {
+   "populist": 8,
+   "mixed": 3,
+   "establishment": 1
+  },
+  "mixed": {
+   "populist": 9,
+   "mixed": 13,
+   "establishment": 0
+  },
+  "establishment": {
+   "populist": 4,
+   "mixed": 10,
+   "establishment": 30
+  }
+ },
+ "per_stratum_archetype_agreement": {
+  "progressive": 0.5,
+  "left_populist": 0.5,
+  "center_populist": 1.0,
+  "mainstream_liberal": 0.756,
+  "moderate": 0.6
+ },
+ "evidence": {
+  "pre_election_verified": 62,
+  "verified_fetch_any": 74,
+  "memory_only": 4,
+  "wayback_snapshots_used": 0,
+  "blind_confidence": {
+   "low": 15,
+   "medium": 45,
+   "high": 18
+  }
+ },
+ "outcome_correlation": {
+  "posture_orig_minus_blind_vs_y": {
+   "pearson": 0.032,
+   "p": 0.779,
+   "spearman": -0.064,
+   "p_s": 0.575
+  },
+  "posture_orig_minus_blind_vs_y_resid": {
+   "pearson": -0.04,
+   "p": 0.73,
+   "spearman": -0.111,
+   "p_s": 0.333
+  },
+  "ideology_orig_minus_blind_vs_y": {
+   "pearson": -0.123,
+   "p": 0.284,
+   "spearman": -0.087,
+   "p_s": 0.447
+  },
+  "ideology_orig_minus_blind_vs_y_resid": {
+   "pearson": -0.049,
+   "p": 0.668,
+   "spearman": 0.001,
+   "p_s": 0.996
+  },
+  "populist_lane_orig_minus_blind_vs_y_resid": {
+   "pearson": 0.042,
+   "p": 0.712,
+   "spearman": -0.026,
+   "p_s": 0.818
+  },
+  "any_disagreement_vs_y_resid": {
+   "pearson": -0.212,
+   "p": 0.062,
+   "spearman": -0.202,
+   "p_s": 0.077
+  },
+  "n_orig_more_populist": 4,
+  "n_blind_more_populist": 23,
+  "mean_y_resid_orig_more_populist": -4.67,
+  "mean_y_resid_blind_more_populist": -0.23,
+  "mean_y_resid_same_posture": 0.47,
+  "n_orig_populist_lane_blind_not": 4,
+  "n_blind_populist_lane_orig_not": 13
+ },
+ "disagreements": [
+  {
+   "id": "AL-1",
+   "name": "Clyde Jones",
+   "orig_arch": "left_populist",
+   "blind_arch": "mainstream_liberal",
+   "orig_ideo": "liberal",
+   "blind_ideo": "liberal",
+   "orig_post": "populist",
+   "blind_post": "mixed",
+   "blind_conf": "low",
+   "pre_election_verified": true,
+   "y": 20.3,
+   "y_resid": -4.0
+  },
+  {
+   "id": "FL-15",
+   "name": "Robert People",
+   "orig_arch": "progressive",
+   "blind_arch": "mainstream_liberal",
+   "orig_ideo": "left",
+   "blind_ideo": "liberal",
+   "orig_post": "mixed",
+   "blind_post": "mixed",
+   "blind_conf": "low",
+   "pre_election_verified": false,
+   "y": 11.6,
+   "y_resid": -1.2
+  },
+  {
+   "id": "FL-7",
+   "name": "Bale Dalton",
+   "orig_arch": "moderate",
+   "blind_arch": "mainstream_liberal",
+   "orig_ideo": "moderate",
+   "blind_ideo": "liberal",
+   "orig_post": "establishment",
+   "blind_post": "establishment",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 12.1,
+   "y_resid": -6.3
+  },
+  {
+   "id": "GA-11",
+   "name": "Chris Harden",
+   "orig_arch": "left_populist",
+   "blind_arch": "moderate",
+   "orig_ideo": "liberal",
+   "blind_ideo": "moderate",
+   "orig_post": "populist",
+   "blind_post": "establishment",
+   "blind_conf": "high",
+   "pre_election_verified": true,
+   "y": 13.2,
+   "y_resid": -7.9
+  },
+  {
+   "id": "GOV-KS",
+   "name": "Cindy Holscher",
+   "orig_arch": "left_populist",
+   "blind_arch": "mainstream_liberal",
+   "orig_ideo": "liberal",
+   "blind_ideo": "liberal",
+   "orig_post": "populist",
+   "blind_post": "mixed",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 17.2,
+   "y_resid": -2.1
+  },
+  {
+   "id": "GOV-VT",
+   "name": "Amanda Janoo",
+   "orig_arch": "progressive",
+   "blind_arch": "left_populist",
+   "orig_ideo": "left",
+   "blind_ideo": "left",
+   "orig_post": "mixed",
+   "blind_post": "populist",
+   "blind_conf": "high",
+   "pre_election_verified": true,
+   "y": -41.2,
+   "y_resid": -41.0
+  },
+  {
+   "id": "IL-13",
+   "name": "Nikki Budzinski",
+   "orig_arch": "moderate",
+   "blind_arch": "mainstream_liberal",
+   "orig_ideo": "moderate",
+   "blind_ideo": "liberal",
+   "orig_post": "establishment",
+   "blind_post": "establishment",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 14.5,
+   "y_resid": -5.7
+  },
+  {
+   "id": "IL-5",
+   "name": "Mike Quigley",
+   "orig_arch": "moderate",
+   "blind_arch": "mainstream_liberal",
+   "orig_ideo": "moderate",
+   "blind_ideo": "liberal",
+   "orig_post": "establishment",
+   "blind_post": "establishment",
+   "blind_conf": "medium",
+   "pre_election_verified": false,
+   "y": 17.8,
+   "y_resid": 3.8
+  },
+  {
+   "id": "KY-2",
+   "name": "Megan Wingfield",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "left_populist",
+   "orig_ideo": "liberal",
+   "blind_ideo": "liberal",
+   "orig_post": "establishment",
+   "blind_post": "populist",
+   "blind_conf": "medium",
+   "pre_election_verified": false,
+   "y": 15.7,
+   "y_resid": -2.5
+  },
+  {
+   "id": "LA-1",
+   "name": "Lauren Jewett",
+   "orig_arch": "left_populist",
+   "blind_arch": "mainstream_liberal",
+   "orig_ideo": "left",
+   "blind_ideo": "liberal",
+   "orig_post": "populist",
+   "blind_post": "mixed",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 12.9,
+   "y_resid": -4.7
+  },
+  {
+   "id": "MI-9",
+   "name": "Ray Pooley",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "left_populist",
+   "orig_ideo": "liberal",
+   "blind_ideo": "liberal",
+   "orig_post": "mixed",
+   "blind_post": "populist",
+   "blind_conf": "low",
+   "pre_election_verified": false,
+   "y": 4.9,
+   "y_resid": -11.1
+  },
+  {
+   "id": "NY-18",
+   "name": "Pat Ryan",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "left_populist",
+   "orig_ideo": "liberal",
+   "blind_ideo": "liberal",
+   "orig_post": "mixed",
+   "blind_post": "populist",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 23.0,
+   "y_resid": 0.9
+  },
+  {
+   "id": "OH-1",
+   "name": "Greg Landsman",
+   "orig_arch": "moderate",
+   "blind_arch": "mainstream_liberal",
+   "orig_ideo": "moderate",
+   "blind_ideo": "liberal",
+   "orig_post": "establishment",
+   "blind_post": "establishment",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 14.8,
+   "y_resid": -8.9
+  },
+  {
+   "id": "PA-15",
+   "name": "Ray Bilger",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "center_populist",
+   "orig_ideo": "liberal",
+   "blind_ideo": "moderate",
+   "orig_post": "establishment",
+   "blind_post": "populist",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 12.0,
+   "y_resid": -5.3
+  },
+  {
+   "id": "PA-17",
+   "name": "Chris Deluzio",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "left_populist",
+   "orig_ideo": "liberal",
+   "blind_ideo": "liberal",
+   "orig_post": "establishment",
+   "blind_post": "populist",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 20.6,
+   "y_resid": -1.0
+  },
+  {
+   "id": "SEN-IA",
+   "name": "Josh Turek",
+   "orig_arch": "moderate",
+   "blind_arch": "left_populist",
+   "orig_ideo": "moderate",
+   "blind_ideo": "liberal",
+   "orig_post": "mixed",
+   "blind_post": "populist",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 17.8,
+   "y_resid": -0.8
+  },
+  {
+   "id": "SEN-KY",
+   "name": "Charles Booker",
+   "orig_arch": "progressive",
+   "blind_arch": "left_populist",
+   "orig_ideo": "left",
+   "blind_ideo": "left",
+   "orig_post": "mixed",
+   "blind_post": "populist",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 19.7,
+   "y_resid": -3.2
+  },
+  {
+   "id": "SEN-LA",
+   "name": "Jamie Davis",
+   "orig_arch": "left_populist",
+   "blind_arch": "center_populist",
+   "orig_ideo": "liberal",
+   "blind_ideo": "moderate",
+   "orig_post": "populist",
+   "blind_post": "populist",
+   "blind_conf": "low",
+   "pre_election_verified": true,
+   "y": 20.9,
+   "y_resid": 0.2
+  },
+  {
+   "id": "SPECIAL-GA-14-2026-04",
+   "name": "Shawn Harris",
+   "orig_arch": "moderate",
+   "blind_arch": "mainstream_liberal",
+   "orig_ideo": "moderate",
+   "blind_ideo": "liberal",
+   "orig_post": "mixed",
+   "blind_post": "mixed",
+   "blind_conf": "low",
+   "pre_election_verified": true,
+   "y": 27.3,
+   "y_resid": 2.9
+  },
+  {
+   "id": "TN-1",
+   "name": "Kristi Burke",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "left_populist",
+   "orig_ideo": "liberal",
+   "blind_ideo": "liberal",
+   "orig_post": "mixed",
+   "blind_post": "populist",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 26.8,
+   "y_resid": 4.4
+  },
+  {
+   "id": "TN-7",
+   "name": "Darden Copeland",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "moderate",
+   "orig_ideo": "liberal",
+   "blind_ideo": "moderate",
+   "orig_post": "establishment",
+   "blind_post": "mixed",
+   "blind_conf": "medium",
+   "pre_election_verified": false,
+   "y": 21.3,
+   "y_resid": 7.7
+  },
+  {
+   "id": "TN-9",
+   "name": "Justin J. Pearson",
+   "orig_arch": "progressive",
+   "blind_arch": "left_populist",
+   "orig_ideo": "left",
+   "blind_ideo": "left",
+   "orig_post": "mixed",
+   "blind_post": "populist",
+   "blind_conf": "high",
+   "pre_election_verified": true,
+   "y": 20.9,
+   "y_resid": 0.3
+  },
+  {
+   "id": "TX-30",
+   "name": "Frederick Haynes III",
+   "orig_arch": "progressive",
+   "blind_arch": "left_populist",
+   "orig_ideo": "left",
+   "blind_ideo": "left",
+   "orig_post": "mixed",
+   "blind_post": "populist",
+   "blind_conf": "high",
+   "pre_election_verified": true,
+   "y": 25.8,
+   "y_resid": 22.2
+  },
+  {
+   "id": "TX-6",
+   "name": "Danny Minton",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "left_populist",
+   "orig_ideo": "liberal",
+   "blind_ideo": "liberal",
+   "orig_post": "establishment",
+   "blind_post": "populist",
+   "blind_conf": "medium",
+   "pre_election_verified": true,
+   "y": 19.3,
+   "y_resid": 5.7
+  },
+  {
+   "id": "VA-6",
+   "name": "Beth Macy",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "left_populist",
+   "orig_ideo": "liberal",
+   "blind_ideo": "liberal",
+   "orig_post": "mixed",
+   "blind_post": "populist",
+   "blind_conf": "high",
+   "pre_election_verified": true,
+   "y": 13.6,
+   "y_resid": -0.3
+  },
+  {
+   "id": "WI-7",
+   "name": "Fred Clark",
+   "orig_arch": "mainstream_liberal",
+   "blind_arch": "moderate",
+   "orig_ideo": "liberal",
+   "blind_ideo": "moderate",
+   "orig_post": "establishment",
+   "blind_post": "mixed",
+   "blind_conf": "high",
+   "pre_election_verified": true,
+   "y": 11.0,
+   "y_resid": -9.9
+  }
+ ],
+ "lane_gaps_50dlogit": {
+  "spec": "OLS on overperformance_model_scale; state FE + office FE + pres2024_margin_2p + inc_D + inc_R + archetype dummies; ref = mainstream_liberal; HC1 SEs; unweighted (strata oversampled)",
+  "original_labels_state_fe": {
+   "n": 78,
+   "df_resid": 38,
+   "progressive": {
+    "gap_vs_mainstream_liberal": 4.99,
+    "se_hc1": 4.66,
+    "n_lane": 10
+   },
+   "left_populist": {
+    "gap_vs_mainstream_liberal": 5.15,
+    "se_hc1": 4.07,
+    "n_lane": 10
+   },
+   "center_populist": {
+    "gap_vs_mainstream_liberal": 7.98,
+    "se_hc1": 2.86,
+    "n_lane": 2
+   },
+   "moderate": {
+    "gap_vs_mainstream_liberal": 2.88,
+    "se_hc1": 3.82,
+    "n_lane": 15
+   }
+  },
+  "blind_labels_state_fe": {
+   "n": 78,
+   "df_resid": 38,
+   "progressive": {
+    "gap_vs_mainstream_liberal": 7.73,
+    "se_hc1": 8.37,
+    "n_lane": 5
+   },
+   "left_populist": {
+    "gap_vs_mainstream_liberal": 4.66,
+    "se_hc1": 2.38,
+    "n_lane": 17
+   },
+   "center_populist": {
+    "gap_vs_mainstream_liberal": 5.86,
+    "se_hc1": 3.43,
+    "n_lane": 4
+   },
+   "moderate": {
+    "gap_vs_mainstream_liberal": 5.02,
+    "se_hc1": 3.48,
+    "n_lane": 12
+   }
+  },
+  "original_labels_no_fe": {
+   "n": 78,
+   "df_resid": 67,
+   "progressive": {
+    "gap_vs_mainstream_liberal": -1.0,
+    "se_hc1": 4.35,
+    "n_lane": 10
+   },
+   "left_populist": {
+    "gap_vs_mainstream_liberal": 1.74,
+    "se_hc1": 2.87,
+    "n_lane": 10
+   },
+   "center_populist": {
+    "gap_vs_mainstream_liberal": 3.93,
+    "se_hc1": 2.0,
+    "n_lane": 2
+   },
+   "moderate": {
+    "gap_vs_mainstream_liberal": 2.01,
+    "se_hc1": 2.85,
+    "n_lane": 15
+   }
+  },
+  "blind_labels_no_fe": {
+   "n": 78,
+   "df_resid": 67,
+   "progressive": {
+    "gap_vs_mainstream_liberal": 2.27,
+    "se_hc1": 5.42,
+    "n_lane": 5
+   },
+   "left_populist": {
+    "gap_vs_mainstream_liberal": 0.38,
+    "se_hc1": 2.96,
+    "n_lane": 17
+   },
+   "center_populist": {
+    "gap_vs_mainstream_liberal": 0.47,
+    "se_hc1": 2.66,
+    "n_lane": 4
+   },
+   "moderate": {
+    "gap_vs_mainstream_liberal": 2.89,
+    "se_hc1": 3.3,
+    "n_lane": 12
+   }
+  },
+  "original_labels_state_fe_weighted": {
+   "n": 78,
+   "df_resid": 38,
+   "progressive": {
+    "gap_vs_mainstream_liberal": 5.53,
+    "se_hc1": 5.04,
+    "n_lane": 10
+   },
+   "left_populist": {
+    "gap_vs_mainstream_liberal": 3.67,
+    "se_hc1": 4.71,
+    "n_lane": 10
+   },
+   "center_populist": {
+    "gap_vs_mainstream_liberal": 8.99,
+    "se_hc1": 3.55,
+    "n_lane": 2
+   },
+   "moderate": {
+    "gap_vs_mainstream_liberal": 1.51,
+    "se_hc1": 4.05,
+    "n_lane": 15
+   }
+  },
+  "blind_labels_state_fe_weighted": {
+   "n": 78,
+   "df_resid": 38,
+   "progressive": {
+    "gap_vs_mainstream_liberal": 8.95,
+    "se_hc1": 8.21,
+    "n_lane": 5
+   },
+   "left_populist": {
+    "gap_vs_mainstream_liberal": 2.94,
+    "se_hc1": 2.37,
+    "n_lane": 17
+   },
+   "center_populist": {
+    "gap_vs_mainstream_liberal": 2.0,
+    "se_hc1": 3.25,
+    "n_lane": 4
+   },
+   "moderate": {
+    "gap_vs_mainstream_liberal": 4.49,
+    "se_hc1": 3.5,
+    "n_lane": 12
+   }
+  }
+ },
+ "raw_mean_y_by_lane": {
+  "orig_arch": {
+   "progressive": [
+    9.85,
+    10
+   ],
+   "left_populist": [
+    18.24,
+    10
+   ],
+   "center_populist": [
+    17.16,
+    2
+   ],
+   "mainstream_liberal": [
+    15.07,
+    41
+   ],
+   "moderate": [
+    19.66,
+    15
+   ]
+  },
+  "blind_arch": {
+   "progressive": [
+    12.35,
+    5
+   ],
+   "left_populist": [
+    15.57,
+    17
+   ],
+   "center_populist": [
+    16.81,
+    4
+   ],
+   "mainstream_liberal": [
+    14.96,
+    40
+   ],
+   "moderate": [
+    19.66,
+    12
+   ]
+  }
+ }
+}

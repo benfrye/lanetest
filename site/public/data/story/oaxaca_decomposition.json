@@ -1,0 +1,81 @@
+{
+ "reference": "mainstream_liberal",
+ "by_archetype": {
+  "progressive": {
+   "raw_gap": -3.432,
+   "n": 26,
+   "office": 0.066,
+   "state_wave": -2.049,
+   "lean": 0.373,
+   "incumbency": -1.215,
+   "opponent": -0.102,
+   "style": -0.553,
+   "demographic": 0.0,
+   "residual": 0.047,
+   "delta_hat": -0.834,
+   "check_sum": -3.432
+  },
+  "left_populist": {
+   "raw_gap": -0.522,
+   "n": 14,
+   "office": 0.282,
+   "state_wave": -0.006,
+   "lean": -0.843,
+   "incumbency": -0.783,
+   "opponent": 0.179,
+   "style": 0.871,
+   "demographic": 0.0,
+   "residual": -0.222,
+   "delta_hat": 1.319,
+   "check_sum": -0.522
+  },
+  "center_populist": {
+   "raw_gap": 1.002,
+   "n": 2,
+   "office": 0.561,
+   "state_wave": -1.302,
+   "lean": -0.681,
+   "incumbency": -0.017,
+   "opponent": 0.169,
+   "style": 2.393,
+   "demographic": 0.0,
+   "residual": -0.121,
+   "delta_hat": 2.886,
+   "check_sum": 1.002
+  },
+  "moderate": {
+   "raw_gap": 1.988,
+   "n": 69,
+   "office": 0.002,
+   "state_wave": -0.29,
+   "lean": -1.011,
+   "incumbency": 1.578,
+   "opponent": 0.085,
+   "style": 1.205,
+   "demographic": 0.0,
+   "residual": 0.419,
+   "delta_hat": 1.261,
+   "check_sum": 1.988
+  }
+ },
+ "excluding_GOV_VT": {
+  "progressive": {
+   "raw_gap": -1.277,
+   "n": 25,
+   "excluded": [
+    "GOV-VT"
+   ],
+   "office": 0.071,
+   "state_wave": -1.664,
+   "lean": 0.35,
+   "incumbency": 0.261,
+   "opponent": -0.046,
+   "style": -0.494,
+   "demographic": 0.0,
+   "residual": 0.246,
+   "raw_mean_progressive": 12.567,
+   "raw_mean_progressive_with_vt": 10.549
+  }
+ },
+ "note": "raw_a - raw_ml = sum_k beta_k (Xbar_a,k - Xbar_ml,k) + residual gap, at agnostic posterior means. 'style' = the style columns' contribution (beta_L, beta_P, statewide d, u); delta_hat is the archetype effect at its centroid. 'demographic' is 0 because ES terms were dropped (no district demographics). 'office' = office/period intercepts. Partial counts use the expected late shift."
+}

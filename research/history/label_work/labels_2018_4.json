@@ -1,0 +1,566 @@
+{
+ "cycle": 2018,
+ "coder": "batch_2018_4",
+ "labels": {
+  "RI-2": {
+   "name": "James Langevin",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Long-tenured incumbent, conventional party-line Democrat; no caucus or left/centrist markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Rhode_Island&oldid=860045770",
+   "verified_fetch": false
+  },
+  "SC-1": {
+   "name": "Joe Cunningham",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Pledged from campaign start not to back Pelosi; pro-Second Amendment; refused corporate PAC money; offshore-drilling-centred cross-party \"Lowcountry over party\" campaign; DCCC Red to Blue",
+   "label_source_url": "https://www.eenews.net/articles/offshore-drilling-fears-could-turn-trump-district-blue/",
+   "verified_fetch": true
+  },
+  "SC-2": {
+   "name": "Sean Carrigan",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Long-shot Army veteran challenger; no ideological markers found (search budget exhausted before a dedicated check)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_South_Carolina&oldid=864549816",
+   "verified_fetch": false
+  },
+  "SC-3": {
+   "name": "Mary Geren",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "College instructor, first-time federal candidate; single Our Revolution endorsement with otherwise conventional, thinly covered profile",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": false
+  },
+  "SC-4": {
+   "name": "Brandon Brown",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Consultant and former Biden 2008 state deputy director; conventional platform (pro-choice, gun control, improve ACA)",
+   "label_source_url": "https://ballotpedia.org/Brandon_Brown_(South_Carolina)",
+   "verified_fetch": false
+  },
+  "SC-5": {
+   "name": "Archie Parnell",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former Goldman Sachs tax adviser, 2017 special-election nominee; conventional campaign overshadowed by domestic-abuse revelation; no markers",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_South_Carolina&oldid=864549816",
+   "verified_fetch": false
+  },
+  "SC-7": {
+   "name": "Robert Williams",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former state representative; conventional long-shot nominee; no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_South_Carolina&oldid=864549816",
+   "verified_fetch": false
+  },
+  "SD-AL": {
+   "name": "Tim Bjorkman",
+   "ideology": "moderate",
+   "posture": "populist",
+   "archetype": "center_populist",
+   "style_confidence": "high",
+   "style_evidence": "Pro-life Democrat (Democrats for Life list); wanted Pelosi replaced; \"country over party\"; refused all PAC/special-interest money, attacked Congress serving the \"ultra-wealthy\" and Big Pharma; Medicare public option not M4A",
+   "label_source_url": "https://dakotafreepress.com/2018/06/27/video-bjorkman-says-refusing-special-interest-money-central-to-fixing-congress",
+   "verified_fetch": true
+  },
+  "TN-2": {
+   "name": "Renee Hoyos",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Environmental-advocacy director, long-shot open-seat nominee; no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Tennessee&oldid=861268695",
+   "verified_fetch": false
+  },
+  "TN-5": {
+   "name": "Jim Cooper",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member and Blue Dog PAC endorsed; also New Dem member; long-time incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "verified_fetch": false
+  },
+  "TN-6": {
+   "name": "Dawn Barlow",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Long-shot open-seat nominee in deep-red seat; no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Tennessee&oldid=861268695",
+   "verified_fetch": false
+  },
+  "TN-7": {
+   "name": "Justin Kanew",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "\"I'm not a politician\"; zero PAC money, criticised opponent's pharma money; but decency/common-ground-with-moderates framing, no working-class or left markers",
+   "label_source_url": "https://www.williamsonscene.com/news/justin-kanew-a-q-amp-a-with-the-political-outsider-running-for-the-district-7/article_ca22e9a9-9d4b-541a-b57d-ebce54c85627.html",
+   "verified_fetch": true
+  },
+  "TX-2": {
+   "name": "Todd Litton",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue nonprofit executive; Brand New Congress marker is a false match (BNC page lists J. Darnell Jones, whom Litton beat in the primary)",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "TX-3": {
+   "name": "Lorie Burch",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats endorsed and Brand New Congress candidate (BNC \"working-class Congress\" slate); long-shot challenger",
+   "label_source_url": "http://web.archive.org/web/20181109213119/https://brandnewcongress.org/candidates/",
+   "verified_fetch": true
+  },
+  "TX-5": {
+   "name": "Dan Wood",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Long-shot open-seat nominee (attorney); no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Texas&oldid=867469715",
+   "verified_fetch": false
+  },
+  "TX-6": {
+   "name": "Jana Lynne Sanchez",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue recruit; no left or centrist markers",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "TX-7": {
+   "name": "Lizzie Fletcher",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Party-preferred business attorney who beat left insurgent Laura Moser after DCCC oppo dump on Moser; EMILY's List, DCCC Red to Blue; swing-seat centrist profile (no single explicit centrist quote found)",
+   "label_source_url": "https://www.texastribune.org/2018/04/26/texas-congress-district-2018-election-laura-moser-lizzie-pannill-fletc/",
+   "verified_fetch": false
+  },
+  "TX-10": {
+   "name": "Mike Siegel",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "medium",
+   "style_evidence": "Our Revolution endorsed; Medicare for All as centrepiece plus Green New Deal; \"Bernie Democrat\"; civil-rights lawyer, refused corporate PAC money",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": false
+  },
+  "TX-12": {
+   "name": "Vanessa Adia",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats endorsed and Brand New Congress candidate; teacher, long-shot low-budget challenger",
+   "label_source_url": "http://web.archive.org/web/20181109213119/https://brandnewcongress.org/candidates/",
+   "verified_fetch": true
+  },
+  "TX-14": {
+   "name": "Adrienne Bell",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats, Our Revolution and Brand New Congress; teacher and organizer, long-shot challenger",
+   "label_source_url": "http://web.archive.org/web/20181109213119/https://brandnewcongress.org/candidates/",
+   "verified_fetch": true
+  },
+  "TX-15": {
+   "name": "Vicente Gonzalez",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member and Blue Dog PAC endorsed incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "verified_fetch": false
+  },
+  "TX-16": {
+   "name": "Veronica Escobar",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former county judge and front-runner; Our Revolution (El Paso) and PCCC plus EMILY's List, O'Rourke, Latino Victory; conventional institutional profile despite progressive endorsements",
+   "label_source_url": "https://www.theprospectordaily.com/2018/01/20/our-revolution-endorses-veronica-escobar-for-congressional-seat",
+   "verified_fetch": false
+  },
+  "TX-17": {
+   "name": "Rick Kennedy",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Long-shot challenger (software developer); no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Texas&oldid=867469715",
+   "verified_fetch": false
+  },
+  "TX-21": {
+   "name": "Joseph Kopser",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Army veteran/entrepreneur, DCCC Red to Blue; beat more progressive Mary Wilson, rivals called him insufficiently progressive; pitched to independents and moderate Republicans",
+   "label_source_url": "https://www.austinchronicle.com/news/2018-10-05/tx-21-joseph-kopser-vs-chip-roy/",
+   "verified_fetch": true
+  },
+  "TX-22": {
+   "name": "Sri Preston Kulkarni",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue recruit (former Foreign Service officer); no left or centrist markers",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "TX-23": {
+   "name": "Gina Ortiz Jones",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue, EMILY's List; beat BNC/JD insurgent Rick Trevino in runoff (BNC marker is a false match)",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "TX-24": {
+   "name": "Jan McDowell",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Low-budget long-shot challenger (accountant); no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Texas&oldid=867469715",
+   "verified_fetch": false
+  },
+  "TX-25": {
+   "name": "Julie Oliver",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Swore off all PAC money; up-from-poverty teen-mom story and advocate-for-working-people framing; supports Medicare for All but no Sanders/OR/JD backing marker found",
+   "label_source_url": "https://www.dailykos.com/stories/2018/9/30/1800224/-This-is-one-of-the-most-powerful-and-inspiring-campaign-ads-and-candidates-of-2018",
+   "verified_fetch": true
+  },
+  "TX-26": {
+   "name": "Linsey Fagan",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats, Our Revolution and Brand New Congress; single mom/tech entrepreneur long-shot challenger",
+   "label_source_url": "http://web.archive.org/web/20181109213119/https://brandnewcongress.org/candidates/",
+   "verified_fetch": true
+  },
+  "TX-27": {
+   "name": "Eric Holguin",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Single Our Revolution endorsement; former NYC Comptroller staffer, Run for Something candidate; otherwise conventional profile",
+   "label_source_url": "http://web.archive.org/web/20181104071734/https://ourrevolution.com/candidates/",
+   "verified_fetch": false
+  },
+  "TX-29": {
+   "name": "Sylvia Garcia",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator, party-backed open-seat nominee in safe seat; conventional profile",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Texas&oldid=867469715",
+   "verified_fetch": false
+  },
+  "TX-31": {
+   "name": "MJ Hegar",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed and DCCC Red to Blue; veteran-outsider \"Doors\" campaign framing",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "TX-32": {
+   "name": "Colin Allred",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue recruit (former NFL player, civil-rights lawyer); no left or explicit centrist markers",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "TX-34": {
+   "name": "Filemon Vela Jr.",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog Coalition member and Blue Dog PAC endorsed incumbent",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=List_of_members_of_the_Blue_Dog_Coalition&oldid=854764346",
+   "verified_fetch": false
+  },
+  "UT-2": {
+   "name": "Shireen Ghorbani",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Long-shot challenger; no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Utah&oldid=866382171",
+   "verified_fetch": false
+  },
+  "UT-3": {
+   "name": "James Singer",
+   "ideology": "left",
+   "posture": "mixed",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "Self-described \"social Democrat in the mold of\" Bernie Sanders; single-payer as human right, pro-union; Our Revolution endorsed; civil, values-based tone",
+   "label_source_url": "https://www.deseret.com/2018/10/23/20656754/3rd-district-race-john-curtis-touts-accomplishments-james-singer-seeks-to-expand-social-safety-net/",
+   "verified_fetch": true
+  },
+  "UT-4": {
+   "name": "Ben McAdams",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed, DCCC Red to Blue; county mayor running as bipartisan centrist who said he would not back Pelosi",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "VA-1": {
+   "name": "Vangie Williams",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Long-shot challenger (author/consultant); no markers found",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=2018_United_States_House_of_Representatives_elections_in_Virginia&oldid=867470119",
+   "verified_fetch": false
+  },
+  "VA-2": {
+   "name": "Elaine Luria",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Opposed single government health program (\"Medicare for all\"), backed public option/Medicare buy-in at 50-55; Navy commander; dodged Pelosi question; DCCC Red to Blue",
+   "label_source_url": "https://insurancenewsnet.com/oarticle/elaine-luria-and-scott-taylor-are-locked-in-a-close-race-heres-where-they-stand-on-key-issues",
+   "verified_fetch": true
+  },
+  "VA-5": {
+   "name": "Leslie Cockburn",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue; investigative journalist; no left or centrist markers",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "VA-6": {
+   "name": "Jennifer Lewis",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "\"Progressive activist\" who beat establishment favorite; supports Medicare for All; \"We were endorsed by Our Revolution\"; rural populism, anti corporate personhood and \"pay-to-play\"",
+   "label_source_url": "https://www.huffpost.com/entry/jennifer-lewis-progressive-environmentalist-virginia-trump-country_n_5b3fb263e4b05127ccf1d25d",
+   "verified_fetch": true
+  },
+  "VA-7": {
+   "name": "Abigail Spanberger",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Blue Dog PAC endorsed, DCCC Red to Blue; former CIA officer running as centrist frontliner",
+   "label_source_url": "http://web.archive.org/web/20181022062501/https://bluedogdems.com/",
+   "verified_fetch": false
+  },
+  "VA-9": {
+   "name": "Anthony Flaccavento",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Progressive-populism test case: \"I am very much a progressive. I am not a Joe Manchin Democrat\"; Medicare for All, antitrust, worker outreach; Our Revolution endorsed",
+   "label_source_url": "https://newrepublic.com/article/151167/can-organic-farmer-win-appalachian-virginia",
+   "verified_fetch": true
+  },
+  "VA-10": {
+   "name": "Jennifer Wexton",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator, DCCC Red to Blue; conventional party-backed nominee",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "WA-1": {
+   "name": "Suzan DelBene",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Democrat Coalition member in a safe seat (rubric: plain New Dem in safe seat -> liberal)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+   "verified_fetch": false
+  },
+  "WA-3": {
+   "name": "Carolyn Long",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue professor; BNC marker is a false match (BNC page lists Dorothy Gasque, whom Long beat in the top-two primary); no left/centrist markers found",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "WA-5": {
+   "name": "Lisa Brown",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Former state Senate majority leader, DCCC Red to Blue; conventional profile",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "WA-6": {
+   "name": "Derek Kilmer",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Democrat Coalition member in a safe seat (rubric: plain New Dem in safe seat -> liberal)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+   "verified_fetch": false
+  },
+  "WA-7": {
+   "name": "Pramila Jayapal",
+   "ideology": "left",
+   "posture": "establishment",
+   "archetype": "progressive",
+   "style_confidence": "high",
+   "style_evidence": "CPC leader, Justice Democrats, Our Revolution and PCCC endorsed incumbent; rubric names Jayapal as prominently left",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Congressional_Progressive_Caucus&oldid=864765214",
+   "verified_fetch": false
+  },
+  "WA-8": {
+   "name": "Kim Schrier",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Pediatrician, DCCC Red to Blue and EMILY's List; no left or centrist markers",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "WA-10": {
+   "name": "Denny Heck",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "New Democrat Coalition member in a safe seat (rubric: plain New Dem in safe seat -> liberal)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+   "verified_fetch": false
+  },
+  "WI-1": {
+   "name": "Randy Bryce",
+   "ideology": "left",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "high",
+   "style_evidence": "Justice Democrats and PCCC endorsed ironworker \"IronStache\"; working-class identity central, Medicare for All; also DCCC Red to Blue",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=Justice_Democrats&oldid=866491863",
+   "verified_fetch": false
+  },
+  "WI-3": {
+   "name": "Ron Kind",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "New Democrat Coalition member in a Trump-won swing seat (rubric: New Dem swing-seat centrist -> moderate)",
+   "label_source_url": "https://en.wikipedia.org/w/index.php?title=New_Democrat_Coalition&oldid=863958870",
+   "verified_fetch": false
+  },
+  "WI-6": {
+   "name": "Dan Kohl",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "DCCC Red to Blue recruit (nephew of Sen. Herb Kohl); no left or centrist markers",
+   "label_source_url": "http://web.archive.org/web/20181030021445/https://redtoblue.dccc.org/",
+   "verified_fetch": false
+  },
+  "WI-8": {
+   "name": "Beau Liegeois",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Prosecutor/Guard JAG; campaign site reportedly matched most of Gallagher's stances except health care; no-corporate-PAC pledge",
+   "label_source_url": "https://www.wispolitics.com/2018/liegeois-campaign-calls-on-mike-gallagher-to-return-corporate-pac-money/",
+   "verified_fetch": false
+  },
+  "WV-3": {
+   "name": "Richard Ojeda",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Working-class populist Army veteran and teacher-strike champion; Trump 2016 voter attacking national Democrats as out of touch; Medicare buy-in not single-payer; DCCC Red to Blue",
+   "label_source_url": "https://rollcall.com/2018/07/10/the-unlikely-campaign-behind-richard-ojedas-rise-in-west-virginia/",
+   "verified_fetch": true
+  }
+ }
+}

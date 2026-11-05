@@ -1,0 +1,2356 @@
+{
+ "as_of": "2026-11-04 ~21:52 ET (NBC refresh of uncalled/partial races; earlier races as of ~11:10 ET)",
+ "scope": "New York (26 districts), New Jersey (12)",
+ "expected_rows": 38,
+ "races": [
+  {
+   "id": "NY-1",
+   "office": "House",
+   "state": "NY",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Chris Gallant",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Air traffic controller; WFP line; endorsed by Pete Buttigieg and No Labels co-founder John Avlon; won primary 62.9-37.0 over Track AIPAC-backed Lukas Ventouras.",
+    "background": "Air traffic controller; first-time candidate.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Lukas Ventouras 62.9-37.0."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Nick LaLota",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.9,
+    "rep_pct": 51.1,
+    "other_pct": 0.1,
+    "margin": -2.2,
+    "pct_expected_vote_counted": 97,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -10.04,
+    "lines": "2024_same",
+    "house2024_margin": -10.43,
+    "prev_seat_margin": -10.43,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 7.84,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-1-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_York%27s_1st_congressional_district",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Uncalled; NBC: Gallant would need ~57% of remaining vote. NBC lists names as Christopher Gallant / Nicholas LaLota. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: 2024 House margin corrected -10.44 -> -10.43 (LaLota 226,285 vs Avlon 183,540 of 409,825 per Wikipedia district page). NBC count unchanged at 11:20 AM ET.",
+   "verified": true
+  },
+  {
+   "id": "NY-2",
+   "office": "House",
+   "state": "NY",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Patrick Halpin",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Former Suffolk County executive (1988-1991); Working Families Party line; uncontested primary after rivals disqualified/withdrew.",
+    "background": "Former Suffolk County executive, 1988-1991.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Effectively unopposed (others disqualified/withdrew)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Andrew Garbarino",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 48.4,
+    "rep_pct": 51.6,
+    "other_pct": 0.1,
+    "margin": -3.2,
+    "pct_expected_vote_counted": 97.1,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -13.93,
+    "lines": "2024_same",
+    "house2024_margin": -19.54,
+    "prev_seat_margin": -19.54,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.43,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-2-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Uncalled; NBC: Halpin would need 54.6% of remaining vote. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: NBC race page re-checked 11:15-11:20 AM ET: shares and expected-vote unchanged.",
+   "verified": true
+  },
+  {
+   "id": "NY-3",
+   "office": "House",
+   "state": "NY",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Tom Suozzi",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "New Democrat Coalition; endorsed by WelcomePAC, AIPAC, DMI; beat left challenger Danielle Welch (SURJ-backed) 79.3-20.5.",
+    "background": "Incumbent; former Nassau County executive.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat public defender Danielle Welch 79.3-20.5."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike LiPetri",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 54.8,
+    "rep_pct": 45,
+    "other_pct": 0.3,
+    "margin": 9.8,
+    "pct_expected_vote_counted": 97,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -4.28,
+    "lines": "2024_same",
+    "house2024_margin": 3.58,
+    "prev_seat_margin": 3.58,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.68,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-3-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "NBC lists Michael LiPetri Jr. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-4",
+   "office": "House",
+   "state": "NY",
+   "district": 4,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Laura Gillen",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "New Democrat Coalition; endorsed by Jeffries, Clark, Aguilar, state party chair, AIPAC, DMI, EMILY's List; centrist reputation not re-verified for 2026.",
+    "background": "Incumbent; former Hempstead town supervisor.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed after challengers disqualified/withdrew."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jeanine Driscoll",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 56.1,
+    "rep_pct": 43.5,
+    "other_pct": 0.4,
+    "margin": 12.6,
+    "pct_expected_vote_counted": 97,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 1.28,
+    "lines": "2024_same",
+    "house2024_margin": 2.3,
+    "prev_seat_margin": 2.3,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.52,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-4-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-5",
+   "office": "House",
+   "state": "NY",
+   "district": 5,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Gregory Meeks",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition; AIPAC, DMI, J Street backed.",
+    "background": "Incumbent since 1998.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "George Marsh",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 80.5,
+    "rep_pct": 19.3,
+    "other_pct": 0.3,
+    "margin": 61.2,
+    "pct_expected_vote_counted": 91.1,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 42.16,
+    "lines": "2024_same",
+    "house2024_margin": 45.86,
+    "prev_seat_margin": 45.86,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 19.04,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: NBC race page re-checked 11:15-11:20 AM ET: shares and expected-vote unchanged.",
+   "verified": true
+  },
+  {
+   "id": "NY-6",
+   "office": "House",
+   "state": "NY",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Grace Meng",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Congressional Progressive Caucus member; Queens party/labor and AIPAC-backed; beat left challenger Chuck Park (Sunrise, Track AIPAC) only 56.8-42.9.",
+    "background": "Incumbent since 2013.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Chuck Park 56.8-42.9; Park ran left on AIPAC, ICE, casino."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joseph Chou",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 68.6,
+    "rep_pct": 30.6,
+    "other_pct": 0.8,
+    "margin": 38.0,
+    "pct_expected_vote_counted": 87.2,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 6.41,
+    "lines": "2024_same",
+    "house2024_margin": 23.05,
+    "prev_seat_margin": 23.05,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 31.59,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Biggest D-margin gain vs 2024 presidential in the state (Harris +6.4 seat). Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-7",
+   "office": "House",
+   "state": "NY",
+   "district": 7,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Claire Valdez",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "NYC-DSA and Mamdani pick; endorsed by Sanders, Justice Democrats, Our Revolution, Sunrise, UAW, Shawn Fain; beat WFP/Velazquez-backed Antonio Reynoso 56.2-35.6.",
+    "background": "First-term state assemblymember; DSA member.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "DSA-vs-WFP proxy fight: Valdez 56.2, Reynoso 35.6, Won 6.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Melvin Rivera",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 83.3,
+    "rep_pct": 15,
+    "other_pct": 1.6,
+    "margin": 68.3,
+    "pct_expected_vote_counted": 97.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 45.89,
+    "lines": "2024_same",
+    "house2024_margin": 56.22,
+    "prev_seat_margin": 56.22,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 22.41,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-7-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Open seat (Velazquez retired). Rivera was a tenant organizer who withdrew from the D primary to run as R (per Wikipedia). Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-8",
+   "office": "House",
+   "state": "NY",
+   "district": 8,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Hakeem Jeffries",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "House Democratic leader; AIPAC/J Street backed; DSA declined to back challenger Chi Osse, who withdrew.",
+    "background": "House minority leader; incumbent since 2013.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Chi Osse challenge withdrew after DSA declined to endorse."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Lewis Mizrahi",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 78.9,
+    "rep_pct": 19.7,
+    "other_pct": 1.4,
+    "margin": 59.2,
+    "pct_expected_vote_counted": 98,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 43.98,
+    "lines": "2024_same",
+    "house2024_margin": 50.78,
+    "prev_seat_margin": 50.78,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 15.22,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-8-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: NBC race page re-checked 11:15-11:20 AM ET: shares and expected-vote unchanged.",
+   "verified": true
+  },
+  {
+   "id": "NY-9",
+   "office": "House",
+   "state": "NY",
+   "district": 9,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Yvette Clarke",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Congressional Progressive Caucus member; AIPAC and J Street backed.",
+    "background": "Incumbent since 2007.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Michael Goldfarb and Joshua Bristol, 68.4%."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joel Anabilah-Azumah",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 82.1,
+    "rep_pct": 17.0,
+    "other_pct": 0.9,
+    "margin": 65.1,
+    "pct_expected_vote_counted": 95.6,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 40.61,
+    "lines": "2024_same",
+    "house2024_margin": 48.5,
+    "prev_seat_margin": 48.5,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 24.49,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-9-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: NBC race page re-checked 11:15-11:20 AM ET: shares and expected-vote unchanged.",
+   "verified": true
+  },
+  {
+   "id": "NY-10",
+   "office": "House",
+   "state": "NY",
+   "district": 10,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Brad Lander",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "establishment",
+    "archetype": "progressive",
+    "style_confidence": "medium",
+    "style_evidence": "Ousted incumbent Dan Goldman 66.0-33.8 as the more progressive candidate; backed by Mamdani, Sanders, Warren, WFP, Our Revolution; not DSA-endorsed.",
+    "background": "Former NYC comptroller; 2025 mayoral candidate.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Defeated incumbent Dan Goldman 66.0-33.8; Goldman backed by Jeffries, Hochul, AIPAC."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jennifer Moore",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 83.2,
+    "rep_pct": 15.9,
+    "other_pct": 0.9,
+    "margin": 67.3,
+    "pct_expected_vote_counted": 91.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 60.44,
+    "lines": "2024_same",
+    "house2024_margin": 67.33,
+    "prev_seat_margin": 67.33,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 6.86,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-10-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Incumbent Goldman (D) lost primary, so open in the general for practical purposes; open_seat=false because an incumbent sought re-election. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-11",
+   "office": "House",
+   "state": "NY",
+   "district": 11,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Michael DeCillis",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Little style information found; won primary 61.4% against a withdrawn opponent.",
+    "background": "Not researched in depth.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Nicole Malliotakis",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 43.8,
+    "rep_pct": 56.1,
+    "other_pct": 0.1,
+    "margin": -12.3,
+    "pct_expected_vote_counted": 96.8,
+    "called": "R",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -24.37,
+    "lines": "2024_same",
+    "house2024_margin": -28.2,
+    "prev_seat_margin": -28.2,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.07,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-11-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "SCOTUS blocked court-ordered redraw of NY-11 (March 2, 2026), so 2024 lines used. NBC lists Mike DeCillis. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: NBC race page re-checked 11:15-11:20 AM ET: shares and expected-vote unchanged.",
+   "verified": true
+  },
+  {
+   "id": "NY-12",
+   "office": "House",
+   "state": "NY",
+   "district": 12,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Micah Lasher",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Endorsed by Nadler, Hochul, Bloomberg; described as the 'establishment' candidate; won 38.9% over Alex Bores 34.9% in a field with minimal ideological differences.",
+    "background": "First-term state assemblymember; former Hochul/Bloomberg aide.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Lasher 38.9, Bores 34.9, Schlossberg 10.9; WFP and Mamdani stayed out."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Caroline Shinkle",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 77.2,
+    "rep_pct": 20.0,
+    "other_pct": 1.4,
+    "margin": 57.2,
+    "pct_expected_vote_counted": 88.1,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 63.6,
+    "lines": "2024_same",
+    "house2024_margin": 61.02,
+    "prev_seat_margin": 61.02,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": -6.4,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-12-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Open seat (Nadler retired). Other = Karen Ortiz (I) 1.4; listed shares sum to 98.6. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-13",
+   "office": "House",
+   "state": "NY",
+   "district": 13,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Darializa Avila Chevalier",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Justice Democrats recruit and NYC-DSA endorsed; backed by Mamdani, AOC, Sanders-aligned groups, Sunrise, Our Revolution; abolish-ICE, Gaza 'apartheid' positions; unseated Espaillat 49.5-45.7.",
+    "background": "Graduate student and community organizer; Columbia Gaza encampment organizer.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Defeated incumbent Adriano Espaillat 49.5-45.7; framed as mainstream vs democratic socialist wing."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jomo Williams",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 87.5,
+    "rep_pct": 11.4,
+    "other_pct": 1.1,
+    "margin": 76.1,
+    "pct_expected_vote_counted": 79.8,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 59.28,
+    "lines": "2024_same",
+    "house2024_margin": 67.08,
+    "prev_seat_margin": 67.08,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.82,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-13-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/2026_New_York%27s_13th_congressional_district_election",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Incumbent Espaillat (D) lost primary. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: NBC race page re-checked 11:15-11:20 AM ET: shares and expected-vote unchanged.",
+   "verified": true
+  },
+  {
+   "id": "NY-14",
+   "office": "House",
+   "state": "NY",
+   "district": 14,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Alexandria Ocasio-Cortez",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Squad leader; endorsed by Justice Democrats, NYC-DSA, Our Revolution, Track AIPAC, UAW Region 9A; CPC member; won primary 86.9%.",
+    "background": "Incumbent since 2019; Squad member.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won 86.9% vs two minor challengers."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Diamant Hysenaj",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 78.2,
+    "rep_pct": 21.5,
+    "other_pct": 0.2,
+    "margin": 56.7,
+    "pct_expected_vote_counted": 95.6,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 31.75,
+    "lines": "2024_same",
+    "house2024_margin": 38.4,
+    "prev_seat_margin": 38.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 24.95,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-14-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Seat is Harris +31.8 (shifted right sharply 2020-24); AOC ran ~14.6 pts ahead of that baseline. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-15",
+   "office": "House",
+   "state": "NY",
+   "district": 15,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Ritchie Torres",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Pro-Israel, AIPAC/DMI backed; left CPC in 2024; beat left challenger Michael Blake (Track AIPAC, de Blasio) 71.8-21.8; Mamdani declined to endorse.",
+    "background": "Incumbent since 2021; former NYC councilmember.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Michael Blake 71.8-21.8 in Israel-focused challenge."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Stylo Sapaskis",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 76.8,
+    "rep_pct": 10.6,
+    "other_pct": 8.7,
+    "margin": 66.2,
+    "pct_expected_vote_counted": 93.8,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 48.26,
+    "lines": "2024_same",
+    "house2024_margin": 55.36,
+    "prev_seat_margin": 55.36,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 17.94,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-15-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Other = Andre Easton (I) 8.7; listed shares sum to 96.1, remainder not itemized in source. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-16",
+   "office": "House",
+   "state": "NY",
+   "district": 16,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "George Latimer",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "New Democrat Coalition; AIPAC/DMI backed; ousted Jamaal Bowman in 2024; no 2026 primary challenge found.",
+    "background": "Incumbent; former Westchester County executive.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joseph Cinquemani",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 81.7,
+    "rep_pct": 18,
+    "other_pct": 0.3,
+    "margin": 63.7,
+    "pct_expected_vote_counted": 34.6,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 33.11,
+    "lines": "2024_same",
+    "house2024_margin": 43.16,
+    "prev_seat_margin": 43.16,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 31.29,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-16-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://abc7ny.com/post/conley-wins-ny-17-bennett-defeats-kean-nj-7/20014683/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Only 32.1% of expected vote counted: Westchester scanner programming error delayed counting (ABC7). Margin not meaningful yet. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: NBC race page re-checked 11:15-11:20 AM ET: shares and expected-vote unchanged.",
+   "verified": true
+  },
+  {
+   "id": "NY-17",
+   "office": "House",
+   "state": "NY",
+   "district": 17,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Cait Conley",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Endorsed by Majority Democrats, NewDem Action Fund, VoteVets, DMI, End Citizens United; beat Rockland legislator Beth Davidson and WFP-backed Effie Phillips-Staley 49.6-31.8-15.3.",
+    "background": "Army veteran; former CISA senior advisor and national-security official.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Conley 49.6, Davidson 31.8, WFP/Our Revolution-backed Phillips-Staley 15.3."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Mike Lawler",
+    "incumbent": true,
+    "style": "moderate",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 52.1,
+    "rep_pct": 47.8,
+    "other_pct": 0.1,
+    "margin": 4.3,
+    "pct_expected_vote_counted": 84.1,
+    "called": null,
+    "called_by": "Concession, not a network projection: Lawler conceded Tuesday night (ABC7, City & State); NBC race page showed no projection at 11:17 AM ET",
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 0.56,
+    "lines": "2024_same",
+    "house2024_margin": -6.31,
+    "prev_seat_margin": -6.31,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 3.94,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-17-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://abc7ny.com/post/conley-wins-ny-17-bennett-defeats-kean-nj-7/20014683/",
+    "https://www.cityandstateny.com/politics/2026/11/lawler-swept-out-conley-blue-wave/417022/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "FLIP D. Only 60.9% counted (Westchester delay); margin will move. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: NBC count re-checked unchanged (52.2-47.7, 60.9% in, 11:17 AM ET). called=D rests on concession.",
+   "verified": true
+  },
+  {
+   "id": "NY-18",
+   "office": "House",
+   "state": "NY",
+   "district": 18,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Pat Ryan",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "mixed",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition; WFP line; publicly rejected AIPAC and DMI endorsements; Army veteran.",
+    "background": "Incumbent; Army veteran, former Ulster County executive.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jacqueline Auringer",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.9,
+    "rep_pct": 37.1,
+    "other_pct": 0.1,
+    "margin": 25.8,
+    "pct_expected_vote_counted": 88.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 3.33,
+    "lines": "2024_same",
+    "house2024_margin": 14.34,
+    "prev_seat_margin": 14.34,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 22.47,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-18-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-19",
+   "office": "House",
+   "state": "NY",
+   "district": 19,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Josh Riley",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition; WFP line; AIPAC, DMI, LCV, Giffords backed.",
+    "background": "Incumbent; lawyer, former congressional staffer.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Peter Oberacker",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 57.2,
+    "rep_pct": 42.7,
+    "other_pct": 0.1,
+    "margin": 14.5,
+    "pct_expected_vote_counted": 97.2,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 1.78,
+    "lines": "2024_same",
+    "house2024_margin": 2.22,
+    "prev_seat_margin": 2.22,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 12.72,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-19-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-20",
+   "office": "House",
+   "state": "NY",
+   "district": 20,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Paul Tonko",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Congressional Progressive Caucus member; WFP, J Street, Peace Action backed.",
+    "background": "Incumbent since 2009.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Ralph Ambrosio",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 63.5,
+    "rep_pct": 36.4,
+    "other_pct": 0.1,
+    "margin": 27.1,
+    "pct_expected_vote_counted": 96,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 14.15,
+    "lines": "2024_same",
+    "house2024_margin": 22.26,
+    "prev_seat_margin": 22.26,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 13.05,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-20-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-21",
+   "office": "House",
+   "state": "NY",
+   "district": 21,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Blake Gendebien",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "mixed",
+    "archetype": "moderate",
+    "style_confidence": "medium",
+    "style_evidence": "Dairy farmer, 'not a politician', both-sides gridlock and prices pitch (populist notes) but DCCC Red to Blue, Blue Dog PAC and NewDem Action Fund backed, plus Raskin/Morelle/Mannion endorsements (establishment).",
+    "background": "Lisbon dairy farmer; Agri-Mark co-op vice-chair; school board member.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Stuart Amoriell 64.6-35.0."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Anthony Constantino",
+    "incumbent": false,
+    "style": "maga",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 48.9,
+    "rep_pct": 50.9,
+    "other_pct": 0.2,
+    "margin": -2.0,
+    "pct_expected_vote_counted": 95.6,
+    "called": null,
+    "called_by": null,
+    "flipped": null,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -20.65,
+    "lines": "2024_same",
+    "house2024_margin": -24.28,
+    "prev_seat_margin": -24.28,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.45,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-21-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+    "https://northcountrynow.com/stories/ny-21-dems-select-lisbons-gendebien-as-special-election-candidate,282286",
+    "https://www.yahoo.com/news/politics/articles/gendebien-internal-poll-shows-him-110100302.html",
+    "https://www.northcountrypublicradio.org/news/story/54180/20261104/constantino-declares-republican-victory-in-ny-21-narrowly-defeating-gendebien",
+    "https://www.cityandstateny.com/politics/2026/11/constantino-declares-victory-ny-21-gendebien-not-conceding/417028/",
+    "https://en.wikipedia.org/w/api.php?action=parse&page=2026_United_States_House_of_Representatives_elections_in_New_York&section=346&prop=wikitext&format=json",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Open seat (Stefanik). Uncalled; Trump +20.65 seat within 2.2 pts. Constantino Trump-endorsed (also Jim Jordan, Giuliani, Roger Stone); >$16M in ads per a Gendebien internal-poll memo. Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: Posture changed populist->mixed and archetype center_populist->moderate: Wikipedia lists DCCC Red to Blue and NewDem Action Fund endorsements (rubric establishment markers) alongside populist branding. Independent check: NCPR scoreboard Constantino 139,792 (51%) vs Gendebien 133,714 (49%), matching NBC shares; Constantino declared victory, Gendebien not conceding (City & State); no network call found.",
+   "verified": true
+  },
+  {
+   "id": "NY-22",
+   "office": "House",
+   "state": "NY",
+   "district": 22,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "John Mannion",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition; WFP line; End Citizens United, Giffords, J Street backed.",
+    "background": "Incumbent; former state senator and teacher.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Kailee Buller",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 58.3,
+    "rep_pct": 41.6,
+    "other_pct": 0.1,
+    "margin": 16.7,
+    "pct_expected_vote_counted": 93.9,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 7.65,
+    "lines": "2024_same",
+    "house2024_margin": 9.12,
+    "prev_seat_margin": 9.12,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 9.05,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-22-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: NBC race page re-checked 11:15-11:20 AM ET: shares and expected-vote unchanged.",
+   "verified": true
+  },
+  {
+   "id": "NY-23",
+   "office": "House",
+   "state": "NY",
+   "district": 23,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Aaron Gies",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Minimal style info; won primary 71.5-28.2.",
+    "background": "Not researched in depth.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Nick Langworthy",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 39.7,
+    "rep_pct": 60.3,
+    "other_pct": 0.1,
+    "margin": -20.6,
+    "pct_expected_vote_counted": 97.3,
+    "called": "R",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -21.01,
+    "lines": "2024_same",
+    "house2024_margin": -31.62,
+    "prev_seat_margin": -31.62,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 0.41,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-23-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://www.wgrz.com/elections",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: WGRZ (AP feed): Langworthy 181,807 vs Gies 119,749 at 97% precincts -> 60.3/39.7, matches.",
+   "verified": true
+  },
+  {
+   "id": "NY-24",
+   "office": "House",
+   "state": "NY",
+   "district": 24,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Alissa Ellman",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Minimal style info; won primary 61.6-38.2.",
+    "background": "Not researched in depth.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Claudia Tenney",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 39.5,
+    "rep_pct": 60.4,
+    "other_pct": 0.1,
+    "margin": -20.9,
+    "pct_expected_vote_counted": 95.9,
+    "called": "R",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -23.09,
+    "lines": "2024_same",
+    "house2024_margin": -31.34,
+    "prev_seat_margin": -31.34,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 2.19,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-24-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://www.wgrz.com/elections",
+    "https://www.northcountrypublicradio.org/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: WGRZ and NCPR: Tenney 171,460 vs Ellman 112,261 (60/40), matches; NCPR marks Tenney winner.",
+   "verified": true
+  },
+  {
+   "id": "NY-25",
+   "office": "House",
+   "state": "NY",
+   "district": 25,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Joseph Morelle",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition; AIPAC/DMI and WFP backed; beat PDA/Track AIPAC-backed Robin Wilt 63.3-30.6.",
+    "background": "Incumbent; former NY Assembly majority leader.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Beat Robin Wilt (Progressive Democrats of America) 63.3-30.6."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Virginia McIntyre",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.9,
+    "rep_pct": 36.9,
+    "other_pct": 0.3,
+    "margin": 26.0,
+    "pct_expected_vote_counted": 98.0,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 18.44,
+    "lines": "2024_same",
+    "house2024_margin": 21.64,
+    "prev_seat_margin": 21.64,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 7.56,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-25-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count).",
+   "verified": true
+  },
+  {
+   "id": "NY-26",
+   "office": "House",
+   "state": "NY",
+   "district": 26,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Tim Kennedy",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition; AIPAC/DMI and WFP backed.",
+    "background": "Incumbent; former state senator.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Dennis Hannon",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 65.4,
+    "rep_pct": 34.4,
+    "other_pct": 0.1,
+    "margin": 31.0,
+    "pct_expected_vote_counted": 83.7,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 19.27,
+    "lines": "2024_same",
+    "house2024_margin": 30.34,
+    "prev_seat_margin": 30.34,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.73,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-york-us-house-district-26-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_York",
+    "https://www.nbcnews.com/politics/2026-elections/new-york-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://www.wgrz.com/elections",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NY: NBC statewide tally read 18 D / 3 R / 5 uncalled at ~10:57 AM ET Nov 4; per-race call markers were not legible in fetched page text, so D/R calls are inferred from that tally (uncalled inferred as NY-1, 2, 16, 17, 21 - the only races with close margins or very low count). VERIFICATION: WGRZ (AP feed): Kennedy 158,733 vs Hannon 83,531 at 84% precincts, matches 65.4/34.4.",
+   "verified": true
+  },
+  {
+   "id": "NJ-1",
+   "office": "House",
+   "state": "NJ",
+   "district": 1,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Donald Norcross",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "Member of both New Democrat Coalition and CPC; county party, building/service unions, AIPAC/DMI backed.",
+    "background": "Incumbent; electrician and union official.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed after challenger left ballot (100%)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Damon Galdo",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 70.2,
+    "rep_pct": 29.8,
+    "other_pct": 0.0,
+    "margin": 40.4,
+    "pct_expected_vote_counted": 93.2,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 18.73,
+    "lines": "2024_same",
+    "house2024_margin": 17.84,
+    "prev_seat_margin": 17.84,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 21.67,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-1-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe election-night roundup reported Norcross +46, an earlier partial count; NBC 70.2-29.8 at 92.7% (11:15 AM ET) retained.",
+   "verified": true
+  },
+  {
+   "id": "NJ-2",
+   "office": "House",
+   "state": "NJ",
+   "district": 2,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Zack Mullock",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "low",
+    "style_evidence": "Rejects labels ('never about the little letter'); bipartisan problem-solver pitch, no tax increases, utility-bill affordability; backed by Norcross-machine figures and Amy Kennedy; won primary 39.8%.",
+    "background": "Cape May mayor since 2021; family owns local hotel.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Mullock 39.8, Tim Alexander 27.4, Bayly Winder 22.2."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Jeff Van Drew",
+    "incumbent": true,
+    "style": "maga",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 50.7,
+    "rep_pct": 48.3,
+    "other_pct": 1.0,
+    "margin": 2.4,
+    "pct_expected_vote_counted": 95.0,
+    "called": "D",
+    "called_by": "Concession, not a network projection: Van Drew called Mullock to concede (New Jersey Globe); NBC race page showed no projection at 11:15 AM ET",
+    "flipped": true
+   },
+   "baseline": {
+    "pres2024_margin": -12.55,
+    "lines": "2024_same",
+    "house2024_margin": -16.91,
+    "prev_seat_margin": -16.91,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 14.95,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-2-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://newjerseyglobe.com/congress/zack-mullock-launches-nj-2-campaign-with-some-top-south-jersey-dems-already-behind-him/",
+    "https://newjerseyglobe.com/section-2/democratic-blue-wave-washes-away-van-drew-in-2nd-district/",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Uncalled but D leads in Trump +12.6 seat; NBC: Van Drew needs 72.2% of remaining vote. Van Drew 'maga' style is from pre-2026 reputation (2019 party switch, Trump ally), not re-verified. Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: called/flipped set from null to D/true for consistency with NY-17 (concession-based). New Jersey Globe: 'Van Drew has already called Mullock to concede'; separately reported Mullock 51-48 at 92% counted. Wikipedia: Mullock endorsed by Blue Dog PAC, supporting moderate classification.",
+   "verified": true
+  },
+  {
+   "id": "NJ-3",
+   "office": "House",
+   "state": "NJ",
+   "district": 3,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Herb Conaway",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Democrat Coalition; Gov. Sherrill, county parties, SEIU/CWA backed.",
+    "background": "Incumbent; physician, former assemblyman.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed (100%)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Michael McGuire",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.5,
+    "rep_pct": 35.6,
+    "other_pct": 1.9,
+    "margin": 26.9,
+    "pct_expected_vote_counted": 93.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 8.36,
+    "lines": "2024_same",
+    "house2024_margin": 8.59,
+    "prev_seat_margin": 8.59,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.34,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-3-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe election-night roundup reports margin +27, consistent with file.",
+   "verified": true
+  },
+  {
+   "id": "NJ-4",
+   "office": "House",
+   "state": "NJ",
+   "district": 4,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rachel Peace",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "low",
+    "style_evidence": "Minimal style info; won primary 72.8-27.2.",
+    "background": "Not researched in depth.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Chris Smith",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent"
+    ]
+   },
+   "result": {
+    "dem_pct": 40.9,
+    "rep_pct": 59.1,
+    "other_pct": null,
+    "margin": -18.2,
+    "pct_expected_vote_counted": 96.0,
+    "called": "R",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -30.12,
+    "lines": "2024_same",
+    "house2024_margin": -35.73,
+    "prev_seat_margin": -35.73,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 11.92,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-4-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe election-night roundup reports margin R +18, consistent with file.",
+   "verified": true
+  },
+  {
+   "id": "NJ-5",
+   "office": "House",
+   "state": "NJ",
+   "district": 5,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Josh Gottheimer",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "moderate",
+    "posture": "establishment",
+    "archetype": "moderate",
+    "style_confidence": "high",
+    "style_evidence": "Blue Dog, Problem Solvers co-founder and New Dem; backed by AIPAC, DMI, Democrats for Education Reform, Leading the Future.",
+    "background": "Incumbent since 2017; Problem Solvers Caucus co-chair.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed (100%)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Sean Kirrane",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 62.4,
+    "rep_pct": 34.7,
+    "other_pct": 2.9,
+    "margin": 27.7,
+    "pct_expected_vote_counted": 96.1,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 1.51,
+    "lines": "2024_same",
+    "house2024_margin": 11.28,
+    "prev_seat_margin": 11.28,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 26.19,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-5-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://en.wikipedia.org/wiki/Blue_Dog_Coalition",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe election-night roundup reports margin +28, consistent with file.",
+   "verified": true
+  },
+  {
+   "id": "NJ-6",
+   "office": "House",
+   "state": "NJ",
+   "district": 6,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Frank Pallone",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "high",
+    "style_evidence": "CPC member; county party and labor backed; beat Track AIPAC/Our Revolution-backed challengers John Hsu and Katie Bansil 65.7%.",
+    "background": "Incumbent since 1988; Energy and Commerce ranking member.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Pallone 65.7, Hsu 26.7, Bansil 7.7; challengers ran left with Track AIPAC/Our Revolution/CAIR backing."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Hillary Herzig",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 69.1,
+    "rep_pct": 30.9,
+    "other_pct": null,
+    "margin": 38.2,
+    "pct_expected_vote_counted": 94.7,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 6.42,
+    "lines": "2024_same",
+    "house2024_margin": 15.73,
+    "prev_seat_margin": 15.73,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 31.78,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-6-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe election-night roundup reports margin +38, consistent with file.",
+   "verified": true
+  },
+  {
+   "id": "NJ-7",
+   "office": "House",
+   "state": "NJ",
+   "district": 7,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "R",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rebecca Bennett",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "County-party lines; endorsed by VoteVets, Serve America, J Street, Reps. Crow, Moulton, Deluzio, Pat Ryan; beat Tina Shah and Forward Party ex-chair Brian Varela 45.3%.",
+    "background": "Healthcare executive; former Navy helicopter and test pilot (15 years).",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Bennett 45.3, Shah 20.0, Varela 19.1, Roth 15.6."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Thomas Kean Jr.",
+    "incumbent": true,
+    "style": "traditional",
+    "quality_flags": [
+     "incumbent",
+     "health_absence"
+    ]
+   },
+   "result": {
+    "dem_pct": 57.1,
+    "rep_pct": 41.4,
+    "other_pct": 1.5,
+    "margin": 15.7,
+    "pct_expected_vote_counted": 94.6,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": true,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": -1.17,
+    "lines": "2024_same",
+    "house2024_margin": -5.4,
+    "prev_seat_margin": -5.4,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 16.87,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-7-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://abc7ny.com/post/conley-wins-ny-17-bennett-defeats-kean-nj-7/20014683/",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "FLIP D. Kean's 117-day absence (disclosed depression) was a campaign issue per Wikipedia. Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe independently describes a 16-point Bennett win (file 15.7). Wikipedia's partial table (Bennett 60.26/Kean 38.32, 246,308 votes) is an older partial count and was not used. Bennett's endorsements include NewDem Action Fund (Wikipedia); mainstream_liberal kept but borderline moderate.",
+   "verified": true
+  },
+  {
+   "id": "NJ-8",
+   "office": "House",
+   "state": "NJ",
+   "district": 8,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Rob Menendez",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "Mainstream incumbent; beat Mussab Ali 68.8-31.2 (ideological framing of that primary not verified).",
+    "background": "Incumbent since 2023.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Beat Mussab Ali 68.8-31.2."
+   },
+   "alt_dem": null,
+   "rep": null,
+   "result": {
+    "dem_pct": 88.6,
+    "rep_pct": null,
+    "other_pct": 8.4,
+    "margin": null,
+    "pct_expected_vote_counted": 81,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 24.19,
+    "lines": "2024_same",
+    "house2024_margin": 24.53,
+    "prev_seat_margin": 24.53,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": null,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-8-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://en.wikipedia.org/w/api.php?action=parse&page=2026_United_States_House_of_Representatives_elections_in_New_Jersey&section=155&prop=wikitext&format=json",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "No Republican nominee; opponents were independents Craig Honts 4.2 and Aristotle Eliopoulos 4.2 (listed shares sum to 97.0). margin and overperformance left null because there was no R; D lead over top opponent ~84.4. Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: Wikipedia confirms no Republican filed; independents Eliopoulos, Honts (SWP) and Hughey on ballot.",
+   "verified": true
+  },
+  {
+   "id": "NJ-9",
+   "office": "House",
+   "state": "NJ",
+   "district": 9,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Nellie Pou",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "New Dem and CPC member; county parties, EMILY's List, Latino Victory, CBC backed.",
+    "background": "Incumbent; former state senator.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Unopposed (100%)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Rosie Pino",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 66.7,
+    "rep_pct": 31.8,
+    "other_pct": 1.5,
+    "margin": 34.9,
+    "pct_expected_vote_counted": 94.3,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": -1.14,
+    "lines": "2024_same",
+    "house2024_margin": 4.89,
+    "prev_seat_margin": 4.89,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 36.04,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-9-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://en.wikipedia.org/wiki/New_Democrat_Coalition",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Trump +1.1 seat; D margin +34.9. Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe election-night roundup reports margin +35, consistent with file.",
+   "verified": true
+  },
+  {
+   "id": "NJ-10",
+   "office": "House",
+   "state": "NJ",
+   "district": 10,
+   "tier": 2,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "LaMonica McIver",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "liberal",
+    "posture": "establishment",
+    "archetype": "mainstream_liberal",
+    "style_confidence": "medium",
+    "style_evidence": "CPC member; beat Lawrence Poster 84.8-15.2.",
+    "background": "Incumbent; former Newark council president.",
+    "primary_contested_on_ideology": false,
+    "primary_note": null
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Carmen Bucco",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 84.4,
+    "rep_pct": 15.6,
+    "other_pct": 0.0,
+    "margin": 68.8,
+    "pct_expected_vote_counted": 89.3,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 50.77,
+    "lines": "2024_same",
+    "house2024_margin": 52.18,
+    "prev_seat_margin": 52.18,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.03,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-10-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe election-night roundup reports margin +69, consistent with file.",
+   "verified": true
+  },
+  {
+   "id": "NJ-11",
+   "office": "House",
+   "state": "NJ",
+   "district": 11,
+   "tier": 1,
+   "open_seat": false,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Analilia Mejia",
+    "incumbent": true,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "AP: 'progressive ally of Bernie Sanders'; ex-Center for Popular Democracy co-director; abolish ICE; won Feb special primary over Malinowski amid AIPAC spending; CPC; Track AIPAC, PDA backed.",
+    "background": "Incumbent since April 2026 special; former Sanders 2020 political director.",
+    "primary_contested_on_ideology": false,
+    "primary_note": "Won June primary 81.7%; Feb 2026 special primary 29.3 vs Malinowski 27.6 was the ideological fight."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Joe Hathaway",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 60.2,
+    "rep_pct": 38.9,
+    "other_pct": 0.9,
+    "margin": 21.3,
+    "pct_expected_vote_counted": 92.4,
+    "called": "D",
+    "called_by": "NBC News",
+    "flipped": false,
+    "refreshed_at": "2026-11-05T02:52:26.637Z"
+   },
+   "baseline": {
+    "pres2024_margin": 8.71,
+    "lines": "2024_same",
+    "house2024_margin": 14.74,
+    "prev_seat_margin": 20.82,
+    "prev_seat_year": 2026
+   },
+   "overperformance_vs_pres2024": 12.59,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-11-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://en.wikipedia.org/wiki/Congressional_Progressive_Caucus",
+    "https://en.wikipedia.org/wiki/2026_New_Jersey%27s_11th_congressional_district_special_election",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "prev_seat_margin is the April 16, 2026 special general (Mejia 60.18, Hathaway 39.36). Rematch. Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe election-night roundup reports margin +21, consistent with file. VERIFICATION: Special election April 16, 2026 Mejia 81,825 (60.18) vs Hathaway 53,520 (39.36) confirmed.",
+   "verified": true
+  },
+  {
+   "id": "NJ-12",
+   "office": "House",
+   "state": "NJ",
+   "district": 12,
+   "tier": 1,
+   "open_seat": true,
+   "incumbent_party": "D",
+   "same_party_general": false,
+   "uncontested": false,
+   "dem": {
+    "name": "Adam Hamawy",
+    "incumbent": false,
+    "party_label": "D",
+    "ideology": "left",
+    "posture": "mixed",
+    "archetype": "progressive",
+    "style_confidence": "high",
+    "style_evidence": "Endorsed by Sanders, AOC, Justice Democrats, CPC, Sunrise, Our Revolution, Track AIPAC, JVP Action; Gaza medical-mission surgeon; 'principled and progressive' message; first run for office.",
+    "background": "Army combat surgeon turned plastic surgeon; son of Egyptian immigrants.",
+    "primary_contested_on_ideology": true,
+    "primary_note": "Won 13-way primary with 28.6% (Brad Cohen 14.6, Sam Wang 9.4)."
+   },
+   "alt_dem": null,
+   "rep": {
+    "name": "Gregg Mele",
+    "incumbent": false,
+    "style": "traditional",
+    "quality_flags": []
+   },
+   "result": {
+    "dem_pct": 70.2,
+    "rep_pct": 28.3,
+    "other_pct": 0.8,
+    "margin": 41.9,
+    "pct_expected_vote_counted": 93.1,
+    "called": "D",
+    "called_by": "NBC News (inferred from statewide tally)",
+    "flipped": false
+   },
+   "baseline": {
+    "pres2024_margin": 23.87,
+    "lines": "2024_same",
+    "house2024_margin": 24.76,
+    "prev_seat_margin": 24.76,
+    "prev_seat_year": 2024
+   },
+   "overperformance_vs_pres2024": 18.03,
+   "sources": [
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-us-house-district-12-results",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/edit?gid=1491069057",
+    "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_New_Jersey",
+    "https://www.nbcnews.com/politics/2026-elections/new-jersey-house-results",
+    "https://newjerseyglobe.com/congress/nj-12s-newest-entrant-the-surgeon-who-saved-sen-tammy-duckworths-life/",
+    "https://newjerseyglobe.com/campaigns/van-drew-kean-ousted-in-anti-trump-democratic-wave-gop-loses-county-races-in-monmouth-morris-atlantic-and-cumberland/",
+    "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=1491069057"
+   ],
+   "notes": "Open seat (Watson Coleman retired). Independent's name inconsistent on NBC page. Call status for NJ: NBC statewide tally read 10 D / 1 R / 1 uncalled at ~10:58 AM ET Nov 4; NJ-2 is the only race that could be the uncalled one; calls for other NJ races inferred from that tally. VERIFICATION: New Jersey Globe election-night roundup reports margin +42, consistent with file.",
+   "verified": true
+  }
+ ],
+ "verification": {
+  "as_of": "2026-11-04T11:25:00-05:00",
+  "checked_items": 38,
+  "corrections": [
+   "NY-1 house2024/prev_seat margin -10.44 -> -10.43 (Wikipedia vote totals)",
+   "NY-21 Gendebien posture populist->mixed, archetype center_populist->moderate (DCCC Red to Blue + NewDem Action Fund + Blue Dog PAC backing)",
+   "NJ-2 called null->D and flipped null->true on Van Drew concession (NJ Globe), matching NY-17 convention",
+   "NY-17 called_by clarified: concession-based, no network projection"
+  ],
+  "unresolved": [
+   "Per-race network/AP call status not directly verified; NY and NJ D/R calls remain inferred from NBC statewide tallies (NY 18D/3R/5 uncalled; WGRZ/AP showed 17D/3R at 11:17 PM)",
+   "Most vote shares rest on NBC (counts re-confirmed unchanged at 11:15-11:20 AM ET); independent corroboration only for NY-21, NY-23, NY-24, NY-26 (WGRZ/NCPR) and NJ margins (NJ Globe); Long Island and NYC races lacked an independent source (search budget exhausted)",
+   "NY-16 (32.1%) and NY-17 (60.9%) margins will move as Westchester ballots are counted",
+   "New Dem classification is inconsistent across rows (Gillen/Suozzi/Conley moderate vs Riley/Mannion/Bennett mainstream_liberal); left as judgment calls",
+   "NY-13 Avila Chevalier DSA/Justice Democrats endorsements not confirmed in Wikipedia excerpt (WFP, CPC, Casar/Frost/Jayapal confirmed); archetype progressive unaffected"
+  ]
+ }
+}

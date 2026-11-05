@@ -1,0 +1,526 @@
+{
+ "cycle": 2024,
+ "coder": "batch_2024_1",
+ "labels": {
+  "AK-AL": {
+   "name": "Mary Peltola",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Incumbent; Blue Dog Coalition member and co-chair (Policy) 2023-25; independent Alaska 'pro-fish, pro-family, pro-freedom' brand with GOP-figure endorsements",
+   "label_source_url": "https://en.wikipedia.org/wiki/Mary_Peltola",
+   "verified_fetch": true
+  },
+  "AL-2": {
+   "name": "Shomari Figures",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-Garland DOJ aide; endorsed by Obama, Jeffries, Holder, Sewell; DMFI; heavy crypto-PAC primary spending; no left/centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Alabama#District_2",
+   "verified_fetch": true
+  },
+  "AR-2": {
+   "name": "Marcus Jones",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Retired Army colonel; only NEA and state party listed; no ideological markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arkansas#District_2",
+   "verified_fetch": true
+  },
+  "AZ-1": {
+   "name": "Amish Shah",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Ex-state rep/ER doctor; DMFI + AAPI groups; Wikipedia calls him moderate/cross-aisle but he backed single-payer M4A and Sanders in 2019; no explicit 2024 centrist branding found (conflicting signals)",
+   "label_source_url": "https://en.wikipedia.org/wiki/Amish_Shah",
+   "verified_fetch": true
+  },
+  "AZ-2": {
+   "name": "Jonathan Nez",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Former Navajo Nation president; Blue Dog PAC endorsement (post-primary, pre-election) plus AFL-CIO/building trades",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona#District_2",
+   "verified_fetch": true
+  },
+  "AZ-3": {
+   "name": "Yassamin Ansari",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Phoenix vice mayor; self-described progressive but won primary over the Sanders/Warren/CPC/WFP/Sunrise/Our Revolution-backed Teran, with DMFI, Moulton and trades backing",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona#District_3",
+   "verified_fetch": true
+  },
+  "AZ-8": {
+   "name": "Greg Whitten",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Biosecurity contractor, ex-DoD official; only Arizona AFL-CIO listed; no ideological markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Arizona#District_8",
+   "verified_fetch": true
+  },
+  "CA-3": {
+   "name": "Jessica Morse",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-CA Natural Resources deputy secretary; CDP, EMILY's List, labor, NewDem Action Fund (post-primary); no centrist branding found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_California#District_3",
+   "verified_fetch": true
+  },
+  "CA-5": {
+   "name": "Michael Barkley",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Attorney and perennial candidate; CDP + IBEW endorsements; no ideological markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_California#District_5",
+   "verified_fetch": true
+  },
+  "CA-27": {
+   "name": "George Whitesides",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-NASA chief of staff/Virgin Galactic CEO; DCCC Red to Blue + NewDem Action Fund + Pelosi/Jeffries + broad labor; no explicit centrist branding found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_California#District_27",
+   "verified_fetch": true
+  },
+  "CA-29": {
+   "name": "Luz Rivas",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Assemblywoman, CA Legislative Progressive Caucus; CPC PAC plus AIPAC, DMFI, EMILY's List, CHC BOLD, Padilla/Cardenas; conventional party-backed",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_California#District_29",
+   "verified_fetch": true
+  },
+  "CA-30": {
+   "name": "Laura Friedman",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Assemblywoman; CPC PAC, Jayapal/Pocan/Raskin, NNU, EMILY's List plus AIPAC/DMFI; conventional profile (CPC alone = liberal)",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_California%27s_30th_congressional_district_election",
+   "verified_fetch": true
+  },
+  "CA-31": {
+   "name": "Gil Cisneros",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-Rep (New Dem) and Pentagon under secretary; NewDem Action Fund, AIPAC, With Honor, CHC BOLD, Pelosi; safe-ish seat, no centrist branding",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_California#District_31",
+   "verified_fetch": true
+  },
+  "CA-40": {
+   "name": "Joe Kerr",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Retired union fire captain; CPC PAC, Jayapal/Pocan/Raskin plus Newsom/Porter and heavy labor backing; labor background in a conventional campaign",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_California#District_40",
+   "verified_fetch": true
+  },
+  "CA-45": {
+   "name": "Derek Tran",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Consumer attorney, Army vet; DCCC Red to Blue, NewDem Action Fund, VoteVets, Clinton; backed bipartisan border bill; no explicit centrist branding (later Blue Dog joins excluded)",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_California%27s_45th_congressional_district_election",
+   "verified_fetch": true
+  },
+  "CA-47": {
+   "name": "Dave Min",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator; CDP, Porter, Red to Blue, CPC + Our Revolution (post-primary); AIPAC spent against him; conventional profile",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_California%27s_47th_congressional_district_election",
+   "verified_fetch": true
+  },
+  "CO-4": {
+   "name": "Trisha Calvarese",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Communications professional, ex-federal speechwriter; party-convention pick for special; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado#District_4",
+   "verified_fetch": true
+  },
+  "CO-5": {
+   "name": "River Gassen",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "University research assistant, first-time candidate; Working Families Party endorsed vs WelcomePAC-backed moderate; otherwise thin (single WFP = liberal)",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado#District_5",
+   "verified_fetch": true
+  },
+  "DE-AL": {
+   "name": "Sarah McBride",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator, ex-HRC spokesperson; conventional party-backed LGBTQ-rights profile; no left/centrist markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/Sarah_McBride",
+   "verified_fetch": true
+  },
+  "FL-2": {
+   "name": "Yen Bailey",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Lawyer; replacement nominee after Hovey withdrew; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida#District_2",
+   "verified_fetch": true
+  },
+  "FL-7": {
+   "name": "Jennifer Adams",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Mediator; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida#District_7",
+   "verified_fetch": true
+  },
+  "FL-8": {
+   "name": "Sandy Kennedy",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Attorney; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida#District_8",
+   "verified_fetch": true
+  },
+  "FL-11": {
+   "name": "Barbie Hall",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Paralegal; unopposed in primary; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida#District_11",
+   "verified_fetch": true
+  },
+  "FL-13": {
+   "name": "Whitney Fox",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Ex-PSTA communications director; Blue Dog PAC + EMILY's List + Stephanie Murphy, Wasserman Schultz",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida#District_13",
+   "verified_fetch": true
+  },
+  "FL-15": {
+   "name": "Pat Kemp",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "At-large Hillsborough County commissioner; no endorsements or ideological markers found in launch coverage",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida#District_15",
+   "verified_fetch": true
+  },
+  "FL-21": {
+   "name": "Thomas Witkop",
+   "ideology": "liberal",
+   "posture": "mixed",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "25-yr-old nonprofit manager; anti-partisan message ('represent all of the people... not just the very rich or very partisan'); no policy/endorsement markers (WQCS 2024-02-13)",
+   "label_source_url": "https://www.wqcs.org/wqcs-news/2024-02-13/democrat-thomas-witkop-challenging-incumbent-gop-congressman-brian-mast-to-represent-floridas-21st-congressional-district-in-the-u-s-congress",
+   "verified_fetch": true
+  },
+  "FL-27": {
+   "name": "Lucia Baez-Geller",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Miami-Dade school board member; EMILY's List, CHC BOLD, Latino Victory, Shalala/Mucarsel-Powell; conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Florida#District_27",
+   "verified_fetch": true
+  },
+  "GA-1": {
+   "name": "Patti Hewitt",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Business payments consultant; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia#District_1",
+   "verified_fetch": true
+  },
+  "GA-3": {
+   "name": "Maura Keller",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Salon owner; AFA-CWA endorsement only; no markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Georgia#District_3",
+   "verified_fetch": true
+  },
+  "IA-2": {
+   "name": "Sarah Corkery",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Marketing executive; Reproductive Freedom for All, Iowa AFL-CIO; abortion rights top issue (Bleeding Heartland 2024-08-29)",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Iowa#District_2",
+   "verified_fetch": true
+  },
+  "IA-3": {
+   "name": "Lanon Baccam",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Ex-USDA deputy chief of staff; Blue Dog PAC + NewDem Action Fund + DCCC Red to Blue + Vilsack",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Iowa#District_3",
+   "verified_fetch": true
+  },
+  "IN-3": {
+   "name": "Kiley Adolph",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Educator; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Indiana#District_3",
+   "verified_fetch": true
+  },
+  "IN-5": {
+   "name": "Deborah Pickett",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Teacher; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Indiana#District_5",
+   "verified_fetch": true
+  },
+  "IN-6": {
+   "name": "Cinde Wirth",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Teacher, 2022 nominee; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Indiana#District_6",
+   "verified_fetch": true
+  },
+  "IN-8": {
+   "name": "Erik Hurt",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Theater manager; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Indiana#District_8",
+   "verified_fetch": true
+  },
+  "KS-2": {
+   "name": "Nancy Boyda",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-Rep (2007-09) who applied to join the Blue Dog Coalition; touts bipartisan immigration reform, working-class tax cuts, campaign-finance reform; KC Star + SMART",
+   "label_source_url": "https://en.wikipedia.org/wiki/Nancy_Boyda",
+   "verified_fetch": true
+  },
+  "KY-6": {
+   "name": "Randy Cravens",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "IT incident manager, 2022 write-in candidate; Herald-Leader primary endorsement; no markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Kentucky#District_6",
+   "verified_fetch": true
+  },
+  "LA-6": {
+   "name": "Cleo Fields",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator and ex-Rep; John Bel Edwards endorsement; conventional party-backed VRA-seat candidate",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Louisiana#District_6",
+   "verified_fetch": true
+  },
+  "MD-1": {
+   "name": "Blane Miller",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Business owner, 2022 Harford County exec nominee; MD AFL-CIO + UAW; no ideological markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland#District_1",
+   "verified_fetch": true
+  },
+  "MD-2": {
+   "name": "Johnny Olszewski",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Baltimore County executive; Hoyer/Ruppersberger/Van Hollen, NewDem Action Fund, AIPAC, labor; past 'progressive Democrat' self-description with bipartisan pitch; safe seat",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland#District_2",
+   "verified_fetch": true
+  },
+  "MD-3": {
+   "name": "Sarah Elfreth",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator; NewDem Action Fund, EMILY's List, AIPAC (UDP), Wes Moore, labor; safe seat, conventional",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Maryland#District_3",
+   "verified_fetch": true
+  },
+  "MD-6": {
+   "name": "April McClain Delaney",
+   "ideology": "moderate",
+   "posture": "establishment",
+   "archetype": "moderate",
+   "style_confidence": "high",
+   "style_evidence": "Ex-NTIA deputy administrator; campaigned as a 'bipartisan problem solver' against 'corrosive division'; NewDem Action Fund, DCCC, EMILY's List; stopped short of M4A",
+   "label_source_url": "https://en.wikipedia.org/wiki/April_McClain_Delaney",
+   "verified_fetch": true
+  },
+  "MI-4": {
+   "name": "Jessica Swartz",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Lawyer, ex-VA appellate attorney; Whitmer, MEA, CWA; no ideological markers",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Michigan#District_4",
+   "verified_fetch": true
+  },
+  "MI-7": {
+   "name": "Curtis Hertel Jr.",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-state senator / Whitmer legislative director; DCCC Red to Blue, NewDem Action Fund, Slotkin, AFL-CIO; no explicit centrist branding found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Michigan#District_7",
+   "verified_fetch": true
+  },
+  "MI-8": {
+   "name": "Kristen McDonald Rivet",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "State senator; NewDem Action Fund, EMILY's List, Kildee, UAW/AFL-CIO, plus Michigan FOP; economic-security/family message; no explicit centrist branding found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Michigan#District_8",
+   "verified_fetch": true
+  },
+  "MN-1": {
+   "name": "Rachel Bohman",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Former county elections director; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota#District_1",
+   "verified_fetch": true
+  },
+  "MN-3": {
+   "name": "Kelly Morrison",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "Ex-state senator, OB-GYN; NewDem Action Fund, EMILY's List, 314 Action, Dayton; safe seat",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Minnesota#District_3",
+   "verified_fetch": true
+  },
+  "MO-1": {
+   "name": "Wesley Bell",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "medium",
+   "style_evidence": "St. Louis County prosecutor; beat Squad member Cori Bush with ~$8.5M AIPAC/UDP + DMFI backing; ran on progressive-prosecutor record, no explicit centrist branding",
+   "label_source_url": "https://en.wikipedia.org/wiki/Wesley_Bell",
+   "verified_fetch": true
+  },
+  "MO-2": {
+   "name": "Ray Hartmann",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Founder of Riverfront Times, longtime liberal commentator; cleared primary field; no endorsement markers fetched",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri#District_2",
+   "verified_fetch": false
+  },
+  "MO-3": {
+   "name": "Bethany Mann",
+   "ideology": "liberal",
+   "posture": "establishment",
+   "archetype": "mainstream_liberal",
+   "style_confidence": "low",
+   "style_evidence": "Environmental chemist, 2022 nominee; no endorsements or markers found",
+   "label_source_url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Missouri#District_3",
+   "verified_fetch": true
+  },
+  "MT-2": {
+   "name": "John Driscoll",
+   "ideology": "moderate",
+   "posture": "mixed",
+   "archetype": "moderate",
+   "style_confidence": "low",
+   "style_evidence": "Ex-state House speaker/PSC member; ran in 2020 GOP Senate primary vs Daines before returning as a minimal-campaign Democrat; gadfly profile",
+   "label_source_url": "https://en.wikipedia.org/wiki/John_Driscoll_(Montana_politician)",
+   "verified_fetch": true
+  },
+  "NC-5": {
+   "name": "Chuck Hubbard",
+   "ideology": "liberal",
+   "posture": "populist",
+   "archetype": "left_populist",
+   "style_confidence": "medium",
+   "style_evidence": "Retired local newspaper reporter; campaign centred on Foxx 'siding with big corporations', workers/small business over 'corporate and special interests', 'rejecting political theater'",
+   "label_source_url": "https://www.yadkinripple.com/news/wilkes-county-native-launches-campaign-for-congress/article_75a73234-50b4-11ee-9ff1-737d4322de6a.html",
+   "verified_fetch": true
+  }
+ }
+}

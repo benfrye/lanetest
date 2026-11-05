@@ -1,0 +1,270 @@
+{
+ "definition": "Margins are Democratic minus Republican, in points. Shift = 2026 House margin minus the same source's 2024 presidential margin.",
+ "sources": {
+  "nyt": {
+   "name": "New York Times Voter Trends",
+   "method": "Times/Siena polling (26,706 interviews) modeled onto precinct results and voter files",
+   "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html"
+  },
+  "ssrs": {
+   "name": "Network voter poll (SSRS for NBC, CNN, ABC, CBS, Fox)",
+   "method": "Exit and pre-election survey of voters; 2024 comparison is the 2024 network exit poll",
+   "url": "https://www.nbcnews.com/politics/2026-elections/exit-polls"
+  },
+  "ap": {
+   "name": "AP Voter Poll",
+   "method": "Survey of voters; only rounded shares were published in text",
+   "url": "https://www.news4jax.com/news/politics/2026/11/04/democrats-won-back-support-from-five-key-groups-that-shifted-toward-trump-in-2024-the-ap-voter-poll/"
+  }
+ },
+ "groups": [
+  {
+   "group": "Men",
+   "nyt": {
+    "margin_2026": 3,
+    "margin_2024": -14,
+    "shift": 17,
+    "share": 47
+   },
+   "ssrs": {
+    "margin_2026": 0,
+    "margin_2024": -12,
+    "shift": 12,
+    "share": 46
+   },
+   "ap": null,
+   "shift_gap": 5
+  },
+  {
+   "group": "Women",
+   "nyt": {
+    "margin_2026": 23,
+    "margin_2024": 10,
+    "shift": 13,
+    "share": 53
+   },
+   "ssrs": {
+    "margin_2026": 18,
+    "margin_2024": 8,
+    "shift": 10,
+    "share": 53
+   },
+   "ap": null,
+   "shift_gap": 3
+  },
+  {
+   "group": "18-29",
+   "nyt": {
+    "margin_2026": 41,
+    "margin_2024": 9,
+    "shift": 32,
+    "share": 12
+   },
+   "ssrs": {
+    "margin_2026": 47,
+    "margin_2024": 11,
+    "shift": 36,
+    "share": 11
+   },
+   "ap": {
+    "margin_2026": 40,
+    "text": "about 7 in 10 Democratic, 3 in 10 Republican"
+   },
+   "shift_gap": -4
+  },
+  {
+   "group": "30-44",
+   "nyt": {
+    "margin_2026": 26,
+    "margin_2024": 2,
+    "shift": 24,
+    "share": 21
+   },
+   "ssrs": {
+    "margin_2026": 24,
+    "margin_2024": 4,
+    "shift": 20,
+    "share": 20
+   },
+   "ap": null,
+   "shift_gap": 4
+  },
+  {
+   "group": "45-64",
+   "nyt": {
+    "margin_2026": 4,
+    "margin_2024": -9,
+    "shift": 13,
+    "share": 33
+   },
+   "ssrs": {
+    "margin_2026": 4,
+    "margin_2024": -10,
+    "shift": 14,
+    "share": 34
+   },
+   "ap": null,
+   "shift_gap": -1
+  },
+  {
+   "group": "65+",
+   "nyt": {
+    "margin_2026": 5,
+    "margin_2024": -1,
+    "shift": 6,
+    "share": 34
+   },
+   "ssrs": {
+    "margin_2026": -3,
+    "margin_2024": -1,
+    "shift": -2,
+    "share": 35
+   },
+   "ap": null,
+   "shift_gap": 8
+  },
+  {
+   "group": "White",
+   "nyt": {
+    "margin_2026": -4,
+    "margin_2024": -17,
+    "shift": 13,
+    "share": 70
+   },
+   "ssrs": {
+    "margin_2026": -3,
+    "margin_2024": -15,
+    "shift": 12,
+    "share": 72
+   },
+   "ap": null,
+   "shift_gap": 1
+  },
+  {
+   "group": "Black",
+   "nyt": {
+    "margin_2026": 83,
+    "margin_2024": 74,
+    "shift": 9,
+    "share": 11
+   },
+   "ssrs": {
+    "margin_2026": 80,
+    "margin_2024": 73,
+    "shift": 7,
+    "share": 9
+   },
+   "ap": {
+    "margin_2026": 80,
+    "text": "about 9 in 10 Democratic"
+   },
+   "shift_gap": 2
+  },
+  {
+   "group": "Hispanic",
+   "nyt": {
+    "margin_2026": 39,
+    "margin_2024": 11,
+    "shift": 28,
+    "share": 10
+   },
+   "ssrs": {
+    "margin_2026": 27,
+    "margin_2024": 5,
+    "shift": 22,
+    "share": 10
+   },
+   "ap": {
+    "margin_2026": 27,
+    "text": "about 6 in 10 Democratic, one-third Republican"
+   },
+   "shift_gap": 6
+  },
+  {
+   "group": "Asian",
+   "nyt": {
+    "margin_2026": 40,
+    "margin_2024": 23,
+    "shift": 17,
+    "share": 4
+   },
+   "ssrs": {
+    "margin_2026": 41,
+    "margin_2024": 15,
+    "shift": 26,
+    "share": 4
+   },
+   "ap": null,
+   "shift_gap": -9
+  },
+  {
+   "group": "College degree",
+   "nyt": {
+    "margin_2026": null,
+    "margin_2024": null,
+    "shift": 11,
+    "share": null
+   },
+   "ssrs": {
+    "margin_2026": 26,
+    "margin_2024": 14,
+    "shift": 12,
+    "share": 47
+   },
+   "ap": null,
+   "shift_gap": -1
+  },
+  {
+   "group": "No college degree",
+   "nyt": {
+    "margin_2026": null,
+    "margin_2024": null,
+    "shift": 17,
+    "share": null
+   },
+   "ssrs": {
+    "margin_2026": -4,
+    "margin_2024": -13,
+    "shift": 9,
+    "share": 53
+   },
+   "ap": null,
+   "shift_gap": 8
+  },
+  {
+   "group": "White, college",
+   "nyt": {
+    "margin_2026": 16,
+    "margin_2024": 7,
+    "shift": 9,
+    "share": 31
+   },
+   "ssrs": {
+    "margin_2026": 19,
+    "margin_2024": 8,
+    "shift": 11,
+    "share": 35
+   },
+   "ap": null,
+   "shift_gap": -2
+  },
+  {
+   "group": "White, no college",
+   "nyt": {
+    "margin_2026": -19,
+    "margin_2024": -33,
+    "shift": 14,
+    "share": 39
+   },
+   "ssrs": {
+    "margin_2026": -24,
+    "margin_2024": -34,
+    "shift": 10,
+    "share": 37
+   },
+   "ap": null,
+   "shift_gap": 4
+  }
+ ],
+ "note": "The two main sources use different methods and different 2024 baselines, so their shifts can differ by several points. Where they agree, the pattern is more trustworthy."
+}

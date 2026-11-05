@@ -1,0 +1,1454 @@
+{
+ "tau_c": 2.0,
+ "sigma_r": 4.181,
+ "env2026": {
+  "Senate": 16.212,
+  "Governor": 10.521,
+  "House": 14.44
+ },
+ "external_env_constants": {
+  "house": {
+   "2006": 8.0,
+   "2010": -6.8,
+   "2014": -5.7,
+   "2018": 8.6,
+   "2022": -2.7
+  },
+  "pres": {
+   "2004": -2.5,
+   "2008": 7.3,
+   "2012": 3.9,
+   "2016": 2.1,
+   "2020": 4.5,
+   "2024": -1.5
+  }
+ },
+ "candidates": [
+  {
+   "id": "jon_ossoff",
+   "name": "Jon Ossoff",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.5,
+   "home": "GA",
+   "track_n": 2,
+   "o_hat": 0.568,
+   "w": 0.174,
+   "c_shrunk": [
+    0.217,
+    -2.19,
+    2.438
+   ],
+   "track_used": [
+    {
+     "year": 2021,
+     "office": "U.S. Senate GA (Jan 2021 runoff)",
+     "r": -1.04,
+     "env": 0.0,
+     "env_source": "Jan-2021 runoff vs 2020 baseline (treated as same cycle)"
+    },
+    {
+     "year": 2026,
+     "office": "U.S. Senate GA",
+     "r": 2.176,
+     "env": 16.212,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2017,
+     "office": "U.S. House GA-6 special runoff (lost)",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "poll_nat_primary": 6.8,
+   "market_nom": 0.294,
+   "shrinkage_note": null
+  },
+  {
+   "id": "gavin_newsom",
+   "name": "Gavin Newsom",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.0,
+   "home": "CA",
+   "track_n": 4,
+   "o_hat": -6.017,
+   "w": 0.297,
+   "c_shrunk": [
+    -1.809,
+    -3.979,
+    0.282
+   ],
+   "track_used": [
+    {
+     "year": 2010,
+     "office": "Lt. Governor CA",
+     "r": -1.162,
+     "env": -14.1,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2014,
+     "office": "Lt. Governor CA",
+     "r": -1.445,
+     "env": -9.6,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2018,
+     "office": "Governor CA",
+     "r": -15.202,
+     "env": 6.5,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2022,
+     "office": "Governor CA",
+     "r": -6.261,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2021,
+     "office": "Governor CA recall (No on recall)",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "poll_nat_primary": 14.367,
+   "market_nom": 0.149,
+   "shrinkage_note": null
+  },
+  {
+   "id": "alexandria_ocasio_cortez",
+   "name": "Alexandria Ocasio-Cortez",
+   "party": "D",
+   "archetype": "left_populist",
+   "L": 2.0,
+   "P": 1.0,
+   "home": "NY",
+   "track_n": 1,
+   "o_hat": 15.752,
+   "w": 0.095,
+   "c_shrunk": [
+    1.454,
+    -0.915,
+    4.07
+   ],
+   "track_used": [
+    {
+     "year": 2026,
+     "office": "U.S. House NY-14",
+     "r": 14.269,
+     "env": 14.44,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2018,
+     "office": "U.S. House NY-14",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "poll_nat_primary": 9.8,
+   "market_nom": 0.153,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "pete_buttigieg",
+   "name": "Pete Buttigieg",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.0,
+   "home": "MI",
+   "track_n": 1,
+   "o_hat": -14.386,
+   "w": 0.095,
+   "c_shrunk": [
+    -1.318,
+    -3.922,
+    1.101
+   ],
+   "track_used": [
+    {
+     "year": 2010,
+     "office": "Indiana State Treasurer (lost)",
+     "r": -14.386,
+     "env": -14.1,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2015,
+     "office": "Mayor of South Bend",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "poll_nat_primary": 11.017,
+   "market_nom": 0.041,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "kamala_harris",
+   "name": "Kamala Harris",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.0,
+   "home": "CA",
+   "track_n": 2,
+   "o_hat": -6.235,
+   "w": 0.174,
+   "c_shrunk": [
+    -1.056,
+    -3.382,
+    1.238
+   ],
+   "track_used": [
+    {
+     "year": 2010,
+     "office": "Attorney General CA",
+     "r": -11.639,
+     "env": -14.1,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2014,
+     "office": "Attorney General CA",
+     "r": -0.832,
+     "env": -9.6,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2016,
+     "office": "U.S. Senate CA (top-two, vs Democrat Loretta Sanchez)",
+     "why": "no baseline / not a general election vs a party opponent"
+    },
+    {
+     "year": 2020,
+     "office": "Vice President (Biden-Harris ticket), national",
+     "why": "no baseline / not a general election vs a party opponent"
+    },
+    {
+     "year": 2024,
+     "office": "President, national (lost)",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "poll_nat_primary": 23.867,
+   "market_nom": 0.045,
+   "shrinkage_note": null
+  },
+  {
+   "id": "josh_shapiro",
+   "name": "Josh Shapiro",
+   "party": "D",
+   "archetype": "moderate",
+   "L": 0.0,
+   "P": 0.0,
+   "home": "PA",
+   "track_n": 4,
+   "o_hat": 7.015,
+   "w": 0.297,
+   "c_shrunk": [
+    2.131,
+    0.03,
+    4.276
+   ],
+   "track_used": [
+    {
+     "year": 2016,
+     "office": "Attorney General PA",
+     "r": 1.501,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2020,
+     "office": "Attorney General PA",
+     "r": 1.363,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2022,
+     "office": "Governor PA",
+     "r": 18.929,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2026,
+     "office": "Governor PA",
+     "r": 11.65,
+     "env": 10.521,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 4.917,
+   "market_nom": 0.036,
+   "shrinkage_note": null
+  },
+  {
+   "id": "jb_pritzker",
+   "name": "JB Pritzker",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.0,
+   "home": "IL",
+   "track_n": 3,
+   "o_hat": -3.098,
+   "w": 0.24,
+   "c_shrunk": [
+    -0.846,
+    -3.029,
+    1.297
+   ],
+   "track_used": [
+    {
+     "year": 2018,
+     "office": "Governor IL",
+     "r": -9.898,
+     "env": 6.5,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2022,
+     "office": "Governor IL",
+     "r": 0.65,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2026,
+     "office": "Governor IL",
+     "r": -0.045,
+     "env": 10.521,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 3.0,
+   "market_nom": 0.014,
+   "shrinkage_note": null
+  },
+  {
+   "id": "andy_beshear",
+   "name": "Andy Beshear",
+   "party": "D",
+   "archetype": "moderate",
+   "L": 0.0,
+   "P": 0.0,
+   "home": "KY",
+   "track_n": 3,
+   "o_hat": 24.764,
+   "w": 0.24,
+   "c_shrunk": [
+    5.951,
+    3.768,
+    8.1
+   ],
+   "track_used": [
+    {
+     "year": 2015,
+     "office": "Attorney General KY",
+     "r": 22.831,
+     "env": -1.55,
+     "env_source": "odd year: mean of the neighbouring midterm environments (O-9)"
+    },
+    {
+     "year": 2019,
+     "office": "Governor KY",
+     "r": 29.496,
+     "env": -0.35,
+     "env_source": "odd year: mean of the neighbouring midterm environments (O-9)"
+    },
+    {
+     "year": 2023,
+     "office": "Governor KY",
+     "r": 26.001,
+     "env": 3.62,
+     "env_source": "odd year: mean of the neighbouring midterm environments (O-9)"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 2.5,
+   "market_nom": 0.04,
+   "shrinkage_note": null
+  },
+  {
+   "id": "wes_moore",
+   "name": "Wes Moore",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.0,
+   "home": "MD",
+   "track_n": 2,
+   "o_hat": -3.639,
+   "w": 0.174,
+   "c_shrunk": [
+    -0.701,
+    -3.01,
+    1.663
+   ],
+   "track_used": [
+    {
+     "year": 2022,
+     "office": "Governor MD",
+     "r": 4.303,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2026,
+     "office": "Governor MD",
+     "r": -11.582,
+     "env": 10.521,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 1.0,
+   "market_nom": 0.016,
+   "shrinkage_note": null
+  },
+  {
+   "id": "mark_kelly",
+   "name": "Mark Kelly",
+   "party": "D",
+   "archetype": "moderate",
+   "L": 0.0,
+   "P": 0.0,
+   "home": "AZ",
+   "track_n": 2,
+   "o_hat": 3.562,
+   "w": 0.174,
+   "c_shrunk": [
+    0.62,
+    -1.476,
+    2.893
+   ],
+   "track_used": [
+    {
+     "year": 2020,
+     "office": "U.S. Senate AZ (special)",
+     "r": 0.04,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2022,
+     "office": "U.S. Senate AZ",
+     "r": 9.774,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 6.25,
+   "market_nom": 0.018,
+   "shrinkage_note": null
+  },
+  {
+   "id": "raphael_warnock",
+   "name": "Raphael Warnock",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.0,
+   "home": "GA",
+   "track_n": 2,
+   "o_hat": 3.8,
+   "w": 0.174,
+   "c_shrunk": [
+    0.698,
+    -1.793,
+    3.089
+   ],
+   "track_used": [
+    {
+     "year": 2021,
+     "office": "U.S. Senate GA special (Jan 2021 runoff)",
+     "r": -0.16,
+     "env": 0.0,
+     "env_source": "Jan-2021 runoff vs 2020 baseline (treated as same cycle)"
+    },
+    {
+     "year": 2022,
+     "office": "U.S. Senate GA (Dec 2022 runoff)",
+     "r": 7.761,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 1.0,
+   "market_nom": 0.022,
+   "shrinkage_note": null
+  },
+  {
+   "id": "james_talarico",
+   "name": "James Talarico",
+   "party": "D",
+   "archetype": "left_populist",
+   "L": 1.0,
+   "P": 1.0,
+   "home": "TX",
+   "track_n": 1,
+   "o_hat": 9.197,
+   "w": 0.095,
+   "c_shrunk": [
+    0.775,
+    -1.383,
+    3.225
+   ],
+   "track_used": [
+    {
+     "year": 2026,
+     "office": "U.S. Senate TX",
+     "r": 7.714,
+     "env": 16.212,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 2.5,
+   "market_nom": 0.02,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "cory_booker",
+   "name": "Cory Booker",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.0,
+   "home": "NJ",
+   "track_n": 4,
+   "o_hat": 1.936,
+   "w": 0.297,
+   "c_shrunk": [
+    0.673,
+    -1.643,
+    2.754
+   ],
+   "track_used": [
+    {
+     "year": 2013,
+     "office": "U.S. Senate NJ (special)",
+     "r": 2.812,
+     "env": -11.85,
+     "env_source": "odd year: mean of the neighbouring midterm environments (O-9)"
+    },
+    {
+     "year": 2014,
+     "office": "U.S. Senate NJ",
+     "r": 3.212,
+     "env": -9.6,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2020,
+     "office": "U.S. Senate NJ",
+     "r": -1.62,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2026,
+     "office": "U.S. Senate NJ",
+     "r": 3.342,
+     "env": 16.212,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 2.0,
+   "market_nom": 0.006,
+   "shrinkage_note": null
+  },
+  {
+   "id": "gretchen_whitmer",
+   "name": "Gretchen Whitmer",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.0,
+   "home": "MI",
+   "track_n": 2,
+   "o_hat": 7.149,
+   "w": 0.174,
+   "c_shrunk": [
+    1.382,
+    -0.921,
+    3.631
+   ],
+   "track_used": [
+    {
+     "year": 2018,
+     "office": "Governor MI",
+     "r": 1.309,
+     "env": 6.5,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2022,
+     "office": "Governor MI",
+     "r": 12.989,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 1.0,
+   "market_nom": 0.008,
+   "shrinkage_note": null
+  },
+  {
+   "id": "ro_khanna",
+   "name": "Ro Khanna",
+   "party": "D",
+   "archetype": "left_populist",
+   "L": 2.0,
+   "P": 1.0,
+   "home": "CA",
+   "track_n": 0,
+   "o_hat": 0.0,
+   "w": 0.0,
+   "c_shrunk": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "track_used": [],
+   "track_dropped": [
+    {
+     "year": 2026,
+     "office": "U.S. House CA-17",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "poll_nat_primary": 1.0,
+   "market_nom": 0.015,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "chris_murphy",
+   "name": "Chris Murphy",
+   "party": "D",
+   "archetype": "mainstream_liberal",
+   "L": 1.0,
+   "P": 0.5,
+   "home": "CT",
+   "track_n": 3,
+   "o_hat": -2.32,
+   "w": 0.24,
+   "c_shrunk": [
+    -0.658,
+    -2.875,
+    1.821
+   ],
+   "track_used": [
+    {
+     "year": 2012,
+     "office": "U.S. Senate CT",
+     "r": -7.702,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2018,
+     "office": "U.S. Senate CT",
+     "r": -1.765,
+     "env": 6.5,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2024,
+     "office": "U.S. Senate CT",
+     "r": 2.506,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": 1.0,
+   "market_nom": 0.003,
+   "shrinkage_note": null
+  },
+  {
+   "id": "ruben_gallego",
+   "name": "Ruben Gallego",
+   "party": "D",
+   "archetype": "center_populist",
+   "L": 0.0,
+   "P": 1.0,
+   "home": "AZ",
+   "track_n": 1,
+   "o_hat": 3.172,
+   "w": 0.095,
+   "c_shrunk": [
+    0.426,
+    -2.016,
+    2.874
+   ],
+   "track_used": [
+    {
+     "year": 2024,
+     "office": "U.S. Senate AZ",
+     "r": 5.946,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": null,
+   "market_nom": 0.005,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "rahm_emanuel",
+   "name": "Rahm Emanuel",
+   "party": "D",
+   "archetype": "moderate",
+   "L": 0.0,
+   "P": 0.0,
+   "home": "IL",
+   "track_n": 0,
+   "o_hat": 0.0,
+   "w": 0.0,
+   "c_shrunk": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "track_used": [],
+   "track_dropped": [
+    {
+     "year": 2015,
+     "office": "Mayor of Chicago (runoff vs Democrat Jesus Garcia)",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "poll_nat_primary": 1.0,
+   "market_nom": 0.012,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "elissa_slotkin",
+   "name": "Elissa Slotkin",
+   "party": "D",
+   "archetype": "moderate",
+   "L": 0.0,
+   "P": 0.0,
+   "home": "MI",
+   "track_n": 1,
+   "o_hat": -1.595,
+   "w": 0.095,
+   "c_shrunk": [
+    -0.299,
+    -2.727,
+    2.199
+   ],
+   "track_used": [
+    {
+     "year": 2024,
+     "office": "U.S. Senate MI",
+     "r": -0.25,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2018,
+     "office": "U.S. House MI-8",
+     "why": "no baseline / not a general election vs a party opponent"
+    },
+    {
+     "year": 2020,
+     "office": "U.S. House MI-8",
+     "why": "no baseline / not a general election vs a party opponent"
+    },
+    {
+     "year": 2022,
+     "office": "U.S. House MI-7",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "poll_nat_primary": null,
+   "market_nom": 0.002,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "abdul_el_sayed",
+   "name": "Abdul El-Sayed",
+   "party": "D",
+   "archetype": "left_populist",
+   "L": 2.0,
+   "P": 1.0,
+   "home": "MI",
+   "track_n": 1,
+   "o_hat": -8.307,
+   "w": 0.095,
+   "c_shrunk": [
+    -0.812,
+    -3.218,
+    1.768
+   ],
+   "track_used": [
+    {
+     "year": 2026,
+     "office": "U.S. Senate MI",
+     "r": -9.79,
+     "env": 16.212,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [],
+   "poll_nat_primary": null,
+   "market_nom": 0.024,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "jd_vance",
+   "name": "JD Vance",
+   "party": "R",
+   "opp_type": "maga",
+   "home": "OH",
+   "track_n": 1,
+   "o_hat": -10.591,
+   "w": 0.095,
+   "c_shrunk": [
+    -1.147,
+    -3.457,
+    1.357
+   ],
+   "track_used": [
+    {
+     "year": 2022,
+     "office": "U.S. Senate OH",
+     "r": -11.13,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2024,
+     "office": "Vice President (Trump ticket)",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "market_nom": 0.29,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "marco_rubio",
+   "name": "Marco Rubio",
+   "party": "R",
+   "opp_type": "traditional",
+   "home": "FL",
+   "track_n": 2,
+   "o_hat": 4.242,
+   "w": 0.174,
+   "c_shrunk": [
+    0.82,
+    -1.458,
+    3.097
+   ],
+   "track_used": [
+    {
+     "year": 2016,
+     "office": "U.S. Senate FL",
+     "r": 4.485,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2022,
+     "office": "U.S. Senate FL",
+     "r": 3.998,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2010,
+     "office": "U.S. Senate FL",
+     "why": "third candidate >= 10%"
+    }
+   ],
+   "market_nom": 0.21,
+   "shrinkage_note": null
+  },
+  {
+   "id": "ron_desantis",
+   "name": "Ron DeSantis",
+   "party": "R",
+   "opp_type": "traditional",
+   "home": "FL",
+   "track_n": 5,
+   "o_hat": 0.521,
+   "w": 0.345,
+   "c_shrunk": [
+    0.154,
+    -1.936,
+    2.237
+   ],
+   "track_used": [
+    {
+     "year": 2012,
+     "office": "U.S. House FL-6",
+     "r": -3.905,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2014,
+     "office": "U.S. House FL-6",
+     "r": -2.42,
+     "env": -9.6,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2016,
+     "office": "U.S. House FL-6",
+     "r": -1.856,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2018,
+     "office": "Governor FL",
+     "r": 3.7,
+     "env": 6.5,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2022,
+     "office": "Governor FL",
+     "r": 7.088,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2024,
+     "office": "Republican presidential primary",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "market_nom": 0.17,
+   "shrinkage_note": null
+  },
+  {
+   "id": "donald_trump_jr",
+   "name": "Donald Trump Jr.",
+   "party": "R",
+   "opp_type": "maga",
+   "home": "FL",
+   "track_n": 0,
+   "o_hat": 0.0,
+   "w": 0.0,
+   "c_shrunk": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "track_used": [],
+   "track_dropped": [],
+   "market_nom": 0.026,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "tucker_carlson",
+   "name": "Tucker Carlson",
+   "party": "R",
+   "opp_type": "maga",
+   "home": "ME",
+   "track_n": 0,
+   "o_hat": 0.0,
+   "w": 0.0,
+   "c_shrunk": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "track_used": [],
+   "track_dropped": [],
+   "market_nom": 0.032,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "ted_cruz",
+   "name": "Ted Cruz",
+   "party": "R",
+   "opp_type": "traditional",
+   "home": "TX",
+   "track_n": 3,
+   "o_hat": -3.719,
+   "w": 0.24,
+   "c_shrunk": [
+    -0.928,
+    -3.144,
+    1.244
+   ],
+   "track_used": [
+    {
+     "year": 2012,
+     "office": "U.S. Senate TX",
+     "r": -1.949,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2018,
+     "office": "U.S. Senate TX",
+     "r": -1.954,
+     "env": 6.5,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2024,
+     "office": "U.S. Senate TX",
+     "r": -7.256,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2016,
+     "office": "Republican presidential primary",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "market_nom": 0.025,
+   "shrinkage_note": null
+  },
+  {
+   "id": "glenn_youngkin",
+   "name": "Glenn Youngkin",
+   "party": "R",
+   "opp_type": "traditional",
+   "home": "VA",
+   "track_n": 1,
+   "o_hat": 9.735,
+   "w": 0.095,
+   "c_shrunk": [
+    0.949,
+    -1.426,
+    3.253
+   ],
+   "track_used": [
+    {
+     "year": 2021,
+     "office": "Governor VA",
+     "r": 9.735,
+     "env": -0.35,
+     "env_source": "odd year: mean of the neighbouring midterm environments (O-9)"
+    }
+   ],
+   "track_dropped": [],
+   "market_nom": 0.022,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "brian_kemp",
+   "name": "Brian Kemp",
+   "party": "R",
+   "opp_type": "traditional",
+   "home": "GA",
+   "track_n": 4,
+   "o_hat": -2.293,
+   "w": 0.297,
+   "c_shrunk": [
+    -0.725,
+    -2.939,
+    1.557
+   ],
+   "track_used": [
+    {
+     "year": 2010,
+     "office": "Secretary of State GA",
+     "r": -4.158,
+     "env": -14.1,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2014,
+     "office": "Secretary of State GA",
+     "r": -4.383,
+     "env": -9.6,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2018,
+     "office": "Governor GA",
+     "r": 0.796,
+     "env": 6.5,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2022,
+     "office": "Governor GA",
+     "r": -1.426,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [],
+   "market_nom": 0.019,
+   "shrinkage_note": null
+  },
+  {
+   "id": "vivek_ramaswamy",
+   "name": "Vivek Ramaswamy",
+   "party": "R",
+   "opp_type": "maga",
+   "home": "OH",
+   "track_n": 1,
+   "o_hat": -10.144,
+   "w": 0.095,
+   "c_shrunk": [
+    -1.025,
+    -3.557,
+    1.589
+   ],
+   "track_used": [
+    {
+     "year": 2026,
+     "office": "Governor, Ohio",
+     "r": -10.683,
+     "env": 10.521,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2024,
+     "office": "Republican presidential primary",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "market_nom": 0.002,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  },
+  {
+   "id": "byron_donalds",
+   "name": "Byron Donalds",
+   "party": "R",
+   "opp_type": "maga",
+   "home": "FL",
+   "track_n": 4,
+   "o_hat": 1.809,
+   "w": 0.297,
+   "c_shrunk": [
+    0.568,
+    -1.614,
+    2.621
+   ],
+   "track_used": [
+    {
+     "year": 2020,
+     "office": "U.S. House FL-19",
+     "r": 0.567,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2022,
+     "office": "U.S. House FL-19",
+     "r": 7.183,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2024,
+     "office": "U.S. House FL-19",
+     "r": 0.685,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2026,
+     "office": "Governor, Florida",
+     "r": -3.355,
+     "env": 10.521,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [],
+   "market_nom": 0.011,
+   "shrinkage_note": null
+  },
+  {
+   "id": "josh_hawley",
+   "name": "Josh Hawley",
+   "party": "R",
+   "opp_type": "maga",
+   "home": "MO",
+   "track_n": 3,
+   "o_hat": -5.719,
+   "w": 0.24,
+   "c_shrunk": [
+    -1.302,
+    -3.463,
+    0.695
+   ],
+   "track_used": [
+    {
+     "year": 2016,
+     "office": "Attorney General MO",
+     "r": -3.559,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2018,
+     "office": "U.S. Senate MO",
+     "r": -8.409,
+     "env": 6.5,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2024,
+     "office": "U.S. Senate MO",
+     "r": -6.805,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    }
+   ],
+   "track_dropped": [],
+   "market_nom": 0.005,
+   "shrinkage_note": null
+  },
+  {
+   "id": "sarah_huckabee_sanders",
+   "name": "Sarah Huckabee Sanders",
+   "party": "R",
+   "opp_type": "maga",
+   "home": "AR",
+   "track_n": 2,
+   "o_hat": -7.843,
+   "w": 0.174,
+   "c_shrunk": [
+    -1.392,
+    -3.887,
+    0.978
+   ],
+   "track_used": [
+    {
+     "year": 2022,
+     "office": "Governor AR",
+     "r": -9.048,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2026,
+     "office": "Governor, Arkansas",
+     "r": -7.715,
+     "env": 10.521,
+     "env_source": "2026 same-office mean (data)"
+    }
+   ],
+   "track_dropped": [],
+   "market_nom": 0.004,
+   "shrinkage_note": null
+  },
+  {
+   "id": "nikki_haley",
+   "name": "Nikki Haley",
+   "party": "R",
+   "opp_type": "traditional",
+   "home": "SC",
+   "track_n": 2,
+   "o_hat": -14.079,
+   "w": 0.174,
+   "c_shrunk": [
+    -2.442,
+    -4.662,
+    -0.059
+   ],
+   "track_used": [
+    {
+     "year": 2010,
+     "office": "Governor SC",
+     "r": -20.631,
+     "env": -14.1,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2014,
+     "office": "Governor SC",
+     "r": -7.526,
+     "env": -9.6,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [
+    {
+     "year": 2024,
+     "office": "Republican presidential primary",
+     "why": "no baseline / not a general election vs a party opponent"
+    }
+   ],
+   "market_nom": 0.007,
+   "shrinkage_note": null
+  },
+  {
+   "id": "tim_scott",
+   "name": "Tim Scott",
+   "party": "R",
+   "opp_type": "traditional",
+   "home": "SC",
+   "track_n": 5,
+   "o_hat": 5.92,
+   "w": 0.345,
+   "c_shrunk": [
+    2.068,
+    -0.023,
+    4.122
+   ],
+   "track_used": [
+    {
+     "year": 2010,
+     "office": "U.S. House SC-1",
+     "r": 7.281,
+     "env": -14.1,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2012,
+     "office": "U.S. House SC-1",
+     "r": 6.653,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2014,
+     "office": "U.S. Senate SC (special)",
+     "r": 2.401,
+     "env": -9.6,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2016,
+     "office": "U.S. Senate SC",
+     "r": 7.728,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2022,
+     "office": "U.S. Senate SC",
+     "r": 5.538,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [],
+   "market_nom": 0.003,
+   "shrinkage_note": null
+  },
+  {
+   "id": "kristi_noem",
+   "name": "Kristi Noem",
+   "party": "R",
+   "opp_type": "maga",
+   "home": "SD",
+   "track_n": 6,
+   "o_hat": -9.138,
+   "w": 0.388,
+   "c_shrunk": [
+    -3.516,
+    -5.568,
+    -1.617
+   ],
+   "track_used": [
+    {
+     "year": 2010,
+     "office": "U.S. House SD-AL",
+     "r": -22.299,
+     "env": -14.1,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2012,
+     "office": "U.S. House SD-AL",
+     "r": -5.207,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2014,
+     "office": "U.S. House SD-AL",
+     "r": 4.531,
+     "env": -9.6,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2016,
+     "office": "U.S. House SD-AL",
+     "r": -3.736,
+     "env": 0.0,
+     "env_source": "same-day presidential baseline"
+    },
+    {
+     "year": 2018,
+     "office": "Governor SD",
+     "r": -22.85,
+     "env": 6.5,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    },
+    {
+     "year": 2022,
+     "office": "Governor SD",
+     "r": -8.501,
+     "env": -7.2,
+     "env_source": "EXTERNAL: national House margin minus prior presidential"
+    }
+   ],
+   "track_dropped": [],
+   "market_nom": 0.001,
+   "shrinkage_note": null
+  },
+  {
+   "id": "steve_bannon",
+   "name": "Steve Bannon",
+   "party": "R",
+   "opp_type": "maga",
+   "home": null,
+   "track_n": 0,
+   "o_hat": 0.0,
+   "w": 0.0,
+   "c_shrunk": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "track_used": [],
+   "track_dropped": [],
+   "market_nom": 0.002,
+   "shrinkage_note": "c = 0 below 2 general elections (\u00a73.8)"
+  }
+ ],
+ "note": "Personal effect c is wave-relative, net of the Democrat's archetype effect (agnostic posterior median), shrunk with w = tau_c^2/(tau_c^2 + sigma_r^2/n). GOP c is R-positive. Midterm environments before 2025 use EXTERNAL national constants listed here (not from research files)."
+}

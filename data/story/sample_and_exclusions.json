@@ -1,0 +1,220 @@
+{
+ "counts": {
+  "partial_count_lt_80pct": 77,
+  "uncontested_or_no_major_party_opponent": 20,
+  "no_democrat_on_ballot": 1,
+  "third_candidate_ge_10pct": 10,
+  "independent_backed": 5,
+  "validation_only_2025_offyear": 3,
+  "combined_multi_dem_vote": 1
+ },
+ "main_n": 403,
+ "selection_report": {
+  "progressive": {
+   "eligible": 30,
+   "excluded_p_lt_80": 4,
+   "share": 0.133,
+   "ids": [
+    "CA-17",
+    "NY-13",
+    "MI-13",
+    "WA-7"
+   ]
+  },
+  "left_populist": {
+   "eligible": 16,
+   "excluded_p_lt_80": 2,
+   "share": 0.125,
+   "ids": [
+    "CA-22",
+    "CO-1"
+   ]
+  },
+  "center_populist": {
+   "eligible": 3,
+   "excluded_p_lt_80": 1,
+   "share": 0.333,
+   "ids": [
+    "WA-3"
+   ]
+  },
+  "mainstream_liberal": {
+   "eligible": 350,
+   "excluded_p_lt_80": 58,
+   "share": 0.166,
+   "ids": [
+    "CA-1",
+    "CA-2",
+    "CA-3",
+    "CA-5",
+    "CA-6",
+    "CA-8",
+    "CA-10",
+    "CA-15",
+    "CA-18",
+    "CA-20",
+    "CA-23",
+    "CA-25",
+    "CA-26",
+    "CA-27",
+    "CA-28",
+    "CA-30",
+    "CA-31",
+    "CA-32",
+    "CA-33",
+    "CA-35",
+    "CA-36",
+    "CA-38",
+    "CA-39",
+    "CA-41",
+    "CA-42",
+    "CA-43",
+    "CA-44",
+    "CA-45",
+    "CA-47",
+    "CA-48",
+    "CA-49",
+    "CA-51",
+    "CA-52",
+    "MD-2",
+    "MD-4",
+    "MD-7",
+    "MD-8",
+    "IL-7",
+    "CO-2",
+    "CO-6",
+    "UT-2",
+    "UT-3",
+    "UT-4",
+    "WA-1",
+    "WA-2",
+    "WA-4",
+    "WA-5",
+    "WA-6",
+    "WA-8",
+    "WA-9",
+    "WA-10",
+    "OR-1",
+    "OR-3",
+    "OR-6",
+    "SEN-OR",
+    "GOV-CA",
+    "GOV-MD",
+    "GOV-OR"
+   ]
+  },
+  "moderate": {
+   "eligible": 81,
+   "excluded_p_lt_80": 12,
+   "share": 0.148,
+   "ids": [
+    "CA-9",
+    "CA-13",
+    "CA-16",
+    "CA-19",
+    "CA-21",
+    "CA-24",
+    "CA-46",
+    "CA-50",
+    "NY-16",
+    "IL-8",
+    "UT-1",
+    "SEN-AK"
+   ]
+  }
+ },
+ "provisional_archetypes": [
+  "center_populist"
+ ],
+ "user_flagged_uncalled": [
+  {
+   "id": "SEN-AK",
+   "called_in_data": null,
+   "pct_counted": 75.5,
+   "in_main": false,
+   "exclusion_reason": "partial_count_lt_80pct (provisional refit only)"
+  },
+  {
+   "id": "SEN-MS",
+   "called_in_data": null,
+   "pct_counted": 95.6,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "GOV-KS",
+   "called_in_data": null,
+   "pct_counted": 98.8,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "GOV-AK",
+   "called_in_data": null,
+   "pct_counted": 75.2,
+   "in_main": false,
+   "exclusion_reason": "third_candidate_ge_10pct (aggregate other_pct >= 10)"
+  },
+  {
+   "id": "ME-2",
+   "called_in_data": null,
+   "pct_counted": 91.8,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "TN-4",
+   "called_in_data": null,
+   "pct_counted": 99.0,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "TN-9",
+   "called_in_data": null,
+   "pct_counted": 99.0,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "VA-5",
+   "called_in_data": null,
+   "pct_counted": 97.8,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "NC-3",
+   "called_in_data": null,
+   "pct_counted": 98.8,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "NC-5",
+   "called_in_data": null,
+   "pct_counted": 99.0,
+   "in_main": true,
+   "exclusion_reason": null
+  },
+  {
+   "id": "NC-7",
+   "called_in_data": null,
+   "pct_counted": 99.0,
+   "in_main": true,
+   "exclusion_reason": null
+  }
+ ],
+ "data_flag_counts": {
+  "western_incomplete_count": 103,
+  "rep_style_missing_treated_as_traditional": 17,
+  "uncalled": 39,
+  "single_source_nbc": 345,
+  "prior_race_uncontested_no_personal_vote": 6,
+  "rep_style_unclassified_treated_as_traditional": 33,
+  "incumbent_appointed_no_personal_vote": 3,
+  "pv_midterm_prev_race_vs_prior_pres_baseline": 15,
+  "rep_style_not_applicable_treated_as_traditional": 3,
+  "combined_multi_dem_vote": 1
+ }
+}

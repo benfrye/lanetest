@@ -1,0 +1,133 @@
+{
+  "source": "The New York Times, Times Voter Trends, 'How Americans Voted in 2026' (Nate Cohn et al.)",
+  "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-national.html",
+  "captured_from": "research/external/How Americans Voted in the 2026 Election by Race, Gender, Age and Education - The New York Times.pdf (user-supplied PDF printed 2026-11-04 09:49 ET)",
+  "nyt_last_updated": "2026-11-04T02:56:00-05:00",
+  "office": "U.S. House (national aggregate) unless noted",
+  "conventions": "margin = Dem % minus Rep % in points (positive = D). shift_vs_2024 = 2026 House margin minus 2024 presidential margin for the same group (positive = toward D).",
+  "methodology": "Times/Siena Poll interviews with 26,706 voters nationally; re-interviews with 7,000+ voters after voting; precinct and township results (Needle estimates and AP county results where precincts unavailable); validated turnout for 44% of voters; L2 voter files for every state. Estimates will be revised.",
+  "topline": {
+    "dem_pct": 56,
+    "rep_pct": 43,
+    "margin": 13,
+    "shift_vs_2024": 15,
+    "total_voters_millions": 121
+  },
+  "groups": [
+    {"dimension": "gender", "group": "Male", "share": 47, "dem_pct": 51, "rep_pct": 48, "margin": 3, "shift_vs_2024": 17},
+    {"dimension": "gender", "group": "Female", "share": 53, "dem_pct": 61, "rep_pct": 38, "margin": 23, "shift_vs_2024": 13},
+    {"dimension": "race", "group": "White", "share": 70, "dem_pct": 48, "rep_pct": 51, "margin": -4, "shift_vs_2024": 13},
+    {"dimension": "race", "group": "Black", "share": 11, "dem_pct": 91, "rep_pct": 8, "margin": 83, "shift_vs_2024": 9},
+    {"dimension": "race", "group": "Hispanic", "share": 10, "dem_pct": 69, "rep_pct": 30, "margin": 39, "shift_vs_2024": 28},
+    {"dimension": "race", "group": "Asian", "share": 4, "dem_pct": 70, "rep_pct": 30, "margin": 40, "shift_vs_2024": 17},
+    {"dimension": "race", "group": "Other", "share": 4, "dem_pct": 59, "rep_pct": 39, "margin": 19, "shift_vs_2024": 17},
+    {"dimension": "age", "group": "18-29", "share": 12, "dem_pct": 70, "rep_pct": 28, "margin": 41, "shift_vs_2024": 32},
+    {"dimension": "age", "group": "30-44", "share": 21, "dem_pct": 62, "rep_pct": 36, "margin": 26, "shift_vs_2024": 24},
+    {"dimension": "age", "group": "45-64", "share": 33, "dem_pct": 51, "rep_pct": 47, "margin": 4, "shift_vs_2024": 13},
+    {"dimension": "age", "group": "65+", "share": 34, "dem_pct": 52, "rep_pct": 47, "margin": 5, "shift_vs_2024": 6},
+    {"dimension": "education", "group": "High school", "share": 28, "dem_pct": 50, "rep_pct": 49, "margin": 1, "shift_vs_2024": 18},
+    {"dimension": "education", "group": "Some college", "share": 29, "dem_pct": 52, "rep_pct": 46, "margin": 6, "shift_vs_2024": 16},
+    {"dimension": "education", "group": "College degree", "share": 25, "dem_pct": 60, "rep_pct": 39, "margin": 21, "shift_vs_2024": 11},
+    {"dimension": "education", "group": "Postgraduate", "share": 17, "dem_pct": 66, "rep_pct": 32, "margin": 34, "shift_vs_2024": 10},
+    {"dimension": "race_x_education", "group": "White college", "share": 31, "dem_pct": 58, "rep_pct": 41, "margin": 16, "shift_vs_2024": 9},
+    {"dimension": "race_x_education", "group": "White non-college", "share": 39, "dem_pct": 40, "rep_pct": 59, "margin": -19, "shift_vs_2024": 14},
+    {"dimension": "race_x_education", "group": "Nonwhite college", "share": 12, "dem_pct": 76, "rep_pct": 23, "margin": 52, "shift_vs_2024": 13},
+    {"dimension": "race_x_education", "group": "Nonwhite non-college", "share": 18, "dem_pct": 76, "rep_pct": 22, "margin": 54, "shift_vs_2024": 23},
+    {"dimension": "region_x_race", "group": "White Northeast", "share": 15, "dem_pct": 56, "rep_pct": 44, "margin": 12, "shift_vs_2024": 13, "note": "Remaining region-by-race rows were collapsed behind 'Show all' in the PDF."}
+  ],
+  "shifts_two_level_education": {
+    "note": "From the 'How Americans have shifted' chart (2026 House vs 2024 pres). Positive = toward D.",
+    "rows": [
+      {"group": "All voters", "shift_vs_2024": 15},
+      {"group": "Men", "shift_vs_2024": 17},
+      {"group": "Women", "shift_vs_2024": 13},
+      {"group": "White", "shift_vs_2024": 13},
+      {"group": "Black", "shift_vs_2024": 9},
+      {"group": "Hispanic", "shift_vs_2024": 28},
+      {"group": "Asian", "shift_vs_2024": 17},
+      {"group": "Other", "shift_vs_2024": 17},
+      {"group": "18-29", "shift_vs_2024": 32},
+      {"group": "30-44", "shift_vs_2024": 24},
+      {"group": "45-64", "shift_vs_2024": 13},
+      {"group": "65+", "shift_vs_2024": 6},
+      {"group": "College", "shift_vs_2024": 11},
+      {"group": "Non-college", "shift_vs_2024": 17},
+      {"group": "White, college", "shift_vs_2024": 9},
+      {"group": "White, non-college", "shift_vs_2024": 14},
+      {"group": "Black, college", "shift_vs_2024": 9},
+      {"group": "Black, non-college", "shift_vs_2024": 10},
+      {"group": "Hispanic, college", "shift_vs_2024": 17},
+      {"group": "Hispanic, non-college", "shift_vs_2024": 33},
+      {"group": "Asian, college", "shift_vs_2024": 14}
+    ]
+  },
+  "race_crosstab_shift_vs_2024": {
+    "note": "Shift from 2024 by race column x subgroup row. null = cell blank or 'No estimate' in the source.",
+    "columns": ["All", "White", "Black", "Hispanic", "Asian", "Other"],
+    "rows": {
+      "All": [15, 13, 9, 28, 17, 17],
+      "Male": [17, 15, 16, 29, 17, 20],
+      "Female": [13, 11, 5, 27, 17, 15],
+      "18-29": [32, 30, 13, 42, null, null],
+      "30-44": [24, 22, 16, 32, null, null],
+      "45-64": [13, 11, 5, 25, null, 10],
+      "65+": [6, 5, 6, 9, null, null],
+      "High school": [18, 15, 10, 35, null, null],
+      "Some college": [16, 13, 9, 30, null, 20],
+      "College grad.": [11, 9, 9, 18, null, null],
+      "Postgraduate": [10, 9, 8, 14, null, null]
+    }
+  },
+  "electorate_vs_eligible": {
+    "note": "Share of 2026 House voters vs share of voting-eligible population (2024 ACS 1-year via IPUMS).",
+    "rows": [
+      {"group": "White", "voters": 70, "vep": 63},
+      {"group": "Black", "voters": 11, "vep": 12},
+      {"group": "Hispanic", "voters": 10, "vep": 14},
+      {"group": "Asian", "voters": 4, "vep": 5},
+      {"group": "Other", "voters": 4, "vep": 5},
+      {"group": "18-29", "voters": 12, "vep": 20},
+      {"group": "30-44", "voters": 21, "vep": 25},
+      {"group": "45-64", "voters": 33, "vep": 31},
+      {"group": "65+", "voters": 34, "vep": 24},
+      {"group": "Male", "voters": 47, "vep": 49},
+      {"group": "Female", "voters": 53, "vep": 51},
+      {"group": "High school", "voters": 28, "vep": 36},
+      {"group": "Some college", "voters": 29, "vep": 30},
+      {"group": "College grad.", "voters": 25, "vep": 22},
+      {"group": "Postgraduate", "voters": 17, "vep": 13}
+    ]
+  },
+  "senate_shift_vs_2024_by_group": {
+    "note": "'Compare Senate results' table: shift of the 2026 SENATE margin vs the 2024 presidential margin in that state, by group. Positive = toward D. Maine is the only state shifting toward R overall among most groups.",
+    "states": ["AK", "IA", "KS", "ME", "MI", "MS", "NC", "OH", "TX"],
+    "rows": {
+      "Male": [20, 21, 23, 0, 12, 25, 25, 22, 28],
+      "Female": [17, 15, 18, -7, 3, 17, 21, 12, 24],
+      "White": [16, 16, 19, -5, 5, 18, 24, 16, 17],
+      "Nonwhite": [23, 29, 29, 22, 13, 10, 17, 17, 33],
+      "18-29": [34, 36, 37, 20, 31, 44, 44, 37, 48],
+      "30-44": [30, 22, 30, 7, 15, 33, 35, 25, 38],
+      "45-64": [16, 15, 20, -4, 3, 19, 22, 14, 22],
+      "65+": [3, 9, 10, -16, -2, 11, 9, 9, 8],
+      "High school": [21, 23, 22, -6, 12, 24, 23, 21, 30],
+      "Some college": [20, 18, 20, -7, 8, 20, 22, 18, 28],
+      "College degree": [13, 12, 19, -3, 2, 17, 21, 13, 22],
+      "Postgraduate": [14, 11, 17, -4, -2, 18, 19, 9, 19],
+      "White college": [14, 11, 17, -4, -1, 16, 22, 10, 17],
+      "White non-college": [17, 19, 19, -8, 9, 18, 22, 20, 17],
+      "Nonwhite college": [14, 23, 26, null, 10, 5, 13, 14, 23],
+      "Nonwhite non-college": [26, 32, 31, null, 15, 12, 19, 19, 38],
+      "White men": [17, 19, 22, -1, 10, 19, 25, 21, 20]
+    }
+  },
+  "state_house_vote_leader_buckets": {
+    "note": "APPROXIMATE: read by eye from the colors of the 'By state' bubble map of the House vote (leader vote share legend: dark = 70%+, medium = 55-70%, light = 50-55%). Use only as a cross-check; replace with tabulated statewide House vote when available.",
+    "D_70plus": ["MD", "HI"],
+    "D_55_70": ["WA", "OR", "CA", "NV", "CO", "NM", "MN", "IL", "MI", "PA", "NY", "NJ", "MA", "CT", "RI", "VT", "NH", "ME", "DE", "VA", "NC", "GA"],
+    "D_50_55": ["WI", "IA", "IN", "OH", "TX", "AZ"],
+    "R_50_55": ["MT", "NE", "UT", "KS", "MO", "KY", "TN", "SC", "MS", "LA", "FL"],
+    "R_55_70": ["ID", "ND", "SD", "WY", "OK", "AR", "AL", "WV"],
+    "not_visible": ["AK"]
+  }
+}
